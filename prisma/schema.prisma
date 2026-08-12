@@ -1,0 +1,69 @@
+// LinguaHub Prisma schema
+// Learn more about Prisma at https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Classroom {
+  id        String   @id @default(cuid())
+  language  String
+  level     String?
+  units     Unit[]
+  exams     Exam[]
+  createdAt DateTime @default(now())
+}
+
+model Unit {
+  id          String    @id @default(cuid())
+  classroomId String
+  classroom   Classroom @relation(fields: [classroomId], references: [id])
+  title       String
+  order       Int
+  lessons     Lesson[]
+}
+
+model Lesson {
+  id           String   @id @default(cuid())
+  unitId       String
+  unit         Unit     @relation(fields: [unitId], references: [id])
+  title        String
+  order        Int
+  contentHtml  String   @default("")
+  status       String   @default("not_started")
+  timeSpentSec Int      @default(0)
+}
+
+model Exam {
+  id          String        @id @default(cuid())
+  classroomId String
+  classroom   Classroom     @relation(fields: [classroomId], references: [id])
+  title       String
+  questions   Question[]
+  attempts    ExamAttempt[]
+}
+
+model Question {
+  id            String  @id @default(cuid())
+  examId        String
+  exam          Exam    @relation(fields: [examId], references: [id])
+  type          String
+  prompt        String
+  options       String?
+  correctAnswer String?
+  order         Int
+}
+
+model ExamAttempt {
+  id      String   @id @default(cuid())
+  examId  String
+  exam    Exam     @relation(fields: [examId], references: [id])
+  answers String
+  score   Int?
+  takenAt DateTime @default(now())
+}
