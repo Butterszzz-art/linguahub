@@ -6,8 +6,13 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  // Pooled connection (via pgbouncer) — used at runtime by the app/serverless
+  // functions, where many short-lived connections need to share a pool.
+  url       = env("DATABASE_URL")
+  // Direct, unpooled connection — used only for running migrations, which
+  // need a session-level connection a pooler in transaction mode can't give.
+  directUrl = env("DIRECT_URL")
 }
 
 model Classroom {
