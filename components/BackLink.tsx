@@ -4,9 +4,12 @@ export function BackLink({ href, label }: { href: string; label: string }) {
   return (
     <Link
       href={href}
-      className="mb-4 inline-flex items-center gap-1 text-sm text-black/60 hover:text-black hover:underline dark:text-white/60 dark:hover:text-white"
+      className="mb-5 inline-flex items-center gap-1.5 rounded-full bg-beige/70 py-1.5 pl-2.5 pr-4 text-sm font-semibold text-ink-muted transition-colors hover:bg-beige hover:text-ink"
     >
-      ← {label}
+      <span aria-hidden className="text-base leading-none">
+        ←
+      </span>
+      {label}
     </Link>
   );
 }

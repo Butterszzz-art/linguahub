@@ -1,27 +1,99 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/*
+  LinguaHub palette — warm & bubbly.
+  Light mode: white / beige / dark-beige neutrals, caramel accent for
+  progress + primary actions, earthy green/red for reward/fail states.
+  Dark mode redefines the same roles on a warm chocolate-brown base.
+*/
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  --color-cream: #fdf9f2;
+  --color-beige: #f3e7d6;
+  --color-beige-hover: #ecdcc4;
+  --color-beige-dark: #d9bd97;
+  --color-beige-darker: #c2a077;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: #3a2c21;
+  --color-ink-muted: #8a7663;
+  --color-ink-faint: #b3a08a;
+
+  --color-caramel: #c17f3f;
+  --color-caramel-dark: #a1672f;
+  --color-caramel-light: #f0d9b8;
+
+  --color-success: #5f9c56;
+  --color-success-dark: #3f6b37;
+  --color-success-light: #dcebd1;
+
+  --color-danger: #c4574b;
+  --color-danger-dark: #973d33;
+  --color-danger-light: #f5d9d3;
+
+  --shadow-bubble: 0 1px 2px rgba(58, 44, 33, 0.06), 0 8px 20px -6px rgba(58, 44, 33, 0.12);
+  --shadow-bubble-hover: 0 2px 4px rgba(58, 44, 33, 0.08), 0 14px 28px -8px rgba(58, 44, 33, 0.18);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --color-cream: #241a12;
+    --color-beige: #33261b;
+    --color-beige-hover: #3d2e21;
+    --color-beige-dark: #4f3c2b;
+    --color-beige-darker: #6b543c;
+
+    --color-ink: #f3e7d6;
+    --color-ink-muted: #c7b39a;
+    --color-ink-faint: #8a7663;
+
+    --color-caramel: #d99a53;
+    --color-caramel-dark: #e8b578;
+    --color-caramel-light: #4a3722;
+
+    --color-success: #7fb86f;
+    --color-success-dark: #a3d494;
+    --color-success-light: #2b3f26;
+
+    --color-danger: #dd7f70;
+    --color-danger-dark: #e8a297;
+    --color-danger-light: #422620;
+
+    --shadow-bubble: 0 1px 2px rgba(0, 0, 0, 0.2), 0 8px 20px -6px rgba(0, 0, 0, 0.35);
+    --shadow-bubble-hover: 0 2px 4px rgba(0, 0, 0, 0.25), 0 14px 28px -8px rgba(0, 0, 0, 0.45);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@theme inline {
+  --color-cream: var(--color-cream);
+  --color-beige: var(--color-beige);
+  --color-beige-hover: var(--color-beige-hover);
+  --color-beige-dark: var(--color-beige-dark);
+  --color-beige-darker: var(--color-beige-darker);
+
+  --color-ink: var(--color-ink);
+  --color-ink-muted: var(--color-ink-muted);
+  --color-ink-faint: var(--color-ink-faint);
+
+  --color-caramel: var(--color-caramel);
+  --color-caramel-dark: var(--color-caramel-dark);
+  --color-caramel-light: var(--color-caramel-light);
+
+  --color-success: var(--color-success);
+  --color-success-dark: var(--color-success-dark);
+  --color-success-light: var(--color-success-light);
+
+  --color-danger: var(--color-danger);
+  --color-danger-dark: var(--color-danger-dark);
+  --color-danger-light: var(--color-danger-light);
+
+  --shadow-bubble: var(--shadow-bubble);
+  --shadow-bubble-hover: var(--shadow-bubble-hover);
+
+  --font-sans: var(--font-quicksand);
+  --font-display: var(--font-fredoka);
+}
+
+::selection {
+  background: var(--color-caramel-light);
+  color: var(--color-ink);
 }

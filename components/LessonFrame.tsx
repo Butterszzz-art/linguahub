@@ -23,8 +23,9 @@ export default function LessonFrame({ contentHtml, title }: LessonFrameProps) {
         width: "100%",
         minHeight: "70vh",
         border: "none",
-        borderRadius: "12px",
+        borderRadius: "1.25rem",
         background: "white",
+        display: "block",
       }}
     />
   );

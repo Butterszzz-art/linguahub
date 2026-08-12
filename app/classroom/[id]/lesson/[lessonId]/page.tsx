@@ -2,6 +2,8 @@ import { notFound } from "next/navigation";
 import { prisma } from "@/lib/prisma";
 import { PageContainer } from "@/components/PageContainer";
 import { BackLink } from "@/components/BackLink";
+import { Card } from "@/components/ui/Card";
+import { Button } from "@/components/ui/Button";
 import LessonFrame from "@/components/LessonFrame";
 import { markLessonComplete } from "./actions";
 
@@ -27,10 +29,12 @@ export default async function LessonPage({
     <PageContainer>
       <BackLink href={`/classroom/${id}`} label={`Back to ${lesson.unit.classroom.language}`} />
 
-      <p className="text-xs font-semibold uppercase tracking-wide text-black/50 dark:text-white/50">
+      <p className="font-display text-xs font-bold uppercase tracking-wide text-ink-muted">
         {lesson.unit.title}
       </p>
-      <h1 className="mt-1 text-2xl font-semibold tracking-tight">{lesson.title}</h1>
+      <h1 className="mt-1 font-display text-2xl font-bold tracking-tight text-ink">
+        {lesson.title}
+      </h1>
 
       {/*
         Lessons may be self-contained interactive HTML (their own <style>/<script> —
@@ -39,24 +43,16 @@ export default async function LessonPage({
         "allow-same-origin", so lesson script can't touch this app's DOM, cookies, or
         storage — it only runs in its own isolated context.
       */}
-      <div className="mt-6">
+      <Card className="mt-6 p-3">
         <LessonFrame contentHtml={lesson.contentHtml} title={lesson.title} />
-      </div>
+      </Card>
 
-      <form action={markLessonComplete} className="mt-4">
+      <form action={markLessonComplete} className="mt-5">
         <input type="hidden" name="lessonId" value={lesson.id} />
         <input type="hidden" name="classroomId" value={id} />
-        <button
-          type="submit"
-          disabled={isCompleted}
-          className={
-            isCompleted
-              ? "cursor-default rounded-md bg-green-600/10 px-4 py-2 text-sm font-medium text-green-700 dark:bg-green-400/10 dark:text-green-400"
-              : "rounded-md bg-black px-4 py-2 text-sm font-medium text-white hover:bg-black/80 dark:bg-white dark:text-black dark:hover:bg-white/80"
-          }
-        >
+        <Button type="submit" variant={isCompleted ? "success" : "primary"} disabled={isCompleted}>
           {isCompleted ? "✓ Completed" : "Mark as complete"}
-        </button>
+        </Button>
       </form>
     </PageContainer>
   );
