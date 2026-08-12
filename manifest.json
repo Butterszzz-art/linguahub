@@ -1,0 +1,31 @@
+{
+  "classroom": {
+    "language": "Portuguese",
+    "level": "Beginner–Intermediate"
+  },
+  "units": [
+    {
+      "title": "Lições",
+      "order": 0,
+      "lessons": [
+        { "order": 0, "title": "Lição Preliminar", "file": "content/licoes/00-licao-preliminar.html" },
+        { "order": 1, "title": "Lição 1 – A Universidade", "file": "content/licoes/01-a-universidade.html" },
+        { "order": 2, "title": "Lição 2 – Entre Amigos", "file": "content/licoes/02-entre-amigos.html" },
+        { "order": 3, "title": "Lição 3 – Horas de Lazer", "file": "content/licoes/03-horas-de-lazer.html" },
+        { "order": 4, "title": "Lição 4 – A Família", "file": "content/licoes/04-a-familia.html" },
+        { "order": 5, "title": "Lição 5 – A Casa e os Móveis", "file": "content/licoes/05-a-casa.html" },
+        { "order": 6, "title": "Lição 6 – A Roupa e as Compras", "file": "content/licoes/06-roupa-e-compras.html" },
+        { "order": 7, "title": "Lição 7 – O Tempo e os Passatempos", "file": "content/licoes/07-tempo-e-passatempos.html" },
+        { "order": 8, "title": "Lição 8 – Festas e Tradições", "file": "content/licoes/08-festas-e-tradicoes.html" },
+        { "order": 9, "title": "Lição 9 – O Trabalho e os Negócios", "file": "content/licoes/09-trabalho-e-negocios.html" }
+      ]
+    },
+    {
+      "title": "Leituras Complementares",
+      "order": 1,
+      "lessons": [
+        { "order": 0, "title": "Leituras da Noite", "file": "content/leituras/00-leituras-da-noite.html" }
+      ]
+    }
+  ]
+}
