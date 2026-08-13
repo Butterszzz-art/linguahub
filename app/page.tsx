@@ -4,6 +4,7 @@ import { languageEmoji } from "@/lib/languageEmoji";
 import { PageContainer } from "@/components/PageContainer";
 import { Card } from "@/components/ui/Card";
 import { Badge } from "@/components/ui/Badge";
+import { Button } from "@/components/ui/Button";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 
 export default async function DashboardPage() {
@@ -18,10 +19,17 @@ export default async function DashboardPage() {
 
   return (
     <PageContainer>
-      <h1 className="font-display text-3xl font-bold tracking-tight text-ink">
-        Your Classrooms
-      </h1>
-      <p className="mt-1.5 text-ink-muted">Pick a language to keep learning.</p>
+      <div className="flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <h1 className="font-display text-3xl font-bold tracking-tight text-ink">
+            Your Classrooms
+          </h1>
+          <p className="mt-1.5 text-ink-muted">Pick a language to keep learning.</p>
+        </div>
+        <Link href="/classrooms/new">
+          <Button variant="secondary">+ New Classroom</Button>
+        </Link>
+      </div>
 
       {classrooms.length === 0 ? (
         <Card className="mt-8 border-dashed p-10 text-center">
@@ -44,7 +52,12 @@ export default async function DashboardPage() {
                     <span className="flex h-12 w-12 items-center justify-center rounded-full bg-cream font-display text-sm font-bold text-caramel-dark shadow-bubble">
                       {languageEmoji(classroom.language)}
                     </span>
-                    {classroom.level && <Badge variant="caramel">{classroom.level}</Badge>}
+                    <div className="flex flex-wrap items-center justify-end gap-1.5">
+                      {classroom.streakCount > 0 && (
+                        <Badge variant="caramel">🔥 {classroom.streakCount}</Badge>
+                      )}
+                      {classroom.level && <Badge variant="caramel">{classroom.level}</Badge>}
+                    </div>
                   </div>
 
                   <h2 className="mt-4 font-display text-xl font-bold text-ink">

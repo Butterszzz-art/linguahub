@@ -16,12 +16,14 @@ datasource db {
 }
 
 model Classroom {
-  id        String   @id @default(cuid())
-  language  String
-  level     String?
-  units     Unit[]
-  exams     Exam[]
-  createdAt DateTime @default(now())
+  id            String    @id @default(cuid())
+  language      String
+  level         String?
+  units         Unit[]
+  exams         Exam[]
+  createdAt     DateTime  @default(now())
+  streakCount   Int       @default(0)
+  lastStudiedAt DateTime?
 }
 
 model Unit {
