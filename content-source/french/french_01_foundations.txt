@@ -1,0 +1,511 @@
+################################################################
+PART 1 — FOUNDATIONS (Lessons 1–8)
+################################################################
+
+================================================================
+LESSON 1: The French Alphabet & Pronunciation Basics
+================================================================
+
+OVERVIEW:
+French uses the same 26 letters as English, but many are pronounced very
+differently, and several sounds don't exist in English at all. This lesson
+builds the sound system you'll rely on for everything else.
+
+GRAMMAR:
+- The alphabet (l'alphabet) is recited: a (ah), b (bay), c (say), d (day),
+  e (euh), f (eff), g (zhay), h (ash), i (ee), j (zhee), k (kah), l (ell),
+  m (emm), n (enn), o (oh), p (pay), q (kew), r (air), s (ess), t (tay),
+  u (ew), v (vay), w (doobluh-vay), x (eeks), y (ee-grek), z (zed).
+- Vowel sounds: French vowels are pure and held steady (no gliding like
+  English "day" -> "day-ee"). Key sounds:
+    a  -> "ah"        (as in "papa")
+    e  -> "uh"         (as in "le")
+    é  -> "ay"         (as in "café")
+    è/ê -> "eh"        (as in "père")
+    i  -> "ee"         (as in "ici")
+    o  -> "oh"         (as in "mot")
+    u  -> pursed "ew" — round your lips as if for "oo" but say "ee"
+          (this sound doesn't exist in English; contrast tu/tout)
+    ou -> "oo"         (as in "vous")
+    oi -> "wah"        (as in "moi")
+    eu -> "uh" (rounded)(as in "peu")
+- Nasal vowels (air pushed through the nose, N/M not fully pronounced):
+    an/am/en/em -> nasal "ah"   (as in "dans", "temps")
+    on/om       -> nasal "oh"   (as in "bon")
+    in/im/ain/ein -> nasal "eh" (as in "vin", "pain")
+    un/um       -> nasal "uh"   (as in "un" — merging with "in" in much
+                    of modern spoken French)
+- Consonants mostly match English, with exceptions:
+    c  -> "s" before e/i/y, "k" elsewhere (cinéma vs. cadeau)
+    ç  -> always "s" (garçon)
+    g  -> "zh" before e/i/y, hard "g" elsewhere (genou vs. gâteau)
+    j  -> always "zh" (jour)
+    h  -> always silent, but see Lesson 2 for mute vs. aspirate h
+    r  -> a soft guttural sound from the back of the throat (not the
+          American r) — practice with "rouge", "Paris"
+    ll -> usually "y" after i (fille = "fee-yuh"), but "l" elsewhere
+    qu -> "k" (qui = "kee")
+    th -> "t" (théâtre)
+- Final consonants are usually SILENT: petit -> "puh-tee" (t silent).
+  Common exceptions: c, r, f, l are often pronounced (the mnemonic "CaReFuL"
+  helps you remember which final consonants tend to be sounded).
+
+CONJUGATION TABLE:
+(not applicable — this lesson covers sounds, not verbs)
+
+VOCABULARY:
+bonjour - hello / good day
+merci - thank you
+oui - yes
+non - no
+s'il vous plaît - please (formal)
+excusez-moi - excuse me
+au revoir - goodbye
+
+EXAMPLES:
+Je m'appelle Marie. - My name is Marie. (practice the nasal "en" in "appelle")
+Il fait beau. - The weather is nice. (practice silent final -t, nasal "ai")
+Nous allons au marché. - We're going to the market. (practice "ou", nasal "on")
+
+NOTES:
+- The single most common beginner mistake is pronouncing final consonants
+  the way English does. When in doubt, drop the final letter unless it's
+  c, r, f, or l.
+- The French "u" (tu, une, du) is the hardest sound for English speakers —
+  round your lips tightly and try to say "ee" without moving your jaw.
+
+PRACTICE:
+Say these pairs aloud and notice the difference: tu / tout, dessous / dessus,
+bon / banc, vin / vent.
+
+================================================================
+LESSON 2: Accents, Liaison, and Elision
+================================================================
+
+OVERVIEW:
+French uses five accent marks that change pronunciation or meaning, plus two
+"linking" rules — liaison and elision — that make spoken French flow
+smoothly between words.
+
+GRAMMAR:
+- The five accents:
+    é  accent aigu    (acute)   -> closed "ay" sound (café, étudiant)
+    è  accent grave    (grave)   -> open "eh" sound (père, très)
+    à/ù accent grave    (grave)   -> no sound change, distinguishes words
+        (a "has" vs. à "to/at"; ou "or" vs. où "where")
+    ê  accent circonflexe (circumflex) -> often marks a dropped historical
+        "s" (hôpital = hospital, forêt = forest) and slightly opens the vowel
+    ë/ï accent tréma (diaeresis) -> forces two vowels to be pronounced
+        separately (Noël = "no-el", not "nwel")
+    ç  cédille (cedilla) -> forces a soft "s" sound on c before a, o, u
+        (garçon, français)
+- Liaison: when a word ending in a normally-silent consonant is followed by
+  a word starting with a vowel or mute h, that consonant IS pronounced,
+  linking the two words. Example: vous_avez ("voo-zah-vay", not "voo ah-vay");
+  les_amis ("lay-zah-mee"); un petit_ami ("uh puh-tee-tah-mee").
+  Liaison is mandatory after: subject pronouns before verbs, articles before
+  nouns, and short adjectives before nouns. It's forbidden after "et" (and).
+- Elision: when a short word (je, me, te, se, le, la, de, ne, que, ce, si+il)
+  ends in a vowel and the next word starts with a vowel or mute h, the vowel
+  is dropped and replaced with an apostrophe. je + aime -> j'aime;
+  le + école is impossible because école is feminine (l'école); si + il ->
+  s'il.
+
+CONJUGATION TABLE:
+(not applicable)
+
+VOCABULARY:
+l'hôtel - the hotel (mute h, takes liaison/elision)
+le héros - the hero (aspirate h, blocks liaison/elision)
+un ami / une amie - a friend (m/f)
+les enfants - the children
+c'est - it is / that is
+
+EXAMPLES:
+J'habite à Paris. - I live in Paris. (elision: je -> j')
+Vous êtes français ? - Are you French? (liaison: vous_êtes)
+Les hôtels sont chers. - The hotels are expensive. (liaison, mute h)
+Le héros arrive. - The hero arrives. (NO liaison — aspirate h)
+
+NOTES:
+- Most words starting with "h" in French have a MUTE h and behave like
+  vowels for elision/liaison purposes. A small set (héros, haricot, honte,
+  hall, etc.) have an ASPIRATE h, historically pronounced, which now blocks
+  both elision and liaison even though the h itself stays silent. Dictionaries
+  mark aspirate-h words with an asterisk.
+- Common learner mistake: adding liaison where it's forbidden (after "et")
+  or forgetting it where it's mandatory (after plural articles: les_amis).
+
+PRACTICE:
+Read aloud: "Nous_avons deux_enfants et une amie." Notice liaison after
+"nous" and "deux" but not after "et".
+
+================================================================
+LESSON 3: Key Parts of Speech — The Big Picture
+================================================================
+
+OVERVIEW:
+Before diving into verb tenses and pronoun rules, it helps to see the whole
+map: what a noun, article, pronoun, adjective, and adverb do in a French
+sentence, and how French sentence order compares to English.
+
+GRAMMAR:
+- Nouns (les noms) always have a gender (masculine or feminine) in French,
+  even for objects with no natural gender (la table = the table, f.; le
+  livre = the book, m.). Gender is not predictable from meaning and must
+  largely be memorized with the noun.
+- Articles (les articles) agree in gender and number with the noun they
+  introduce: le/la/les (the), un/une/des (a/an/some), du/de la/des
+  (some, partitive). Covered in depth in Lesson 4 and Part 6.
+- Subject pronouns (je, tu, il/elle/on, nous, vous, ils/elles) replace a
+  noun as the subject of a verb. Note "tu" (informal "you", one person) vs.
+  "vous" (formal "you" singular, OR plural "you" — always).
+- Adjectives (les adjectifs) agree in gender and number with the noun they
+  describe, and in French MOST adjectives come AFTER the noun (une voiture
+  rouge = a red car), unlike English. A short list of common adjectives
+  (beauty, age, goodness, size — remembered by the acronym BAGS) come
+  BEFORE the noun (une belle voiture = a beautiful car).
+- Adverbs (les adverbes) modify verbs, adjectives, or other adverbs and are
+  usually invariable (they don't change form). Many are formed by adding
+  -ment to the feminine form of an adjective, similar to English "-ly"
+  (lente -> lentement = slowly).
+- Basic word order: Subject + Verb + Object, same as English:
+  Je mange une pomme. (I eat an apple.) The big structural differences
+  come with object pronouns (which move BEFORE the verb — see Part 6) and
+  adjective placement (see above).
+
+CONJUGATION TABLE:
+Subject pronouns:
+je (j') - I
+tu - you (informal, singular)
+il / elle / on - he / she / one (also "we" informally)
+nous - we
+vous - you (formal singular, or plural)
+ils / elles - they (m./m.+mixed / f.)
+
+VOCABULARY:
+un nom - a noun
+un verbe - a verb
+un adjectif - an adjective
+un adverbe - an adverb
+une phrase - a sentence
+la grammaire - grammar
+
+EXAMPLES:
+Le petit chat noir dort. - The little black cat is sleeping.
+  (petit = BAGS adjective, before noun; noir = color, after noun)
+Elle parle lentement. - She speaks slowly. (adverb from adjective "lente")
+Nous aimons la musique française. - We love French music.
+
+NOTES:
+- "On" technically means "one/people in general" but in everyday spoken
+  French it's used constantly to mean "we" (with a 3rd-person singular
+  verb): On mange ? = Shall we eat?
+- Because most adjectives follow the noun, and a handful precede it,
+  memorize the BAGS list early: Beauty (beau, joli), Age (jeune, vieux,
+  nouveau), Goodness (bon, mauvais), Size (grand, petit, gros).
+
+PRACTICE:
+Identify the part of speech of each word in: "Ma petite sœur parle
+rapidement." (ma=possessive adj., petite=adjective, sœur=noun,
+parle=verb, rapidement=adverb)
+
+================================================================
+LESSON 4: Articles and Nouns — The Basics
+================================================================
+
+OVERVIEW:
+Every French noun needs an article (or another determiner) in front of it
+almost always — French rarely drops the article the way English does. This
+lesson covers the core system; Part 6 goes deeper into tricky cases.
+
+GRAMMAR:
+- Definite articles ("the"): le (m. sing.), la (f. sing.), l' (before a
+  vowel/mute h, either gender), les (plural, either gender).
+- Indefinite articles ("a/an", "some"): un (m. sing.), une (f. sing.),
+  des (plural, either gender).
+- Partitive articles ("some/any", for uncountable amounts): du (m. sing.),
+  de la (f. sing.), de l' (before vowel/mute h), des (plural). Used for
+  food/drink and abstract quantities: du pain (some bread), de la patience
+  (some patience).
+- After a negation, un/une/des/du/de la generally become simply "de" (or
+  "d'" before a vowel): J'ai un chien -> Je n'ai pas de chien.
+- Gender clues (not 100% reliable, but useful patterns):
+    Often masculine: nouns ending in -age, -ment, -eau, -isme
+    Often feminine: nouns ending in -tion, -sion, -té, -ette, -ure
+- Plural of nouns: add -s in writing (usually silent in speech) —
+  un livre -> des livres. Nouns ending in -eau/-eu often take -x
+  (un bateau -> des bateaux). Nouns ending in -s/-x/-z don't change
+  (une souris -> des souris).
+
+CONJUGATION TABLE:
+Article summary:
+              masc. sing.   fem. sing.   before vowel/h   plural
+definite:     le             la           l'               les
+indefinite:   un             une          un / une         des
+partitive:    du             de la        de l'            des
+
+VOCABULARY:
+le pain - the bread
+la pomme - the apple
+l'eau (f.) - the water
+les fruits - the fruits
+un livre - a book
+une table - a table
+de l'argent - some money
+
+EXAMPLES:
+Je voudrais du pain et de l'eau. - I would like some bread and some water.
+Elle a une sœur et un frère. - She has a sister and a brother.
+Il n'y a pas de lait. - There isn't any milk. (partitive -> "de" after negation)
+Les enfants aiment les bonbons. - Children love candy. (definite article used
+  for general statements, unlike English)
+
+NOTES:
+- Unlike English, French uses the definite article for general/abstract
+  statements: "J'aime le café" = "I like coffee" (in general), not "I like
+  THE coffee."
+- Gender must be learned with each noun — always learn "le/la + noun"
+  together as a unit, never the noun alone.
+
+PRACTICE:
+Fill in the article: ___ (the) chat mange ___ (some) poisson. (Answer: Le
+chat mange du poisson.)
+
+================================================================
+LESSON 5: Numbers
+================================================================
+
+OVERVIEW:
+Numbers come up constantly — prices, ages, phone numbers, dates. French
+numbers have a few quirky patterns above 60 that are worth learning early.
+
+GRAMMAR:
+- 0–20 must simply be memorized (see vocabulary below); they don't follow a
+  clean pattern.
+- 21, 31, 41, 51, 61, 71 use "et" before "un": vingt et un (21), trente et
+  un (31)... but NOT 81 or 91 (quatre-vingt-un, no "et").
+- 22–29, 32–39, etc. are formed with a hyphen: vingt-deux (22).
+- 70–79: France uses base-60 counting — soixante-dix (70, literally
+  "sixty-ten"), soixante-onze (71), ... soixante-dix-neuf (79).
+- 80–89: quatre-vingts (80, literally "four-twenties"), quatre-vingt-un (81,
+  no plural -s on "vingt" once followed by another number), ...
+  quatre-vingt-dix-neuf (99, "four-twenty-nineteen").
+  (Note: Belgium and Switzerland use septante=70, huitante/octante=80,
+  nonante=90 — simpler, but not standard in France.)
+- 100+ : cent (100), cent un (101, no "et"), deux cents (200, "cent" takes
+  -s only when a round multiple with nothing after it — deux cents but
+  deux cent un), mille (1,000, NEVER takes -s: deux mille), un million,
+  un milliard.
+- Ordinal numbers ("first, second..."): add -ième to the cardinal number
+  (minus a silent final -e): quatre -> quatrième. Irregular: premier/première
+  (1st), and second/seconde is an alternative to deuxième (2nd).
+
+CONJUGATION TABLE:
+0 zéro   1 un/une   2 deux   3 trois   4 quatre   5 cinq
+6 six    7 sept     8 huit   9 neuf    10 dix
+11 onze  12 douze   13 treize  14 quatorze  15 quinze
+16 seize 17 dix-sept 18 dix-huit 19 dix-neuf 20 vingt
+30 trente  40 quarante  50 cinquante  60 soixante
+70 soixante-dix   80 quatre-vingts   90 quatre-vingt-dix
+100 cent   1 000 mille   1 000 000 un million
+
+VOCABULARY:
+un numéro - a number
+un prix - a price
+l'âge (m.) - the age
+combien - how much/many
+gratuit - free (of charge)
+
+EXAMPLES:
+J'ai vingt-cinq ans. - I am 25 years old. (French uses "avoir X ans", lit.
+  "to have X years", not "to be")
+Ça coûte quatre-vingt-quinze euros. - That costs 95 euros.
+Elle habite au premier étage. - She lives on the first floor (= 2nd floor
+  US-style, since "rez-de-chaussée" is the ground floor).
+C'est mon deuxième voyage en France. - This is my second trip to France.
+
+NOTES:
+- Age, hunger, thirst, fear, and being right/wrong all use "avoir" (to
+  have) in French where English uses "to be": j'ai faim (I'm hungry, lit.
+  "I have hunger"), j'ai raison (I'm right).
+- Practice 70–99 out loud until the math becomes automatic — it's the #1
+  numbers stumbling block for English speakers.
+
+PRACTICE:
+Say aloud: 71, 82, 95, 99, 100, 201, 1 000 000.
+
+================================================================
+LESSON 6: Days, Months, Dates, and Seasons
+================================================================
+
+OVERVIEW:
+Talking about dates, the calendar, and seasons — practical vocabulary tied
+to the numbers from Lesson 5.
+
+GRAMMAR:
+- Days and months are NOT capitalized in French (unlike English): lundi,
+  janvier — capitalize only at the start of a sentence.
+- To give the date: "le" + cardinal number + month (no "de" between number
+  and month, except "premier"): le 3 mai (May 3rd); le premier mai (May 1st
+  — this is the ONE ordinal used for dates).
+- "On [a day]" needs no preposition: Je travaille lundi. (I work on Monday.)
+  Adding "le" before the day makes it a recurring/habitual event:
+  Je travaille le lundi. (I work on Mondays / every Monday.)
+- Seasons use "en" except spring: en été, en automne, en hiver, BUT
+  au printemps (in spring).
+- Years can be said two ways: "dix-neuf cent quatre-vingt-seize" or
+  "mille neuf cent quatre-vingt-seize" for 1996 (both mean "nineteen
+  ninety-six" style vs. "one thousand nine hundred..." style).
+
+CONJUGATION TABLE:
+Days (les jours): lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche
+Months (les mois): janvier, février, mars, avril, mai, juin, juillet, août,
+  septembre, octobre, novembre, décembre
+Seasons (les saisons): le printemps, l'été, l'automne, l'hiver
+
+VOCABULARY:
+aujourd'hui - today
+demain - tomorrow
+hier - yesterday
+la semaine - the week
+le mois - the month
+l'année (f.) - the year
+quelle est la date ? - what is the date?
+
+EXAMPLES:
+Nous sommes le 14 août. - It's August 14th. (lit. "we are the 14 August")
+Mon anniversaire est le premier mai. - My birthday is May 1st.
+En hiver, il neige souvent. - In winter, it often snows.
+Je pars en vacances au printemps. - I'm going on vacation in spring.
+
+NOTES:
+- To ask "what day is it," French uses "Quel jour sommes-nous ?" or
+  "On est quel jour ?" — literally "what day are we."
+
+PRACTICE:
+Write today's date in French, then your birthday.
+
+================================================================
+LESSON 7: Telling Time
+================================================================
+
+OVERVIEW:
+French has both a casual 12-hour system (used in conversation) and the
+24-hour "military" system (used for schedules, TV listings, transport).
+
+GRAMMAR:
+- "What time is it?" = Quelle heure est-il ? Answer with "Il est..."
+  (It is...).
+- On the hour: Il est trois heures. (It's 3:00.) Note "heure(s)" is always
+  stated, unlike English which can drop "o'clock."
+- Minutes past the hour: add the number of minutes directly:
+  Il est trois heures dix. (3:10.)
+- Half past: et demie — Il est trois heures et demie. (3:30.)
+- Quarter past/to: et quart (quarter past), moins le quart (quarter to):
+  Il est trois heures et quart. (3:15.) Il est trois heures moins le
+  quart. (2:45.)
+- Minutes before the next hour (past the half-hour, 12-hour system):
+  count backward with "moins": Il est quatre heures moins dix. (3:50,
+  lit. "four o'clock minus ten.")
+- Noon/midnight have their own words: midi (noon), minuit (midnight) — no
+  "heures" needed: Il est midi. (It's noon.)
+- 24-hour clock (official/written use): simply state the hour 0–23 plus
+  minutes, no "et quart"/"moins": 15h30 = quinze heures trente (3:30 PM);
+  20h45 = vingt heures quarante-cinq (8:45 PM).
+- "At what time" = à quelle heure: Le train part à quatorze heures. (The
+  train leaves at 2:00 PM.)
+
+CONJUGATION TABLE:
+(time expressions, not a verb table)
+Il est une heure. - It's 1:00.
+Il est deux heures. - It's 2:00.
+Il est midi / minuit. - It's noon / midnight.
+...heures et quart / et demie / moins le quart - quarter past / half past /
+  quarter to
+
+VOCABULARY:
+une heure - an hour / o'clock
+une minute - a minute
+tôt - early
+tard - late
+maintenant - now
+en retard - late (for an appointment)
+en avance - early (ahead of schedule)
+
+EXAMPLES:
+Il est huit heures moins vingt. - It's 7:40 (twenty to eight).
+Le film commence à vingt heures. - The movie starts at 8:00 PM.
+Je me lève à sept heures et demie. - I get up at 7:30.
+Nous sommes en retard ! - We're late!
+
+NOTES:
+- In casual conversation, French speakers do sometimes switch between the
+  12-hour and 24-hour styles, but printed schedules (trains, planes, TV)
+  almost always use the 24-hour clock — get comfortable converting quickly
+  (15h = 3 PM, subtract 12 for PM hours above 12).
+
+PRACTICE:
+Convert to French time phrases: 9:15 AM, 6:45 PM, 12:00 PM, 23h50.
+
+================================================================
+LESSON 8: Greetings, Introductions, and Polite Expressions
+================================================================
+
+OVERVIEW:
+The essential social toolkit: how to greet people, introduce yourself,
+choose between formal and informal address, and use the core polite
+phrases that keep every interaction smooth.
+
+GRAMMAR:
+- Formal vs. informal "you": use "tu" with family, friends, children, and
+  peers your own age in casual settings. Use "vous" with strangers, older
+  people, in professional settings, or anyone you're not on familiar terms
+  with. When unsure, default to "vous" — it's never rude to be too formal,
+  but it can be rude to be too familiar.
+- Greetings change with time of day: bonjour (hello/good day, used until
+  evening), bonsoir (good evening), bonne nuit (good night — only when
+  parting for the night/going to bed, not a greeting).
+- "Comment allez-vous ?" (formal) / "Comment vas-tu ?" or "Ça va ?"
+  (informal) = "How are you?" Common replies: "Je vais bien, merci."
+  (I'm doing well, thanks.) or simply "Ça va." (I'm okay / So-so.)
+- To introduce yourself: "Je m'appelle..." (My name is...) or "Je suis..."
+  (I am...). To introduce someone else: "Je vous présente..." (formal) /
+  "Je te présente..." (informal) (Let me introduce you to...).
+- "Enchanté(e)" (Pleased to meet you) — agrees in gender with the speaker
+  (a man says "enchanté", a woman says "enchantée").
+
+CONJUGATION TABLE:
+(social phrases, not a verb table)
+
+VOCABULARY:
+bonjour / bonsoir - hello / good evening
+au revoir / à bientôt - goodbye / see you soon
+comment allez-vous ? / ça va ? - how are you? (formal / informal)
+je vais bien, merci - I'm well, thank you
+s'il vous plaît / s'il te plaît - please (formal / informal)
+merci beaucoup / de rien - thank you very much / you're welcome
+pardon / excusez-moi - sorry / excuse me
+enchanté(e) - pleased to meet you
+monsieur / madame / mademoiselle - sir / ma'am / miss
+
+EXAMPLES:
+Bonjour, madame. Comment allez-vous ? - Hello, ma'am. How are you?
+Salut ! Ça va ? - Hi! How's it going? (informal)
+Je m'appelle Thomas, et vous ? - My name is Thomas, and you?
+Enchantée de faire votre connaissance. - Pleased to make your acquaintance.
+  (a woman speaking, formal register)
+
+NOTES:
+- "Salut" works both as "hi" and "bye" but only in informal contexts —
+  never use it with someone you'd address as "vous."
+- Address strangers as "monsieur"/"madame" even without a name — dropping
+  it can sound abrupt in French, unlike English.
+
+PRACTICE:
+Write a short formal exchange (greeting, "how are you," introduce yourself)
+and then rewrite it informally, changing vous->tu and adjusting vocabulary.
+
+################################################################
+END OF PART 1 — Continue to french_02_present_tense.txt
+################################################################

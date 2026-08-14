@@ -1,0 +1,324 @@
+################################################################
+PART 5 — INFINITIVE, PARTICIPLES, PASSIVE VOICE, INDIRECT SPEECH,
+          IMPERATIVE (Lessons 31–35)
+################################################################
+
+================================================================
+LESSON 31: The Infinitive Mood
+================================================================
+
+OVERVIEW:
+The infinitive (the unconjugated "to do" form) is used far more often in
+French than in English — as a subject, after prepositions, and after many
+conjugated verbs, sometimes requiring a specific connecting preposition
+that must be memorized verb by verb.
+
+GRAMMAR:
+- The infinitif présent is the dictionary form (parler, finir, vendre) and
+  can function as a noun (Fumer est mauvais pour la santé. = Smoking is
+  bad for your health. — no "-ing" gerund needed, unlike English).
+- The infinitif passé ("past infinitive," to have done) is formed with
+  avoir or être (in the infinitive) + past participle, used after certain
+  expressions (especially "après") to show a completed action before the
+  main verb: Après avoir mangé, il est parti. (After eating [lit. "having
+  eaten"], he left.) Après être arrivée, elle a téléphoné. (After
+  arriving, she called.)
+- When one conjugated verb is followed by a second verb, the second verb
+  is almost always in the infinitive — but the CONNECTING WORD varies by
+  verb and must be memorized:
+    No preposition needed (verb + infinitive directly): vouloir, pouvoir,
+      devoir, aimer, préférer, savoir, espérer, aller...
+      Je veux partir. (I want to leave.)
+    Verb + À + infinitive: aider à, apprendre à, commencer à, continuer à,
+      réussir à, s'habituer à...
+      J'apprends à cuisiner. (I'm learning to cook.)
+    Verb + DE + infinitive: décider de, essayer de, finir de, oublier de,
+      arrêter de, avoir besoin de, avoir envie de, être content de...
+      J'ai décidé de partir. (I decided to leave.)
+- After a preposition other than "de," French always uses the infinitive
+  where English uses "-ing": avant de partir (before leaving), sans
+  parler (without speaking), au lieu de dormir (instead of sleeping).
+
+CONJUGATION TABLE:
+(pattern reference, not a single verb)
+infinitif présent: parler / finir / vendre
+infinitif passé: avoir parlé / avoir fini / avoir vendu
+                  être allé(e)(s) / s'être levé(e)(s)
+
+VOCABULARY:
+avant de - before (+ infinitive)
+après (avoir/être...) - after (+ past infinitive)
+sans - without
+au lieu de - instead of
+apprendre à - to learn to
+décider de - to decide to
+avoir besoin de - to need to
+
+EXAMPLES:
+Avant de partir, vérifie que la porte est fermée. - Before leaving, check
+  that the door is closed.
+Après avoir fini le travail, nous sommes allés au cinéma. - After
+  finishing the work, we went to the movies.
+Elle a réussi à obtenir le poste. - She succeeded in getting the job.
+J'ai oublié de fermer la fenêtre. - I forgot to close the window.
+
+NOTES:
+- There's no shortcut for the à/de/no-preposition pattern — build a
+  running list of verb + preposition combinations as you encounter them,
+  and review it regularly.
+
+PRACTICE:
+Write three sentences using "avant de + infinitive" and three using
+"après avoir/être + past participle."
+
+================================================================
+LESSON 32: The Present Participle and the Gerund
+================================================================
+
+OVERVIEW:
+French has an -ant form (like English "-ing") used in two related but
+distinct ways: as a present participle (adjectival/verbal) and as a
+gerund introduced by "en" (showing simultaneity or manner).
+
+GRAMMAR:
+- Formation: take the nous form of the present tense, drop -ons, add
+  -ant: parlons -> parlant; finissons -> finissant; faisons -> faisant.
+  Three irregular exceptions: être -> étant, avoir -> ayant, savoir ->
+  sachant.
+- The present participle (participe présent) can function like an
+  adjective (agreeing in gender/number) or describe an action happening
+  alongside the main verb without "en": Les enfants, courant dans le
+  jardin, riaient fort. (The children, running in the garden, were
+  laughing loudly.)
+- The gerund (le gérondif) is "en" + present participle, and expresses:
+    - simultaneity ("while doing"): Elle chante en conduisant. (She sings
+      while driving.)
+    - manner ("by doing"): Il a appris le français en regardant des
+      films. (He learned French by watching movies.)
+    - The gerund's subject must be the SAME as the main clause's subject.
+- Important contrast with English: French normally does NOT use an -ant
+  form after most conjugated verbs the way English uses "-ing" after
+  verbs like "like/start/stop" — French uses the infinitive instead
+  (J'aime lire, not "j'aime lisant" — see Lesson 31).
+
+CONJUGATION TABLE:
+(formation reference)
+parler -> parlant   finir -> finissant   vendre -> vendant
+être -> étant   avoir -> ayant   savoir -> sachant
+
+VOCABULARY:
+en + [participe présent] - while/by (doing)
+tout en + [participe présent] - all while (doing) — emphasizes
+  simultaneity/contrast
+
+EXAMPLES:
+Elle regarde la télé en mangeant. - She watches TV while eating.
+Il est devenu riche en travaillant dur. - He became rich by working hard.
+Tout en sachant la vérité, il n'a rien dit. - While knowing the truth
+  [even though he knew], he said nothing.
+Ayant fini son travail, elle est sortie se promener. - Having finished her
+  work, she went out for a walk. (present participle, no "en")
+
+NOTES:
+- Don't confuse the gerund (en + -ant, showing HOW/WHEN) with simply using
+  the infinitive after most verbs — when in doubt about a verb + verb
+  construction, the infinitive (Lesson 31) is far more often correct than
+  the gerund.
+
+PRACTICE:
+Write three sentences describing how you do something using "en +
+gérondif" ("I learn French by...", "I relax by...", etc.).
+
+================================================================
+LESSON 33: The Passive Voice
+================================================================
+
+OVERVIEW:
+The passive voice shifts focus from the doer of an action to the
+receiver of the action ("the book was written by..." instead of "she
+wrote the book"). French can form it directly but often prefers
+alternatives.
+
+GRAMMAR:
+- Formation: être (conjugated in whatever tense is needed) + past
+  participle (agreeing with the subject) + optionally "par" (by) + the
+  agent: Le livre a été écrit par Victor Hugo. (The book was written by
+  Victor Hugo.)
+- The passive can be formed in any tense by simply changing the tense of
+  être: Le livre est écrit (present passive) / était écrit (imparfait
+  passive) / sera écrit (future passive), etc.
+- French uses the passive LESS often than English — it can sound heavy or
+  overly formal. Common alternatives:
+    1. Use "on" + active verb (very common, especially in speech):
+       On parle français ici. (French is spoken here.) instead of
+       "Le français est parlé ici."
+    2. Use a reflexive/pronominal verb for general truths: Ce plat se
+       mange froid. (This dish is eaten cold.) instead of "est mangé."
+    3. Simply flip to the active voice if the agent is known and
+       important: Victor Hugo a écrit ce livre. (Victor Hugo wrote this
+       book.)
+- Only verbs that take a direct object (transitive verbs) can be made
+  passive, and only the direct object can become the subject of the
+  passive sentence — indirect objects cannot (unlike some English
+  passives).
+
+CONJUGATION TABLE:
+(pattern reference)
+Active:  Marie écrit la lettre. (Marie writes the letter.)
+Passive: La lettre est écrite par Marie. (The letter is written by Marie.)
+
+VOCABULARY:
+par - by (introduces the agent)
+on - impersonal "one/people/they" (common passive alternative)
+se + verb - reflexive-as-passive for general truths
+
+EXAMPLES:
+La Tour Eiffel a été construite en 1889. - The Eiffel Tower was built in
+  1889.
+Ce vin se boit frais. - This wine is drunk chilled. (reflexive, natural
+  alternative to passive)
+On m'a dit que le magasin était fermé. - I was told that the shop was
+  closed. (on + active, very natural way to express an English passive)
+Les billets seront vendus demain. - The tickets will be sold tomorrow.
+
+NOTES:
+- When translating an English passive sentence into French, always ask
+  first whether "on" or a reflexive verb would sound more natural before
+  defaulting to the literal être + past participle construction.
+
+PRACTICE:
+Rewrite these passive English sentences using "on" in French: "French is
+spoken in many countries." "The window was broken." "Dinner is served at
+8."
+
+================================================================
+LESSON 34: Indirect Speech
+================================================================
+
+OVERVIEW:
+Indirect (reported) speech restates what someone said without quoting
+them directly — "She said that..." This requires shifting pronouns,
+tenses, and sometimes time expressions, following a set of predictable
+rules called "la concordance des temps" (sequence of tenses).
+
+GRAMMAR:
+- Direct speech uses quotation marks and the exact original words: Elle a
+  dit : « Je suis fatiguée. » (She said, "I'm tired.")
+- Indirect speech drops the quotation marks, adds "que," and adjusts
+  pronouns/possessives to fit the new speaker's perspective: Elle a dit
+  qu'elle était fatiguée. (She said that she was tired.)
+- Sequence of tenses (la concordance des temps) — when the main
+  reporting verb (dire, penser, demander...) is in a PAST tense, the tense
+  inside the "que" clause shifts back:
+    présent -> imparfait:      "Je suis fatiguée" -> qu'elle était fatiguée
+    passé composé -> plus-que-parfait: "J'ai fini" -> qu'elle avait fini
+    futur simple -> conditionnel présent: "Je partirai" -> qu'elle
+      partirait
+    futur antérieur -> conditionnel passé: "J'aurai fini" -> qu'elle
+      aurait fini
+  If the reporting verb is in the PRESENT tense, no tense shift is needed.
+- Time/place expressions often shift too: aujourd'hui -> ce jour-là;
+  demain -> le lendemain; hier -> la veille; ici -> là.
+- Reported YES/NO questions use "si" (if/whether): Il m'a demandé si
+  j'étais prêt(e). (He asked me if I was ready.)
+- Reported information questions keep the question word but drop
+  inversion/est-ce que: Elle m'a demandé où j'habitais. (She asked me
+  where I lived.) Note: "qu'est-ce que" becomes "ce que" in indirect
+  speech: Il a demandé ce que je faisais. (He asked what I was doing.)
+
+CONJUGATION TABLE:
+(tense-shift reference — see grammar section above)
+
+VOCABULARY:
+dire que - to say that
+demander si/ce que - to ask whether/what
+répondre que - to answer that
+le lendemain - the next day
+la veille - the day before
+
+EXAMPLES:
+Direct: Il a dit : « Je viendrai demain. »
+Indirect: Il a dit qu'il viendrait le lendemain. (futur -> conditionnel;
+  demain -> le lendemain)
+Direct: Elle m'a demandé : « Où habites-tu ? »
+Indirect: Elle m'a demandé où j'habitais. (present -> imparfait, no
+  inversion)
+Direct: Ils ont demandé : « Est-ce que vous avez fini ? »
+Indirect: Ils ont demandé si nous avions fini. (passé composé -> plus-
+  que-parfait)
+
+NOTES:
+- This is one of the more mechanical grammar topics — build fluency by
+  taking short dialogues you already know and rewriting them as indirect
+  speech, tense by tense.
+
+PRACTICE:
+Convert to indirect speech: Elle a dit : « J'ai perdu mes clés et je ne
+sais pas où elles sont. »
+
+================================================================
+LESSON 35: The Imperative Mood
+================================================================
+
+OVERVIEW:
+The imperative is used for commands, requests, and suggestions — it exists
+only for tu, nous, and vous (no subject pronoun is stated).
+
+GRAMMAR:
+- Formation: take the present-tense tu/nous/vous form of the verb and
+  drop the subject pronoun. For -er verbs (and verbs like ouvrir that
+  conjugate like -er verbs), also drop the final -s from the tu form:
+    parler: (tu) Parle ! / (nous) Parlons ! / (vous) Parlez !
+    finir: (tu) Finis ! / (nous) Finissons ! / (vous) Finissez !
+    vendre: (tu) Vends ! / (nous) Vendons ! / (vous) Vendez !
+- Être, avoir, and savoir have irregular imperative forms (borrowed from
+  the subjunctive stem): Sois sage ! (Be good!) / Ayons du courage !
+  (Let's have courage!) / Sachez que... (Know that...).
+- With reflexive verbs (Lesson 14): in the AFFIRMATIVE, the reflexive
+  pronoun moves after the verb (hyphenated), and "te" becomes "toi":
+  Lève-toi ! (Get up!) Asseyez-vous ! (Sit down!) In the NEGATIVE, normal
+  word order is kept: Ne te lève pas ! (Don't get up!)
+- With object pronouns, the same "flip" rule applies: in the affirmative,
+  pronouns follow the verb, connected with hyphens (Donne-le-moi ! = Give
+  it to me!); in the negative, they stay in normal position before the
+  verb (Ne me le donne pas ! = Don't give it to me!).
+- To soften a command into a suggestion, French often uses the
+  conditional instead of a true imperative: Tu devrais te reposer. (You
+  should rest.) is gentler than Repose-toi ! (Rest!)
+
+CONJUGATION TABLE:
+parler (to speak) — imperative:
+(tu) Parle !     (nous) Parlons !     (vous) Parlez !
+se lever (to get up) — imperative:
+(tu) Lève-toi !   (nous) Levons-nous !   (vous) Levez-vous !
+  negative: Ne te lève pas ! / Ne nous levons pas ! / Ne vous levez pas !
+
+VOCABULARY:
+Attention ! - Watch out!/Be careful!
+Dépêche-toi ! / Dépêchez-vous ! - Hurry up! (informal/formal)
+Écoute(z) ! - Listen!
+N'oublie(z) pas de... - Don't forget to...
+Aidez-moi, s'il vous plaît. - Help me, please.
+
+EXAMPLES:
+Ferme la porte, s'il te plaît. - Close the door, please.
+Asseyez-vous et détendez-vous. - Sit down and relax.
+Ne t'inquiète pas, tout ira bien. - Don't worry, everything will be fine.
+Allons-y ! - Let's go!
+Donnez-le-moi tout de suite. - Give it to me right away.
+
+NOTES:
+- "Allons-y !" (Let's go!) and "Vas-y !" / "Allez-y !" (Go on!/Go for it!)
+  are extremely common everyday expressions built on the imperative of
+  aller + the pronoun "y."
+- Remember: aller's tu-form imperative keeps the -s only when followed by
+  "y" for pronunciation reasons: "Va !" but "Vas-y !"
+
+PRACTICE:
+Write a short set of instructions (5 commands) for a recipe or a daily
+routine, using tu-form imperatives.
+
+################################################################
+END OF PART 5 — Continue to
+french_06_pronouns_adjectives_articles.txt
+################################################################

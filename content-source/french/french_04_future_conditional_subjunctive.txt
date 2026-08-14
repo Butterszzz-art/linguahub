@@ -1,0 +1,415 @@
+################################################################
+PART 4 — FUTURE, CONDITIONAL & SUBJUNCTIVE (Lessons 24–30)
+################################################################
+
+================================================================
+LESSON 24: The Futur Simple
+================================================================
+
+OVERVIEW:
+The futur simple is the true "will do" future tense — more formal/written
+than the futur proche (aller + infinitive) from Lesson 13, but essential
+for plans, predictions, and promises.
+
+GRAMMAR:
+- Formation: infinitive (for -er and -ir verbs) or infinitive minus final
+  -e (for -re verbs) + these endings, which are the SAME for every verb in
+  French: -ai, -as, -a, -ons, -ez, -ont. (Notice these look like the
+  present tense of avoir — a helpful memory trick.)
+    parler -> je parlerai
+    finir -> je finirai
+    vendre -> je vendrai (drop the final -e first)
+- Many common verbs have an irregular STEM (but still use the same regular
+  endings): être -> ser-, avoir -> aur-, aller -> ir-, faire -> fer-,
+  venir -> viendr-, voir -> verr-, savoir -> saur-, pouvoir -> pourr-,
+  vouloir -> voudr-, devoir -> devr-, falloir -> il faudra (impersonal).
+- Use futur simple for: predictions, promises, and formal plans, and
+  ALWAYS after "quand/lorsque/dès que/aussitôt que" (when/as soon as) when
+  the main clause is also about the future — unlike English, which uses
+  present tense after "when" for future events: Quand j'arriverai, je
+  t'appellerai. (When I arrive [lit. "will arrive"], I'll call you.)
+
+CONJUGATION TABLE:
+parler (to speak) — futur simple:
+je parlerai         nous parlerons
+tu parleras          vous parlerez
+il/elle/on parlera    ils/elles parleront
+
+être / avoir / aller / faire — futur simple stems:
+je serai / j'aurai / j'irai / je ferai
+
+VOCABULARY:
+demain - tomorrow
+la semaine prochaine - next week
+un jour - someday
+dès que / aussitôt que - as soon as
+quand / lorsque - when
+
+EXAMPLES:
+L'année prochaine, nous irons en France. - Next year, we'll go to France.
+Je te téléphonerai dès que j'arriverai. - I'll call you as soon as I
+  arrive. (both verbs in futur simple, unlike English)
+Il fera beau demain. - It will be nice out tomorrow.
+Elle sera médecin dans cinq ans. - She will be a doctor in five years.
+
+NOTES:
+- Common mistake: using present tense after "quand" for a future event, as
+  English does. In French this MUST be futur simple on both sides:
+  "Quand je serai grand..." (When I grow up..., lit. "will be").
+
+PRACTICE:
+Write five predictions about your life in ten years using futur simple.
+
+================================================================
+LESSON 25: The Futur Antérieur
+================================================================
+
+OVERVIEW:
+The futur antérieur ("future perfect") expresses an action that WILL HAVE
+happened before another future action or a specific future point in time.
+
+GRAMMAR:
+- Formation: futur simple of avoir or être (same helper-verb choice as
+  passé composé) + past participle.
+- Used to show that one future event will be completed before another
+  future event: Quand tu arriveras, j'aurai déjà préparé le dîner. (When
+  you arrive, I will have already prepared dinner.)
+- Very commonly follows "quand/lorsque/dès que/après que" when the action
+  needs to be presented as completed before the other future action:
+  Dès que j'aurai fini, je te le dirai. (As soon as I've finished, I'll
+  tell you.)
+- Agreement rules for the past participle follow the same pattern as
+  passé composé (Lesson 18–19).
+
+CONJUGATION TABLE:
+parler (to speak) — futur antérieur:
+j'aurai parlé          nous aurons parlé
+tu auras parlé           vous aurez parlé
+il/elle/on aura parlé    ils/elles auront parlé
+
+VOCABULARY:
+dès que / aussitôt que - as soon as
+après que - after
+avant + [future time] - before
+
+EXAMPLES:
+Nous aurons fini le projet avant vendredi. - We will have finished the
+  project before Friday.
+Quand elle aura vingt-cinq ans, elle aura déjà voyagé partout. - By the
+  time she's 25, she'll already have traveled everywhere.
+Dès que j'aurai reçu ta lettre, je répondrai. - As soon as I've received
+  your letter, I'll reply.
+
+NOTES:
+- The futur antérieur and futur simple often appear paired in the same
+  sentence, one showing what happens first (futur antérieur), the other
+  showing what happens as a result (futur simple).
+
+PRACTICE:
+Write two sentences using "dès que + futur antérieur, [main clause in
+futur simple]".
+
+================================================================
+LESSON 26: The Present Conditional
+================================================================
+
+OVERVIEW:
+The conditional expresses "would" in French — used for politeness, wishes,
+hypotheticals, and speculation.
+
+GRAMMAR:
+- Formation: same stem as the futur simple (including all the irregular
+  stems from Lesson 24) + the imparfait endings: -ais, -ais, -ait, -ions,
+  -iez, -aient.
+    parler -> je parlerais    être -> je serais    avoir -> j'aurais
+- Uses of the present conditional:
+    1. Politeness: Je voudrais un café, s'il vous plaît. (I would like a
+       coffee, please.) — much softer/more polite than "je veux."
+    2. Hypothetical results (paired with "si + imparfait" in the "if"
+       clause): Si j'avais de l'argent, je voyagerais. (If I had money, I
+       would travel.)
+    3. Speculation / unconfirmed information (common in news reporting):
+       Le président serait en visite à Paris. (The president is
+       reportedly visiting Paris — not confirmed.)
+    4. Giving advice: À ta place, je partirais tout de suite. (In your
+       place, I would leave right away.)
+
+CONJUGATION TABLE:
+parler (to speak) — present conditional:
+je parlerais          nous parlerions
+tu parlerais           vous parleriez
+il/elle/on parlerait    ils/elles parleraient
+
+VOCABULARY:
+si + imparfait, ...conditionnel - if... , ...would...
+je voudrais - I would like
+à ta/votre place - in your place
+il/elle devrait - he/she should
+
+EXAMPLES:
+Si j'étais riche, j'achèterais une maison à la mer. - If I were rich, I
+  would buy a house by the sea.
+Pourriez-vous m'aider, s'il vous plaît ? - Could you help me, please?
+  (polite request using conditional of pouvoir)
+Nous aimerions visiter le musée demain. - We would like to visit the
+  museum tomorrow.
+À votre place, je ne dirais rien. - In your place, I wouldn't say
+  anything.
+
+NOTES:
+- The "si-clause" pattern is strict: si + IMPARFAIT in the "if" part
+  pairs with CONDITIONAL in the result part. Never use conditional inside
+  the "si" clause itself.
+
+PRACTICE:
+Complete: "Si je gagnais à la loterie, je..." with three different
+conditional endings.
+
+================================================================
+LESSON 27: The Past Conditional
+================================================================
+
+OVERVIEW:
+The past conditional expresses "would have" — used for hypothetical
+situations in the past that didn't actually happen, and for regrets.
+
+GRAMMAR:
+- Formation: present conditional of avoir or être (same helper-verb choice
+  as usual) + past participle.
+- Used for: 
+    1. Hypothetical past results, paired with "si + plus-que-parfait":
+       Si j'avais su, je serais venu. (If I had known, I would have come.)
+    2. Regret or reproach: J'aurais dû t'appeler. (I should have called
+       you. — see Lesson 28 for devoir nuances)
+    3. Unconfirmed past information (reported speech): L'accident aurait
+       été causé par la pluie. (The accident was reportedly caused by the
+       rain.)
+- Agreement rules for the past participle follow the passé composé
+  pattern.
+
+CONJUGATION TABLE:
+parler (to speak) — past conditional:
+j'aurais parlé          nous aurions parlé
+tu aurais parlé           vous auriez parlé
+il/elle/on aurait parlé    ils/elles auraient parlé
+
+VOCABULARY:
+si + plus-que-parfait, ...conditionnel passé - if (had)..., would have...
+j'aurais dû - I should have
+j'aurais aimé / voulu - I would have liked
+
+EXAMPLES:
+Si j'avais eu le temps, je t'aurais aidé. - If I had had time, I would
+  have helped you.
+Elle aurait aimé venir, mais elle était malade. - She would have liked to
+  come, but she was sick.
+Vous n'auriez pas dû partir si tôt. - You shouldn't have left so early.
+Nous serions arrivés à l'heure sans les embouteillages. - We would have
+  arrived on time if not for the traffic.
+
+NOTES:
+- The three-tense "if-chain" is a common exam/conversation stumbling
+  block — memorize it as a set: si + présent -> présent/futur/impératif;
+  si + imparfait -> conditionnel présent; si + plus-que-parfait ->
+  conditionnel passé.
+
+PRACTICE:
+Write two "if only" regret sentences using past conditional + plus-que-
+parfait.
+
+================================================================
+LESSON 28: Could, Should, Would — Nuances of Devoir, Pouvoir, Vouloir
+================================================================
+
+OVERVIEW:
+English "could/should/would" map onto French in several different ways
+depending on tense and meaning — this lesson untangles the most common
+sources of confusion for learners.
+
+GRAMMAR:
+- "Could" can mean:
+    - ability in the past (imparfait of pouvoir): Je pouvais nager
+      pendant des heures. (I could swim for hours — general past ability.)
+    - managed to / succeeded (passé composé of pouvoir): J'ai pu finir à
+      temps. (I was able to / managed to finish in time.)
+    - a polite request or hypothetical (conditional of pouvoir):
+      Pourrais-tu m'aider ? (Could you help me?)
+- "Should" is almost always the conditional of devoir:
+    present conditional (should, right now/going forward): Tu devrais
+      étudier plus. (You should study more.)
+    past conditional (should have, in the past — a missed obligation):
+      Tu aurais dû étudier plus. (You should have studied more.)
+- "Would" can mean:
+    - conditional mood generally (hypothetical result): Je voyagerais si
+      j'avais de l'argent. (I would travel if I had money.)
+    - past habitual action — this is actually the IMPARFAIT, not
+      conditional, despite English using "would": Quand j'étais jeune, je
+      voyageais souvent. (When I was young, I would [used to] travel
+      often.)
+    - a polite wish (conditional of vouloir): Je voudrais un thé. (I
+      would like a tea.)
+
+CONJUGATION TABLE:
+pouvoir (can/to be able to): je peux, tu peux, il peut,
+  nous pouvons, vous pouvez, ils peuvent
+  (irregular futur/conditional stem: pourr-)
+vouloir (to want): je veux, tu veux, il veut,
+  nous voulons, vous voulez, ils veulent
+  (irregular futur/conditional stem: voudr-)
+
+VOCABULARY:
+pouvoir - can / to be able to
+vouloir - to want
+devoir - must / to have to
+(see Lesson 17 for devoir's present tense)
+
+EXAMPLES:
+Quand j'étais enfant, je pouvais courir très vite. - When I was a child, I
+  could run very fast. (ability, imparfait)
+J'ai enfin pu lui parler hier. - I finally managed to talk to him
+  yesterday. (achieved once, passé composé)
+Vous devriez consulter un médecin. - You should see a doctor. (advice,
+  present conditional)
+J'aurais dû te le dire plus tôt. - I should have told you sooner. (regret,
+  past conditional)
+Chaque été, nous allions à la plage. - Every summer, we would go [used to
+  go] to the beach. (habitual "would" = imparfait, NOT conditional)
+
+NOTES:
+- The single most common learner error: translating habitual past "would"
+  with the conditional instead of the imparfait. Test: if "would" can be
+  replaced with "used to," it's imparfait, not conditional.
+
+PRACTICE:
+Translate: "When I was young, I would visit my grandmother every Sunday."
+/ "You should have called me." / "Could you pass the salt?"
+
+================================================================
+LESSON 29: The Present Subjunctive
+================================================================
+
+OVERVIEW:
+The subjunctive mood expresses subjectivity — wishes, doubts, emotions,
+necessity, and opinions — rather than objective fact. It's triggered by
+specific expressions, almost always after "que."
+
+GRAMMAR:
+- Formation (regular pattern for most verbs): take the ils/elles form of
+  the present tense, drop -ent, and add: -e, -es, -e, -ent for je/tu/il/
+  ils; for nous/vous, use the IMPARFAIT nous/vous forms instead (-ions,
+  -iez). Example with parler (ils parlent -> parl-): que je parle, que tu
+  parles, qu'il parle, que nous parlions, que vous parliez, qu'ils
+  parlent.
+- Several verbs have irregular subjunctive stems: être (que je sois),
+  avoir (que j'aie), aller (que j'aille, but que nous allions), faire (que
+  je fasse), pouvoir (que je puisse), savoir (que je sache), vouloir (que
+  je veuille, but que nous voulions), falloir (qu'il faille).
+- The subjunctive is triggered after "que" by expressions of:
+    - Will/wish: vouloir que, souhaiter que, préférer que
+    - Emotion: être content(e)/triste/surpris(e) que, avoir peur que
+    - Doubt/possibility: douter que, il est possible que, il se peut que
+    - Necessity/obligation: il faut que, il est nécessaire que
+    - Certain conjunctions: bien que (although), pour que (so that), avant
+      que (before), à moins que (unless), jusqu'à ce que (until)
+- NOT used after expressions of certainty (je pense que, je suis sûr(e)
+  que, il est évident que) — those take the indicative (normal tenses),
+  UNLESS the sentence is negative or a question, which can introduce doubt.
+- Only used when the subject of the "que" clause is DIFFERENT from the
+  main subject. If the subject is the same, use an infinitive instead:
+  Je veux partir (I want to leave — same subject) vs. Je veux que tu
+  partes (I want you to leave — different subjects, subjunctive).
+
+CONJUGATION TABLE:
+parler (to speak) — present subjunctive:
+que je parle          que nous parlions
+que tu parles          que vous parliez
+qu'il/elle/on parle     qu'ils/elles parlent
+
+être / avoir — present subjunctive (irregular):
+que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez,
+  qu'ils soient
+que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez,
+  qu'ils aient
+
+VOCABULARY:
+il faut que - it's necessary that / one must
+vouloir que - to want (someone to do something)
+avoir peur que - to be afraid that
+bien que - although
+avant que - before
+pour que - so that
+
+EXAMPLES:
+Il faut que tu finisses tes devoirs. - You need to finish your homework.
+Je suis content(e) que vous soyez ici. - I'm happy that you're here.
+Bien qu'il pleuve, nous sortons. - Although it's raining, we're going out.
+Je ne pense pas qu'elle ait raison. - I don't think she's right. (negative
+  opinion -> subjunctive)
+
+NOTES:
+- Don't try to translate the subjunctive word-for-word from English (which
+  barely uses it) — instead, learn the TRIGGER expressions above by heart,
+  since the subjunctive is grammatically automatic once you recognize the
+  trigger.
+
+PRACTICE:
+Complete five sentences starting with "Il faut que..." about things you
+need to do this week.
+
+================================================================
+LESSON 30: The Past Subjunctive
+================================================================
+
+OVERVIEW:
+The past subjunctive expresses the same subjective ideas as the present
+subjunctive (wish, doubt, emotion, necessity) but about an action that
+happened BEFORE the time of the main verb.
+
+GRAMMAR:
+- Formation: present subjunctive of avoir or être (same helper-verb choice
+  as usual) + past participle.
+- Used with the same trigger expressions as the present subjunctive
+  (Lesson 29), but when the action in the "que" clause is already
+  completed relative to the main clause: Je suis content(e) que tu sois
+  venu(e). (I'm glad you came — the coming happened before the being
+  glad.)
+- Agreement rules for the past participle follow the passé composé
+  pattern.
+
+CONJUGATION TABLE:
+parler (to speak) — past subjunctive:
+que j'aie parlé          que nous ayons parlé
+que tu aies parlé          que vous ayez parlé
+qu'il/elle/on ait parlé     qu'ils/elles aient parlé
+
+aller (to go) — past subjunctive:
+que je sois allé(e)          que nous soyons allé(e)s
+que tu sois allé(e)           que vous soyez allé(e)(s)
+qu'il soit allé / qu'elle soit allée   qu'ils soient allés / qu'elles soient
+  allées
+
+VOCABULARY:
+(same trigger expressions as Lesson 29 — il faut que, avoir peur que,
+bien que, etc. — used here about a completed past action)
+
+EXAMPLES:
+Je suis surpris(e) qu'elle ait déjà fini. - I'm surprised she's already
+  finished.
+Bien que nous soyons arrivés en retard, le spectacle n'avait pas commencé.
+  - Although we arrived late, the show hadn't started.
+Il est possible qu'il ait oublié notre rendez-vous. - It's possible he
+  forgot our appointment.
+
+NOTES:
+- The past subjunctive is much less common than the present subjunctive in
+  everyday speech — recognize it and use it when the timing genuinely
+  matters, but don't stress over it in early practice.
+
+PRACTICE:
+Write two sentences using "je suis content(e) que" + past subjunctive
+about something that already happened.
+
+################################################################
+END OF PART 4 — Continue to
+french_05_infinitive_participle_passive_imperative.txt
+################################################################

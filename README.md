@@ -87,6 +87,26 @@ npx tsx prisma/seed-italian.ts
 [prisma/seed-italian.ts](prisma/seed-italian.ts) is the same transactional, idempotent-safe
 pattern as `seed-portuguese.ts`.
 
+### 4d. (Optional) Seed the French classroom
+
+A full beginner-to-advanced French curriculum (58 lessons across 7 units — pronunciation
+through idiomatic expressions) lives as plain text in
+[content-source/french/](content-source/french), parsed by
+[scripts/generate-french-content.ts](scripts/generate-french-content.ts) into
+`content/french/*.html` plus [manifest-french.json](manifest-french.json), the same way as
+Italian:
+
+```bash
+npx tsx scripts/generate-french-content.ts
+npx tsx prisma/seed-french.ts
+```
+
+Unlike the other seed scripts, [prisma/seed-french.ts](prisma/seed-french.ts) *replaces* an
+existing "French" classroom instead of skipping — the base `prisma/seed.ts` sample data already
+includes a placeholder "French" classroom, and this script's job is to swap it for the real
+course. It still reads every lesson file up front and does the delete-and-recreate inside one
+transaction, so a missing file or a failed write can't leave you with neither version.
+
 ### 5. Run the dev server
 
 ```bash
@@ -112,10 +132,14 @@ prisma/schema.prisma                       Database schema
 prisma/seed.ts                             Sample data seed script
 prisma/seed-portuguese.ts                  Optional real-content seed script (see below)
 prisma/seed-italian.ts                     Optional real-content seed script (see below)
+prisma/seed-french.ts                      Optional real-content seed script (see below)
 manifest.json                              Classroom→unit→lesson map for the Portuguese seed
 manifest-italian.json                      Classroom→unit→lesson map for the Italian seed
+manifest-french.json                       Classroom→unit→lesson map for the French seed
 content-source/italian/*.txt               Raw Italian curriculum text (parser input)
+content-source/french/*.txt                Raw French curriculum text (parser input)
 scripts/generate-italian-content.ts        Parses content-source/italian into content/italian + the manifest
+scripts/generate-french-content.ts         Parses content-source/french into content/french + the manifest
 ```
 
 ## Database Schema

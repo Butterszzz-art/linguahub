@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Articles and Nouns — The Basics</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .fr{font-weight:600; margin:0;}
+  .example .en{color:var(--ink-muted); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 1 · Foundations · Lesson 4</p>
+  <h1>Articles and Nouns — The Basics</h1>
+  <section class="overview"><p>Every French noun needs an article (or another determiner) in front of it almost always — French rarely drops the article the way English does. This lesson covers the core system; Part 6 goes deeper into tricky cases.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>Definite articles (&quot;the&quot;): le (m. sing.), la (f. sing.), l' (before a vowel/mute h, either gender), les (plural, either gender).</li>
+<li>Indefinite articles (&quot;a/an&quot;, &quot;some&quot;): un (m. sing.), une (f. sing.), des (plural, either gender).</li>
+<li>Partitive articles (&quot;some/any&quot;, for uncountable amounts): du (m. sing.), de la (f. sing.), de l' (before vowel/mute h), des (plural). Used for food/drink and abstract quantities: du pain (some bread), de la patience (some patience).</li>
+<li>After a negation, un/une/des/du/de la generally become simply &quot;de&quot; (or &quot;d'&quot; before a vowel): J'ai un chien -&gt; Je n'ai pas de chien.</li>
+<li>Gender clues (not 100% reliable, but useful patterns):<br>Often masculine: nouns ending in -age, -ment, -eau, -isme<br>Often feminine: nouns ending in -tion, -sion, -té, -ette, -ure</li>
+<li>Plural of nouns: add -s in writing (usually silent in speech) — un livre -&gt; des livres. Nouns ending in -eau/-eu often take -x (un bateau -&gt; des bateaux). Nouns ending in -s/-x/-z don't change (une souris -&gt; des souris).</li>
+</ul>
+</section>
+<section class="table"><h2>Reference Table</h2><pre>Article summary:
+              masc. sing.   fem. sing.   before vowel/h   plural
+definite:     le             la           l'               les
+indefinite:   un             une          un / une         des
+partitive:    du             de la        de l'            des</pre></section>
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">le pain</div><div class="vocab-meaning">the bread</div></div>
+<div class="vocab-row"><div class="vocab-word">la pomme</div><div class="vocab-meaning">the apple</div></div>
+<div class="vocab-row"><div class="vocab-word">l'eau (f.)</div><div class="vocab-meaning">the water</div></div>
+<div class="vocab-row"><div class="vocab-word">les fruits</div><div class="vocab-meaning">the fruits</div></div>
+<div class="vocab-row"><div class="vocab-word">un livre</div><div class="vocab-meaning">a book</div></div>
+<div class="vocab-row"><div class="vocab-word">une table</div><div class="vocab-meaning">a table</div></div>
+<div class="vocab-row"><div class="vocab-word">de l'argent</div><div class="vocab-meaning">some money</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="fr">Je voudrais du pain et de l'eau.</p><p class="en">I would like some bread and some water.</p></div>
+<div class="example"><p class="fr">Elle a une sœur et un frère.</p><p class="en">She has a sister and a brother.</p></div>
+<div class="example"><p class="fr">Il n'y a pas de lait.</p><p class="en">There isn't any milk. (partitive -&gt; &quot;de&quot; after negation)</p></div>
+<div class="example"><p class="fr">Les enfants aiment les bonbons.</p><p class="en">Children love candy. (definite article used for general statements, unlike English)</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>Unlike English, French uses the definite article for general/abstract statements: &quot;J'aime le café&quot; = &quot;I like coffee&quot; (in general), not &quot;I like THE coffee.&quot;</li>
+<li>Gender must be learned with each noun — always learn &quot;le/la + noun&quot; together as a unit, never the noun alone.</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Fill in the article: ___ (the) chat mange ___ (some) poisson. (Answer: Le chat mange du poisson.)</p></section>
+</body>
+</html>

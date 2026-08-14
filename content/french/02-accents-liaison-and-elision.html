@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Accents, Liaison, and Elision</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .fr{font-weight:600; margin:0;}
+  .example .en{color:var(--ink-muted); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 1 · Foundations · Lesson 2</p>
+  <h1>Accents, Liaison, and Elision</h1>
+  <section class="overview"><p>French uses five accent marks that change pronunciation or meaning, plus two &quot;linking&quot; rules — liaison and elision — that make spoken French flow smoothly between words.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>The five accents:<br>é  accent aigu    (acute)   -&gt; closed &quot;ay&quot; sound (café, étudiant)<br>è  accent grave    (grave)   -&gt; open &quot;eh&quot; sound (père, très)<br>à/ù accent grave    (grave)   -&gt; no sound change, distinguishes words (a &quot;has&quot; vs. à &quot;to/at&quot;; ou &quot;or&quot; vs. où &quot;where&quot;)<br>ê  accent circonflexe (circumflex) -&gt; often marks a dropped historical &quot;s&quot; (hôpital = hospital, forêt = forest) and slightly opens the vowel<br>ë/ï accent tréma (diaeresis) -&gt; forces two vowels to be pronounced separately (Noël = &quot;no-el&quot;, not &quot;nwel&quot;)<br>ç  cédille (cedilla) -&gt; forces a soft &quot;s&quot; sound on c before a, o, u (garçon, français)</li>
+<li>Liaison: when a word ending in a normally-silent consonant is followed by a word starting with a vowel or mute h, that consonant IS pronounced, linking the two words. Example: vous_avez (&quot;voo-zah-vay&quot;, not &quot;voo ah-vay&quot;); les_amis (&quot;lay-zah-mee&quot;); un petit_ami (&quot;uh puh-tee-tah-mee&quot;). Liaison is mandatory after: subject pronouns before verbs, articles before nouns, and short adjectives before nouns. It's forbidden after &quot;et&quot; (and).</li>
+<li>Elision: when a short word (je, me, te, se, le, la, de, ne, que, ce, si+il) ends in a vowel and the next word starts with a vowel or mute h, the vowel is dropped and replaced with an apostrophe. je + aime -&gt; j'aime; le + école is impossible because école is feminine (l'école); si + il -&gt; s'il.</li>
+</ul>
+</section>
+<section class="table"><h2>Reference Table</h2><pre>(not applicable)</pre></section>
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">l'hôtel</div><div class="vocab-meaning">the hotel (mute h, takes liaison/elision)</div></div>
+<div class="vocab-row"><div class="vocab-word">le héros</div><div class="vocab-meaning">the hero (aspirate h, blocks liaison/elision)</div></div>
+<div class="vocab-row"><div class="vocab-word">un ami / une amie</div><div class="vocab-meaning">a friend (m/f)</div></div>
+<div class="vocab-row"><div class="vocab-word">les enfants</div><div class="vocab-meaning">the children</div></div>
+<div class="vocab-row"><div class="vocab-word">c'est</div><div class="vocab-meaning">it is / that is</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="fr">J'habite à Paris.</p><p class="en">I live in Paris. (elision: je -&gt; j')</p></div>
+<div class="example"><p class="fr">Vous êtes français ?</p><p class="en">Are you French? (liaison: vous_êtes)</p></div>
+<div class="example"><p class="fr">Les hôtels sont chers.</p><p class="en">The hotels are expensive. (liaison, mute h)</p></div>
+<div class="example"><p class="fr">Le héros arrive.</p><p class="en">The hero arrives. (NO liaison — aspirate h)</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>Most words starting with &quot;h&quot; in French have a MUTE h and behave like vowels for elision/liaison purposes. A small set (héros, haricot, honte, hall, etc.) have an ASPIRATE h, historically pronounced, which now blocks both elision and liaison even though the h itself stays silent. Dictionaries mark aspirate-h words with an asterisk.</li>
+<li>Common learner mistake: adding liaison where it's forbidden (after &quot;et&quot;) or forgetting it where it's mandatory (after plural articles: les_amis).</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Read aloud: &quot;Nous_avons deux_enfants et une amie.&quot; Notice liaison after &quot;nous&quot; and &quot;deux&quot; but not after &quot;et&quot;.</p></section>
+</body>
+</html>

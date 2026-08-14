@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Telling Time</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .fr{font-weight:600; margin:0;}
+  .example .en{color:var(--ink-muted); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 1 · Foundations · Lesson 7</p>
+  <h1>Telling Time</h1>
+  <section class="overview"><p>French has both a casual 12-hour system (used in conversation) and the 24-hour &quot;military&quot; system (used for schedules, TV listings, transport).</p></section>
+<section><h2>Grammar</h2><ul>
+<li>&quot;What time is it?&quot; = Quelle heure est-il ? Answer with &quot;Il est...&quot; (It is...).</li>
+<li>On the hour: Il est trois heures. (It's 3:00.) Note &quot;heure(s)&quot; is always stated, unlike English which can drop &quot;o'clock.&quot;</li>
+<li>Minutes past the hour: add the number of minutes directly: Il est trois heures dix. (3:10.)</li>
+<li>Half past: et demie — Il est trois heures et demie. (3:30.)</li>
+<li>Quarter past/to: et quart (quarter past), moins le quart (quarter to): Il est trois heures et quart. (3:15.) Il est trois heures moins le quart. (2:45.)</li>
+<li>Minutes before the next hour (past the half-hour, 12-hour system): count backward with &quot;moins&quot;: Il est quatre heures moins dix. (3:50, lit. &quot;four o'clock minus ten.&quot;)</li>
+<li>Noon/midnight have their own words: midi (noon), minuit (midnight) — no &quot;heures&quot; needed: Il est midi. (It's noon.)</li>
+<li>24-hour clock (official/written use): simply state the hour 0–23 plus minutes, no &quot;et quart&quot;/&quot;moins&quot;: 15h30 = quinze heures trente (3:30 PM); 20h45 = vingt heures quarante-cinq (8:45 PM).</li>
+<li>&quot;At what time&quot; = à quelle heure: Le train part à quatorze heures. (The train leaves at 2:00 PM.)</li>
+</ul>
+</section>
+<section class="table"><h2>Reference Table</h2><pre>(time expressions, not a verb table)
+Il est une heure. - It's 1:00.
+Il est deux heures. - It's 2:00.
+Il est midi / minuit. - It's noon / midnight.
+...heures et quart / et demie / moins le quart - quarter past / half past /
+  quarter to</pre></section>
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">une heure</div><div class="vocab-meaning">an hour / o'clock</div></div>
+<div class="vocab-row"><div class="vocab-word">une minute</div><div class="vocab-meaning">a minute</div></div>
+<div class="vocab-row"><div class="vocab-word">tôt</div><div class="vocab-meaning">early</div></div>
+<div class="vocab-row"><div class="vocab-word">tard</div><div class="vocab-meaning">late</div></div>
+<div class="vocab-row"><div class="vocab-word">maintenant</div><div class="vocab-meaning">now</div></div>
+<div class="vocab-row"><div class="vocab-word">en retard</div><div class="vocab-meaning">late (for an appointment)</div></div>
+<div class="vocab-row"><div class="vocab-word">en avance</div><div class="vocab-meaning">early (ahead of schedule)</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="fr">Il est huit heures moins vingt.</p><p class="en">It's 7:40 (twenty to eight).</p></div>
+<div class="example"><p class="fr">Le film commence à vingt heures.</p><p class="en">The movie starts at 8:00 PM.</p></div>
+<div class="example"><p class="fr">Je me lève à sept heures et demie.</p><p class="en">I get up at 7:30.</p></div>
+<div class="example"><p class="fr">Nous sommes en retard !</p><p class="en">We're late!</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>In casual conversation, French speakers do sometimes switch between the 12-hour and 24-hour styles, but printed schedules (trains, planes, TV) almost always use the 24-hour clock — get comfortable converting quickly (15h = 3 PM, subtract 12 for PM hours above 12).</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Convert to French time phrases: 9:15 AM, 6:45 PM, 12:00 PM, 23h50.</p></section>
+</body>
+</html>

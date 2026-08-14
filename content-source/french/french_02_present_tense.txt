@@ -1,0 +1,500 @@
+################################################################
+PART 2 — PRESENT TENSE & CORE SENTENCE STRUCTURE (Lessons 9–17)
+################################################################
+
+================================================================
+LESSON 9: Regular -ER Verbs in the Present Tense
+================================================================
+
+OVERVIEW:
+About 90% of French verbs end in -er and follow one predictable pattern.
+Master this conjugation and you can immediately use hundreds of verbs.
+
+GRAMMAR:
+- Take the infinitive (parler = to speak), remove -er to get the stem
+  (parl-), and add these endings:
+    je -> -e        nous -> -ons
+    tu -> -es        vous -> -ez
+    il/elle/on -> -e   ils/elles -> -ent
+- The endings -e, -es, -e, -ent are all SILENT in speech — je parle, tu
+  parles, il parle, and ils parlent all sound identical when spoken aloud.
+  Only nous (-ons) and vous (-ez) sound distinct.
+- French present tense covers what English expresses with THREE forms:
+  "I speak" / "I am speaking" / "I do speak" are all simply "je parle."
+
+CONJUGATION TABLE:
+parler (to speak):
+je parle          nous parlons
+tu parles          vous parlez
+il/elle/on parle    ils/elles parlent
+
+VOCABULARY:
+parler - to speak          aimer - to like/love
+habiter - to live (reside)  travailler - to work
+manger* - to eat (*keeps the "e" before -ons: mangeons, see Lesson 10)
+regarder - to watch/look at  écouter - to listen to
+chercher - to look for       donner - to give
+jouer - to play               étudier - to study
+
+EXAMPLES:
+Je parle français et anglais. - I speak French and English.
+Nous habitons à Lyon. - We live in Lyon.
+Elle travaille dans un bureau. - She works in an office.
+Vous étudiez le français ? - Are you studying French?
+
+NOTES:
+- Because so many verbs are -er verbs, this pattern is the foundation for
+  almost everything that follows — drill it until it's automatic.
+
+PRACTICE:
+Conjugate "aimer" (to like) for all six subject pronouns, then write one
+sentence with each conjugated form.
+
+================================================================
+LESSON 10: -ER Verbs with Spelling and Stem Changes
+================================================================
+
+OVERVIEW:
+A subset of -er verbs make small spelling adjustments to preserve their
+sound across the conjugation. These are still "regular" in logic, just with
+a predictable twist.
+
+GRAMMAR:
+- Verbs ending in -cer: c becomes ç before -ons (to keep the soft "s" sound):
+  commencer -> nous commençons.
+- Verbs ending in -ger: g gets an extra e before -ons (to keep the soft
+  "zh" sound): manger -> nous mangeons.
+- Verbs ending in -e + consonant + er (like acheter, lever): the mute "e"
+  becomes è in all forms EXCEPT nous/vous: j'achète, tu achètes, il achète,
+  ils achètent, but nous achetons, vous achetez.
+- Verbs ending in -é + consonant + er (like préférer, espérer): é becomes è
+  in the same pattern (except nous/vous): je préfère, but nous préférons.
+- Verbs ending in -eler/-eter: some double the consonant instead of adding
+  an accent: appeler -> j'appelle, nous appelons; jeter -> je jette, nous
+  jetons.
+- Verbs ending in -yer: y becomes i before a silent ending (everywhere
+  except nous/vous): payer -> je paie, nous payons. (For -ayer verbs like
+  payer, keeping the y — je paye — is also accepted.)
+
+CONJUGATION TABLE:
+commencer (to begin): je commence, tu commences, il commence,
+  nous commençons, vous commencez, ils commencent
+manger (to eat): je mange, tu manges, il mange,
+  nous mangeons, vous mangez, ils mangent
+acheter (to buy): j'achète, tu achètes, il achète,
+  nous achetons, vous achetez, ils achètent
+préférer (to prefer): je préfère, tu préfères, il préfère,
+  nous préférons, vous préférez, ils préfèrent
+
+VOCABULARY:
+commencer - to begin       manger - to eat
+acheter - to buy            préférer - to prefer
+appeler - to call            jeter - to throw (away)
+payer - to pay               nettoyer - to clean
+voyager - to travel          nager - to swim
+
+EXAMPLES:
+Nous commençons le cours à neuf heures. - We start class at 9:00.
+Je préfère le café au thé. - I prefer coffee to tea.
+Elle achète des légumes au marché. - She buys vegetables at the market.
+Nous voyageons souvent en été. - We travel often in summer.
+
+NOTES:
+- These changes exist purely to preserve pronunciation — say the verb out
+  loud and the spelling logic usually becomes obvious.
+
+PRACTICE:
+Conjugate "voyager" and "appeler" fully; circle the forms that differ from
+the "regular" -er pattern.
+
+================================================================
+LESSON 11: -IR and -RE Verbs in the Present Tense
+================================================================
+
+OVERVIEW:
+After -er verbs, French has two more regular families: -ir verbs (like
+finir) and -re verbs (like vendre), each with their own predictable ending
+pattern.
+
+GRAMMAR:
+- Regular -ir verbs: remove -ir from the infinitive, add:
+    -is, -is, -it, -issons, -issez, -issent
+  Note the -iss- that appears in the plural forms only.
+- Regular -re verbs: remove -re from the infinitive, add:
+    -s, -s, - (nothing), -ons, -ez, -ent
+  The il/elle/on form has NO added ending — you just use the bare stem.
+- Not all -ir verbs follow this pattern (many common ones like partir,
+  sortir, venir are irregular — covered later), but the -iss- pattern
+  covers a large regular group (finir, choisir, réussir, grandir...).
+
+CONJUGATION TABLE:
+finir (to finish): je finis, tu finis, il finit,
+  nous finissons, vous finissez, ils finissent
+vendre (to sell): je vends, tu vends, il vend,
+  nous vendons, vous vendez, ils vendent
+
+VOCABULARY:
+finir - to finish        choisir - to choose
+réussir - to succeed      grandir - to grow (up)
+vendre - to sell          attendre - to wait (for)
+répondre - to answer/reply  perdre - to lose
+descendre - to go down     entendre - to hear
+
+EXAMPLES:
+Je finis mes devoirs à six heures. - I finish my homework at 6:00.
+Elle choisit une robe rouge. - She chooses a red dress.
+Nous attendons le bus. - We're waiting for the bus.
+Ils vendent leur voiture. - They're selling their car.
+
+NOTES:
+- "Attendre" means "to wait for" — no separate preposition needed, unlike
+  English "wait FOR": J'attends Marie (I'm waiting for Marie), not
+  "j'attends pour Marie."
+
+PRACTICE:
+Conjugate "choisir" and "répondre" fully; write one example sentence for
+each subject pronoun form.
+
+================================================================
+LESSON 12: Être and Avoir (To Be and To Have)
+================================================================
+
+OVERVIEW:
+Être and avoir are the two most important irregular verbs in French — they
+appear constantly on their own AND as helper verbs for compound tenses
+(Part 3), so full memorization now pays off for the rest of the course.
+
+GRAMMAR:
+- Être (to be) and avoir (to have) are both completely irregular and must
+  be memorized outright.
+- Avoir is used in many idiomatic expressions where English uses "to be":
+  avoir faim (to be hungry), avoir soif (to be thirsty), avoir chaud/froid
+  (to be hot/cold), avoir peur (to be afraid), avoir raison/tort (to be
+  right/wrong), avoir X ans (to be X years old), avoir besoin de (to need),
+  avoir envie de (to feel like / want).
+- "Il y a" (there is / there are) is built from avoir and doesn't change
+  for number: Il y a un chat. / Il y a deux chats.
+
+CONJUGATION TABLE:
+être (to be): je suis, tu es, il/elle/on est,
+  nous sommes, vous êtes, ils/elles sont
+avoir (to have): j'ai, tu as, il/elle/on a,
+  nous avons, vous avez, ils/elles ont
+
+VOCABULARY:
+être - to be                avoir - to have
+avoir faim/soif - to be hungry/thirsty
+avoir chaud/froid - to be hot/cold
+avoir peur (de) - to be afraid (of)
+avoir raison/tort - to be right/wrong
+avoir besoin de - to need
+il y a - there is/are
+
+EXAMPLES:
+Je suis étudiant et j'ai vingt ans. - I am a student and I am 20 years old.
+Nous avons faim, allons manger ! - We're hungry, let's go eat!
+Il y a beaucoup de monde ici. - There are a lot of people here.
+Vous êtes en retard. - You are late.
+
+NOTES:
+- These two verbs are the base for the passé composé (Part 3) — memorizing
+  them solidly now will make the past tense much easier later.
+
+PRACTICE:
+Translate using avoir-expressions: "I'm cold," "She's 30 years old,"
+"We need a car," "They're afraid of the dog."
+
+================================================================
+LESSON 13: Aller, Venir, Faire — and the Immediate Future & Past
+================================================================
+
+OVERVIEW:
+Three more essential irregular verbs, plus two of the most useful shortcut
+constructions in French: the immediate ("near") future and immediate past.
+
+GRAMMAR:
+- Aller (to go) is also used to form the futur proche (immediate future):
+  aller (conjugated) + infinitive = "going to [do something]":
+  Je vais manger. (I'm going to eat.) This is the everyday way to talk
+  about the near future, more common in speech than the true future tense.
+- Venir (to come) is used to form the passé récent (immediate past):
+  venir de (conjugated) + infinitive = "just [did something]":
+  Je viens de manger. (I just ate.)
+- Faire (to do/make) appears in weather expressions (il fait beau/chaud/
+  froid = it's nice/hot/cold out) and countless idioms (faire les courses
+  = to run errands, faire du sport = to play sports, faire la cuisine =
+  to cook).
+- The causative "faire + infinitive" means to have/make someone do
+  something, or to have something done: Je fais réparer ma voiture. (I'm
+  having my car repaired — lit. "I make repair my car.")
+
+CONJUGATION TABLE:
+aller (to go): je vais, tu vas, il va,
+  nous allons, vous allez, ils vont
+venir (to come): je viens, tu viens, il vient,
+  nous venons, vous venez, ils viennent
+faire (to do/make): je fais, tu fais, il fait,
+  nous faisons, vous faites, ils font
+
+VOCABULARY:
+aller - to go              venir - to come
+faire - to do/make          venir de + infinitif - to have just done something
+aller + infinitif - to be going to do something
+faire les courses - to run errands
+faire du sport - to play sports/exercise
+faire la cuisine - to cook
+
+EXAMPLES:
+Je vais partir dans dix minutes. - I'm going to leave in ten minutes.
+Nous venons de finir le dîner. - We just finished dinner.
+Il fait très chaud aujourd'hui. - It's very hot today.
+Elle fait ses devoirs. - She's doing her homework.
+
+NOTES:
+- "Venir de + infinitive" is one of the most useful shortcuts in French —
+  it lets you express "just did X" without touching the past tense at all.
+
+PRACTICE:
+Rewrite these using futur proche and passé récent: "I am going to call you"
+/ "We just arrived."
+
+================================================================
+LESSON 14: Reflexive (Pronominal) Verbs
+================================================================
+
+OVERVIEW:
+Reflexive verbs describe an action the subject does to itself (washing
+oneself, getting up) and are extremely common in French daily-routine
+vocabulary.
+
+GRAMMAR:
+- A reflexive verb pairs a reflexive pronoun (matching the subject) with
+  the verb: me/te/se/nous/vous/se, placed directly BEFORE the conjugated
+  verb.
+- Conjugation otherwise follows the normal pattern for the verb's family
+  (-er/-ir/-re): se laver (to wash oneself) conjugates like laver, just
+  with the reflexive pronoun added.
+- Not all "reflexive-looking" verbs are truly reflexive in meaning — some
+  are "reciprocal" (two people doing something to each other: se parler =
+  to talk to each other) and some are simply pronominal by convention
+  (s'en aller = to leave/go away — no real "self" involved).
+- In the negative, "ne" goes before the reflexive pronoun and "pas" after
+  the verb: Je ne me lève pas tôt. (I don't get up early.)
+- In the imperative (commands), reflexive pronouns move AFTER the verb in
+  the affirmative, connected with a hyphen, and te becomes toi:
+  Lève-toi ! (Get up!) but in the negative they stay before: Ne te lève
+  pas ! (Don't get up!)
+
+CONJUGATION TABLE:
+se laver (to wash oneself):
+je me lave         nous nous lavons
+tu te laves         vous vous lavez
+il/elle/on se lave   ils/elles se lavent
+
+VOCABULARY:
+se lever - to get up          se coucher - to go to bed
+se laver - to wash oneself     s'habiller - to get dressed
+se réveiller - to wake up      se dépêcher - to hurry
+se reposer - to rest            s'appeler - to be named/called
+se brosser (les dents) - to brush (one's teeth)
+
+EXAMPLES:
+Je me réveille à sept heures et je me lève tout de suite. - I wake up at
+  7:00 and I get up right away.
+Elle s'habille rapidement. - She gets dressed quickly.
+Nous nous couchons tard le week-end. - We go to bed late on weekends.
+Dépêche-toi, on est en retard ! - Hurry up, we're late! (informal command)
+
+NOTES:
+- With body parts and reflexive verbs, French uses the definite article
+  (le/la/les), not a possessive: "je me brosse LES dents" (not "mes
+  dents") — the reflexive pronoun already shows whose teeth they are.
+
+PRACTICE:
+Describe your morning routine in five sentences using at least four
+reflexive verbs from the vocabulary list.
+
+================================================================
+LESSON 15: Negation
+================================================================
+
+OVERVIEW:
+The basic negative structure and its variations — how to say "not,"
+"never," "nothing," "no longer," and more.
+
+GRAMMAR:
+- Basic negation wraps the conjugated verb in ne...pas: Je ne parle pas
+  espagnol. (I don't speak Spanish.) "Ne" becomes "n'" before a vowel/mute h.
+- With reflexive verbs, "ne" goes before the reflexive pronoun: Je ne me
+  lève pas. (I don't get up.)
+- With compound tenses (passé composé, Part 3), ne...pas wraps the
+  helper verb, not the past participle: Je n'ai pas mangé. (I haven't
+  eaten.)
+- Other negative expressions follow the same "ne...X" pattern, with X
+  replacing "pas":
+    ne...jamais    - never
+    ne...rien      - nothing
+    ne...personne  - nobody/no one
+    ne...plus      - no longer/no more
+    ne...ni...ni   - neither...nor
+    ne...que       - only (restrictive, not a true negation)
+    ne...aucun(e)  - none/not any
+- After a negation, indefinite/partitive articles (un/une/des/du/de la)
+  usually shrink to "de" (see Lesson 4): J'ai des amis -> Je n'ai pas
+  d'amis.
+- "Personne" and "rien" can also start a sentence as the subject, still
+  paired with "ne": Personne ne sait. (No one knows.) Rien n'est facile.
+  (Nothing is easy.)
+
+CONJUGATION TABLE:
+(pattern table, not a verb)
+ne + [pronoun +] verb + pas/jamais/rien/plus/personne...
+
+VOCABULARY:
+ne...pas - not
+ne...jamais - never
+ne...rien - nothing
+ne...personne - no one
+ne...plus - no longer
+ne...que - only
+ne...ni...ni - neither...nor
+
+EXAMPLES:
+Je ne mange jamais de viande. - I never eat meat.
+Il n'y a rien dans le frigo. - There's nothing in the fridge.
+Nous n'avons plus de pain. - We don't have any more bread.
+Elle ne parle à personne. - She doesn't talk to anyone.
+Je n'ai qu'un frère. - I only have one brother.
+
+NOTES:
+- In casual spoken French, "ne" is very often dropped entirely (Je sais
+  pas instead of Je ne sais pas), but you should always include it in
+  writing and formal speech.
+
+PRACTICE:
+Negate these sentences using the indicated expression: "Je bois du café"
+(ne...jamais); "Il y a quelqu'un" (ne...personne); "J'ai des devoirs"
+(ne...plus).
+
+================================================================
+LESSON 16: Asking Questions
+================================================================
+
+OVERVIEW:
+Three ways to turn a statement into a yes/no question in French, from most
+casual to most formal, plus the core question words for open-ended
+questions.
+
+GRAMMAR:
+- Method 1 — Intonation (most casual, common in speech): keep normal word
+  order, just raise your pitch at the end: Tu parles français ? (You speak
+  French?)
+- Method 2 — Est-ce que (neutral, works everywhere): add "est-ce que" to
+  the front of a normal statement: Est-ce que tu parles français ?
+- Method 3 — Inversion (more formal/written): swap the subject pronoun and
+  verb, joined by a hyphen: Parles-tu français ? With il/elle/on and a
+  verb ending in a vowel, insert -t- for pronunciation: Parle-t-il
+  français ?
+- Question words (interrogatives) go at the front of the sentence, usually
+  followed by est-ce que or inversion:
+    qui       - who
+    que/qu'   - what (object)
+    quoi      - what (after a preposition, or standalone)
+    où        - where
+    quand     - when
+    pourquoi  - why
+    comment   - how
+    combien (de) - how much/many
+    quel(le)(s)  - which/what (agrees with the noun)
+- "Quel" vs. "qui/que": use "quel" when directly modifying a noun (Quelle
+  heure est-il ?), use qui/que when standing alone as a pronoun (Qu'est-ce
+  que tu fais ?).
+
+CONJUGATION TABLE:
+(pattern reference, not a verb)
+Statement:        Tu aimes le café.
+Intonation:        Tu aimes le café ?
+Est-ce que:         Est-ce que tu aimes le café ?
+Inversion:          Aimes-tu le café ?
+
+VOCABULARY:
+qui - who              que/qu'est-ce que - what
+où - where               quand - when
+pourquoi - why           comment - how
+combien - how much/many   quel(le) - which/what
+
+EXAMPLES:
+Où habites-tu ? - Where do you live?
+Qu'est-ce que vous faites ce soir ? - What are you doing tonight?
+Combien coûte ce livre ? - How much does this book cost?
+Quelle heure est-il ? - What time is it?
+Pourquoi est-ce que tu pleures ? - Why are you crying?
+
+NOTES:
+- "Pourquoi" is answered with "parce que" (because): Pourquoi tu pars ?
+  Parce que je suis fatigué. (Why are you leaving? Because I'm tired.)
+
+PRACTICE:
+Turn "Vous habitez à Paris" into a question all three ways (intonation,
+est-ce que, inversion).
+
+================================================================
+LESSON 17: Devoir and Related Structures
+================================================================
+
+OVERVIEW:
+Devoir (must/have to/should) is one of the most useful and most irregular
+verbs in French, plus two handy fixed expressions and a family of verbs
+with a distinctive ending pattern.
+
+GRAMMAR:
+- Devoir + infinitive expresses obligation ("must/have to") or probability
+  ("must be"), depending on context: Je dois partir. (I have to leave.)
+  Il doit être fatigué. (He must be tired.) Full nuance of devoir across
+  different tenses (should have, would have to) is covered in Part 4,
+  Lesson 26.
+- "Il y a" (there is/are, from Lesson 12) is invariable and doesn't change
+  for singular/plural.
+- "Il s'agit de" (it's a matter of / it's about) is an impersonal
+  expression used to introduce a topic: Il s'agit d'un problème sérieux.
+  (It's about a serious problem.) It's ALWAYS impersonal ("il"), never
+  conjugated for a real subject.
+- Verbs ending in -eindre and -aindre (peindre = to paint, craindre = to
+  fear) follow their own irregular pattern: drop -indre, add -s, -s, -t,
+  -gnons, -gnez, -gnent (note the "gn" appears only in the plural, and the
+  singular has no d): je peins, tu peins, il peint, nous peignons, vous
+  peignez, ils peignent.
+
+CONJUGATION TABLE:
+devoir (must/to have to): je dois, tu dois, il doit,
+  nous devons, vous devez, ils doivent
+peindre (to paint): je peins, tu peins, il peint,
+  nous peignons, vous peignez, ils peignent
+
+VOCABULARY:
+devoir - must/to have to     il y a - there is/are
+il s'agit de - it's about/a matter of
+peindre - to paint            craindre - to fear
+éteindre - to turn off/extinguish  atteindre - to reach/attain
+
+EXAMPLES:
+Tu dois étudier avant l'examen. - You must study before the exam.
+Il y a un problème avec la voiture. - There's a problem with the car.
+Ce livre s'agit de l'histoire de France. -- (INCORRECT — common mistake;
+  correct form:) Il s'agit de l'histoire de France dans ce livre. - This
+  book is about the history of France.
+Elle peint un beau tableau. - She's painting a beautiful picture.
+Il craint les araignées. - He's afraid of spiders.
+
+NOTES:
+- Common mistake: "il s'agit de" can NEVER take a real subject like a book
+  or movie title as "il" — the "il" is always the impersonal "it," and the
+  real subject is expressed with "dans" (in) if needed, as shown above.
+
+PRACTICE:
+Write three sentences using devoir to express obligations you have this
+week.
+
+################################################################
+END OF PART 2 — Continue to french_03_past_tenses.txt
+################################################################

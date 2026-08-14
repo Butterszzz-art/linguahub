@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Days, Months, Dates, and Seasons</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .fr{font-weight:600; margin:0;}
+  .example .en{color:var(--ink-muted); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 1 · Foundations · Lesson 6</p>
+  <h1>Days, Months, Dates, and Seasons</h1>
+  <section class="overview"><p>Talking about dates, the calendar, and seasons — practical vocabulary tied to the numbers from Lesson 5.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>Days and months are NOT capitalized in French (unlike English): lundi, janvier — capitalize only at the start of a sentence.</li>
+<li>To give the date: &quot;le&quot; + cardinal number + month (no &quot;de&quot; between number and month, except &quot;premier&quot;): le 3 mai (May 3rd); le premier mai (May 1st — this is the ONE ordinal used for dates).</li>
+<li>&quot;On [a day]&quot; needs no preposition: Je travaille lundi. (I work on Monday.) Adding &quot;le&quot; before the day makes it a recurring/habitual event: Je travaille le lundi. (I work on Mondays / every Monday.)</li>
+<li>Seasons use &quot;en&quot; except spring: en été, en automne, en hiver, BUT au printemps (in spring).</li>
+<li>Years can be said two ways: &quot;dix-neuf cent quatre-vingt-seize&quot; or &quot;mille neuf cent quatre-vingt-seize&quot; for 1996 (both mean &quot;nineteen ninety-six&quot; style vs. &quot;one thousand nine hundred...&quot; style).</li>
+</ul>
+</section>
+<section class="table"><h2>Reference Table</h2><pre>Days (les jours): lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche
+Months (les mois): janvier, février, mars, avril, mai, juin, juillet, août,
+  septembre, octobre, novembre, décembre
+Seasons (les saisons): le printemps, l'été, l'automne, l'hiver</pre></section>
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">aujourd'hui</div><div class="vocab-meaning">today</div></div>
+<div class="vocab-row"><div class="vocab-word">demain</div><div class="vocab-meaning">tomorrow</div></div>
+<div class="vocab-row"><div class="vocab-word">hier</div><div class="vocab-meaning">yesterday</div></div>
+<div class="vocab-row"><div class="vocab-word">la semaine</div><div class="vocab-meaning">the week</div></div>
+<div class="vocab-row"><div class="vocab-word">le mois</div><div class="vocab-meaning">the month</div></div>
+<div class="vocab-row"><div class="vocab-word">l'année (f.)</div><div class="vocab-meaning">the year</div></div>
+<div class="vocab-row"><div class="vocab-word">quelle est la date ?</div><div class="vocab-meaning">what is the date?</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="fr">Nous sommes le 14 août.</p><p class="en">It's August 14th. (lit. &quot;we are the 14 August&quot;)</p></div>
+<div class="example"><p class="fr">Mon anniversaire est le premier mai.</p><p class="en">My birthday is May 1st.</p></div>
+<div class="example"><p class="fr">En hiver, il neige souvent.</p><p class="en">In winter, it often snows.</p></div>
+<div class="example"><p class="fr">Je pars en vacances au printemps.</p><p class="en">I'm going on vacation in spring.</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>To ask &quot;what day is it,&quot; French uses &quot;Quel jour sommes-nous ?&quot; or &quot;On est quel jour ?&quot; — literally &quot;what day are we.&quot;</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Write today's date in French, then your birthday.</p></section>
+</body>
+</html>

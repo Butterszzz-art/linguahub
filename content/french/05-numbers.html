@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Numbers</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .fr{font-weight:600; margin:0;}
+  .example .en{color:var(--ink-muted); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 1 · Foundations · Lesson 5</p>
+  <h1>Numbers</h1>
+  <section class="overview"><p>Numbers come up constantly — prices, ages, phone numbers, dates. French numbers have a few quirky patterns above 60 that are worth learning early.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>0–20 must simply be memorized (see vocabulary below); they don't follow a clean pattern.</li>
+<li>21, 31, 41, 51, 61, 71 use &quot;et&quot; before &quot;un&quot;: vingt et un (21), trente et un (31)... but NOT 81 or 91 (quatre-vingt-un, no &quot;et&quot;).</li>
+<li>22–29, 32–39, etc. are formed with a hyphen: vingt-deux (22).</li>
+<li>70–79: France uses base-60 counting — soixante-dix (70, literally &quot;sixty-ten&quot;), soixante-onze (71), ... soixante-dix-neuf (79).</li>
+<li>80–89: quatre-vingts (80, literally &quot;four-twenties&quot;), quatre-vingt-un (81, no plural -s on &quot;vingt&quot; once followed by another number), ... quatre-vingt-dix-neuf (99, &quot;four-twenty-nineteen&quot;). (Note: Belgium and Switzerland use septante=70, huitante/octante=80, nonante=90 — simpler, but not standard in France.)</li>
+<li>100+ : cent (100), cent un (101, no &quot;et&quot;), deux cents (200, &quot;cent&quot; takes -s only when a round multiple with nothing after it — deux cents but deux cent un), mille (1,000, NEVER takes -s: deux mille), un million, un milliard.</li>
+<li>Ordinal numbers (&quot;first, second...&quot;): add -ième to the cardinal number (minus a silent final -e): quatre -&gt; quatrième. Irregular: premier/première (1st), and second/seconde is an alternative to deuxième (2nd).</li>
+</ul>
+</section>
+<section class="table"><h2>Reference Table</h2><pre>0 zéro   1 un/une   2 deux   3 trois   4 quatre   5 cinq
+6 six    7 sept     8 huit   9 neuf    10 dix
+11 onze  12 douze   13 treize  14 quatorze  15 quinze
+16 seize 17 dix-sept 18 dix-huit 19 dix-neuf 20 vingt
+30 trente  40 quarante  50 cinquante  60 soixante
+70 soixante-dix   80 quatre-vingts   90 quatre-vingt-dix
+100 cent   1 000 mille   1 000 000 un million</pre></section>
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">un numéro</div><div class="vocab-meaning">a number</div></div>
+<div class="vocab-row"><div class="vocab-word">un prix</div><div class="vocab-meaning">a price</div></div>
+<div class="vocab-row"><div class="vocab-word">l'âge (m.)</div><div class="vocab-meaning">the age</div></div>
+<div class="vocab-row"><div class="vocab-word">combien</div><div class="vocab-meaning">how much/many</div></div>
+<div class="vocab-row"><div class="vocab-word">gratuit</div><div class="vocab-meaning">free (of charge)</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="fr">J'ai vingt-cinq ans.</p><p class="en">I am 25 years old. (French uses &quot;avoir X ans&quot;, lit. &quot;to have X years&quot;, not &quot;to be&quot;)</p></div>
+<div class="example"><p class="fr">Ça coûte quatre-vingt-quinze euros.</p><p class="en">That costs 95 euros.</p></div>
+<div class="example"><p class="fr">Elle habite au premier étage.</p><p class="en">She lives on the first floor (= 2nd floor US-style, since &quot;rez-de-chaussée&quot; is the ground floor).</p></div>
+<div class="example"><p class="fr">C'est mon deuxième voyage en France.</p><p class="en">This is my second trip to France.</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>Age, hunger, thirst, fear, and being right/wrong all use &quot;avoir&quot; (to have) in French where English uses &quot;to be&quot;: j'ai faim (I'm hungry, lit. &quot;I have hunger&quot;), j'ai raison (I'm right).</li>
+<li>Practice 70–99 out loud until the math becomes automatic — it's the #1 numbers stumbling block for English speakers.</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Say aloud: 71, 82, 95, 99, 100, 201, 1 000 000.</p></section>
+</body>
+</html>

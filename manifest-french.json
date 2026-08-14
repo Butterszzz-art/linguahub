@@ -1,0 +1,340 @@
+{
+  "classroom": {
+    "language": "French",
+    "level": "Beginner–Advanced"
+  },
+  "units": [
+    {
+      "title": "Part 1: Foundations",
+      "order": 0,
+      "lessons": [
+        {
+          "order": 0,
+          "title": "Lesson 1: The French Alphabet & Pronunciation Basics",
+          "file": "content/french/01-the-french-alphabet-pronunciation-basics.html"
+        },
+        {
+          "order": 1,
+          "title": "Lesson 2: Accents, Liaison, and Elision",
+          "file": "content/french/02-accents-liaison-and-elision.html"
+        },
+        {
+          "order": 2,
+          "title": "Lesson 3: Key Parts of Speech — The Big Picture",
+          "file": "content/french/03-key-parts-of-speech-the-big-picture.html"
+        },
+        {
+          "order": 3,
+          "title": "Lesson 4: Articles and Nouns — The Basics",
+          "file": "content/french/04-articles-and-nouns-the-basics.html"
+        },
+        {
+          "order": 4,
+          "title": "Lesson 5: Numbers",
+          "file": "content/french/05-numbers.html"
+        },
+        {
+          "order": 5,
+          "title": "Lesson 6: Days, Months, Dates, and Seasons",
+          "file": "content/french/06-days-months-dates-and-seasons.html"
+        },
+        {
+          "order": 6,
+          "title": "Lesson 7: Telling Time",
+          "file": "content/french/07-telling-time.html"
+        },
+        {
+          "order": 7,
+          "title": "Lesson 8: Greetings, Introductions, and Polite Expressions",
+          "file": "content/french/08-greetings-introductions-and-polite-expressions.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Present Tense & Core Sentence Structure",
+      "order": 1,
+      "lessons": [
+        {
+          "order": 8,
+          "title": "Lesson 9: Regular -ER Verbs in the Present Tense",
+          "file": "content/french/09-regular-er-verbs-in-the-present-tense.html"
+        },
+        {
+          "order": 9,
+          "title": "Lesson 10: -ER Verbs with Spelling and Stem Changes",
+          "file": "content/french/10-er-verbs-with-spelling-and-stem-changes.html"
+        },
+        {
+          "order": 10,
+          "title": "Lesson 11: -IR and -RE Verbs in the Present Tense",
+          "file": "content/french/11-ir-and-re-verbs-in-the-present-tense.html"
+        },
+        {
+          "order": 11,
+          "title": "Lesson 12: Être and Avoir (To Be and To Have)",
+          "file": "content/french/12-tre-and-avoir-to-be-and-to-have.html"
+        },
+        {
+          "order": 12,
+          "title": "Lesson 13: Aller, Venir, Faire — and the Immediate Future & Past",
+          "file": "content/french/13-aller-venir-faire-and-the-immediate-future-past.html"
+        },
+        {
+          "order": 13,
+          "title": "Lesson 14: Reflexive (Pronominal) Verbs",
+          "file": "content/french/14-reflexive-pronominal-verbs.html"
+        },
+        {
+          "order": 14,
+          "title": "Lesson 15: Negation",
+          "file": "content/french/15-negation.html"
+        },
+        {
+          "order": 15,
+          "title": "Lesson 16: Asking Questions",
+          "file": "content/french/16-asking-questions.html"
+        },
+        {
+          "order": 16,
+          "title": "Lesson 17: Devoir and Related Structures",
+          "file": "content/french/17-devoir-and-related-structures.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Past Tenses",
+      "order": 2,
+      "lessons": [
+        {
+          "order": 17,
+          "title": "Lesson 18: The Passé Composé with Avoir",
+          "file": "content/french/18-the-pass-compos-with-avoir.html"
+        },
+        {
+          "order": 18,
+          "title": "Lesson 19: Irregular Past Participles & the Passé Composé with Être",
+          "file": "content/french/19-irregular-past-participles-the-pass-compos-with-tre.html"
+        },
+        {
+          "order": 19,
+          "title": "Lesson 20: The Imparfait",
+          "file": "content/french/20-the-imparfait.html"
+        },
+        {
+          "order": 20,
+          "title": "Lesson 21: Imparfait vs. Passé Composé",
+          "file": "content/french/21-imparfait-vs-pass-compos.html"
+        },
+        {
+          "order": 21,
+          "title": "Lesson 22: The Plus-que-parfait",
+          "file": "content/french/22-the-plus-que-parfait.html"
+        },
+        {
+          "order": 22,
+          "title": "Lesson 23: The Passé Simple",
+          "file": "content/french/23-the-pass-simple.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 4: Future, Conditional & Subjunctive",
+      "order": 3,
+      "lessons": [
+        {
+          "order": 23,
+          "title": "Lesson 24: The Futur Simple",
+          "file": "content/french/24-the-futur-simple.html"
+        },
+        {
+          "order": 24,
+          "title": "Lesson 25: The Futur Antérieur",
+          "file": "content/french/25-the-futur-ant-rieur.html"
+        },
+        {
+          "order": 25,
+          "title": "Lesson 26: The Present Conditional",
+          "file": "content/french/26-the-present-conditional.html"
+        },
+        {
+          "order": 26,
+          "title": "Lesson 27: The Past Conditional",
+          "file": "content/french/27-the-past-conditional.html"
+        },
+        {
+          "order": 27,
+          "title": "Lesson 28: Could, Should, Would — Nuances of Devoir, Pouvoir, Vouloir",
+          "file": "content/french/28-could-should-would-nuances-of-devoir-pouvoir-vouloir.html"
+        },
+        {
+          "order": 28,
+          "title": "Lesson 29: The Present Subjunctive",
+          "file": "content/french/29-the-present-subjunctive.html"
+        },
+        {
+          "order": 29,
+          "title": "Lesson 30: The Past Subjunctive",
+          "file": "content/french/30-the-past-subjunctive.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 5: Infinitive, Participles, Passive Voice, Indirect Speech, Imperative",
+      "order": 4,
+      "lessons": [
+        {
+          "order": 30,
+          "title": "Lesson 31: The Infinitive Mood",
+          "file": "content/french/31-the-infinitive-mood.html"
+        },
+        {
+          "order": 31,
+          "title": "Lesson 32: The Present Participle and the Gerund",
+          "file": "content/french/32-the-present-participle-and-the-gerund.html"
+        },
+        {
+          "order": 32,
+          "title": "Lesson 33: The Passive Voice",
+          "file": "content/french/33-the-passive-voice.html"
+        },
+        {
+          "order": 33,
+          "title": "Lesson 34: Indirect Speech",
+          "file": "content/french/34-indirect-speech.html"
+        },
+        {
+          "order": 34,
+          "title": "Lesson 35: The Imperative Mood",
+          "file": "content/french/35-the-imperative-mood.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 6: Articles, Pronouns, Adjectives & Related Structures",
+      "order": 5,
+      "lessons": [
+        {
+          "order": 35,
+          "title": "Lesson 36: Articles and Nouns In Depth",
+          "file": "content/french/36-articles-and-nouns-in-depth.html"
+        },
+        {
+          "order": 36,
+          "title": "Lesson 37: Direct Object Pronouns",
+          "file": "content/french/37-direct-object-pronouns.html"
+        },
+        {
+          "order": 37,
+          "title": "Lesson 38: Indirect Object Pronouns, Y, and EN",
+          "file": "content/french/38-indirect-object-pronouns-y-and-en.html"
+        },
+        {
+          "order": 38,
+          "title": "Lesson 39: Order of Multiple Object Pronouns & Disjunctive Pronouns",
+          "file": "content/french/39-order-of-multiple-object-pronouns-disjunctive-pronouns.html"
+        },
+        {
+          "order": 39,
+          "title": "Lesson 40: Adjectives — Agreement, Placement, and Colors",
+          "file": "content/french/40-adjectives-agreement-placement-and-colors.html"
+        },
+        {
+          "order": 40,
+          "title": "Lesson 41: Comparatives and Superlatives",
+          "file": "content/french/41-comparatives-and-superlatives.html"
+        },
+        {
+          "order": 41,
+          "title": "Lesson 42: Demonstrative and Possessive Adjectives and Pronouns",
+          "file": "content/french/42-demonstrative-and-possessive-adjectives-and-pronouns.html"
+        },
+        {
+          "order": 42,
+          "title": "Lesson 43: Relative Pronouns",
+          "file": "content/french/43-relative-pronouns.html"
+        },
+        {
+          "order": 43,
+          "title": "Lesson 44: Adverbs and Expressions of Time, Frequency, and Location",
+          "file": "content/french/44-adverbs-and-expressions-of-time-frequency-and-location.html"
+        },
+        {
+          "order": 44,
+          "title": "Lesson 45: Verbs with Prepositions, Indefinite Relatives, and Fixed Expressions",
+          "file": "content/french/45-verbs-with-prepositions-indefinite-relatives-and-fixed-expre.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 7: Practical & Situational French",
+      "order": 6,
+      "lessons": [
+        {
+          "order": 45,
+          "title": "Lesson 46: The French You Already Know — Cognates and False Friends",
+          "file": "content/french/46-the-french-you-already-know-cognates-and-false-friends.html"
+        },
+        {
+          "order": 46,
+          "title": "Lesson 47: Home, Family, and Daily Routine Vocabulary",
+          "file": "content/french/47-home-family-and-daily-routine-vocabulary.html"
+        },
+        {
+          "order": 47,
+          "title": "Lesson 48: Making Small Talk — Preferences, Work, and Weather",
+          "file": "content/french/48-making-small-talk-preferences-work-and-weather.html"
+        },
+        {
+          "order": 48,
+          "title": "Lesson 49: Asking Directions and Finding Your Way",
+          "file": "content/french/49-asking-directions-and-finding-your-way.html"
+        },
+        {
+          "order": 49,
+          "title": "Lesson 50: Dining Out and Grocery Shopping",
+          "file": "content/french/50-dining-out-and-grocery-shopping.html"
+        },
+        {
+          "order": 50,
+          "title": "Lesson 51: Shopping",
+          "file": "content/french/51-shopping.html"
+        },
+        {
+          "order": 51,
+          "title": "Lesson 52: Going Out on the Town",
+          "file": "content/french/52-going-out-on-the-town.html"
+        },
+        {
+          "order": 52,
+          "title": "Lesson 53: Business and Telecommunications",
+          "file": "content/french/53-business-and-telecommunications.html"
+        },
+        {
+          "order": 53,
+          "title": "Lesson 54: Recreation and the Outdoors",
+          "file": "content/french/54-recreation-and-the-outdoors.html"
+        },
+        {
+          "order": 54,
+          "title": "Lesson 55: Planning a Trip and Money Matters",
+          "file": "content/french/55-planning-a-trip-and-money-matters.html"
+        },
+        {
+          "order": 55,
+          "title": "Lesson 56: Getting Around and Finding a Place to Stay",
+          "file": "content/french/56-getting-around-and-finding-a-place-to-stay.html"
+        },
+        {
+          "order": 56,
+          "title": "Lesson 57: Handling Emergencies",
+          "file": "content/french/57-handling-emergencies.html"
+        },
+        {
+          "order": 57,
+          "title": "Lesson 58: Idioms, Expressions, and Sounding Like a Native",
+          "file": "content/french/58-idioms-expressions-and-sounding-like-a-native.html"
+        }
+      ]
+    }
+  ]
+}
