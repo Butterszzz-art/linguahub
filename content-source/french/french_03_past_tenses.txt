@@ -1,0 +1,369 @@
+################################################################
+PART 3 — PAST TENSES (Lessons 18–23)
+################################################################
+
+================================================================
+LESSON 18: The Passé Composé with Avoir
+================================================================
+
+OVERVIEW:
+The passé composé is the everyday "I did / I have done" past tense in
+French — the one you'll use most in conversation. Most verbs form it with
+avoir as the helper.
+
+GRAMMAR:
+- Formation: conjugated avoir (present tense) + past participle of the
+  main verb.
+- Regular past participles:
+    -er verbs -> -é   (parler -> parlé)
+    -ir verbs -> -i    (finir -> fini)
+    -re verbs -> -u    (vendre -> vendu)
+- Negation wraps the helper verb: Je n'ai pas mangé. (I haven't eaten.)
+- Questions with inversion invert the helper and subject: As-tu mangé ?
+  (Did you eat?)
+- The passé composé translates several English past forms: "I ate" / "I
+  have eaten" / "I did eat" are all "j'ai mangé."
+
+CONJUGATION TABLE:
+parler (to speak) — passé composé:
+j'ai parlé          nous avons parlé
+tu as parlé          vous avez parlé
+il/elle/on a parlé    ils/elles ont parlé
+
+VOCABULARY:
+hier - yesterday          la semaine dernière - last week
+déjà - already             pas encore - not yet
+ce matin - this morning     tout à l'heure - a while ago / earlier
+
+EXAMPLES:
+J'ai mangé une pomme ce matin. - I ate an apple this morning.
+Nous avons regardé un film hier soir. - We watched a movie last night.
+Est-ce que tu as fini tes devoirs ? - Did you finish your homework?
+Elle n'a pas encore répondu. - She hasn't answered yet.
+
+NOTES:
+- Word order with negation and adverbs like "déjà"/"pas encore" typically
+  slots them between the helper verb and the past participle: J'ai déjà
+  mangé (I've already eaten).
+
+PRACTICE:
+Conjugate "finir" and "vendre" fully in the passé composé.
+
+================================================================
+LESSON 19: Irregular Past Participles & the Passé Composé with Être
+================================================================
+
+OVERVIEW:
+Many common, high-frequency verbs have irregular past participles, and a
+small but important group of verbs (mostly verbs of motion, plus all
+reflexive verbs) use être instead of avoir as their helper — with an
+agreement rule that doesn't apply to avoir verbs.
+
+GRAMMAR:
+- Common irregular past participles to memorize:
+    être -> été       avoir -> eu         faire -> fait
+    prendre -> pris    mettre -> mis       dire -> dit
+    voir -> vu          savoir -> su        pouvoir -> pu
+    vouloir -> voulu    devoir -> dû        venir -> venu
+    écrire -> écrit      lire -> lu          ouvrir -> ouvert
+- A specific set of (mostly) intransitive motion/change-of-state verbs use
+  être as the helper instead of avoir. A common memory device is the
+  house "DR. & MRS. VANDERTRAMP" (each letter starts one of these verbs):
+    Devenir (become), Revenir (come back), Monter (go up), Rester (stay),
+    Sortir (go out), Venir (come), Aller (go), Naître (be born),
+    Descendre (go down), Entrer (enter), Rentrer (go back in/home),
+    Tomber (fall), Retourner (return), Arriver (arrive),
+    Mourir (die), Partir (leave)
+- With être verbs, the past participle AGREES in gender/number with the
+  SUBJECT (like an adjective): elle est allée (she went, feminine -e
+  added), ils sont partis (they left, masculine plural -s added), elles
+  sont arrivées (they arrived, feminine plural -es added).
+- Reflexive verbs (Lesson 14) ALSO always use être in the passé composé,
+  with the reflexive pronoun placed before the helper: elle s'est levée
+  (she got up). The past participle usually agrees with the reflexive
+  pronoun when it functions as a direct object (most common case), but
+  does NOT agree if the reflexive pronoun is an indirect object (e.g.,
+  se laver les mains -> elle s'est lavé les mains — no agreement, because
+  "les mains" is the direct object, not "se").
+
+CONJUGATION TABLE:
+aller (to go) — passé composé:
+je suis allé(e)          nous sommes allé(e)s
+tu es allé(e)             vous êtes allé(e)(s)
+il est allé / elle est allée   ils sont allés / elles sont allées
+
+se lever (to get up) — passé composé:
+je me suis levé(e)        nous nous sommes levé(e)s
+tu t'es levé(e)            vous vous êtes levé(e)(s)
+il s'est levé / elle s'est levée   ils se sont levés / elles se sont levées
+
+VOCABULARY:
+(the DR & MRS VANDERTRAMP verbs — see grammar section above)
+naître - to be born      mourir - to die
+monter - to go up         descendre - to go down
+rester - to stay           tomber - to fall
+
+EXAMPLES:
+Elle est née en 1995 à Marseille. - She was born in 1995 in Marseille.
+Nous sommes rentrés tard hier soir. - We got home late last night.
+Ils se sont rencontrés à l'université. - They met each other at university.
+J'ai déjà vu ce film. - I've already seen this movie. (avoir + irregular
+  participle "vu")
+
+NOTES:
+- Some VANDERTRAMP verbs (monter, descendre, sortir, rentrer, retourner)
+  can also be used transitively (with a direct object) — when they take a
+  direct object, they switch to avoir: Elle a monté les valises. (She
+  brought the suitcases up.) vs. Elle est montée. (She went up.)
+
+PRACTICE:
+Conjugate "partir" and "se laver" fully in the passé composé, marking the
+agreement on the past participle for each subject.
+
+================================================================
+LESSON 20: The Imparfait
+================================================================
+
+OVERVIEW:
+The imparfait ("imperfect") is French's other main past tense — used for
+descriptions, background, habits, and ongoing states in the past, as
+opposed to the completed actions of the passé composé.
+
+GRAMMAR:
+- Formation: take the nous form of the present tense, drop -ons, and add:
+    -ais, -ais, -ait, -ions, -iez, -aient
+  (This works for every verb except être, whose stem is irregular: ét-.)
+- Uses of the imparfait:
+    1. Descriptions in the past (people, places, weather, states of mind):
+       Il faisait beau. (The weather was nice.)
+    2. Habitual/repeated past actions ("used to," "would [routinely]"):
+       Quand j'étais petit, je jouais dehors tous les jours. (When I was
+       little, I used to play outside every day.)
+    3. An ongoing action interrupted by another action (often paired with
+       passé composé for the interrupting event): Je dormais quand le
+       téléphone a sonné. (I was sleeping when the phone rang.)
+    4. Polite requests/suggestions: Je voulais vous demander... (I wanted
+       to ask you...)
+
+CONJUGATION TABLE:
+parler (to speak) — imparfait:
+je parlais          nous parlions
+tu parlais           vous parliez
+il/elle/on parlait    ils/elles parlaient
+
+être (to be) — imparfait (irregular stem ét-):
+j'étais    tu étais    il était    nous étions    vous étiez    ils étaient
+
+VOCABULARY:
+autrefois - in the past / long ago
+tous les jours/ans - every day/year
+souvent - often
+d'habitude - usually
+pendant que - while
+
+EXAMPLES:
+Quand j'étais enfant, j'habitais à la campagne. - When I was a child, I
+  lived in the countryside.
+Il pleuvait quand nous sommes sortis. - It was raining when we went out.
+Nous allions à la plage tous les étés. - We used to go to the beach every
+  summer.
+Elle était fatiguée après le travail. - She was tired after work.
+
+NOTES:
+- Weather, age, time, and emotional/physical states are almost always in
+  the imparfait when narrating the past, because they describe a
+  background condition rather than a completed event.
+
+PRACTICE:
+Describe your childhood home and a typical day from your childhood using
+five imparfait sentences.
+
+================================================================
+LESSON 21: Imparfait vs. Passé Composé
+================================================================
+
+OVERVIEW:
+This is the single trickiest contrast for English speakers learning French
+past tenses — both translate to English simple past, but they express
+fundamentally different things.
+
+GRAMMAR:
+- Passé composé = a completed, bounded action or event — something that
+  happened and finished, often with a clear beginning/end or a specific
+  number of occurrences: J'ai mangé à midi. (I ate at noon — one specific,
+  completed event.)
+- Imparfait = an ongoing state, background description, habitual action,
+  or a scene being "set" — no clear boundary on when it started or
+  stopped: Je mangeais quand tu as appelé. (I was eating [ongoing] when
+  you called [completed interruption].)
+- A useful test: if you can insert "was/were -ing" or "used to" in English
+  and it still makes sense, it's imparfait. If the action is a single
+  completed event you could put on a timeline with a clear end, it's
+  passé composé.
+- The same verb can appear in either tense with a real meaning shift:
+    Il faisait beau. (It was nice out — ongoing description.)
+    Il a fait beau toute la journée. (It was nice ALL DAY — a bounded,
+      completed period, viewed as one whole block of time.)
+- Certain verbs (connaître, pouvoir, savoir, vouloir) shift MEANING
+  depending on which past tense is used:
+    je connaissais (imparfait) = I knew (a person, over time) vs.
+      j'ai connu (passé composé) = I met (for the first time)
+    je pouvais (imparfait) = I was able to (in general/had the ability) vs.
+      j'ai pu (passé composé) = I managed to / succeeded in (one specific
+      instance)
+    je savais (imparfait) = I knew (a fact, ongoing) vs.
+      j'ai su (passé composé) = I found out / learned (at a specific moment)
+    je voulais (imparfait) = I wanted (ongoing desire) vs.
+      j'ai voulu (passé composé) = I decided to / tried to (and often
+      failed); je n'ai pas voulu = I refused
+
+CONJUGATION TABLE:
+(contrast reference — see Lessons 18–20 for full conjugations)
+
+VOCABULARY:
+soudain / tout à coup - suddenly
+un jour - one day
+pendant que - while
+à ce moment-là - at that moment
+
+EXAMPLES:
+J'étais à la maison quand le téléphone a sonné. - I was at home when the
+  phone rang. (imparfait = background state; passé composé = the event)
+Nous parlions français ensemble quand nous étions enfants. - We used to
+  speak French together when we were children. (both imparfait — habitual
+  background)
+Elle a couru pour attraper le bus. - She ran to catch the bus. (single
+  completed action)
+Je ne savais pas que tu étais marié. J'ai su hier. - I didn't know you
+  were married. I found out yesterday. (meaning shift: savais=knew,
+  ongoing; ai su=found out, punctual)
+
+NOTES:
+- Don't overthink single-word translation — think in terms of "is this a
+  photograph (imparfait, a state/scene) or a video clip with a clear start
+  and end (passé composé, an event)?"
+
+PRACTICE:
+Write a 4–5 sentence short story about last weekend, deliberately mixing
+imparfait (for background/description) and passé composé (for the actions
+that happened).
+
+================================================================
+LESSON 22: The Plus-que-parfait
+================================================================
+
+OVERVIEW:
+The plus-que-parfait ("pluperfect") expresses an action that happened
+BEFORE another past action — the French equivalent of English "had done."
+
+GRAMMAR:
+- Formation: imparfait of avoir or être (same helper-verb rule as passé
+  composé) + past participle.
+- Used to show that one past event occurred earlier than another past
+  event already being discussed (usually in imparfait or passé composé):
+  Quand je suis arrivé, elle était déjà partie. (When I arrived, she had
+  already left — her leaving happened before my arriving.)
+- Agreement rules for the past participle are identical to the passé
+  composé (agree with subject for être verbs, agree with a preceding
+  direct object for avoir verbs — see Lesson 19).
+- Often appears with "déjà" (already) or in reported/indirect speech
+  referring back to an earlier past event.
+
+CONJUGATION TABLE:
+parler (to speak) — plus-que-parfait:
+j'avais parlé          nous avions parlé
+tu avais parlé           vous aviez parlé
+il/elle/on avait parlé    ils/elles avaient parlé
+
+aller (to go) — plus-que-parfait:
+j'étais allé(e)          nous étions allé(e)s
+tu étais allé(e)           vous étiez allé(e)(s)
+il était allé / elle était allée   ils étaient allés / elles étaient allées
+
+VOCABULARY:
+déjà - already
+avant que - before
+ne...jamais (+ plus-que-parfait) - had never
+
+EXAMPLES:
+Il avait déjà mangé quand nous sommes arrivés. - He had already eaten when
+  we arrived.
+Je n'avais jamais visité Paris avant ce voyage. - I had never visited
+  Paris before this trip.
+Elle était déjà partie quand j'ai téléphoné. - She had already left when
+  I called.
+Nous avions fini nos devoirs avant le dîner. - We had finished our
+  homework before dinner.
+
+NOTES:
+- Think of the plus-que-parfait as "the past of the past" — it always sets
+  up a relationship to another, more recent past event mentioned nearby.
+
+PRACTICE:
+Combine each pair of events using plus-que-parfait + passé composé: "I
+arrived at the station. The train had already left." / "She called me. I
+had already gone to bed."
+
+================================================================
+LESSON 23: The Passé Simple
+================================================================
+
+OVERVIEW:
+The passé simple is a literary/formal past tense — you'll almost never use
+it in speech, but you need to RECOGNIZE it to read novels, newspapers,
+historical writing, and formal narration. It covers the same ground as the
+passé composé but in a more formal written register.
+
+GRAMMAR:
+- Formation for regular verbs — drop the infinitive ending and add:
+    -er verbs: -ai, -as, -a, -âmes, -âtes, -èrent (parler -> il parla)
+    -ir/-re verbs: -is, -is, -it, -îmes, -îtes, -irent (finir -> il finit;
+      vendre -> il vendit)
+- Many irregular verbs have their own passé simple stem, often related to
+  the past participle: avoir -> il eut; être -> il fut; faire -> il fit;
+  venir -> il vint; voir -> il vit; prendre -> il prit.
+- In modern usage, the passé simple survives almost exclusively in the
+  3rd person (il/elle/on and ils/elles) — the 1st/2nd person forms are
+  rare even in literature, replaced by passé composé in nearly all
+  contexts.
+- Recognition tip: if you see an unfamiliar verb form ending in -a, -it,
+  -ut, -int, or -èrent/-irent/-urent in a story or historical text, it's
+  very likely a passé simple form of a verb you already know in another
+  tense.
+
+CONJUGATION TABLE:
+parler (to speak) — passé simple (3rd person, most useful to recognize):
+il/elle/on parla        ils/elles parlèrent
+finir (to finish) — passé simple:
+il/elle/on finit         ils/elles finirent
+être (to be) — passé simple (irregular):
+il/elle/on fut            ils/elles furent
+avoir (to have) — passé simple (irregular):
+il/elle/on eut            ils/elles eurent
+
+VOCABULARY:
+il était une fois - once upon a time
+soudain - suddenly
+alors - then/so
+(the passé simple is common in fairy tales and historical narration)
+
+EXAMPLES:
+Il était une fois une princesse qui vivait dans un château. Un jour, elle
+  rencontra un dragon. - Once upon a time there was a princess who lived
+  in a castle. One day, she met a dragon. ("rencontra" = passé simple of
+  rencontrer)
+Napoléon naquit en 1769 et mourut en 1821. - Napoleon was born in 1769 and
+  died in 1821. (naquit/mourut = passé simple, common in history texts)
+
+NOTES:
+- For self-study purposes, focus on RECOGNIZING the 3rd-person singular
+  and plural forms in reading — you do not need to actively produce this
+  tense in conversation or everyday writing.
+
+PRACTICE:
+In a French news article, fairy tale, or history text, find 3 passé simple
+verbs and identify their infinitive and their passé composé equivalent.
+
+################################################################
+END OF PART 3 — Continue to french_04_future_conditional_subjunctive.txt
+################################################################

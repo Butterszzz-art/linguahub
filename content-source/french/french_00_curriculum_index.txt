@@ -1,0 +1,69 @@
+################################################################
+FRENCH COURSE — MASTER CURRICULUM INDEX
+Compiled from: "French For Dummies" (2nd ed., Erotopoulos et al.)
+              "Complete French Grammar" (Practice Makes Perfect, Heminway)
+################################################################
+
+HOW THIS COURSE IS ORGANIZED
+-----------------------------
+This is a full beginner-to-advanced French curriculum, split across 7 files
+so each one is a manageable size for import into your webapp. Every file
+uses the same plain-text structure so it can be parsed programmatically:
+
+  ################  = PART divider (top-level unit)
+  ================  = LESSON divider (one lesson/topic)
+  ALL-CAPS LABEL:    = section within a lesson (OVERVIEW, GRAMMAR,
+                       CONJUGATION, VOCABULARY, EXAMPLES, NOTES, PRACTICE)
+
+Suggested parsing rule for your webapp: split on lines of "====" to get
+lessons, then split each lesson on the ALL-CAPS labels followed by a colon
+at the start of a line to get sections.
+
+FILES IN THIS COURSE
+---------------------
+french_00_curriculum_index.txt        <- you are here
+french_01_foundations.txt             Lessons 1–8   Pronunciation, alphabet,
+                                       accents, basic grammar concepts,
+                                       articles & nouns, numbers, dates,
+                                       time, greetings
+french_02_present_tense.txt           Lessons 9–17  Regular verbs (-er/-ir/-re),
+                                       spelling-change verbs, être/avoir,
+                                       aller/venir/faire, immediate future &
+                                       past, reflexive verbs, negation,
+                                       questions, devoir
+french_03_past_tenses.txt             Lessons 18–23 Passé composé, imparfait,
+                                       imparfait vs. passé composé,
+                                       plus-que-parfait, passé simple
+french_04_future_conditional_subjunctive.txt
+                                       Lessons 24–29 Futur simple, futur
+                                       antérieur, present & past conditional,
+                                       could/should/would, present & past
+                                       subjunctive
+french_05_infinitive_participle_passive_imperative.txt
+                                       Lessons 30–34 Infinitive mood, present
+                                       participle & gerund, passive voice,
+                                       indirect speech, imperative mood
+french_06_pronouns_adjectives_articles.txt
+                                       Lessons 35–44 Articles & nouns in depth,
+                                       all pronoun types, adjectives &
+                                       comparisons, demonstratives &
+                                       possessives, relative pronouns,
+                                       adverbs, numbers in full, verbs with
+                                       prepositions
+french_07_practical_situational.txt   Lessons 45–58 Cognates & false friends,
+                                       greetings, home & family & daily
+                                       routine, small talk, weather, work,
+                                       directions, dining & market, shopping,
+                                       going out, business & phone, recreation,
+                                       trip planning, money, transportation,
+                                       lodging, emergencies, top expressions
+
+RECOMMENDED PATH
+-----------------
+Beginner:      Part 1 -> Part 2 -> Part 7 (situational, taken alongside 1-2)
+Intermediate:  Part 3 -> Part 4 -> Part 6
+Advanced:      Part 5 -> polish weak spots in Part 4/6, start reading/media
+
+Each lesson is self-contained enough to stand alone as a "classroom" unit —
+overview, rule explanation, a reference table, core vocabulary, worked
+example sentences, and common-mistake notes, in that order.

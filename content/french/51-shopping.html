@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shopping</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .fr{font-weight:600; margin:0;}
+  .example .en{color:var(--ink-muted); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 7 · Practical &amp; Situational French · Lesson 51</p>
+  <h1>Shopping</h1>
+  <section class="overview"><p>Vocabulary and phrases for clothes shopping, sizes, prices, and payment.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>&quot;Est-ce que je peux essayer...?&quot; (Can I try on...?) uses pouvoir (Lesson 28) + infinitive.</li>
+<li>Sizes and colors (Lesson 40) combine with clothing nouns: une chemise bleue en taille moyenne (a blue shirt in medium size).</li>
+<li>&quot;Ça coûte combien ?&quot; / &quot;Combien ça coûte ?&quot; both ask the price informally; &quot;Quel est le prix ?&quot; is more formal.</li>
+</ul>
+</section>
+<section class="table"><h2>Reference Table</h2><pre>(vocabulary-focused lesson)</pre></section>
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">un vêtement</div><div class="vocab-meaning">a piece of clothing</div></div>
+<div class="vocab-row"><div class="vocab-word">la taille</div><div class="vocab-meaning">the size (clothing)</div></div>
+<div class="vocab-row"><div class="vocab-word">la pointure</div><div class="vocab-meaning">the size (shoes)</div></div>
+<div class="vocab-row"><div class="vocab-word">essayer</div><div class="vocab-meaning">to try on</div></div>
+<div class="vocab-row"><div class="vocab-word">la cabine d'essayage</div><div class="vocab-meaning">the fitting room</div></div>
+<div class="vocab-row"><div class="vocab-word">cher / bon marché</div><div class="vocab-meaning">expensive / cheap</div></div>
+<div class="vocab-row"><div class="vocab-word">en solde</div><div class="vocab-meaning">on sale</div></div>
+<div class="vocab-row"><div class="vocab-word">la caisse</div><div class="vocab-meaning">the checkout/register</div></div>
+<div class="vocab-row"><div class="vocab-word">payer en espèces / par carte</div><div class="vocab-meaning">to pay in cash / by card</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="fr">Je cherche une robe pour une occasion spéciale.</p><p class="en">I'm looking for a dress for a special occasion.</p></div>
+<div class="example"><p class="fr">Est-ce que je peux essayer cette veste en taille 40 ?</p><p class="en">Can I try on this jacket in size 40?</p></div>
+<div class="example"><p class="fr">C'est un peu trop cher pour moi. Vous avez quelque chose de moins cher ?</p><p class="en">That's a bit too expensive for me. Do you have something less expensive?</p></div>
+<div class="example"><p class="fr">Je vais payer par carte, merci.</p><p class="en">I'll pay by card, thanks.</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>European clothing and shoe sizes differ from US sizing — if shopping in France, check a conversion chart rather than assuming your US number translates directly.</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Write a shopping dialogue: asking to try something on, asking the price, and deciding whether to buy it.</p></section>
+</body>
+</html>

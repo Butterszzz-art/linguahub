@@ -1,0 +1,551 @@
+################################################################
+PART 5 — ADVANCED TOPICS AND WRAP-UP (Lessons 37-44)
+################################################################
+
+================================================================
+LESSON 37: Demonstratives and Possessives
+================================================================
+
+OVERVIEW:
+This lesson covers two families of words that point to and claim
+ownership of things: demonstratives (this/that) and possessives (my/your/
+his/her). Both agree with the noun they modify, following patterns you've
+already seen with adjectives.
+
+GRAMMAR:
+- Demonstrative adjectives/pronouns: questo/a/i/e (this/these) behaves
+  like a regular Type 1 adjective (Lesson 6): questo libro, questa casa,
+  questi libri, queste case.
+- Quello (that/those) is trickier — it borrows endings from the definite
+  article system (Lesson 5) depending on the noun that follows: quel
+  libro (like "il"), quello studente (like "lo"), quell'amico (like
+  "l'"), quella casa (like "la"), quei libri (like "i"), quegli studenti
+  (like "gli"), quelle case (like "le"). Used alone as a pronoun ("that
+  one"), it simplifies to quello/a/i/e.
+- Possessive adjectives (my, your, his/her, our, your-pl, their) agree
+  with the THING POSSESSED, not with the possessor — this is a genuine
+  difference from English, where "his" and "her" depend on the owner's
+  gender:
+    il mio libro (my book) / la mia casa (my house) — same possessor,
+    different endings based on what's owned
+    Full set (masc. sg. shown): il mio, il tuo, il suo, il nostro, il
+    vostro, il loro (their — invariable across gender/number, unlike the
+    others)
+- Possessives normally keep the definite article (il mio libro), EXCEPT
+  with singular, unmodified family members, where the article drops: mia
+  madre (my mother), tuo padre (your father), sua sorella (his/her
+  sister) — but the article returns if the noun is plural or modified: i
+  miei genitori (my parents), la mia sorella maggiore (my older sister).
+
+CONJUGATION TABLE:
+(possessive adjectives, masculine singular form shown as the base)
+Possessor      Masc. sg.   Fem. sg.    Masc. pl.   Fem. pl.
+my             il mio      la mia      i miei      le mie
+your (inf.)    il tuo      la tua      i tuoi      le tue
+his/her/your(f) il suo     la sua      i suoi      le sue
+our            il nostro   la nostra   i nostri    le nostre
+your (pl.)     il vostro   la vostra   i vostri    le vostre
+their          il loro     la loro     i loro      le loro
+
+VOCABULARY:
+questo/a (KWEHS-toh) - this
+quello/a (KWEHL-loh) - that
+il mio/la mia (eel MEE-oh/lah MEE-ah) - my/mine
+il tuo/la tua (eel TOO-oh/lah TOO-ah) - your/yours (informal)
+il suo/la sua (eel SOO-oh/lah SOO-ah) - his/her/its/your (formal)
+il nostro/la nostra (eel NOHS-troh) - our/ours
+il loro/la loro (eel LOH-roh) - their/theirs
+la madre (lah MAH-dreh) - mother
+il padre (eel PAH-dreh) - father
+i genitori (ee jeh-nee-TOH-ree) - parents
+
+EXAMPLES:
+Questo libro è mio, quello è tuo. - KWEHS-toh LEE-broh eh MEE-oh, KWEHL-
+  loh eh TOO-oh - This book is mine, that one is yours.
+Mia madre e mio padre abitano a Torino. - MEE-ah MAH-dreh eh MEE-oh
+  PAH-dreh AH-bee-tah-noh ah toh-REE-noh - My mother and father live in
+  Turin.
+I miei genitori sono in vacanza. - ee MYEH-ee jeh-nee-TOH-ree SOH-noh een
+  vah-KAHN-tsah - My parents are on vacation.
+Quella macchina rossa è la nostra. - KWEHL-lah MAHK-kee-nah ROHS-sah eh
+  lah NOHS-trah - That red car is ours.
+
+NOTES:
+- The dropped article with singular family terms is one of the most
+  distinctive features of Italian possessives — mia madre, not "la mia
+  madre" — and it's worth practicing as a fixed exception.
+- When quello functions as an adjective before a noun, it changes form
+  like the definite article does; when it stands alone as a pronoun
+  ("that one"), it simplifies back to the plain quello/a/i/e pattern.
+
+PRACTICE:
+Fill in the possessive: ___ (my) fratello, ___ (his) macchina, ___ (our)
+casa, ___ (their) amici. Then use quello correctly before: studente,
+amica, ragazzi, case.
+
+================================================================
+LESSON 38: Handling Medical Emergencies
+================================================================
+
+OVERVIEW:
+Nobody wants to need this vocabulary, but knowing it in advance removes a
+lot of stress if you ever do. This lesson covers describing symptoms,
+body parts, and getting help at a doctor's office or pharmacy.
+
+GRAMMAR:
+- Basic body part vocabulary uses the regular gender patterns from
+  Lesson 4, but several very common body parts have IRREGULAR plurals
+  worth memorizing directly: il braccio -> le braccia (arms), il dito ->
+  le dita (fingers), il ginocchio -> le ginocchia (knees), l'orecchio ->
+  le orecchie (ears), la mano -> le mani (hands, irregular because mano
+  is feminine despite its -o ending).
+- To say something hurts, Italian has two common constructions:
+    fare male (to hurt) + indirect pronoun: Mi fa male la gamba. (My leg
+      hurts.) Use fa for one thing hurting, fanno for multiple: Mi fanno
+      male gli occhi. (My eyes hurt.)
+    avere mal di + [body part, no article]: Ho mal di testa. (I have a
+      headache.) Ho mal di stomaco. (I have a stomachache.)
+- To say you feel sick or unwell, use the reflexive verb sentirsi
+  (Lesson 31): Mi sento male. (I feel sick.) Non mi sento bene. (I don't
+  feel well.)
+- Asking for help: Ho bisogno di un medico. (I need a doctor.) Dov'è il
+  pronto soccorso? (Where's the emergency room?) Chiamate un'ambulanza!
+  (Call an ambulance! — voi imperative, Lesson 36, since you may be
+  addressing anyone nearby)
+
+VOCABULARY:
+la testa (lah TEHS-tah) - the head
+la gamba (lah GAHM-bah) - the leg
+lo stomaco (loh STOH-mah-koh) - the stomach
+il braccio/le braccia (eel BRAHCH-choh/leh BRAHCH-chah) - arm(s)
+fare male (FAH-reh MAH-leh) - to hurt
+avere mal di... (ah-VEH-reh mahl dee) - to have a(n) ...ache
+sentirsi male (sehn-TEER-see MAH-leh) - to feel sick
+il pronto soccorso (eel PROHN-toh sohk-KOHR-soh) - emergency room
+la farmacia (lah fahr-mah-CHEE-ah) - the pharmacy
+la ricetta (lah ree-CHEHT-tah) - the prescription
+
+EXAMPLES:
+Mi fa male la gamba da ieri. - mee fah MAH-leh lah GAHM-bah dah YEH-ree -
+  My leg has hurt since yesterday.
+Ho mal di testa e mal di stomaco. - oh mahl dee TEHS-tah eh mahl dee
+  STOH-mah-koh - I have a headache and a stomachache.
+Non mi sento bene, ho bisogno di un medico. - nohn mee SEHN-toh BEH-neh,
+  oh bee-ZOH-nyoh dee oon MEH-dee-koh - I don't feel well, I need a
+  doctor.
+Chiamate un'ambulanza, per favore! - kyah-MAH-teh oo-nahm-boo-LAHN-tsah,
+  pehr fah-VOH-reh - Call an ambulance, please!
+
+NOTES:
+- The irregular plurals for body parts (braccia, dita, ginocchia,
+  orecchie) are genuinely exceptions to normal noun rules — they were
+  originally neuter nouns in Latin, which is why they behave differently;
+  simply memorize them as a set.
+- Fare male vs. avere mal di both work for describing pain, but avere mal
+  di is generally reserved for a fixed set of common ailments (testa,
+  stomaco, schiena, denti, gola), while fare male is more flexible and
+  can describe any body part.
+
+PRACTICE:
+Describe three different symptoms using both constructions (fare male and
+avere mal di), then write a short sentence asking for a doctor who speaks
+English.
+
+================================================================
+LESSON 39: Police, Accidents, and Lost Documents
+================================================================
+
+OVERVIEW:
+This lesson covers a different kind of emergency vocabulary: reporting an
+accident, dealing with the police, and handling a lost or stolen passport
+or other documents.
+
+GRAMMAR:
+- To report that something has happened, use the passato prossimo
+  (Lessons 26-27): C'è stato un incidente. (There's been an accident.)
+  Note stato is the past participle of essere itself, used here
+  impersonally.
+- Asking and describing injury: Ci sono feriti? (Is anyone injured?) C'è
+  una persona ferita. (There's an injured person.)
+- To report something stolen or lost, mi hanno rubato (they stole from
+  me / [thing] was stolen from me) is a common indirect construction: Mi
+  hanno rubato il passaporto. (My passport was stolen. — lit. "They
+  stole my passport from me.") For something simply lost (not stolen):
+  Ho perso il passaporto. (I lost my passport.)
+- Italy's emergency police number is 113, valid nationwide, and reachable
+  for police assistance as well as ambulance dispatch in an emergency.
+- Useful phrases for dealing with authorities: Ho bisogno di un
+  avvocato. (I need a lawyer.) C'è un interprete che parla inglese? (Is
+  there an interpreter who speaks English?)
+
+VOCABULARY:
+l'incidente (leen-chee-DEHN-teh) - the accident
+ferito/a (feh-REE-toh) - injured
+la polizia (lah poh-lee-TSEE-ah) - the police
+rubare (roo-BAH-reh) - to steal
+mi hanno rubato... (mee AHN-noh roo-BAH-toh) - ... was stolen from me
+perdere (PEHR-deh-reh) - to lose
+il passaporto (eel pahs-sah-POHR-toh) - the passport
+il portafoglio (eel pohr-tah-FOH-lyoh) - the wallet
+l'avvocato (lahv-voh-KAH-toh) - the lawyer
+denunciare (deh-noon-CHAH-reh) - to report (to police)
+
+EXAMPLES:
+C'è stato un incidente in Piazza Mattei. - cheh STAH-toh oon
+  een-chee-DEHN-teh een PYAHT-tsah maht-TEH-ee - There's been an accident
+  in Piazza Mattei.
+Mi hanno rubato il portafoglio sull'autobus. - mee AHN-noh roo-BAH-toh eel
+  pohr-tah-FOH-lyoh sool-LOU-toh-boos - My wallet was stolen on the bus.
+Devo denunciare il furto alla polizia. - DEH-voh deh-noon-CHAH-reh eel
+  FOOR-toh AHL-lah poh-lee-TSEE-ah - I need to report the theft to the
+  police.
+Ho perso il passaporto, cosa devo fare? - oh PEHR-soh eel pahs-sah-
+  POHR-toh, KOH-zah DEH-voh FAH-reh - I've lost my passport, what should
+  I do?
+
+NOTES:
+- Keep "ho perso" (I lost) and "mi hanno rubato" (it was stolen from me)
+  distinct — they have real practical consequences (insurance, police
+  reports), so don't use them interchangeably.
+- If you lose or have a passport stolen, contacting your country's
+  embassy or consulate is the standard next step after reporting to local
+  police — worth knowing even though it's outside the language lesson
+  itself.
+
+PRACTICE:
+Write a short police report dialogue: describe what happened (an
+accident or theft), whether anyone was hurt, and what was taken or lost.
+
+================================================================
+LESSON 40: Interrogative Pronouns — Asking Questions Well
+================================================================
+
+OVERVIEW:
+You've been using individual question words throughout this course (dove,
+quando, come); this lesson pulls them together systematically and adds a
+few more, including the tricky che vs. quale distinction.
+
+GRAMMAR:
+- Core interrogative words: chi? (who?), che cosa?/cosa?/che? (what? —
+  all three are interchangeable, che cosa being the fullest form), dove?
+  (where?), quando? (when?), come? (how?), perché? (why?), quanto/a/i/e?
+  (how much/many? — agrees with the noun like an adjective), quale/i?
+  (which?).
+- Che vs. quale: che (or che cosa) asks an open-ended "what," with no
+  implied set of options: Che cosa fai? (What are you doing?) Quale asks
+  "which one" from an implied or stated set of choices, and agrees in
+  number: Quale vuoi, questo o quello? (Which do you want, this one or
+  that one?) Quali scarpe preferisci? (Which shoes do you prefer?)
+- Quanto agrees fully like a Type 1 adjective when it modifies a noun:
+  Quanto tempo? (How much time?) Quanti anni? (How many years?) Quante
+  persone? (How many people?)
+- Questions in Italian often don't need a special word-order inversion
+  the way English does — rising intonation alone can turn a statement
+  into a yes/no question: Parli italiano? (Do you speak Italian?) is
+  identical in word order to the statement "Parli italiano" (You speak
+  Italian), distinguished only by intonation (or the question mark in
+  writing).
+
+VOCABULARY:
+chi? (kee) - who?
+che cosa?/cosa? (keh KOH-zah) - what?
+dove? (DOH-veh) - where?
+quando? (KWAHN-doh) - when?
+come? (KOH-meh) - how?
+perché? (pehr-KEH) - why? / because
+quanto/a/i/e? (KWAHN-toh) - how much/many?
+quale/i? (KWAH-leh) - which?
+di chi è? (dee kee eh) - whose is it?
+com'è? (koh-MEH) - what's it like?
+
+EXAMPLES:
+Chi ha chiamato? Non lo so. - kee ah kyah-MAH-toh? nohn loh soh - Who
+  called? I don't know.
+Quale vestito preferisci, quello rosso o quello blu? - KWAH-leh
+  vehs-TEE-toh preh-feh-REE-shee, KWEHL-loh ROHS-soh oh KWEHL-loh bloo -
+  Which dress do you prefer, the red one or the blue one?
+Quante persone vengono alla festa? - KWAHN-teh pehr-SOH-neh VEHN-goh-noh
+  AHL-lah FEHS-tah - How many people are coming to the party?
+Perché non vieni con noi? - pehr-KEH nohn VYEH-nee kohn noy - Why aren't
+  you coming with us?
+
+NOTES:
+- If you're tempted to use "che" when there's an implied set of specific
+  options (a menu, a list of colors, a choice between two things), reach
+  for quale instead — this is the most common che/quale mix-up for
+  learners.
+- Written Italian marks questions with a question mark just like English,
+  but spoken Italian relies heavily on intonation alone for yes/no
+  questions — no auxiliary verb inversion is needed the way English uses
+  "do/does."
+
+PRACTICE:
+Write five questions, one for each of: chi, quale, quanto, perché, and
+come, on any topic you like.
+
+================================================================
+LESSON 41: Family Vocabulary and Talking About Loved Ones
+================================================================
+
+OVERVIEW:
+This lesson expands the family vocabulary introduced with madre/padre in
+Lesson 37 into a full family tree, and practices possessives (Lesson 37)
+and adjectives (Lesson 6) together to describe relatives in detail.
+
+GRAMMAR:
+- Full family vocabulary follows regular gender patterns (Lesson 4): most
+  male relatives end in -o, most female relatives end in -a, with a
+  handful of invariable or irregular forms (il/la nipote covers both
+  "nephew/niece" and "grandson/granddaughter," distinguished only by
+  context or article).
+- Review: singular, unmodified family terms drop the article with
+  possessives (Lesson 37): mio fratello, tua sorella, sua zia — but the
+  article returns for plurals or when the noun is modified by an
+  adjective: i miei fratelli, la mia sorella minore (my younger sister).
+- To describe family relationships and resemblances, common constructions
+  include: assomigliare a (to resemble): Assomiglio a mio padre. (I
+  resemble my father.) and avere ... anni (Lesson 9) for ages: Mio
+  fratello ha ventidue anni. (My brother is twenty-two.)
+- Marital status vocabulary: sposato/a (married), single (invariable,
+  borrowed from English), divorziato/a (divorced), fidanzato/a (engaged/
+  boyfriend-girlfriend).
+
+VOCABULARY:
+il fratello/la sorella (eel frah-TEHL-loh/lah soh-REHL-lah) - brother/
+  sister
+il figlio/la figlia (eel FEE-lyoh/lah FEE-lyah) - son/daughter
+il nonno/la nonna (eel NOHN-noh/lah NOHN-nah) - grandfather/grandmother
+lo zio/la zia (loh DZEE-oh/lah DZEE-ah) - uncle/aunt
+il cugino/la cugina (eel koo-JEE-noh/lah koo-JEE-nah) - cousin
+il marito/la moglie (eel mah-REE-toh/lah MOH-lyeh) - husband/wife
+sposato/a (spoh-ZAH-toh) - married
+assomigliare a (ahs-soh-mee-LYAH-reh ah) - to resemble
+maggiore/minore (mahj-JOH-reh/mee-NOH-reh) - older/younger
+unico/a (OO-nee-koh) - only (as in only child)
+
+EXAMPLES:
+Ho due fratelli e una sorella minore. - oh DOO-eh frah-TEHL-lee eh OO-
+  nah soh-REHL-lah mee-NOH-reh - I have two brothers and a younger
+  sister.
+I miei nonni abitano ancora in Toscana. - ee MYEH-ee NOHN-nee AH-bee-
+  tah-noh ahn-KOH-rah een tohs-KAH-nah - My grandparents still live in
+  Tuscany.
+Assomiglio molto a mia madre. - ahs-soh-MEE-lyoh MOHL-toh ah MEE-ah
+  MAH-dreh - I look a lot like my mother.
+Mio cugino si è sposato l'anno scorso. - MEE-oh koo-JEE-noh see eh
+  spoh-ZAH-toh LAHN-noh SKOHR-soh - My cousin got married last year.
+
+NOTES:
+- Il/la nipote covers three different English relationships (nephew,
+  niece, grandchild) — context or an added clarifying phrase (nipote di
+  mio fratello, "my brother's nephew/niece") resolves the ambiguity when
+  it matters.
+- Combine this lesson with Lesson 6's adjectives freely — describing
+  family members (mia sorella maggiore è molto simpatica) is some of the
+  most natural practice ground for agreement rules.
+
+PRACTICE:
+Describe your immediate family (at least four relatives) including one
+age, one resemblance, and one adjective describing personality for each
+person.
+
+================================================================
+LESSON 42: Small Talk Wrap-Up — Reflexive Verbs in Everyday Conversation
+================================================================
+
+OVERVIEW:
+This lesson closes the loop on reflexive verbs (Lesson 31) with additional
+everyday expressions, and reviews the full toolkit of small talk from
+throughout the course — a natural bridge into real conversation practice.
+
+GRAMMAR:
+- Additional common reflexive verbs worth adding to your toolkit:
+  ricordarsi (to remember), dimenticarsi (to forget), preoccuparsi (to
+  worry), arrabbiarsi (to get angry), annoiarsi (to get bored),
+  innamorarsi (to fall in love), trovarsi (to find oneself, to get along
+  — Mi trovo bene qui, "I'm comfortable/happy here").
+- Reflexive verbs can also express reciprocal actions between two or more
+  people (each other): Ci vediamo domani. (We'll see each other tomorrow
+  / See you tomorrow.) Si conoscono da anni. (They've known each other
+  for years.) The pronoun and structure are identical to true reflexives
+  — context tells you which meaning applies.
+- Reviewing the small-talk toolkit built across this course: greetings
+  and formality (Lessons 7, 10), introductions (11), origins and language
+  (12), talking about work (29), weather (16), and now describing family
+  (41) — combine these freely; real conversations rarely stay inside one
+  lesson's topic.
+
+VOCABULARY:
+ricordarsi (ree-kohr-DAHR-see) - to remember
+dimenticarsi (dee-mehn-tee-KAHR-see) - to forget
+preoccuparsi (preh-ohk-koo-PAHR-see) - to worry
+arrabbiarsi (ahr-rahb-BYAHR-see) - to get angry
+annoiarsi (ahn-noh-YAHR-see) - to get bored
+innamorarsi (een-nah-moh-RAHR-see) - to fall in love
+trovarsi bene (troh-VAHR-see BEH-neh) - to feel comfortable, get along
+ci vediamo (chee veh-DYAH-moh) - see you, we'll see each other
+non ti preoccupare (nohn tee preh-ohk-koo-PAH-reh) - don't worry (inf.)
+si conoscono (see koh-NOH-skoh-noh) - they know each other
+
+EXAMPLES:
+Non ti preoccupare, andrà tutto bene. - nohn tee preh-ohk-koo-PAH-reh,
+  ahn-DRAH TOOT-toh BEH-neh - Don't worry, everything will be fine.
+Mi sono innamorato di questa città. - mee SOH-noh een-nah-moh-RAH-toh
+  dee KWEHS-tah cheet-TAH - I've fallen in love with this city.
+Ci vediamo sabato, va bene? - chee veh-DYAH-moh SAH-bah-toh, vah
+  BEH-neh - See you Saturday, okay?
+Mi trovo davvero bene in Italia. - mee TROH-voh dahv-VEH-roh BEH-neh
+  een ee-TAH-lyah - I really feel at home in Italy.
+
+NOTES:
+- Watch for the reciprocal use of reflexive pronouns (ci vediamo, si
+  conoscono) — the grammar looks identical to a true reflexive, but the
+  meaning shifts to "each other" whenever the subject is plural and the
+  action logically involves more than one person acting on each other.
+- This is a good point to go back through Parts 1-4 and combine
+  vocabulary across lessons in free conversation practice — real fluency
+  comes from mixing topics, not keeping them separate.
+
+PRACTICE:
+Write a short paragraph (5-6 sentences) introducing yourself, your family,
+your job, and your plans for next year, deliberately pulling vocabulary
+from at least four different earlier lessons.
+
+================================================================
+LESSON 43: Idiomatic Expressions That Make You Sound Italian
+================================================================
+
+OVERVIEW:
+Beyond grammar and vocabulary, a handful of idiomatic expressions do a lot
+of work in everyday Italian conversation. Using them naturally is one of
+the fastest ways to sound less like a textbook and more like a native
+speaker.
+
+GRAMMAR:
+- These expressions are best learned as fixed chunks rather than
+  analyzed word-by-word — like English idioms ("break a leg," "piece of
+  cake"), their meaning doesn't always follow literally from the
+  individual words.
+- Several function as complete one-word or short-phrase reactions,
+  standing in for a full sentence: Mamma mia! (an all-purpose exclamation
+  of surprise, frustration, delight — not literally about anyone's
+  mother), Magari! (a wistful "if only!" / "I wish!"), Boh! (a shrugging
+  "who knows!"), Uffa! (an exhale of annoyance or boredom).
+- Others are full idiomatic phrases with a figurative meaning distinct
+  from a literal translation: In bocca al lupo! (literally "in the
+  wolf's mouth," meaning "good luck!" — the traditional reply is Crepi!
+  or Crepi il lupo!, "may the wolf die!," never "grazie," which is
+  considered to bring bad luck). Acqua in bocca! (literally "water in
+  [your] mouth," meaning "keep it secret," similar to "mum's the word").
+
+VOCABULARY:
+Mamma mia! (MAHM-mah MEE-ah) - Oh my!/Wow! (general strong reaction)
+Magari! (mah-GAH-ree) - If only!/I wish!
+Boh! (boh) - Who knows!/Beats me!
+Uffa! (OOF-fah) - Ugh!/How annoying!
+In bocca al lupo! (een BOHK-kah ahl LOO-poh) - Good luck!
+Crepi! (KREH-pee) - (traditional reply to "good luck") thanks!
+Acqua in bocca! (AHK-kwah een BOHK-kah) - Keep it secret!
+Che macello! (keh mah-CHEHL-loh) - What a mess!
+Non mi va! (nohn mee vah) - I don't feel like it!
+Ti sta bene! (tee stah BEH-neh) - Serves you right! / It suits you!
+
+EXAMPLES:
+Mamma mia, che caldo oggi! - MAHM-mah MEE-ah, keh KAHL-doh OHJ-jee -
+  Wow, it's so hot today!
+"In bocca al lupo per l'esame!" "Crepi!" - een BOHK-kah ahl LOO-poh pehr
+  leh-ZAH-meh! KREH-pee - "Good luck on the exam!" "Thanks!"
+Ho perso le chiavi di nuovo, che macello! - oh PEHR-soh leh KYAH-vee dee
+  NWOH-voh, keh mah-CHEHL-loh - I lost my keys again, what a mess!
+Vinci alla lotteria? Magari! - VEEN-chee AHL-lah loht-teh-REE-ah?
+  mah-GAH-ree - Are you winning the lottery? If only!
+
+NOTES:
+- Never respond to "In bocca al lupo!" with grazie — the fixed, correct
+  reply is Crepi! (or the fuller Crepi il lupo!); it's a set exchange, not
+  a normal thank-you situation.
+- Sprinkle a few of these into conversation rather than forcing all of
+  them in at once — Mamma mia and Magari are especially natural and
+  low-risk starting points, since they work in almost any emotionally
+  charged context.
+
+PRACTICE:
+Write short one-line reactions using three different expressions from this
+lesson to three different imagined situations (good news, bad news, and a
+wish).
+
+================================================================
+LESSON 44: False Friends and Classic Mistakes to Avoid
+================================================================
+
+OVERVIEW:
+This final lesson collects the most common traps for English-speaking
+learners of Italian: words that look like English but mean something
+different, and habits worth breaking early. Think of it as a checklist to
+revisit periodically as you continue studying.
+
+GRAMMAR:
+- "False friends" (falsi amici) are words that resemble an English word
+  but carry a different meaning — the opposite of the reliable cognates
+  from Lesson 3. Some of the most common:
+    simpatico/a -> does NOT mean "sympathetic"; it means "nice, likeable,
+      pleasant" (someone you enjoy being around)
+    sensibile -> does NOT mean "sensible"; it means "sensitive." For
+      "sensible" (reasonable), use ragionevole instead.
+    educato/a -> does NOT mean "educated" (in the sense of schooling); it
+      means "well-mannered, polite." For "education" (schooling), use
+      istruzione.
+    vecchio/a -> means "old," but is typically reserved for objects, not
+      people; for describing an older PERSON respectfully, use anziano/a
+      instead.
+    parenti -> does NOT mean "parents" (that's genitori); parenti means
+      "relatives" broadly (aunts, uncles, cousins, etc.).
+- A grammar habit worth double-checking: the verb "to play" splits into
+  giocare (games/sports) and suonare (instruments) — see Lesson 32 — this
+  remains one of the most persistent errors even at intermediate levels.
+- A cultural/pragmatic note rather than a strict grammar rule: literal,
+  word-for-word translation from English often produces grammatically
+  correct but unnatural-sounding Italian. When in doubt, favor the
+  shorter, more direct phrasing you've seen modeled throughout this
+  course (e.g., Ti piace Roma? rather than a more literal, padded
+  translation of "How do you like Rome?").
+
+VOCABULARY:
+simpatico/a (seem-PAH-tee-koh) - nice, likeable (NOT "sympathetic")
+sensibile (sehn-SEE-bee-leh) - sensitive (NOT "sensible")
+ragionevole (rah-joh-NEH-voh-leh) - sensible, reasonable
+educato/a (eh-doo-KAH-toh) - polite, well-mannered (NOT "educated")
+istruzione (ee-stroo-TSYOH-neh) - education, schooling
+anziano/a (ahn-TSYAH-noh) - elderly (used respectfully for people)
+i parenti (ee pah-REHN-tee) - relatives (NOT "parents")
+i genitori (ee jeh-nee-TOH-ree) - parents
+affamato/a (ahf-fah-MAH-toh) - starving, very hungry
+in gamba (een GAHM-bah) - sharp, capable (idiomatic, said of a person)
+
+EXAMPLES:
+Il mio collega è molto simpatico. - eel MEE-oh kohl-LEH-gah eh MOHL-toh
+  seem-PAH-tee-koh - My colleague is very nice/likeable.
+Non è vecchio, è anziano — abbi rispetto! - nohn eh VEHK-kyoh, eh
+  ahn-TSYAH-noh — AHB-bee rees-PEHT-toh - He's not "old," he's elderly —
+  show some respect!
+Tutti i miei parenti vengono per Natale. - TOOT-tee ee MYEH-ee
+  pah-REHN-tee VEHN-goh-noh pehr nah-TAH-leh - All my relatives are
+  coming for Christmas.
+È una persona molto in gamba. - eh OO-nah pehr-SOH-nah MOHL-toh een
+  GAHM-bah - She's a very sharp, capable person.
+
+NOTES:
+- Keep a running personal list of false friends as you encounter new
+  ones in reading or conversation — they're highly individual to each
+  learner's native language background, and English speakers hit this
+  particular set (simpatico, sensibile, educato, parenti) more often than
+  most.
+- This lesson closes the course, but real fluency comes from continued
+  exposure — reading, listening, and above all speaking. Revisit earlier
+  lessons' vocabulary in new combinations rather than treating any single
+  lesson as "finished" once read.
+
+PRACTICE:
+Correct these mismatches: "My parents are visiting" (careful: parenti or
+genitori?); "She's very sensible" (careful: sensibile or ragionevole?);
+"He's well-educated" (careful: educato or istruito?).

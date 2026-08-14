@@ -1,0 +1,654 @@
+################################################################
+PART 6 — ARTICLES, PRONOUNS, ADJECTIVES & RELATED STRUCTURES
+          (Lessons 36–45)
+################################################################
+
+================================================================
+LESSON 36: Articles and Nouns In Depth
+================================================================
+
+OVERVIEW:
+Building on Lesson 4, this lesson covers noun gender/plural patterns more
+thoroughly and the special rules for geographical names — a notoriously
+tricky corner of French grammar.
+
+GRAMMAR:
+- Gender patterns (useful but not 100% reliable):
+    Masculine endings: -age, -al, -ail, -eau, -isme, -ment, -oir
+    Feminine endings: -ade, -ance/-ence, -ée, -elle, -ette, -euse, -ie,
+      -ion/-sion/-tion, -té, -ure
+    Exceptions exist for almost every rule (le musée, la page) — always
+    learn gender with the noun.
+- Some nouns change MEANING with gender: le livre (the book) vs. la livre
+  (the pound — weight or currency); le poste (job position) vs. la poste
+  (the post office); le tour (a turn/trip) vs. la tour (a tower).
+- Plural formation beyond the basic -s (Lesson 4):
+    -eau/-eu -> -eaux/-eux (le bateau -> les bateaux; le jeu -> les jeux)
+    -al -> -aux (le cheval -> les chevaux) — with exceptions (le bal ->
+      les bals)
+    -s/-x/-z endings don't change (le prix -> les prix)
+    A handful are fully irregular: l'œil -> les yeux (eye -> eyes),
+      madame -> mesdames
+- Gender of countries: countries ending in -e are usually feminine (la
+  France, la Chine — with exceptions like le Mexique); most others are
+  masculine (le Japon, le Canada, le Portugal); a few are plural (les
+  États-Unis, les Pays-Bas).
+- Prepositions with geographical names:
+    to/in + feminine country or country starting with a vowel -> EN:
+      en France, en Iran
+    to/in + masculine country -> AU: au Japon, au Canada
+    to/in + plural country -> AUX: aux États-Unis
+    to/in + city -> À (no article): à Paris, à Tokyo
+    from + feminine country -> DE/D': de France
+    from + masculine country -> DU: du Japon
+    from + plural country -> DES: des États-Unis
+
+CONJUGATION TABLE:
+(reference tables above — not a verb conjugation)
+
+VOCABULARY:
+la France - France (f.)      le Japon - Japan (m.)
+les États-Unis - the United States (pl.)
+le Canada - Canada (m.)       la Chine - China (f.)
+l'Italie (f.) - Italy          le Mexique - Mexico (m.)
+
+EXAMPLES:
+Elle habite en France mais elle vient du Canada. - She lives in France but
+  she's from Canada.
+Nous allons au Japon cet été, puis aux Philippines. - We're going to Japan
+  this summer, then to the Philippines.
+J'ai perdu mes clés — je ne sais pas où elles sont. - I lost my keys — I
+  don't know where they are. (les clés, always feminine plural)
+Il pèse une livre de plus qu'avant. - He weighs one pound more than
+  before. (la livre = pound, weight — contrast with le livre = book)
+
+NOTES:
+- When a new noun's gender isn't obvious from the ending, just memorize
+  "le/la + noun" as a single unit from the start — retrofitting gender
+  later is much harder.
+
+PRACTICE:
+Fill in the correct preposition: Je vais ___ Portugal. Elle vient ___
+Brésil. Nous voyageons ___ Argentine.
+
+================================================================
+LESSON 37: Direct Object Pronouns
+================================================================
+
+OVERVIEW:
+Direct object pronouns replace a noun that directly receives the action of
+the verb (no preposition involved) — "me, you, him, her, it, us, them" in
+English. In French, they move BEFORE the conjugated verb, a major
+structural difference from English.
+
+GRAMMAR:
+- Direct object pronouns: me/m' (me), te/t' (you, informal), le/l' (him/
+  it, masc.), la/l' (her/it, fem.), nous (us), vous (you), les (them).
+- Placement: directly before the conjugated verb (not after, as in
+  English): Je le vois. (I see it/him.) In the negative: Je ne le vois
+  pas. (I don't see it/him.)
+- With an infinitive construction, the pronoun goes before the infinitive
+  it belongs to, not the conjugated verb: Je vais le voir. (I'm going to
+  see it/him.)
+- In the passé composé, the pronoun goes before the helper verb, and the
+  past participle AGREES in gender/number with a preceding direct object
+  pronoun: Je l'ai vue. (I saw her — "vue" agrees with "la/l'" = her,
+  feminine.) J'ai vu Marie -> Je l'ai vue.
+- In the affirmative imperative, the pronoun follows the verb (hyphenated,
+  and "me/te" become "moi/toi"): Regarde-le ! (Look at it/him!) In the
+  negative imperative, normal order returns: Ne le regarde pas !
+
+CONJUGATION TABLE:
+(pronoun table)
+me/m' - te/t' - le/l', la/l' - nous - vous - les
+
+VOCABULARY:
+voir - to see          regarder - to watch/look at
+connaître - to know (a person/place)
+prendre - to take       aimer - to like/love
+
+EXAMPLES:
+Tu connais Marc ? Oui, je le connais bien. - Do you know Marc? Yes, I know
+  him well.
+J'ai acheté ces chaussures parce que je les aimais. - I bought these shoes
+  because I liked them.
+Elle a écrit la lettre et l'a envoyée hier. - She wrote the letter and
+  sent it yesterday. (agreement: envoyée, feminine, agrees with "la
+  lettre")
+Aide-moi, s'il te plaît ! - Help me, please!
+
+NOTES:
+- The past-participle agreement rule (only with a PRECEDING direct
+  object) trips up even advanced learners — it applies with direct object
+  pronouns and with relative pronoun "que," but never with indirect
+  object pronouns (see Lesson 38).
+
+PRACTICE:
+Replace the underlined noun with a direct object pronoun and rewrite the
+sentence: "Je regarde la télévision." "Nous avons invité nos amis."
+
+================================================================
+LESSON 38: Indirect Object Pronouns, Y, and EN
+================================================================
+
+OVERVIEW:
+Indirect object pronouns replace a noun introduced by "à" (usually a
+person), while "y" and "en" are two special invariable pronouns that
+replace "à/dans + place or thing" and "de + noun" respectively.
+
+GRAMMAR:
+- Indirect object pronouns: me/m', te/t', lui (to him/her — same form for
+  both genders), nous, vous, leur (to them — same for both genders).
+  These replace "à + person": Je parle à Marie -> Je lui parle. (I speak
+  to her.)
+- Placement rules mirror direct object pronouns (Lesson 37): before the
+  conjugated verb, or before the infinitive they belong to. UNLIKE direct
+  object pronouns, indirect object pronouns do NOT trigger past-participle
+  agreement: Je lui ai parlé. (I spoke to him/her — "parlé" stays
+  unchanged.)
+- "Y" replaces "à/dans/en/sur + a place or thing" (not a person): Tu vas à
+  Paris ? Oui, j'y vais. (Are you going to Paris? Yes, I'm going there.)
+  It also replaces "à + thing" after verbs like penser à, réfléchir à:
+  Je pense à mon voyage -> J'y pense.
+- "En" replaces "de + a noun" (a quantity, a thing, or a place you're
+  coming FROM): Tu as des frères ? Oui, j'en ai deux. (Do you have
+  brothers? Yes, I have two [of them].) Tu viens de Paris ? Oui, j'en
+  viens. (Are you coming from Paris? Yes, I'm coming from there.) "En" is
+  also used with expressions of quantity (Combien de livres as-tu ? J'en
+  ai dix.) and after "de"-verbs: avoir besoin de, avoir envie de, parler
+  de.
+- Both y and en are placed in the same position as other object pronouns
+  (before the conjugated verb / before the infinitive).
+
+CONJUGATION TABLE:
+(pronoun table)
+me/m' - te/t' - lui - nous - vous - leur      (indirect object)
+y (there / about it/them, replacing à + thing)
+en (some/of it/of them, replacing de + noun)
+
+VOCABULARY:
+parler à - to speak to        téléphoner à - to call (phone)
+donner à - to give to          répondre à - to answer/respond to
+penser à - to think about       avoir besoin de - to need
+avoir envie de - to feel like/want
+
+EXAMPLES:
+J'ai téléphoné à mes parents. -> Je leur ai téléphoné. - I called them
+  (my parents). (indirect object, no agreement on "téléphoné")
+Est-ce que tu vas au marché ? Oui, j'y vais maintenant. - Are you going to
+  the market? Yes, I'm going there now.
+Il a trois enfants ; elle en a deux. - He has three children; she has two
+  [of them].
+Tu as besoin d'aide ? Oui, j'en ai besoin. - Do you need help? Yes, I need
+  some [of it].
+
+NOTES:
+- "Manquer à" (to be missed by) reverses the English structure: "Tu me
+  manques" literally means "you are lacking to me," but translates as
+  "I miss you" — the person doing the missing is the INDIRECT object in
+  French.
+
+PRACTICE:
+Replace the underlined phrase with lui/leur, y, or en as appropriate: "Je
+pense à mes vacances." "Nous avons parlé à nos voisins." "Elle boit du
+café tous les matins."
+
+================================================================
+LESSON 39: Order of Multiple Object Pronouns & Disjunctive Pronouns
+================================================================
+
+OVERVIEW:
+When a sentence has more than one object pronoun, they follow a strict
+order. Separately, "disjunctive" (stress) pronouns are used after
+prepositions, for emphasis, and in a few other special positions.
+
+GRAMMAR:
+- When combining multiple object pronouns before the verb, they follow
+  this fixed order:
+    me/te/se/nous/vous  ->  le/la/les  ->  lui/leur  ->  y  ->  en
+  Example: Il me le donne. (He gives it to me.) Elle nous en parle. (She
+  talks to us about it.) Je le lui ai donné. (I gave it to him/her.)
+- In the AFFIRMATIVE imperative only, the order changes: verb + direct
+  object + indirect object, all hyphenated, with "moi/toi" instead of
+  me/te (except before "y/en," where moi/toi shorten back to m'/t'):
+  Donne-le-moi ! (Give it to me!) Donnez-m'en ! (Give me some!)
+- Disjunctive (stress) pronouns: moi, toi, lui, elle, nous, vous, eux,
+  elles. Used:
+    1. After a preposition: avec moi (with me), pour toi (for you), chez
+       eux (at their place)
+    2. For emphasis, often at the start or end of a sentence: Moi, je
+       n'aime pas ça. (ME, I don't like that.)
+    3. After "c'est/ce sont": C'est moi. (It's me.) Ce sont eux. (It's
+       them.)
+    4. In comparisons: Elle est plus grande que moi. (She's taller than
+       me.)
+    5. Combined with "-même(s)" for "-self/-selves": moi-même (myself),
+       eux-mêmes (themselves).
+
+CONJUGATION TABLE:
+Pronoun order before the verb:
+me/te/se/nous/vous -> le/la/les -> lui/leur -> y -> en
+
+Disjunctive pronouns: moi, toi, lui, elle, nous, vous, eux, elles
+
+VOCABULARY:
+avec / pour / chez / sans + [disjunctive pronoun]
+c'est... / ce sont...
+-même(s) - -self/-selves
+
+EXAMPLES:
+Il nous les a envoyés hier. - He sent them to us yesterday. (nous before
+  les)
+Prête-le-moi, s'il te plaît. - Lend it to me, please.
+Tu viens avec nous ce soir ? - Are you coming with us tonight?
+C'est toi qui as raison, pas moi. - You're the one who's right, not me.
+Je l'ai fait moi-même. - I did it myself.
+
+NOTES:
+- Combining pronoun order feels mechanical at first — practice building
+  short chains (le + lui, nous + en, etc.) out loud until the sequence
+  becomes automatic.
+
+PRACTICE:
+Combine into one sentence with two pronouns: "Je donne le cadeau à
+Marie." -> "Je ___ ___ donne."
+
+================================================================
+LESSON 40: Adjectives — Agreement, Placement, and Colors
+================================================================
+
+OVERVIEW:
+French adjectives must match the noun they describe in gender and number,
+and most (but not all) go after the noun — this lesson covers the rules
+and the main exceptions.
+
+GRAMMAR:
+- Basic agreement: add -e for feminine (if the masculine doesn't already
+  end in -e), add -s for plural (silent in speech): grand -> grande ->
+  grands -> grandes.
+- Irregular feminine patterns: -eux -> -euse (heureux -> heureuse); -f ->
+  -ve (actif -> active); -on/-en -> double consonant + e (bon -> bonne,
+  ancien -> ancienne); -c -> -che or -que (blanc -> blanche); a handful
+  are fully irregular (beau -> belle, nouveau -> nouvelle, vieux ->
+  vieille, long -> longue).
+- Adjectives with a special form before a masculine noun starting with a
+  vowel/mute h: beau -> bel (un bel homme), nouveau -> nouvel (un nouvel
+  ami), vieux -> vieil (un vieil arbre) — this extra form exists purely
+  for pronunciation.
+- Placement: most adjectives follow the noun (une voiture rouge). The
+  BAGS adjectives (Beauty, Age, Goodness, Size — beau, joli, jeune, vieux,
+  nouveau, bon, mauvais, grand, petit, gros, and a few more like haut,
+  long, meilleur) come BEFORE the noun.
+- A few adjectives change MEANING depending on placement: un homme grand
+  (a tall man) vs. un grand homme (a great man); ma propre chambre (my
+  own room) vs. une chambre propre (a clean room); un ancien professeur
+  (a former teacher) vs. un livre ancien (an old/ancient book).
+- Colors: agree like regular adjectives (une robe bleue) EXCEPT compound
+  colors and colors derived from nouns (fruits, objects), which stay
+  INVARIABLE: des yeux bleu clair (light blue eyes — invariable), des
+  robes orange (orange dresses — invariable, from the noun "orange").
+
+CONJUGATION TABLE:
+Regular agreement pattern:
+masc. sing.   fem. sing.    masc. pl.    fem. pl.
+grand          grande         grands        grandes
+heureux        heureuse       heureux       heureuses
+
+VOCABULARY:
+grand(e) - big/tall            petit(e) - small
+beau/belle - beautiful          joli(e) - pretty
+bon(ne) / mauvais(e) - good/bad  nouveau/nouvelle - new
+vieux/vieille - old              jeune - young
+
+EXAMPLES:
+C'est une belle maison ancienne. - It's a beautiful old house. (belle =
+  BAGS, before; ancienne here means "old/historic," after the noun)
+Il porte une chemise bleu marine. - He's wearing a navy blue shirt.
+  (compound color, invariable)
+Mon ancien collègue habite maintenant à Nice. - My former colleague now
+  lives in Nice. (meaning-shift placement: "ancien" before = "former")
+Elle a les cheveux longs et les yeux verts. - She has long hair and green
+  eyes.
+
+NOTES:
+- When two adjectives (one BAGS, one not) both describe the same noun,
+  each stays in its normal position: une petite voiture rouge (a little
+  red car).
+
+PRACTICE:
+Make these agree correctly: un(e) (grand) maison, des (beau) fleurs, une
+femme (heureux), des chaussures (marron - note: invariable, from the noun
+"chestnut").
+
+================================================================
+LESSON 41: Comparatives and Superlatives
+================================================================
+
+OVERVIEW:
+How to say "more/less/as...as" (comparative) and "the most/least"
+(superlative) in French, including several irregular forms that don't
+follow the standard pattern.
+
+GRAMMAR:
+- Comparative with adjectives/adverbs:
+    plus...que    - more...than       (plus grand que = taller than)
+    moins...que   - less...than        (moins cher que = less expensive
+      than)
+    aussi...que   - as...as             (aussi rapide que = as fast as)
+- Comparative with nouns (quantity): plus de / moins de / autant de +
+  noun + que: Elle a plus d'argent que moi. (She has more money than me.)
+- Comparative with verbs (how much an action happens): verb + plus/moins/
+  autant + que: Il travaille plus que moi. (He works more than I do.)
+- Superlative: le/la/les + plus/moins + adjective (+ de, if naming the
+  group): C'est la plus grande ville de France. (It's the biggest city in
+  France — note "de," not "dans," after a superlative naming a group.)
+  With adjectives that normally follow the noun, the article can repeat:
+  la voiture la plus rapide (the fastest car).
+- Irregular comparative/superlative forms (do NOT use plus + these words):
+    bon (good) -> meilleur (better) -> le meilleur (the best)
+    mauvais (bad) -> pire OR plus mauvais (worse) -> le pire (the worst)
+    bien (well, adverb) -> mieux (better) -> le mieux (the best)
+  Note the important distinction: "meilleur" is an ADJECTIVE (agrees with
+  a noun), "mieux" is an ADVERB (describes a verb): Ce gâteau est
+  meilleur. (This cake is better.) vs. Elle chante mieux que moi. (She
+  sings better than me.)
+
+CONJUGATION TABLE:
+plus/moins/aussi + adjective + que
+le/la/les plus/moins + adjective (+ de + group)
+bon -> meilleur -> le meilleur
+bien -> mieux -> le mieux
+
+VOCABULARY:
+plus...que - more...than
+moins...que - less...than
+aussi...que - as...as
+le/la plus / le/la moins - the most / the least
+meilleur(e) - better (adj.)     mieux - better (adv.)
+
+EXAMPLES:
+Paris est plus grand que Lyon, mais moins grand que Tokyo. - Paris is
+  bigger than Lyon, but smaller than Tokyo.
+C'est le meilleur restaurant de la ville. - It's the best restaurant in
+  town.
+Elle parle français mieux que moi. - She speaks French better than I do.
+J'ai autant de travail que toi cette semaine. - I have as much work as
+  you this week.
+
+NOTES:
+- Common learner mistake: saying "plus bon" instead of "meilleur," or
+  confusing meilleur (adjective) with mieux (adverb) — "Il est mieux"
+  actually means "He is better [health-wise]," a special idiomatic use,
+  not a general grammatical substitute for meilleur.
+
+PRACTICE:
+Compare yourself to a sibling or friend using three different structures:
+plus...que, aussi...que, and meilleur/mieux.
+
+================================================================
+LESSON 42: Demonstrative and Possessive Adjectives and Pronouns
+================================================================
+
+OVERVIEW:
+"This/that/these/those" (demonstrative) and "my/your/his/her/our/their"
+(possessive) — as both adjectives (before a noun) and standalone pronouns
+(replacing a noun).
+
+GRAMMAR:
+- Demonstrative adjectives ("this/that"): ce (masc. sing.), cet (masc.
+  sing. before a vowel/mute h), cette (fem. sing.), ces (plural, either
+  gender). French doesn't distinguish "this" vs. "that" by default — add
+  "-ci" (this, nearby) or "-là" (that, farther) after the noun for
+  clarity/contrast: ce livre-ci (this book) vs. ce livre-là (that book).
+- Possessive adjectives ("my/your/his/her/our/their") agree with the
+  NOUN they describe, not with the owner's gender:
+    mon/ma/mes (my), ton/ta/tes (your, informal), son/sa/ses (his/her/
+      its — same form regardless of the OWNER's gender), notre/notre/nos
+      (our), votre/votre/vos (your, formal/plural), leur/leur/leurs
+      (their)
+  Before a feminine noun starting with a vowel/mute h, use "mon/ton/son"
+  instead of "ma/ta/sa" for pronunciation: mon amie (my friend, feminine).
+- Possessive pronouns ("mine/yours/his/hers/ours/theirs") replace a noun
+  entirely and include a definite article that agrees with the noun
+  replaced: le mien/la mienne/les miens/les miennes (mine), le tien/la
+  tienne (yours), le sien/la sienne (his/hers), le/la nôtre, les nôtres
+  (ours), le/la vôtre, les vôtres (yours), le/la leur, les leurs (theirs).
+- Demonstrative pronouns ("this one/that one/the one(s)"): celui (masc.
+  sing.), celle (fem. sing.), ceux (masc. pl.), celles (fem. pl.) — almost
+  always followed by -ci/-là, "de" + noun (showing possession), or a
+  relative clause: celui-ci (this one), celle de Marie (Marie's, lit.
+  "that of Marie"), ceux qui travaillent (those who work).
+- "Ceci/cela/ça" are neutral demonstrative pronouns referring to an idea
+  or unspecified thing rather than a specific noun (ça = informal
+  contraction of cela, extremely common in speech): Ça va ? (How's it
+  going?) Cela m'étonne. (That surprises me.)
+
+CONJUGATION TABLE:
+Demonstrative adjectives: ce / cet / cette / ces
+Possessive adjectives (my): mon / ma / mes
+Possessive pronouns (mine): le mien / la mienne / les miens / les miennes
+Demonstrative pronouns: celui / celle / ceux / celles
+
+VOCABULARY:
+ce/cet/cette/ces - this/that/these/those
+mon/ma/mes, ton/ta/tes, son/sa/ses - my, your, his/her
+le mien, le tien, le sien - mine, yours, his/hers
+celui-ci/celui-là - this one/that one
+
+EXAMPLES:
+Cette robe-ci est plus jolie que cette robe-là. - This dress is prettier
+  than that dress.
+Son frère et sa sœur habitent à Paris. - His/her brother and sister live
+  in Paris. (son/sa depend on "frère/sœur" gender, NOT the owner's)
+Ce n'est pas ma voiture, c'est la sienne. - It's not my car, it's his/
+  hers.
+Je préfère celui-ci à celui-là. - I prefer this one to that one.
+Ça m'est égal. - It's all the same to me. / I don't mind.
+
+NOTES:
+- The #1 mistake for English speakers: using "son/sa" based on the
+  OWNER's gender the way English does with "his/her." French bases it
+  entirely on the gender of the NOUN owned: "sa voiture" can mean "his
+  car" OR "her car" — context tells you which.
+
+PRACTICE:
+Translate, paying attention to son/sa/ses: "His mother is a doctor. Her
+father is a teacher. Their house is big."
+
+================================================================
+LESSON 43: Relative Pronouns
+================================================================
+
+OVERVIEW:
+Relative pronouns connect a clause back to a noun already mentioned ("the
+book THAT I read," "the woman WHO called") — French has more of these than
+English, each with a specific grammatical role.
+
+GRAMMAR:
+- QUI = subject of the relative clause (who/which/that, doing the action).
+  Never elides, never changes for gender/number: La femme qui parle est
+  ma tante. (The woman who is speaking is my aunt.)
+- QUE (QU') = direct object of the relative clause (whom/which/that,
+  receiving the action). Elides before a vowel. Triggers past-participle
+  agreement in compound tenses (Lesson 37): Le livre que j'ai lu était
+  excellent. (The book that I read was excellent — "lu" would agree if
+  feminine.)
+- OÙ = place or time (where/when): La ville où j'habite est petite. (The
+  city where I live is small.) Le jour où je suis né... (The day when I
+  was born...)
+- DONT = replaces "de + noun" (whose, of which, about which/whom) —
+  used whenever the verb or expression in the relative clause normally
+  takes "de": C'est le livre dont je parle. (It's the book I'm talking
+  about — from "parler de.") La fille dont le père est médecin... (The
+  girl whose father is a doctor... — "dont" replaces "le père DE la
+  fille.")
+- LEQUEL/LAQUELLE/LESQUELS/LESQUELLES = used after a preposition (other
+  than "de," which prefers dont) when referring to a THING (not usually a
+  person): Le stylo avec lequel j'écris... (The pen [that] I write
+  with...) Contracts with à/de: auquel, duquel, auxquels, etc. For
+  PEOPLE after a preposition, "qui" is generally preferred instead:
+  la personne à qui je parle (the person I'm speaking to).
+- CE QUI / CE QUE / CE DONT / CE À QUOI = "what" (the thing which/that),
+  used when there's no specific noun antecedent, only an idea: Je ne sais
+  pas ce qui se passe. (I don't know what's happening — ce qui = subject.)
+  Dis-moi ce que tu veux. (Tell me what you want — ce que = direct
+  object.) C'est ce dont j'ai besoin. (That's what I need — ce dont,
+  from "avoir besoin de.")
+
+CONJUGATION TABLE:
+qui (subject) - que (direct object) - où (place/time) - dont (de + noun)
+lequel/laquelle/lesquels/lesquelles (object of a preposition, things)
+ce qui / ce que / ce dont (what..., no specific antecedent)
+
+VOCABULARY:
+qui / que / où / dont
+ce qui / ce que / ce dont
+lequel / laquelle
+
+EXAMPLES:
+J'ai un ami qui habite au Canada. - I have a friend who lives in Canada.
+Le film que nous avons vu hier était nul. - The movie we saw yesterday
+  was terrible.
+C'est la maison où j'ai grandi. - This is the house where I grew up.
+Voici le collègue dont je t'ai parlé. - Here's the colleague I told you
+  about.
+Je ne comprends pas ce qu'il veut. - I don't understand what he wants.
+
+NOTES:
+- If you can restate the missing piece as "de + noun" in your head, use
+  "dont" — this single test resolves most qui/que/dont confusion.
+
+PRACTICE:
+Combine each pair of sentences with a relative pronoun: "J'ai un livre.
+Le livre est intéressant." / "Je parle d'un problème. Le problème est
+sérieux."
+
+================================================================
+LESSON 44: Adverbs and Expressions of Time, Frequency, and Location
+================================================================
+
+OVERVIEW:
+Beyond the -ment adverbs from Lesson 3, this lesson rounds out the
+essential toolkit for saying when, how often, and where something happens.
+
+GRAMMAR:
+- Adverb formation recap: feminine form of the adjective + -ment (lente ->
+  lentement). Adjectives ending in a vowel in the masculine use the
+  masculine form directly + -ment (vrai -> vraiment). Adjectives ending in
+  -ant/-ent change to -amment/-emment (constant -> constamment; évident ->
+  évidemment).
+- Placement of adverbs: usually AFTER a conjugated verb in simple tenses
+  (Il parle bien.), and typically BETWEEN the helper verb and past
+  participle for short/common adverbs in compound tenses (Il a bien
+  parlé.) — unlike English, which puts the adverb after the whole verb
+  phrase.
+- Common time adverbs: maintenant (now), bientôt (soon), déjà (already),
+  encore (still/again), toujours (always/still), enfin (finally), tout de
+  suite (right away).
+- Frequency adverbs: souvent (often), parfois/quelquefois (sometimes),
+  rarement (rarely), jamais (never, needs "ne"), toujours (always), une
+  fois/deux fois (once/twice).
+- Location adverbs and prepositions: ici (here), là (there), là-bas (over
+  there), devant/derrière (in front of/behind), à côté de (next to),
+  entre (between), sous/sur (under/on), dans (in), loin de/près de
+  (far from/near).
+
+CONJUGATION TABLE:
+Adverb formation: lent(e) -> lentement ; vrai -> vraiment ;
+  constant -> constamment ; évident -> évidemment
+
+VOCABULARY:
+souvent / parfois / rarement / jamais - often/sometimes/rarely/never
+déjà / encore / toujours - already/still-again/always-still
+devant / derrière / à côté de - in front of/behind/next to
+loin de / près de - far from/near
+
+EXAMPLES:
+Elle a bien réussi son examen. - She did well on her exam. (adverb between
+  helper and participle)
+Nous allons rarement au cinéma. - We rarely go to the movies.
+La pharmacie est juste à côté de la banque. - The pharmacy is right next
+  to the bank.
+Il habite encore chez ses parents. - He still lives with his parents.
+
+NOTES:
+- "Encore" is doing double duty in French: it means both "still" (Il
+  travaille encore = He's still working) and "again" (Recommence encore !
+  = Start again!) — context determines which.
+
+PRACTICE:
+Describe how often you do five daily activities using souvent, parfois,
+rarement, and jamais.
+
+================================================================
+LESSON 45: Verbs with Prepositions, Indefinite Relatives, and
+Fixed Expressions
+================================================================
+
+OVERVIEW:
+A grab-bag "advanced toolkit" lesson: verbs whose French preposition
+doesn't match the English one, the "-ever" words (whatever, whoever...),
+and two useful idiomatic structures.
+
+GRAMMAR:
+- Some French verbs take a DIFFERENT preposition than their English
+  equivalent, or need none at all where English needs one — these must be
+  memorized individually as you learn each verb:
+    écouter (to listen TO) — no preposition: J'écoute la radio.
+    regarder (to watch/look AT) — no preposition: Je regarde la télé.
+    chercher (to look FOR) — no preposition: Je cherche mes clés.
+    attendre (to wait FOR) — no preposition: J'attends le bus.
+    payer (to pay FOR) — no preposition: J'ai payé le repas.
+    demander (to ask FOR) — no preposition for the thing asked for:
+      Je demande l'addition.
+    téléphoner À quelqu'un (to call someone) — needs à, unlike English
+      "call someone" (no preposition): Je téléphone à ma mère.
+    se souvenir DE (to remember) — needs de: Je me souviens de ce jour.
+    entrer DANS (to enter) — needs dans, not just "into": Il entre dans
+      la maison.
+- Indefinite relative expressions ("-ever" words), formed with "que" +
+  subjunctive:
+    quoi que + subjunctive - whatever (Quoi que tu fasses, je te
+      soutiendrai. = Whatever you do, I'll support you.)
+    qui que + subjunctive - whoever (Qui que ce soit, dis-lui d'entrer.)
+    où que + subjunctive - wherever (Où que tu ailles, écris-moi.)
+    quel(le) que soit + noun - whatever/whichever (Quelle que soit la
+      raison... = Whatever the reason may be...)
+- "Avoir beau + infinitive" = "no matter how much/despite trying to..."
+  (concessive): J'ai beau essayer, je n'y arrive pas. (No matter how hard
+  I try, I can't manage it.)
+- "Quitte à + infinitive" = "even if it means..." (accepting a
+  consequence): Je vais finir ce soir, quitte à me coucher tard. (I'll
+  finish tonight, even if it means going to bed late.)
+
+CONJUGATION TABLE:
+(reference lists — not a single verb)
+
+VOCABULARY:
+écouter / regarder / chercher / attendre / payer (no preposition needed,
+  unlike English)
+téléphoner à / se souvenir de / entrer dans
+quoi que / qui que / où que + subjunctive
+avoir beau + infinitive
+
+EXAMPLES:
+J'attends mon ami depuis une heure. - I've been waiting for my friend for
+  an hour.
+Elle a téléphoné à sa grand-mère hier soir. - She called her grandmother
+  last night.
+Quoi qu'il arrive, nous serons prêts. - Whatever happens, we'll be ready.
+J'ai beau lui expliquer, il ne comprend pas. - No matter how much I
+  explain to him, he doesn't understand.
+
+NOTES:
+- Build a personal running list of "tricky preposition" verbs as you meet
+  them in reading/listening — this is a vocabulary-memorization problem
+  more than a grammar-rule problem.
+
+PRACTICE:
+Translate, watching the prepositions: "I'm looking for my phone." "She's
+listening to music." "We're waiting for the train."
+
+################################################################
+END OF PART 6 — Continue to french_07_practical_situational.txt
+################################################################

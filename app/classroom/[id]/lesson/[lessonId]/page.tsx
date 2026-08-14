@@ -5,6 +5,7 @@ import { BackLink } from "@/components/BackLink";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import LessonFrame from "@/components/LessonFrame";
+import { LessonOpenTracker } from "@/components/LessonOpenTracker";
 import { markLessonComplete } from "./actions";
 
 export default async function LessonPage({
@@ -27,6 +28,7 @@ export default async function LessonPage({
 
   return (
     <PageContainer>
+      <LessonOpenTracker lessonId={lesson.id} classroomId={id} />
       <BackLink href={`/classroom/${id}`} label={`Back to ${lesson.unit.classroom.language}`} />
 
       <p className="font-display text-xs font-bold uppercase tracking-wide text-ink-muted">

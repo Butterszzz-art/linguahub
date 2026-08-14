@@ -1,0 +1,620 @@
+################################################################
+PART 1 — FOUNDATIONS (Lessons 1-9)
+################################################################
+
+================================================================
+LESSON 1: The Italian Alphabet and Vowel Sounds
+================================================================
+
+OVERVIEW:
+Italian spelling is far more consistent than English spelling — once you
+learn the rules in this lesson, you can pronounce almost any Italian word
+correctly on sight, even one you've never seen before. This lesson covers
+the alphabet and the five vowel sounds that are the backbone of Italian
+pronunciation.
+
+GRAMMAR:
+- The Italian alphabet (l'alfabeto) has only 21 native letters. J, K, W, X,
+  and Y exist only in foreign loanwords (jeans, whisky, taxi, yogurt).
+- Every Italian vowel has exactly ONE pure sound — it never glides the way
+  English vowels do (compare English "go" [gow-oo] to Italian "vado," where
+  the o stays a clean, single "oh").
+- The five vowel sounds:
+    a  -> "ah" (as in "father")            casa (KAH-zah) (house)
+    e  -> "eh" (as in "bet")               bene (BEH-neh) (well)
+    i  -> "ee" (as in "machine")           vita (VEE-tah) (life)
+    o  -> "oh" (as in "boat," no glide)    dove (DOH-veh) (where)
+    u  -> "oo" (as in "moon")              tu (too) (you)
+- Double vowels are both pronounced separately: mai (MAH-ee) (never).
+- Word stress usually falls on the second-to-last syllable (the "penultimate"
+  syllable): parLAre, amiCO. When a word carries a written accent (` or ´)
+  on its final vowel, the stress falls there instead: città (cheet-TAH)
+  (city), perché (pehr-KEH) (why/because).
+
+VOCABULARY:
+casa (KAH-zah) - house
+bene (BEH-neh) - well, fine
+vita (VEE-tah) - life
+dove (DOH-veh) - where
+tu (too) - you (informal)
+città (cheet-TAH) - city
+perché (pehr-KEH) - why, because
+sole (SOH-leh) - sun
+luna (LOO-nah) - moon
+mare (MAH-reh) - sea
+
+EXAMPLES:
+Dove abiti? - DOH-veh AH-bee-tee - Where do you live?
+Come stai? Bene, grazie. - KOH-meh STAH-ee? BEH-neh, GRAH-tsee-eh - How are
+  you? Fine, thanks.
+La città è grande. - lah cheet-TAH eh GRAHN-deh - The city is big.
+Il sole e la luna - eel SOH-leh eh lah LOO-nah - The sun and the moon
+
+NOTES:
+- English speakers often want to add a glide to o and e ("oh-oo," "eh-ee").
+  Resist it — hold the vowel steady from start to finish.
+- If a word looks unfamiliar and has no written accent, guess stress on the
+  second-to-last syllable first; it's right more often than not.
+
+PRACTICE:
+Read these words aloud, holding each vowel pure and steady: pane, vino,
+amico, dopo, cultura. Then try città and università, remembering the
+accent shifts the stress to the final syllable.
+
+================================================================
+LESSON 2: Consonants and Consonant Combinations
+================================================================
+
+OVERVIEW:
+Most Italian consonants sound like their English counterparts, but a
+handful change pronunciation depending on which vowel follows them. This
+lesson gives you the two rules (for C and G) that unlock hundreds of words,
+plus the special consonant clusters GN, GL, and SC.
+
+GRAMMAR:
+- C and G each have a "hard" and "soft" sound, and the vowel that follows
+  decides which one you use:
+    C + a, o, u, or a consonant -> hard "k" sound: casa (KAH-zah), colpa
+      (KOHL-pah), cuore (KWOH-reh)
+    C + e, i -> soft "ch" sound (as in "church"): cena (CHEH-nah), cibo
+      (CHEE-boh)
+    G + a, o, u, or a consonant -> hard "g" sound: gamba (GAHM-bah), gomma
+      (GOHM-mah)
+    G + e, i -> soft "j" sound (as in "jump"): gelato (jeh-LAH-toh),
+      giorno (JOHR-noh)
+- To get a HARD c or g sound before e or i, insert an h: che (keh) (what),
+  spaghetti (spah-GEHT-tee), ghiaccio (GYAHCH-choh) (ice).
+- To get a SOFT ch or j sound before a, o, or u, insert a silent i: ciao
+  (chow), giacca (JAHK-kah) (jacket) — the i is not pronounced, it just
+  signals the soft sound.
+- Special clusters:
+    GN -> like "ny" in "canyon": gnocchi (NYOHK-kee), bagno (BAH-nyoh)
+      (bathroom)
+    GL (before i) -> like "lli" in "million": famiglia (fah-MEE-lyah)
+      (family), figlio (FEE-lyoh) (son)
+    SC + e/i -> "sh": scena (SHEH-nah) (scene), pesce (PEH-sheh) (fish)
+    SC + a/o/u/h -> "sk": scuola (SKWOH-lah) (school), scherzo (SKEHR-tsoh)
+      (joke)
+- Double consonants are held longer than single ones, and this genuinely
+  changes meaning: nono (NOH-noh) (ninth) vs. nonno (NOHN-noh)
+  (grandfather); capello (kah-PEHL-loh) (hair) vs. cappello (kahp-PEHL-loh)
+  (hat).
+- R is trilled/tapped at the front of the mouth, not pronounced in the
+  throat like English or French r.
+- H is always silent on its own — its only job is to switch c/g between
+  hard and soft.
+
+VOCABULARY:
+gelato (jeh-LAH-toh) - ice cream
+giorno (JOHR-noh) - day
+famiglia (fah-MEE-lyah) - family
+figlio/figlia (FEE-lyoh/FEE-lyah) - son/daughter
+pesce (PEH-sheh) - fish
+scuola (SKWOH-lah) - school
+bagno (BAH-nyoh) - bathroom
+ciao (chow) - hi, bye
+spaghetti (spah-GEHT-tee) - spaghetti
+cappello (kahp-PEHL-loh) - hat
+
+EXAMPLES:
+Buongiorno! Come va la famiglia? - bwohn-JOHR-noh! KOH-meh vah lah
+  fah-MEE-lyah? - Good morning! How's the family?
+Vado a scuola con mio figlio. - VAH-doh ah SKWOH-lah kohn MEE-oh FEE-lyoh -
+  I'm going to school with my son.
+Mangiamo il pesce stasera. - mahn-JAH-moh eel PEH-sheh stah-SEH-rah -
+  We're eating fish tonight.
+
+NOTES:
+- The most common beginner slip is treating GLI like the English "gl" in
+  "glass" — it should sound closer to the "lli" in "million." Practice
+  famiglia and figlio slowly.
+- Doubled consonants are not optional flourishes — capello/cappello and
+  pena/penna (pen) are genuinely different words, so lean into the double
+  sound rather than rushing past it.
+
+PRACTICE:
+Sort these words by whether their C or G is hard or soft, then say them
+aloud: cena, cane, gente, gatto, ciao, gara, cibo, gonna.
+
+================================================================
+LESSON 3: You Already Know Some Italian — Cognates and Common Expressions
+================================================================
+
+OVERVIEW:
+Before diving into grammar, it helps to realize how much Italian you
+already recognize. Italian and English share a huge number of cognates —
+words with a common origin that look and often sound alike — plus a set of
+everyday expressions that are useful from your very first conversation.
+
+GRAMMAR:
+- A cognate is a word that shares an origin with — and usually a visible
+  resemblance to — a word in another language. Italian and English share
+  thousands of them because English borrowed heavily from Latin (Italian's
+  direct parent) via French.
+- Watch for reliable patterns: English words ending in -tion often match
+  Italian words ending in -zione (informazione = information; nazione =
+  nation); English -ty often matches Italian -tà (università = university;
+  città = city); English -ble often matches Italian -bile (incredibile =
+  incredible; possibile = possible).
+- Not every similar-looking word is a true cognate — some are "false
+  friends" that look alike but mean different things (see Lesson 44 for a
+  full list). For now, trust the patterns above; they're reliable.
+- Popular, everyday expressions are worth memorizing as fixed chunks even
+  before you understand every grammatical piece inside them.
+
+VOCABULARY:
+aeroporto (ah-eh-roh-POHR-toh) - airport
+attenzione (aht-tehn-TSYOH-neh) - attention
+importante (eem-pohr-TAHN-teh) - important
+incredibile (een-kreh-DEE-bee-leh) - incredible
+informazione (een-fohr-mah-TSYOH-neh) - information
+università (oo-nee-vehr-see-TAH) - university
+Che c'è? (keh cheh) - What's up?
+D'accordo! (dahk-KOHR-doh) - Agreed! Deal!
+Non c'è di che. (nohn cheh dee keh) - You're welcome.
+Va bene! (vah BEH-neh) - Okay!
+
+EXAMPLES:
+L'aeroporto è molto importante per la città. - lah-eh-roh-POHR-toh eh
+  MOHL-toh eem-pohr-TAHN-teh pehr lah cheet-TAH - The airport is very
+  important for the city.
+Ho bisogno di informazione. - oh bee-ZOH-nyoh dee een-fohr-mah-TSYOH-neh -
+  I need information.
+"Grazie mille!" "Non c'è di che." - GRAH-tsee-eh MEEL-leh! Nohn cheh dee
+  keh - "Thanks a lot!" "You're welcome."
+
+NOTES:
+- Lean on cognates to read signs, menus, and simple text right away — your
+  passive vocabulary is much bigger than your active one at this stage.
+- Reserve full trust for false friends until Lesson 44; a few common
+  Italian words (simpatico, educazione, sensibile) look like English words
+  but carry different meanings.
+
+PRACTICE:
+Guess the English meaning of these Italian words before checking: nazione,
+possibile, comunicazione, terribile, fantastico. Then use "D'accordo!" and
+"Va bene!" in a short made-up exchange.
+
+================================================================
+LESSON 4: Sentence Structure and Noun Gender
+================================================================
+
+OVERVIEW:
+Italian sentences follow the same basic order as English — subject, verb,
+object — which makes the biggest adjustment not word order but noun
+gender, something English doesn't have. Every Italian noun is either
+masculine or feminine, and that single fact ripples out into articles,
+adjectives, and pronouns throughout the language.
+
+GRAMMAR:
+- Basic word order matches English: Marco parla italiano. (Marco speaks
+  Italian.) Subject-Verb-Object.
+- Every noun has a grammatical gender (masculine or feminine) and a number
+  (singular or plural). Gender is not about biological sex for objects —
+  it's a grammatical category you memorize along with the word.
+- The most reliable pattern:
+    Feminine nouns usually end in -a (singular) / -e (plural):
+      una casa -> due case (a house -> two houses)
+    Masculine nouns usually end in -o (singular) / -i (plural):
+      un libro -> due libri (a book -> two books)
+    Nouns ending in -e can be either gender, and end in -i in the plural
+      either way: un esame (m.) -> due esami; una lezione (f.) -> due
+      lezioni. You memorize the gender of -e nouns individually.
+- Handy shortcut: almost any noun ending in -zione is feminine (nazione,
+  lezione, informazione).
+- Invariable nouns keep the same form in singular and plural. Three types:
+    1. Nouns ending in an accented vowel: caffè -> caffè; città -> città
+    2. Nouns ending in a consonant (rare, mostly borrowed words): bar ->
+       bar; film -> film
+    3. Abbreviated words: bici (bike) -> bici; foto -> foto; auto -> auto
+
+VOCABULARY:
+libro (m.) (LEE-broh) - book
+lezione (f.) (leh-TSYOH-neh) - lesson, class
+esame (m.) (eh-ZAH-meh) - exam
+città (f.) (cheet-TAH) - city
+caffè (m.) (kahf-FEH) - coffee
+bici (f.) (BEE-chee) - bike
+film (m.) (feelm) - movie
+studente/studentessa (stoo-DEHN-teh/stoo-dehn-TEHS-sah) - student (m./f.)
+amico/amica (ah-MEE-koh/ah-MEE-kah) - friend (m./f.)
+ragazzo/ragazza (rah-GAHTS-tsoh/rah-GAHTS-tsah) - boy/girl
+
+EXAMPLES:
+Marco parla italiano. - MAHR-koh PAHR-lah ee-tah-LYAH-noh - Marco speaks
+  Italian.
+Ho un esame difficile. - oh oon eh-ZAH-meh deef-FEE-chee-leh - I have a
+  difficult exam.
+Le mie amiche studiano in città. - leh MEE-eh ah-MEE-keh STOO-dyah-noh een
+  cheet-TAH - My friends (f.) study in the city.
+Prendo un caffè e vado. - PREHN-doh oon kahf-FEH eh VAH-doh - I'll have a
+  coffee and go.
+
+NOTES:
+- There is no reliable shortcut for -e nouns: gender must be learned word
+  by word, ideally alongside the article (e.g., learn "il caffè," not just
+  "caffè").
+- Because articles and adjectives must agree with noun gender (Lessons 5
+  and 6), getting gender right from the start saves a lot of correction
+  later — always learn new nouns with their article attached.
+
+PRACTICE:
+Decide masculine or feminine, then give the plural: pizza, treno, notte,
+professore, chiave, museo.
+
+================================================================
+LESSON 5: Definite and Indefinite Articles
+================================================================
+
+OVERVIEW:
+Italian articles ("a/an" and "the") agree with the noun in both gender and
+number, and — unlike English — the choice also depends on the very first
+sound of the noun that follows. This lesson lays out both systems clearly.
+
+GRAMMAR:
+- Indefinite articles ("a/an," always singular):
+    una  -> feminine nouns starting with a consonant: una ragazza (a girl)
+    un'  -> feminine nouns starting with a vowel: un'amica (a friend)
+    un   -> masculine nouns starting with a vowel or most consonants: un
+            amico, un ragazzo
+    uno  -> masculine nouns starting with s+consonant (s impura), z, gn,
+            ps, or pn: uno studente, uno zio (an uncle), uno psicologo
+- Definite articles ("the") — these are the trickiest part of Italian
+  grammar to memorize, so give this table real attention:
+    Masculine singular: il (before most consonants) / lo (before s+cons.,
+      z, gn, ps, pn) / l' (before a vowel)
+    Masculine plural: i (before most consonants) / gli (before s+cons., z,
+      gn, ps, pn, and before vowels)
+    Feminine singular: la (before consonants) / l' (before vowels)
+    Feminine plural: le (for all feminine plurals, regardless of the
+      following sound)
+- Examples showing the pattern: il libro/i libri; lo studente/gli
+  studenti; l'amico/gli amici; la casa/le case; l'amica/le amiche.
+- Italian uses the definite article far more often than English does —
+  notably with general or abstract nouns and languages: L'amore è cieco.
+  (Love is blind.) Mi piace l'italiano. (I like Italian.) — English drops
+  the article in both cases; Italian keeps it.
+
+VOCABULARY:
+zio/zia (DZEE-oh/DZEE-ah) - uncle/aunt
+studente/studentessa (stoo-DEHN-teh) - student
+amico/amica (ah-MEE-koh/ah-MEE-kah) - friend
+psicologo (psee-KOH-loh-goh) - psychologist
+libro (LEE-broh) - book
+casa (KAH-zah) - house
+amore (m.) (ah-MOH-reh) - love
+italiano (ee-tah-LYAH-noh) - Italian (language)
+gli occhi (lyee OHK-kee) - the eyes
+gli studenti (lyee stoo-DEHN-tee) - the students
+
+EXAMPLES:
+Ho un'amica a Roma e uno zio a Milano. - oh oon-ah-MEE-kah ah ROH-mah eh
+  OO-noh DZEE-oh ah mee-LAH-noh - I have a friend in Rome and an uncle in
+  Milan.
+Gli studenti studiano l'italiano. - lyee stoo-DEHN-tee STOO-dyah-noh
+  lee-tah-LYAH-noh - The students study Italian.
+La casa è grande, le case sono piccole. - lah KAH-zah eh GRAHN-deh, leh
+  KAH-zeh SOH-noh PEEK-koh-leh - The house is big, the houses are small.
+
+NOTES:
+- Learners often default to "il" for every masculine noun out of habit —
+  train your ear specifically on "lo" and "gli" before s+consonant, z, and
+  gn words (lo studente, gli zii, lo zaino).
+- Remember the article-with-language rule: "Studio l'italiano," not
+  "Studio italiano," when talking about the language in general.
+
+PRACTICE:
+Add the correct definite article: ___ zaino (backpack, m.), ___ amica (f.),
+___ studente (m.), ___ case (f. pl.), ___ zii (uncles, m. pl.).
+
+================================================================
+LESSON 6: Adjectives and Agreement
+================================================================
+
+OVERVIEW:
+Italian adjectives change their ending to match the gender and number of
+the noun they describe — a feature with no equivalent in English. This
+lesson covers the two adjective patterns and where adjectives sit relative
+to the noun.
+
+GRAMMAR:
+- There are two adjective types, based on how many distinct endings they
+  have:
+    Type 1 (four endings: -o, -a, -i, -e) — agrees in both gender and
+      number, following the pattern of italiano:
+        il ragazzo italiano (the Italian boy, m. sg.)
+        i ragazzi italiani (the Italian boys, m. pl.)
+        la ragazza italiana (the Italian girl, f. sg.)
+        le ragazze italiane (the Italian girls, f. pl.)
+      Other type-1 adjectives: alto/a (tall), piccolo/a (small), rosso/a
+      (red).
+    Type 2 (two endings: -e singular, -i plural) — agrees only in number,
+      same form for masculine and feminine:
+        l'esame facile / gli esami facili (the easy exam(s), m.)
+        la prova facile / le prove facili (the easy test(s), f.)
+      Other type-2 adjectives: grande (big), verde (green), francese
+      (French), intelligente (intelligent).
+- Position: most adjectives FOLLOW the noun (una casa grande, un libro
+  interessante) — the opposite default from English. A short list of very
+  common adjectives can go BEFORE the noun instead, especially bello
+  (beautiful), buono (good), cattivo (bad), grande, and piccolo — placement
+  can even shift the nuance slightly (un grand'uomo, "a great man," vs. un
+  uomo grande, "a big/tall man").
+- Adjectives of nationality always follow the noun and are not capitalized
+  in Italian: la cucina italiana (Italian cuisine), un film francese (a
+  French film).
+
+CONJUGATION TABLE:
+(adjective agreement, not verb conjugation)
+                     Masc. sg.   Masc. pl.   Fem. sg.    Fem. pl.
+Type 1 (italiano)    italiano    italiani    italiana    italiane
+Type 2 (grande)      grande      grandi      grande      grandi
+
+VOCABULARY:
+alto/a (AHL-toh/AHL-tah) - tall
+piccolo/a (PEEK-koh-loh) - small
+rosso/a (ROHS-soh) - red
+grande (GRAHN-deh) - big, great
+verde (VEHR-deh) - green
+intelligente (een-tehl-lee-JEHN-teh) - intelligent
+francese (frahn-CHEH-zeh) - French
+bello/a (BEHL-loh) - beautiful
+buono/a (BWOH-noh) - good
+interessante (een-teh-rehs-SAHN-teh) - interesting
+
+EXAMPLES:
+Ho una macchina rossa e piccola. - oh OO-nah MAHK-kee-nah ROHS-sah eh
+  PEEK-koh-lah - I have a small red car.
+Sono ragazze italiane e intelligenti. - SOH-noh rah-GAHTS-tseh
+  ee-tah-LYAH-neh eh een-tehl-lee-JEHN-tee - They're smart Italian girls.
+È un libro molto interessante. - eh oon LEE-broh MOHL-toh
+  een-teh-rehs-SAHN-teh - It's a very interesting book.
+Che bella giornata! - keh BEHL-lah johr-NAH-tah - What a beautiful day!
+
+NOTES:
+- The most frequent beginner error is leaving an adjective in its "default"
+  -o form regardless of the noun's gender — always check the noun first,
+  then match the adjective to it.
+- Don't force every adjective before the noun the way English does; when in
+  doubt, put it after. You'll absorb the short "goes-before" list (bello,
+  buono, grande, piccolo, cattivo, giovane, vecchio) with exposure.
+
+PRACTICE:
+Make each adjective agree with the noun: una casa (piccolo), due ragazzi
+(francese), gli esami (difficile), la macchina (rosso).
+
+================================================================
+LESSON 7: Subject Pronouns and Formal vs. Informal "You"
+================================================================
+
+OVERVIEW:
+Italian verb endings already show who's doing the action, so subject
+pronouns (I, you, he, she...) are often dropped entirely — used only for
+emphasis or clarity. This lesson also covers one of Italian's biggest
+cultural adjustments for English speakers: choosing between the informal
+and formal "you."
+
+GRAMMAR:
+- Subject pronouns:
+    io (I) - tu (you, informal) - lui (he) - lei (she) - noi (we) -
+    voi (you, plural) - loro (they)
+- Because the verb ending already signals the subject (parlo = "I speak,"
+  necessarily io), Italians normally drop the pronoun. Use it only:
+    For contrast: Tu parli italiano, ma io parlo spagnolo. (You speak
+      Italian, but I speak Spanish.)
+    For emphasis: Vieni anche tu? (Are YOU coming too?)
+    Standing alone: "Chi è?" "Sono io." ("Who is it?" "It's me.")
+- Formal vs. informal "you": Italian has two ways to say "you" to one
+  person, and choosing correctly matters socially.
+    tu -> informal; use with friends, family, children, peers, anyone your
+      own age you're on casual terms with.
+    Lei -> formal (capitalized when written to show respect); use with
+      strangers, superiors, shopkeepers, waitstaff, teachers, and anyone
+      you don't know well. Grammatically, Lei behaves like "she" — it
+      takes third-person singular verb forms even when addressing a man.
+- The plural "you" (voi) covers a group regardless of formality in
+  everyday speech.
+- Custom dictates that the older or higher-status person is the one who
+  invites a switch from Lei to tu ("Diamoci del tu" — "let's use tu with
+  each other").
+
+CONJUGATION TABLE:
+Pronoun    Meaning              Verb form example (essere/to be)
+io         I                    sono
+tu         you (informal)       sei
+lui/lei    he/she               è
+Lei        you (formal)         è
+noi        we                   siamo
+voi        you (plural)         siete
+loro       they                 sono
+
+VOCABULARY:
+tu (too) - you (informal)
+Lei (ley) - you (formal)
+voi (voi) - you (plural)
+come stai? (KOH-meh STAH-ee) - how are you? (informal)
+come sta? (KOH-meh stah) - how are you? (formal)
+signore/signora (see-NYOH-reh/see-NYOH-rah) - Mr./Mrs., sir/ma'am
+anche (AHN-keh) - also, too
+chi? (kee) - who?
+
+EXAMPLES:
+Ciao, come stai? - chow, KOH-meh STAH-ee - Hi, how are you? (informal)
+Buongiorno, signora, come sta? - bwohn-JOHR-noh, see-NYOH-rah, KOH-meh
+  stah - Good morning, ma'am, how are you? (formal)
+Tu tifi per il Milan, ma io per la Juventus. - too TEE-fee pehr eel
+  mee-LAHN, mah EE-oh pehr lah yoo-VEHN-toos - You root for Milan, but I
+  root for Juventus.
+Vieni anche tu alla festa? - VYEH-nee AHN-keh too AHL-lah FEHS-tah - Are
+  you coming to the party too?
+
+NOTES:
+- Beginners often over-use subject pronouns out of habit from English —
+  practice dropping io, tu, noi, etc. and letting the verb ending carry
+  the meaning; it will sound much more natural.
+- When unsure whether to use tu or Lei with someone new, default to Lei —
+  it's the safer, more respectful choice, and Italians rarely take offense
+  at being addressed too formally.
+
+PRACTICE:
+Choose tu or Lei for each situation: ordering coffee from a barista you've
+never met; asking your little cousin a question; greeting your professor;
+chatting with your best friend.
+
+================================================================
+LESSON 8: Present Tense — Regular -are, -ere, and -ire Verbs
+================================================================
+
+OVERVIEW:
+Italian verbs fall into three families based on their infinitive ending:
+-are, -ere, and -ire. Master the pattern for one verb in each family and
+you can conjugate hundreds of regular verbs the same way.
+
+GRAMMAR:
+- To conjugate a regular verb, drop the infinitive ending (-are, -ere, or
+  -ire) and add the ending that matches the subject.
+- The present tense in Italian covers what English expresses with three
+  different constructions: parlo can mean "I speak," "I do speak," or "I
+  am speaking," depending on context.
+- -ARE verbs (like parlare, to speak): io parlo, tu parli, lui/lei parla,
+  noi parliamo, voi parlate, loro parlano
+- -ERE verbs (like vivere, to live): io vivo, tu vivi, lui/lei vive, noi
+  viviamo, voi vivete, loro vivono
+- -IRE verbs, group 1 (like partire, to leave): io parto, tu parti, lui/lei
+  parte, noi partiamo, voi partite, loro partono
+- -IRE verbs, group 2 — "isc" verbs (like capire, to understand): these
+  insert -isc- between the stem and ending in every form except noi and
+  voi: io capisco, tu capisci, lui/lei capisce, noi capiamo, voi capite,
+  loro capiscono. Other common isc verbs: finire (to finish), preferire
+  (to prefer), pulire (to clean). There's no visual way to predict which
+  -ire verbs take -isc-; you learn it verb by verb.
+
+CONJUGATION TABLE:
+Pronoun     parlare (-are)   vivere (-ere)   partire (-ire)   capire (-isc-)
+io          parlo            vivo            parto            capisco
+tu          parli            vivi             parti           capisci
+lui/lei     parla            vive             parte           capisce
+noi         parliamo         viviamo          partiamo         capiamo
+voi         parlate          vivete           partite          capite
+loro        parlano          vivono           partono          capiscono
+
+VOCABULARY:
+parlare (pahr-LAH-reh) - to speak
+mangiare (mahn-JAH-reh) - to eat
+studiare (stoo-DYAH-reh) - to study
+vivere (VEE-veh-reh) - to live
+prendere (PREHN-deh-reh) - to take, to have (food/drink)
+ripetere (ree-PEH-teh-reh) - to repeat
+partire (pahr-TEE-reh) - to leave, depart
+aprire (ah-PREE-reh) - to open
+capire (kah-PEE-reh) - to understand
+finire (fee-NEE-reh) - to finish
+
+EXAMPLES:
+Parlo un po' d'italiano. - PAHR-loh oon poh dee-tah-LYAH-noh - I speak a
+  little Italian.
+Studiamo insieme ogni sera. - stoo-DYAH-moh een-SYEH-meh OH-nyee SEH-rah -
+  We study together every evening.
+Non capisco bene, ma capisco di più ogni giorno. - nohn kah-PEES-koh BEH-
+  neh, mah kah-PEES-koh dee pyoo OH-nyee JOHR-noh - I don't understand well,
+  but I understand more every day.
+A che ora parte il treno? - ah keh OH-rah PAHR-teh eel TREH-noh - What time
+  does the train leave?
+
+NOTES:
+- There's no way to tell from the infinitive alone whether an -ire verb
+  needs -isc-; when learning a new -ire verb, note its type immediately.
+- Because subject pronouns are usually dropped (Lesson 7), the verb ending
+  is doing double duty: it tells you both the action and the subject, so
+  getting endings right matters even more in Italian than in English.
+
+PRACTICE:
+Conjugate mangiare and preferire (an isc verb) fully in the present tense,
+then use each in one original sentence.
+
+================================================================
+LESSON 9: Essere and Avere, Avere Idioms, and the Modal Verbs
+================================================================
+
+OVERVIEW:
+Essere (to be) and avere (to have) are the two most important irregular
+verbs in Italian — they're used constantly on their own and as helping
+verbs for compound tenses later on. Avere also drives a set of idiomatic
+expressions that don't translate word-for-word from English. This lesson
+closes out Part 1 with these verbs plus the three modal verbs: dovere,
+volere, and potere.
+
+GRAMMAR:
+- Essere (to be) and avere (to have) are both irregular and must be
+  memorized outright — you'll use them in nearly every sentence.
+- Idiomatic uses of avere: Italian expresses many states that English
+  handles with "to be" using avere ("to have") instead — literally "to
+  have hunger," "to have heat," and so on.
+- The three modal (helping) verbs — dovere (must/have to), volere (to
+  want), potere (can/may) — are conjugated themselves, and are followed
+  by another verb in the INFINITIVE (unconjugated) form:
+    Devo studiare. (I have to study.)
+    Voglio dormire! (I want to sleep!)
+    Posso entrare? (May I come in?)
+
+CONJUGATION TABLE:
+Pronoun     essere (to be)   avere (to have)   dovere      volere     potere
+io          sono             ho                devo        voglio     posso
+tu          sei              hai               devi        vuoi       puoi
+lui/lei     è                ha                deve        vuole      può
+noi         siamo            abbiamo           dobbiamo    vogliamo   possiamo
+voi         siete            avete             dovete      volete     potete
+loro        sono             hanno             devono      vogliono   possono
+
+VOCABULARY:
+avere fame (ah-VEH-reh FAH-meh) - to be hungry (lit. to have hunger)
+avere sete (ah-VEH-reh SEH-teh) - to be thirsty
+avere caldo (ah-VEH-reh KAHL-doh) - to be hot
+avere freddo (ah-VEH-reh FREHD-doh) - to be cold
+avere sonno (ah-VEH-reh SOHN-noh) - to be sleepy
+avere ragione (ah-VEH-reh rah-JOH-neh) - to be right
+avere torto (ah-VEH-reh TOHR-toh) - to be wrong
+avere ... anni (ah-VEH-reh AHN-nee) - to be ... years old
+avere bisogno di (ah-VEH-reh bee-ZOH-nyoh dee) - to need
+avere voglia di (ah-VEH-reh VOH-lyah dee) - to feel like, crave
+
+EXAMPLES:
+Ho fame e ho sete! - oh FAH-meh eh oh SEH-teh - I'm hungry and thirsty!
+Quanti anni hai? Ho ventotto anni. - KWAHN-tee AHN-nee AH-ee? oh
+  vehn-TOHT-toh AHN-nee - How old are you? I'm twenty-eight.
+Devo lavorare, ma voglio uscire. - DEH-voh lah-voh-RAH-reh, mah VOH-lyoh
+  oo-SHEE-reh - I have to work, but I want to go out.
+Non posso venire stasera. - nohn POHS-soh veh-NEE-reh stah-SEH-rah - I
+  can't come tonight.
+
+NOTES:
+- English learners instinctively reach for "essere" to translate "to be
+  hungry/cold/right," etc. — catch yourself and use avere instead for this
+  whole family of expressions.
+- After dovere, volere, or potere, the second verb always stays in the
+  infinitive — never conjugate both verbs (devo studiare, not devo studio).
+
+PRACTICE:
+Translate using avere idioms: "I'm thirty years old." "We're cold." "She's
+right." "Do you (informal) need anything?" Then write one sentence each
+with dovere + infinitive and volere + infinitive.
