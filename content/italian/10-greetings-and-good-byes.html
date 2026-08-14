@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Greetings and Good-byes</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-pron{color:var(--ink-muted); font-style:italic; font-size:.9rem; white-space:nowrap;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .it{font-weight:600; margin:0;}
+  .example .pron{color:var(--ink-muted); font-style:italic; display:block; font-size:.9rem; margin:.15rem 0;}
+  .example .en{color:var(--ink); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 2 · Everyday Life · Lesson 10</p>
+  <h1>Greetings and Good-byes</h1>
+  <section class="overview"><p>Greetings are the first thing you'll actually use in real conversation, and Italian has a clear formal/informal split that echoes the tu/Lei distinction from Lesson 7. This lesson covers hellos, good-byes, and how to reply naturally when someone greets you.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>Greetings shift by time of day and by formality level, just like the verbs used to address people:<br>Informal, any time: ciao (hi/bye) — use only with tu-level relationships<br>Formal, morning/early afternoon: buongiorno (good morning/good day)<br>Formal, evening: buonasera (good evening)<br>Before bed: buonanotte (good night) — a farewell, not a greeting</li>
+<li>Good-byes: arrivederci (informal-to-neutral, &quot;until we see each other again&quot;) and arrivederLa (the extra-formal version, addressed to a single person you're speaking to with Lei). A ciao works for informal partings too.</li>
+<li>Replying to &quot;come stai/sta?&quot; (how are you?): Italians commonly answer with a scale rather than a flat yes/no — bene (well), non c'è male (not bad), così così (so-so), male (badly) — then often return the question with &quot;e tu?&quot; / &quot;e Lei?&quot; (and you?).</li>
+</ul>
+</section>
+
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">ciao</div><div class="vocab-pron">chow</div><div class="vocab-meaning">hi, bye (informal)</div></div>
+<div class="vocab-row"><div class="vocab-word">buongiorno</div><div class="vocab-pron">bwohn-JOHR-noh</div><div class="vocab-meaning">good morning, good day</div></div>
+<div class="vocab-row"><div class="vocab-word">buonasera</div><div class="vocab-pron">bwoh-nah-SEH-rah</div><div class="vocab-meaning">good evening</div></div>
+<div class="vocab-row"><div class="vocab-word">buonanotte</div><div class="vocab-pron">bwoh-nah-NOHT-teh</div><div class="vocab-meaning">good night</div></div>
+<div class="vocab-row"><div class="vocab-word">arrivederci</div><div class="vocab-pron">ahr-ree-veh-DEHR-chee</div><div class="vocab-meaning">goodbye</div></div>
+<div class="vocab-row"><div class="vocab-word">arrivederLa</div><div class="vocab-pron">ahr-ree-veh-DEHR-lah</div><div class="vocab-meaning">goodbye (very formal)</div></div>
+<div class="vocab-row"><div class="vocab-word">come stai/sta?</div><div class="vocab-pron">KOH-meh STAH-ee/stah</div><div class="vocab-meaning">how are you? (inf./form.)</div></div>
+<div class="vocab-row"><div class="vocab-word">non c'è male</div><div class="vocab-pron">nohn cheh MAH-leh</div><div class="vocab-meaning">not bad</div></div>
+<div class="vocab-row"><div class="vocab-word">così così</div><div class="vocab-pron">koh-ZEE koh-ZEE</div><div class="vocab-meaning">so-so</div></div>
+<div class="vocab-row"><div class="vocab-word">a presto</div><div class="vocab-pron">ah PREHS-toh</div><div class="vocab-meaning">see you soon</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="it">Buongiorno, signora Rossi! Come sta?</p><span class="pron">bwohn-JOHR-noh, see-NYOH-rah ROHS-see! KOH-meh stah</span><p class="en">Good morning, Mrs. Rossi! How are you?</p></div>
+<div class="example"><p class="it">Ciao Marco, come stai? Non c'è male, e tu?</p><span class="pron">chow MAHR-koh, KOH-meh STAH-ee? nohn cheh MAH-leh, eh too</span><p class="en">Hi Marco, how are you? Not bad, and you?</p></div>
+<div class="example"><p class="it">È tardi, buonanotte a tutti!</p><span class="pron">eh TAHR-dee, bwoh-nah-NOHT-teh ah TOOT-tee</span><p class="en">It's late, good night everyone!</p></div>
+<div class="example"><p class="it">Arrivederci, a presto!</p><span class="pron">ahr-ree-veh-DEHR-chee, ah PREHS-toh</span><p class="en">Goodbye, see you soon!</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>Buonanotte is exclusively a farewell (said when parting for the night), never a greeting — unlike buongiorno/buonasera, which work as both hello and general well-wishes throughout their time of day.</li>
+<li>Match your greeting's formality to your interlocutor: ciao with a shopkeeper you've just met can come across as too casual; buongiorno is the safer opener with strangers.</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Write the right greeting for each: entering a bakery at 9am; leaving a friend's party at 1am; saying hello to your boss at 4pm; texting a close friend &quot;hi, how are you?&quot;</p></section>
+</body>
+</html>

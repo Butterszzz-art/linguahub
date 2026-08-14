@@ -1,0 +1,88 @@
+################################################################
+ITALIAN COURSE — MASTER CURRICULUM INDEX
+Compiled from: "Italian For Dummies" (2nd ed., Picarazzi, Onofri, Möller)
+################################################################
+
+HOW THIS COURSE IS ORGANIZED
+-----------------------------
+This is a full beginner-to-intermediate Italian curriculum, split across 5
+content files so each one is a manageable size for import into your webapp.
+Every file uses the same plain-text structure so it can be parsed
+programmatically:
+
+  ################  = PART divider (top-level unit)
+  ================  = LESSON divider (one lesson/topic)
+  ALL-CAPS LABEL:    = section within a lesson (OVERVIEW, GRAMMAR,
+                       CONJUGATION TABLE, VOCABULARY, EXAMPLES, NOTES,
+                       PRACTICE)
+
+Suggested parsing rule for your webapp: split on lines of "====" to get
+lessons, then split each lesson on the ALL-CAPS labels followed by a colon
+at the start of a line to get sections.
+
+Pronunciation convention: Italian pronunciation is written phonetically in
+parentheses right after each word, syllables separated by hyphens, with the
+STRESSED syllable in CAPITALS — e.g. casa (KAH-zah) (house). This differs
+slightly from italics-for-stress used in some textbooks, but capitals are
+easier to render as plain text in a webapp.
+
+FILES IN THIS COURSE
+---------------------
+italian_00_curriculum_index.txt      <- you are here
+italian_01_foundations.txt           Lessons 1-9   Pronunciation, alphabet,
+                                      cognates, sentence structure, gender,
+                                      articles, adjectives, subject pronouns,
+                                      formal/informal "you," present tense
+                                      of regular -are/-ere/-ire verbs,
+                                      essere & avere, avere idioms, modal
+                                      verbs (dovere/volere/potere)
+italian_02_everyday_life.txt         Lessons 10-18 Greetings & introductions,
+                                      getting acquainted, numbers, days &
+                                      dates, telling time, weather &
+                                      seasons, the metric system, home &
+                                      housing vocabulary, asking directions
+                                      & verbs of motion
+italian_03_food_shopping_culture.txt Lessons 19-27 Eating & drinking Italian
+                                      style (espresso culture), dining out,
+                                      the three meals, grocery shopping,
+                                      clothes shopping & colors, going out
+                                      (movies/theater/museums/festivals),
+                                      making invitations, the passato
+                                      prossimo (past tense)
+italian_04_travel_practical.txt      Lessons 28-36 Phone & telecommunicating,
+                                      talking about work & the imperfetto,
+                                      reflexive verbs & taking a tour,
+                                      sports & hobbies, planning a trip &
+                                      the future tense, money & banking,
+                                      airports/customs/car rental, public
+                                      transportation, lodging & the
+                                      imperative mood
+italian_05_advanced_wrapup.txt       Lessons 37-44 Demonstratives &
+                                      possessives, medical emergencies,
+                                      police/accidents/lost documents,
+                                      interrogative pronouns, family
+                                      vocabulary & possessives part 2,
+                                      reflexive verbs recap & small talk,
+                                      idiomatic expressions that make you
+                                      sound Italian, quick tips & classic
+                                      mistakes to avoid
+
+RECOMMENDED PATH
+-----------------
+Beginner:      Part 1 -> Part 2 -> dip into Part 3 for food/shopping vocab
+Intermediate:  Part 3 -> Part 4 (this is where the past, future, and
+               imperative tenses come in)
+Advanced:      Part 5 -> polish weak spots, start reading/media, layer in
+               the idiomatic expressions
+
+Each lesson is self-contained enough to stand alone as a "classroom" unit —
+overview, rule explanation, a reference table, core vocabulary, worked
+example sentences, and common-mistake notes, in that order.
+
+A NOTE ON SOURCES
+-------------------
+All explanations, example sentences, and dialogues in this course were
+written originally for this curriculum. The source textbook was used only
+to determine which topics to cover, in what order, and to keep vocabulary
+choices and phonetic conventions authentic to how the book teaches Italian
+pronunciation (hyphenated syllables, e.g. buongiorno (bwohn-JOHR-noh)).

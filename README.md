@@ -65,6 +65,28 @@ The script is transactional and idempotent-safe: it reads every lesson file up f
 missing file fails before anything is written) and skips re-seeding if a "Portuguese"
 classroom already exists.
 
+### 4c. (Optional) Seed the Italian classroom
+
+A full beginner-to-intermediate Italian curriculum (44 lessons across 5 units — pronunciation
+through idiomatic expressions) lives as plain text in
+[content-source/italian/](content-source/italian). [scripts/generate-italian-content.ts](scripts/generate-italian-content.ts)
+parses it into self-contained per-lesson HTML (`content/italian/*.html`, styled to match the
+app's palette, safe to render in [LessonFrame](components/LessonFrame.tsx)'s sandboxed iframe)
+plus [manifest-italian.json](manifest-italian.json). Regenerate after editing the source text:
+
+```bash
+npx tsx scripts/generate-italian-content.ts
+```
+
+Then seed the classroom the same way as Portuguese:
+
+```bash
+npx tsx prisma/seed-italian.ts
+```
+
+[prisma/seed-italian.ts](prisma/seed-italian.ts) is the same transactional, idempotent-safe
+pattern as `seed-portuguese.ts`.
+
 ### 5. Run the dev server
 
 ```bash
@@ -89,7 +111,11 @@ lib/prisma.ts                              Prisma client singleton
 prisma/schema.prisma                       Database schema
 prisma/seed.ts                             Sample data seed script
 prisma/seed-portuguese.ts                  Optional real-content seed script (see below)
+prisma/seed-italian.ts                     Optional real-content seed script (see below)
 manifest.json                              Classroom→unit→lesson map for the Portuguese seed
+manifest-italian.json                      Classroom→unit→lesson map for the Italian seed
+content-source/italian/*.txt               Raw Italian curriculum text (parser input)
+scripts/generate-italian-content.ts        Parses content-source/italian into content/italian + the manifest
 ```
 
 ## Database Schema

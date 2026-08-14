@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Days, Dates, and the Calendar</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-pron{color:var(--ink-muted); font-style:italic; font-size:.9rem; white-space:nowrap;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .it{font-weight:600; margin:0;}
+  .example .pron{color:var(--ink-muted); font-style:italic; display:block; font-size:.9rem; margin:.15rem 0;}
+  .example .en{color:var(--ink); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 2 · Everyday Life · Lesson 14</p>
+  <h1>Days, Dates, and the Calendar</h1>
+  <section class="overview"><p>This lesson covers the days of the week, months, and how to state and ask for dates — including a word-order difference from English that trips up many learners.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>Days of the week (not capitalized in Italian): lunedì (Monday), martedì (Tuesday), mercoledì (Wednesday), giovedì (Thursday), venerdì (Friday), sabato (Saturday), domenica (Sunday). Note domenica is the only one that doesn't end in the accented -ì.</li>
+<li>Months (also not capitalized): gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre, dicembre.</li>
+<li>Useful time words: oggi (today), domani (tomorrow), dopodomani (day after tomorrow), ieri (yesterday), l'altro ieri (day before yesterday, literally &quot;the other yesterday&quot;).</li>
+<li>To ask the date: Che giorno è oggi? or Quanti ne abbiamo oggi? (What's today's date?)</li>
+<li>To STATE a date, Italian reverses the English order: it's day + month (+ year), introduced by è + il + [number]:<br>Oggi è il dieci febbraio duemilaventisei. (Today is February 10, 2026.) Compare to English &quot;February tenth&quot; — Italian says, essentially, &quot;the tenth of February.&quot;</li>
+<li>The first of the month is the one exception that uses an ordinal instead of a cardinal number: il primo maggio (May 1st), but il due maggio, il tre maggio, etc. after that use plain cardinal numbers.</li>
+<li>To ask when something happens, use quando (when): Quando parti? (When are you leaving?)</li>
+</ul>
+</section>
+
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">lunedì-domenica</div><div class="vocab-pron">loo-neh-DEE-doh-MEH-nee-kah</div><div class="vocab-meaning">Monday-Sunday</div></div>
+<div class="vocab-row"><div class="vocab-word">oggi</div><div class="vocab-pron">OHJ-jee</div><div class="vocab-meaning">today</div></div>
+<div class="vocab-row"><div class="vocab-word">domani</div><div class="vocab-pron">doh-MAH-nee</div><div class="vocab-meaning">tomorrow</div></div>
+<div class="vocab-row"><div class="vocab-word">ieri</div><div class="vocab-pron">YEH-ree</div><div class="vocab-meaning">yesterday</div></div>
+<div class="vocab-row"><div class="vocab-word">gennaio-dicembre</div><div class="vocab-pron">jehn-NAH-yoh-dee-CHEHM-breh</div><div class="vocab-meaning">January-December</div></div>
+<div class="vocab-row"><div class="vocab-word">il compleanno</div><div class="vocab-pron">eel kohm-pleh-AHN-noh</div><div class="vocab-meaning">the birthday</div></div>
+<div class="vocab-row"><div class="vocab-word">quando</div><div class="vocab-pron">KWAHN-doh</div><div class="vocab-meaning">when</div></div>
+<div class="vocab-row"><div class="vocab-word">la settimana</div><div class="vocab-pron">lah seht-tee-MAH-nah</div><div class="vocab-meaning">the week</div></div>
+<div class="vocab-row"><div class="vocab-word">il mese</div><div class="vocab-pron">eel MEH-zeh</div><div class="vocab-meaning">the month</div></div>
+<div class="vocab-row"><div class="vocab-word">l'anno</div><div class="vocab-pron">LAHN-noh</div><div class="vocab-meaning">the year</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="it">Che giorno è oggi? Oggi è mercoledì.</p><span class="pron">keh JOHR-noh eh OHJ-jee? OHJ-jee eh mehr-koh-leh-DEE</span><p class="en">What day is today? Today is Wednesday.</p></div>
+<div class="example"><p class="it">Il mio compleanno è il primo maggio.</p><span class="pron">eel MEE-oh kohm-pleh-AHN-noh eh eel PREE-moh MAHJ-joh</span><p class="en">My birthday is May 1st.</p></div>
+<div class="example"><p class="it">Parto domani, il sedici marzo.</p><span class="pron">PAHR-toh doh-MAH-nee, eel SEH-dee-chee MAHR-tsoh</span><p class="en">I'm leaving tomorrow, the sixteenth of March.</p></div>
+<div class="example"><p class="it">Il concerto è martedì sera.</p><span class="pron">eel kohn-CHEHR-toh eh mahr-teh-DEE SEH-rah</span><p class="en">The concert is Tuesday evening.</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>Remember the date-order flip: Italian never says &quot;maggio primo,&quot; always &quot;il primo maggio&quot; — the number leads.</li>
+<li>Days and months stay lowercase in Italian even at the start of a sentence about them (&quot;lunedì è il mio giorno preferito,&quot; not &quot;Lunedì... &quot; capitalized for grammatical reasons — though sentence-initial capitals still apply to the sentence itself, the word &quot;lunedì&quot; itself is never capitalized as a proper noun the way English does).</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Write out today's full date in Italian, then answer: Che giorno è domani? Quando è il tuo compleanno?</p></section>
+</body>
+</html>

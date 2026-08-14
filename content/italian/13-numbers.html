@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Numbers</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c17f3f; --caramel-dark:#a1672f; --caramel-light:#f0d9b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241a12; --beige:#33261b; --beige-dark:#4f3c2b;
+      --ink:#f3e7d6; --ink-muted:#c7b39a;
+      --caramel:#d99a53; --caramel-dark:#e8b578; --caramel-light:#4a3722;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-pron{color:var(--ink-muted); font-style:italic; font-size:.9rem; white-space:nowrap;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .it{font-weight:600; margin:0;}
+  .example .pron{color:var(--ink-muted); font-style:italic; display:block; font-size:.9rem; margin:.15rem 0;}
+  .example .en{color:var(--ink); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 2 · Everyday Life · Lesson 13</p>
+  <h1>Numbers</h1>
+  <section class="overview"><p>Numbers show up everywhere — prices, phone numbers, ages, addresses — so this lesson builds the full counting system from zero through the millions, plus the two irregular quirks worth knowing up front.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>Numbers 0-10: zero, uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci</li>
+<li>Numbers 11-19 are irregular and must be memorized individually: undici, dodici, tredici, quattordici, quindici, sedici, diciassette, diciotto, diciannove</li>
+<li>From 20 on, numbers are built by combining a &quot;tens&quot; word with a &quot;ones&quot; word, exactly like English (twenty-two): venti + due = ventidue.</li>
+<li>When a &quot;tens&quot; word ends in a vowel and meets uno or otto, the tens word DROPS its final vowel: venti + uno = ventuno (not ventiuno); quaranta + otto = quarantotto (not quarantaotto).</li>
+<li>Tens: venti (20), trenta (30), quaranta (40), cinquanta (50), sessanta (60), settanta (70), ottanta (80), novanta (90), cento (100)</li>
+<li>Hundreds simply prefix cento: duecento (200), trecento (300), and so on — no space, no &quot;e.&quot;</li>
+<li>Thousands: mille (1,000) is irregular in the plural — it becomes -mila: duemila (2,000), tremila (3,000). Millions and billions: un milione (1,000,000, note the different word), un miliardo (1,000,000,000).</li>
+<li>Decades as a period of time (&quot;the sixties&quot;) need a phrase, not a single word: gli anni sessanta (literally &quot;the years sixty&quot;).</li>
+</ul>
+</section>
+
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">zero</div><div class="vocab-pron">DZEH-roh</div><div class="vocab-meaning">zero</div></div>
+<div class="vocab-row"><div class="vocab-word">uno-dieci</div><div class="vocab-pron">OO-noh-DYEH-chee</div><div class="vocab-meaning">one-ten</div></div>
+<div class="vocab-row"><div class="vocab-word">undici-diciannove</div><div class="vocab-pron">OON-dee-chee-dee-chahn-NOH-veh</div><div class="vocab-meaning">eleven-nineteen</div></div>
+<div class="vocab-row"><div class="vocab-word">venti</div><div class="vocab-pron">VEHN-tee</div><div class="vocab-meaning">twenty</div></div>
+<div class="vocab-row"><div class="vocab-word">trenta</div><div class="vocab-pron">TREHN-tah</div><div class="vocab-meaning">thirty</div></div>
+<div class="vocab-row"><div class="vocab-word">cento</div><div class="vocab-pron">CHEHN-toh</div><div class="vocab-meaning">one hundred</div></div>
+<div class="vocab-row"><div class="vocab-word">mille</div><div class="vocab-pron">MEEL-leh</div><div class="vocab-meaning">one thousand</div></div>
+<div class="vocab-row"><div class="vocab-word">un milione</div><div class="vocab-pron">oon mee-LYOH-neh</div><div class="vocab-meaning">one million</div></div>
+<div class="vocab-row"><div class="vocab-word">quanti anni hai?</div><div class="vocab-pron">KWAHN-tee AHN-nee AH-ee</div><div class="vocab-meaning">how old are you?</div></div>
+<div class="vocab-row"><div class="vocab-word">numero di telefono</div><div class="vocab-pron">NOO-meh-roh dee teh-LEH-foh-noh</div><div class="vocab-meaning">phone number</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="it">Ho trentatré anni.</p><span class="pron">oh trehn-tah-TREH AHN-nee</span><p class="en">I'm thirty-three years old.</p></div>
+<div class="example"><p class="it">Il biglietto costa quarantotto euro.</p><span class="pron">eel bee-LYEHT-toh KOHS-tah kwah-rahn-TOHT-toh EH-oo-roh</span><p class="en">The ticket costs forty-eight euros.</p></div>
+<div class="example"><p class="it">Ci sono duemilaventisei studenti.</p><span class="pron">chee SOH-noh doo-eh-mee-lah-vehn-tee- SEY stoo-DEHN-tee</span><p class="en">There are two thousand and twenty-six students.</p></div>
+<div class="example"><p class="it">Il mio numero è zero-tre-tre...</p><span class="pron">eel MEE-oh NOO-meh-roh eh DZEH-roh treh treh</span><p class="en">My number is oh-three-three...</p></div></section>
+<section><h2>Notes</h2><ul>
+<li>The uno/otto vowel-drop rule (ventuno, trentotto, quarantuno, cinquantotto) trips up learners constantly — practice it deliberately rather than defaulting to the &quot;expected&quot; full form.</li>
+<li>Unlike English, Italian doesn't insert &quot;and&quot; between hundreds and the rest of the number: 322 is trecentoventidue, with no word for &quot;and.&quot;</li>
+</ul>
+</section>
+<section class="practice"><h2>Practice</h2><p>Say these numbers aloud: 21, 38, 47, 96, 100, 250, 1,984, 3,000,000.</p></section>
+</body>
+</html>
