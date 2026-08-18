@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vowel Harmony and Word Stress</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c1483f; --caramel-dark:#a1332f; --caramel-light:#f0c8b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241512; --beige:#33201b; --beige-dark:#4f2f2b;
+      --ink:#f3e0d6; --ink-muted:#c7a39a;
+      --caramel:#e08a53; --caramel-dark:#e89778; --caramel-light:#4a2e22;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul,ol{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-category{
+    grid-column:1 / -1; font-weight:700; text-transform:uppercase;
+    letter-spacing:.04em; font-size:.78rem; color:var(--caramel-dark);
+    margin-top:.5rem; padding-top:.5rem; border-top:1px solid var(--beige-dark);
+  }
+  .vocab-category:first-child{margin-top:0; padding-top:0; border-top:none;}
+  .vocab-word{font-weight:700;}
+  .vocab-pron{color:var(--ink-muted); font-style:italic; font-size:.9rem; white-space:nowrap;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .tr{font-weight:600; margin:0;}
+  .example .pron{color:var(--ink-muted); font-style:italic; display:block; font-size:.9rem; margin:.15rem 0;}
+  .example .en{color:var(--ink); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 1 · Foundations · Lesson 2</p>
+  <h1>Vowel Harmony and Word Stress</h1>
+  <section class="overview"><p>Vowel harmony is the single most important pattern in Turkish grammar, and it will come up in almost every lesson from here on. Turkish endings (suffixes) usually come in either two or four different versions, and which version you use depends on the last vowel of the word you're attaching the ending to. This lesson gives you the full system up front so that later lessons can simply say &quot;this ending follows two-way harmony&quot; or &quot;this ending follows four-way harmony&quot; without re-explaining it each time.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>Turkish vowels divide into two families based on where in the mouth they're produced:<br>FRONT vowels: e, i, ö, ü<br>BACK vowels:  a, ı, o, u</li>
+<li>Two-way vowel harmony (&quot;e-type&quot; harmony): an ending has two versions, one with e and one with a. You choose based on the LAST vowel of the word:<br>- if the last vowel is a front vowel (e, i, ö, ü) -&gt; use the e version<br>- if the last vowel is a back vowel (a, ı, o, u) -&gt; use the a version Example: the plural ending -ler/-lar works this way.<br>ev (house, back... wait, e is front) -&gt; evler (houses)<br>araba (car, back vowel a) -&gt; arabalar (cars)</li>
+<li>Four-way vowel harmony (&quot;i-type&quot; harmony): an ending has four versions, matching not just front/back but also rounded/unrounded:<br>- last vowel i (front, unrounded) -&gt; use the i version<br>- last vowel ü (front, rounded) -&gt; use the ü version<br>- last vowel ı (back, unrounded) -&gt; use the ı version<br>- last vowel u (back, rounded) -&gt; use the u version Example: the question particle mı/mi/mu/mü works this way.<br>İstanbul mu? (Is it İstanbul?) - last vowel u -&gt; mu<br>Türk mü? (Is he Turkish?) - last vowel ü -&gt; mü<br>Paris mi? (Is it Paris?) - last vowel i -&gt; mi<br>Roma mı? (Is it Rome?) - last vowel a (back, unrounded, closest match to ı) -&gt; mı</li>
+<li>A simple way to remember the four-way pattern: the vowel of the ending &quot;rhymes&quot; with the last vowel of the word. If the exact vowel isn't available (e.g. the word ends in e, a, ö or o), pick whichever of the four options sounds closest.</li>
+<li>You do not need to memorize these rules by rote. As you listen to and read more Turkish, harmonizing correctly becomes instinctive. And even if you get it wrong as a beginner, Turks will still understand you fine — vowel harmony affects how natural you sound, not whether you're understood.</li>
+<li>Consonant harmony: Turkish also &quot;harmonizes&quot; certain consonants for ease of pronunciation. You'll meet the two main patterns in later lessons:<br>- voiced/voiceless matching: the d in endings like -de or -den becomes t after a word ending in an unvoiced consonant (ç, f, h, k, p, s, ş, t) — e.g. sokakta (in the street), not sokakda.<br>- k -&gt; ğ: a word-final k preceded by a vowel changes to ğ when you add an ending that starts with (or is) a vowel — e.g. kazak (coat) -&gt; kazağı (its coat / the coat, object form).</li>
+<li>Buffer consonants: Turkish never allows two vowels to sit next to each other inside a word. When an ending that starts with a vowel is added to a word that ends in a vowel, a &quot;buffer&quot; consonant is inserted between them to keep the pronunciation clean. The most common buffers are -y-, -n- and -s-; you'll learn exactly which one to use for which ending as each ending is introduced.</li>
+<li>Word stress recap: the default is to stress the last syllable (kapı - kah-PUH). A few categories of words break this rule — including most place names (this book's convention: stress marked in phonetics as it comes up) and words borrowed from Arabic or Persian with a naturally &quot;long&quot; vowel (like lazım, necessary, pronounced with a lengthened first a: LAA-zuhm).</li>
+</ul>
+</section>
+
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">ev</div><div class="vocab-pron">ev</div><div class="vocab-meaning">house</div></div>
+<div class="vocab-row"><div class="vocab-word">araba</div><div class="vocab-pron">ah-rah-BAH</div><div class="vocab-meaning">car</div></div>
+<div class="vocab-row"><div class="vocab-word">oda</div><div class="vocab-pron">oh-DAH</div><div class="vocab-meaning">room</div></div>
+<div class="vocab-row"><div class="vocab-word">göz</div><div class="vocab-pron">gurz</div><div class="vocab-meaning">eye</div></div>
+<div class="vocab-row"><div class="vocab-word">kulak</div><div class="vocab-pron">koo-LAHK</div><div class="vocab-meaning">ear</div></div>
+<div class="vocab-row"><div class="vocab-word">sokak</div><div class="vocab-pron">soh-KAHK</div><div class="vocab-meaning">street</div></div>
+<div class="vocab-row"><div class="vocab-word">kitap</div><div class="vocab-pron">kee-TAHP</div><div class="vocab-meaning">book</div></div>
+<div class="vocab-row"><div class="vocab-word">kazak</div><div class="vocab-pron">kah-ZAHK</div><div class="vocab-meaning">coat, sweater</div></div>
+<div class="vocab-row"><div class="vocab-word">lazım</div><div class="vocab-pron">LAA-zuhm</div><div class="vocab-meaning">necessary</div></div>
+<div class="vocab-row"><div class="vocab-word">hâlâ</div><div class="vocab-pron">hah-LAH</div><div class="vocab-meaning">still (an example of the circumflex marking a lengthened Arabic-origin vowel)</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="tr">Evler büyük.</p><span class="pron">ev-LER bew-YEWK</span><p class="en">The houses are big.</p></div>
+<div class="example"><p class="tr">Arabalar güzel.</p><span class="pron">ah-rah-bah-LAR gew-ZEL</span><p class="en">The cars are nice.</p></div>
+<div class="example"><p class="tr">Kitap mı?</p><span class="pron">kee-TAHP muh</span><p class="en">Is it a book?</p></div>
+<div class="example"><p class="tr">Göz mü?</p><span class="pron">gurz mew</span><p class="en">Is it an eye?</p></div>
+<div class="example"><p class="tr">Kazağı giy!</p><span class="pron">kah-zah-UH giy</span><p class="en">Put the coat on! (k changes to ğ)</p></div></section>
+<section><h2>Notes</h2><p>Don't try to consciously calculate vowel harmony while speaking at first — it will slow you down and isn't necessary to be understood. Instead, notice the pattern passively as you go through this course: nearly every plural, question, and personal ending you meet will explicitly tell you whether it follows two-way or four-way harmony, and over time the correct forms will simply start to feel right.</p></section>
+<section class="practice"><h2>Practice</h2><ol>
+<li>Sort these words by whether their last vowel is front or back: masa (table), sandalye (chair), kapı (door), gözlük (glasses).</li>
+<li>Add the plural ending (-ler or -lar, following two-way harmony) to: kitap, göz, ev, sokak.</li>
+<li>Which version of mı/mi/mu/mü would follow the word süt (milk)?</li>
+<li>Explain why sokakta (in the street) uses -ta rather than -da.</li>
+<li>What is a &quot;buffer consonant&quot; and why does Turkish need one?</li>
+</ol></section>
+</body>
+</html>

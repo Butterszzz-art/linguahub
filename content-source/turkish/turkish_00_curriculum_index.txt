@@ -1,0 +1,99 @@
+################################################################
+TURKISH COURSE — MASTER CURRICULUM INDEX
+Compiled from: "Teach Yourself Turkish" (Asuman Çelen Pollard &
+David Pollard)
+################################################################
+
+HOW THIS COURSE IS ORGANIZED
+-----------------------------
+This is a full beginner-to-intermediate Turkish curriculum, split across 5
+content files so each one is a manageable size for import into your webapp.
+Every file uses the same plain-text structure so it can be parsed
+programmatically:
+
+  ################  = PART divider (top-level unit)
+  ================  = LESSON divider (one lesson/topic)
+  ALL-CAPS LABEL:    = section within a lesson (OVERVIEW, GRAMMAR,
+                       CONJUGATION TABLE, VOCABULARY, EXAMPLES, NOTES,
+                       PRACTICE)
+
+Suggested parsing rule for your webapp: split on lines of "====" to get
+lessons, then split each lesson on the ALL-CAPS labels followed by a colon
+at the start of a line to get sections.
+
+Pronunciation convention: Turkish pronunciation is written phonetically in
+parentheses right after each word, syllables separated by hyphens, with the
+STRESSED syllable in CAPITALS — e.g. merhaba (mehr-hah-BAH) (hello). Turkish
+spelling is almost perfectly phonetic (every letter has exactly one sound
+and every sound is always written), so once you've learned the alphabet in
+Lesson 1 you'll be able to sound out any Turkish word on sight — the
+phonetics here are mainly there to flag stress and the handful of letters
+that don't exist in English (ç, ğ, ı, ö, ş, ü).
+
+A NOTE ON SOURCES
+-------------------
+All explanations, example sentences, and dialogues in this course were
+written originally for this curriculum. The source textbook was used only
+to determine which topics to cover, in what order, and to keep vocabulary
+choices authentic to how the book teaches Turkish as spoken in İstanbul.
+The book organizes itself into 16 core units, each built around a situational
+dialogue; this course follows that same sequence, turning each unit into one
+lesson (with three foundational lessons on the alphabet, vowel harmony, and
+survival phrases placed first).
+
+A NOTE ON TURKISH GRAMMAR
+---------------------------
+Turkish is an agglutinative language: instead of separate words, it mostly
+builds meaning by stacking endings (suffixes) onto a word's stem, one after
+another. It also uses vowel harmony, meaning the vowel in most endings
+changes to "rhyme" with the last vowel of the word it's attached to. Lesson
+2 covers this in detail before any of the unit lessons rely on it — refer
+back to it often, because nearly every grammar point in this course involves
+some form of vowel harmony.
+
+FILES IN THIS COURSE
+---------------------
+turkish_00_curriculum_index.txt      <- you are here
+turkish_01_foundations.txt           Lessons 1-3   The Turkish alphabet and
+                                      sounds, vowel harmony and word stress,
+                                      survival vocabulary and phrases
+turkish_02_first_encounters.txt      Lessons 4-7   Greetings and shopping
+                                      (var/yok, adjectives, değil, numbers
+                                      1-10); nationality and the verb "to
+                                      be" (personal pronouns, buffer
+                                      consonants, numbers beyond ten,
+                                      demonstratives, question words);
+                                      restaurants and commands (imperative,
+                                      -de/-e/-den, direct objects and the
+                                      accusative -i, consonant mutation,
+                                      verb infinitives); the present
+                                      continuous tense and possessives
+                                      (-iyor, -li/-siz, istemek)
+turkish_03_past_future.txt           Lessons 8-11  The past tense and
+                                      telling time; the future tense and
+                                      prepositions of place; the -r "wide"
+                                      present tense and -en adjectives;
+                                      ability/possibility (-ebilmek),
+                                      comparatives, and the "let's" forms
+turkish_04_needs_conditions.txt      Lessons 12-15 Infinitives as nouns and
+                                      expressing obligation (lazım, -meli);
+                                      the present conditional (-se), kadar,
+                                      and since/for; the -miş reported/
+                                      inferential past; participles (-dik
+                                      vs -en vs -ecek) and the -ip ending
+turkish_05_narrative_turkish.txt     Lessons 16-19 The past continuous and
+                                      pluperfect, and reporting speech with
+                                      -dik/-ecek nouns; the habitual past
+                                      (-erdi), causative verbs, and
+                                      reciprocals; the passive voice and
+                                      reflexives; unreal/past conditionals
+                                      (-seydi), keşke, and yapar yapmaz
+
+WHAT YOU'LL BE ABLE TO DO BY THE END
+--------------------------------------
+This course takes you from zero Turkish to a solid intermediate level
+roughly equivalent to the Council of Europe's Waystage/B1 guidelines — able
+to shop, order food, ask for help and directions, talk about your daily
+routine, make plans, discuss past and future events, express obligation and
+possibility, tell stories and jokes, report what other people have said,
+and understand signs, announcements, and simple narratives.

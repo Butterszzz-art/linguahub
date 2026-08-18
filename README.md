@@ -107,6 +107,27 @@ includes a placeholder "French" classroom, and this script's job is to swap it f
 course. It still reads every lesson file up front and does the delete-and-recreate inside one
 transaction, so a missing file or a failed write can't leave you with neither version.
 
+### 4e. (Optional) Seed the Turkish classroom
+
+A full beginner-to-intermediate Turkish curriculum (19 lessons across 5 units — the alphabet
+and vowel harmony through narrative/reported speech and unreal conditionals) lives as plain
+text in [content-source/turkish/](content-source/turkish), parsed by
+[scripts/generate-turkish-content.ts](scripts/generate-turkish-content.ts) into
+`content/turkish/*.html` plus [manifest-turkish.json](manifest-turkish.json), the same way as
+Italian and French:
+
+```bash
+npx tsx scripts/generate-turkish-content.ts
+npx tsx prisma/seed-turkish.ts
+```
+
+[prisma/seed-turkish.ts](prisma/seed-turkish.ts) is the same skip-if-existing pattern as
+`seed-italian.ts` (there's no placeholder "Turkish" classroom in the base seed to replace).
+The generator differs from Italian/French in two ways the source text itself differs: Lesson
+3's VOCABULARY groups entries under bare "Category:" sub-headers (Basics, Shopping, Directions,
+...), rendered as heading rows in the vocab grid; and PRACTICE is always a numbered list rather
+than free prose, rendered as an `<ol>`.
+
 ### 5. Run the dev server
 
 ```bash
@@ -133,13 +154,17 @@ prisma/seed.ts                             Sample data seed script
 prisma/seed-portuguese.ts                  Optional real-content seed script (see below)
 prisma/seed-italian.ts                     Optional real-content seed script (see below)
 prisma/seed-french.ts                      Optional real-content seed script (see below)
+prisma/seed-turkish.ts                     Optional real-content seed script (see below)
 manifest.json                              Classroom→unit→lesson map for the Portuguese seed
 manifest-italian.json                      Classroom→unit→lesson map for the Italian seed
 manifest-french.json                       Classroom→unit→lesson map for the French seed
+manifest-turkish.json                      Classroom→unit→lesson map for the Turkish seed
 content-source/italian/*.txt               Raw Italian curriculum text (parser input)
 content-source/french/*.txt                Raw French curriculum text (parser input)
+content-source/turkish/*.txt               Raw Turkish curriculum text (parser input)
 scripts/generate-italian-content.ts        Parses content-source/italian into content/italian + the manifest
 scripts/generate-french-content.ts         Parses content-source/french into content/french + the manifest
+scripts/generate-turkish-content.ts        Parses content-source/turkish into content/turkish + the manifest
 ```
 
 ## Database Schema

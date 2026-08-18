@@ -1,0 +1,508 @@
+################################################################
+PART 2 — FIRST ENCOUNTERS (Lessons 4-7)
+################################################################
+
+================================================================
+LESSON 4: Is There Any Bread? — Greetings, Var/Yok, and Basic Questions
+================================================================
+
+OVERVIEW:
+This lesson covers your very first real Turkish grammar: greetings and
+farewells, how to make a noun plural, how to turn a statement into a
+yes/no question, how to say "there is/there isn't," and how to count to
+ten. By the end, you'll be able to walk into a shop, greet the shopkeeper,
+ask whether they have something, and describe it with a simple adjective —
+which is exactly the situation this lesson's dialogue is built around (a
+tourist buying bread, sausage, and olives at a small grocer's).
+
+GRAMMAR:
+- Greetings and farewells:
+    günaydın (good morning) - only used in the morning
+    iyi günler (good day) - a flexible daytime greeting or farewell
+    iyi akşamlar (good evening) - from late afternoon onwards
+    merhaba (hello) - safe at any time of day
+    iyi geceler (good night)
+    hoşça kalın (goodbye) - safe at any time, and the easiest to remember
+- Plurals: Turkish nouns are made plural by adding -ler or -lar (two-way
+  vowel harmony — see Lesson 2). Choose whichever rhymes with the last
+  vowel of the word: -ler after e-type (front) vowels, -lar after a-type
+  (back) vowels.
+    gün (day) -> günler (days)
+    akşam (evening) -> akşamlar (evenings)
+  Turkish sometimes uses a plural where English uses a singular set
+  phrase (iyi günler, "good day," is literally "good days"). Conversely,
+  Turkish uses a SINGULAR noun after a number, where English uses a
+  plural: iki gün (two days), not "iki günler."
+- The question particle mı/mi/mu/mü: to turn a statement into a yes/no
+  question, add this particle as a separate word after the item being
+  questioned. It follows four-way vowel harmony (Lesson 2), matching the
+  last vowel of the preceding word.
+    İskoçyalı mı? - Is he Scottish?
+    İstanbul mu? - Is it İstanbul?
+    Türk mü? - Is he Turkish?
+- Var and yok: var means "there is/are," and yok means "there isn't/aren't."
+  These two words are among the most useful in the whole language.
+    Ekmek var mı? - Is there any bread?
+    Çay var. - There is tea.
+    Problem yok! - No problem!
+- Değil (negation): to make a simple statement negative, place değil after
+  the noun or adjective you want to negate.
+    Salam değil, sucuk. - It's not salami, it's garlic sausage.
+    Hava sıcak değil. - The weather isn't hot.
+  Tag onto any statement with Değil mi? to mean "isn't it? / aren't they?"
+  — functioning much like French n'est-ce pas?
+    Bu sucuk güzel, değil mi? - This garlic sausage is nice, isn't it?
+- Adjectives simply sit before the noun they describe, with no agreement
+  needed (unlike French or Italian, Turkish adjectives never change form
+  for gender or number): güzel elma (nice apple), güzel elmalar (nice
+  apples) — güzel stays exactly the same either way.
+- Numbers 0-10: sıfır, bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.
+
+VOCABULARY:
+merhaba (mehr-hah-BAH) - hello
+günaydın (gew-nahy-DUHN) - good morning
+bakkal (bahk-KAHL) - grocer
+efendim (eh-fen-DEEM) - sir / madam
+ekmek (ek-MEK) - bread
+var (vahr) - there is
+var mı? (vahr muh) - is there?
+bir (beer) - one
+lütfen (LEWT-fen) - please
+bu (boo) - this
+ne (neh) - what
+salam (sah-LAHM) - salami
+değil (deh-EEL) - not
+güzel (gew-ZEL) - nice, beautiful
+çok (chohk) - very
+yüz (yewz) - hundred
+gram (grahm) - gramme
+tabii (tah-BEE) - certainly
+yeşil (yeh-SHEEL) - green
+zeytin (zey-TEEN) - olive
+yok (yohk) - there isn't
+siyah (see-YAHH) - black
+peki (peh-KEE) - OK
+iki (ee-KEE) - two
+beyaz (beh-YAHZ) - white
+iyi (ee-YEE) - good
+memnun (mem-NOON) - happy
+sıcak (suh-JAHK) - hot
+soğuk (soh-OOK) - cold
+büyük (bew-YEWK) - big
+küçük (kew-CHEWK) - small
+boş (bohsh) - free, empty, vacant
+zor (zohr) - difficult
+kolay (koh-LAHY) - easy
+
+EXAMPLES:
+Merhaba. Ekmek var mı? (mehr-hah-BAH. ek-MEK vahr muh) - Hello. Is there
+  any bread?
+Var. Bir ekmek lütfen. (vahr. beer ek-MEK LEWT-fen) - There is. One bread
+  please.
+Bu ne? Salam mı? Salam değil, sucuk. (boo neh? sah-LAHM muh? sah-LAHM
+  deh-EEL, soo-JOOK) - What's this? Is it salami? It's not salami, it's
+  garlic sausage.
+Yeşil zeytin var mı? Yok. Siyah var. (yeh-SHEEL zey-TEEN vahr muh? yohk.
+  see-YAHH vahr) - Is there any green olive? No. There's black.
+İyi günler! (ee-YEE gewn-LER) - Good day!
+
+NOTES:
+This unit's opening dialogue is monosyllabic on purpose — the book's point
+is that you can get remarkably far in Turkish using nothing but var, yok,
+ne, and mı/mi/mu/mü! Also worth knowing: it's polite in Turkey to say no
+simply through body language — raising your eyebrows with a single soft
+"tut" sound — rather than a spoken hayır. And don't be thrown by
+sentences like Salam değil, sucuk (literally "not salami, garlic
+sausage") — Turkish is comfortable leaving out words like "it" or "is"
+that English insists on.
+
+PRACTICE:
+1. Turn these statements into questions: (a) Bu Türk. (b) Kahve sıcak.
+2. Make these nouns plural: gece (night), televizyon, polis, Türk.
+3. Answer with var or yok as if you were the shopkeeper: Süt var mı?
+   (assume there is milk); Peynir var mı? (assume there is no cheese).
+4. Translate: "The weather isn't cold, is it?"
+5. Count aloud from sıfır to on.
+
+================================================================
+LESSON 5: Are You English? — Personal Pronouns and the Verb "To Be"
+================================================================
+
+OVERVIEW:
+This lesson covers how Turkish handles am/is/are, since Turkish has no
+separate verb "to be" the way English does — instead, it attaches personal
+endings directly onto the noun or adjective. You'll also learn the
+personal pronouns, how to keep vowels apart with buffer consonants,
+numbers beyond ten, the three Turkish words for "this/that," and the core
+set of question words.
+
+GRAMMAR:
+- Personal pronouns: ben (I), sen (you, informal singular), o (he/she/it),
+  biz (we), siz (you, formal or plural), onlar (they). Siz is used for
+  more than one person, or for a single person you're addressing formally
+  — when in doubt, use siz.
+- The verb "to be" as endings: instead of a separate word, Turkish attaches
+  the endings -im, -sin, (nothing), -iz, -siniz, -ler directly onto the
+  noun or adjective. These endings follow four-way vowel harmony (so you'll
+  see -im/-ım/-um/-üm, -sin/-sın/-sun/-sün, etc.), except for the "they"
+  form -ler, which follows two-way harmony and is usually left out
+  entirely.
+    ben İngilizim - I am English
+    sen İngilizsin - you are English
+    o İngiliz - he/she is English (no ending at all)
+    biz İngiliziz - we are English
+    siz İngilizsiniz - you are English
+    onlar İngiliz(ler) - they are English (the -ler is usually dropped)
+  You usually drop the personal pronoun itself, since the ending already
+  shows who you mean: İngilizim is enough to say "I am English." The
+  exception is onlar (they) — you generally keep it, to avoid ambiguity.
+- Questions with "to be": split the word into the noun/adjective and its
+  ending, then insert mı/mi/mu/mü between them.
+    İngilizsiniz -> İngiliz siniz -> İngiliz misiniz? (Are you English?)
+  Note the buffer -y- inserted before endings that start with a vowel:
+  Güzelim (I'm beautiful) becomes Güzel miyim? (not "Güzel mim?").
+- Buffer consonants: Turkish never lets two vowels collide inside a word.
+  When an ending starting with a vowel is added to something ending in a
+  vowel, insert -y- to keep the pronunciation smooth (you'll meet the
+  buffer -n- in a later lesson). Loanwords like maalesef ("unfortunately")
+  are rare exceptions where two vowels do sit together.
+- Addressing people: use Bey (Mr) and Hanım (Mrs/Miss) AFTER a first name,
+  not a surname: John Bey (Mr. Smith / literally "Mr. John"), Lucille
+  Hanım. You can also attach Bey to a job title as a polite way to get
+  someone's attention: şoför bey! (driver!), memur bey (officer). Use
+  beyefendi/hanımefendi (or efendim for either) with strangers whose name
+  you don't know.
+- Numbers beyond ten: yirmi (20), otuz (30), kırk (40), elli (50), altmış
+  (60), yetmiş (70), seksen (80), doksan (90), yüz (100), bin (1,000),
+  milyon (1,000,000), milyar (1,000,000,000). Build bigger numbers by
+  simply stringing the pieces together: onsekiz (18), ikiyüzkırkbeş
+  (245). Unlike English, Turkish doesn't say "a/one hundred" — just yüz.
+- Bu, şu, o ("this/that"): where English has two words, Turkish has three.
+    bu - this (close to you)
+    şu - that (nearby, but not in your hand)
+    o - that (further away)
+  The line between şu and o is a judgment call, not a hard rule.
+- Question words: kim? (who?), ne? (what?), nerede? (where?), ne zaman?
+  (when?, literally "what time?"), nasıl? (how?), kaç tane? (how many?),
+  ne kadar? (how much?, literally "what extent?").
+- The possessive endings -im (my) and -iniz (your): attach directly to a
+  noun, following four-way vowel harmony. Ceketim güzel (My jacket is
+  nice); Adınız ne? (What's your name?). If the noun ends in a vowel, use
+  just -m or -nız.
+
+CONJUGATION TABLE:
+"To be" endings across persons, shown with three example words:
+
+  ben...   sekreterim | Türküm     | Almanım    | memnunum
+  sen...   sekretersin| Türksün    | Almansın   | memnunsun
+  o...     sekreter   | Türk       | Alman      | memnun
+  biz...   sekreteriz | Türküz     | Almanız    | memnunuz
+  siz...   sekretersiniz | Türksünüz | Almansınız | memnunsunuz
+  onlar... sekreter(ler) | Türk(ler) | Alman(lar) | memnun(lar)
+
+VOCABULARY:
+memur (meh-MOOR) - official
+Türkçe (tewrk-CHEH) - Turkish (language)
+Türkçeniz (tewrk-cheh-NEEZ) - your Turkish
+çok (chohk) - very
+milliyet (meel-lee-YET) - nationality
+Alman (ahl-MAHN) - German
+pasaportunuz (pah-sah-pohr-too-NOOZ) - your passport
+ad (ahd) - name
+adınız (ah-duh-NUHZ) - your name
+hoş geldiniz (hohsh gel-dee-NEEZ) - welcome
+hoş bulduk (hohsh bool-DOOK) - happy to be here (the standard reply to
+  "welcome")
+sen (sen) - you (informal)
+siz (seez) - you (formal/plural)
+ben (ben) - I
+biz (beez) - we
+onlar (ohn-LAHR) - they
+kim? (keem) - who?
+nerede? (neh-reh-DEH) - where?
+nasıl? (nah-SUHL) - how?
+kaç tane? (kach tah-NEH) - how many?
+ne kadar? (neh kah-DAHR) - how much?
+şoför (shoh-FURR) - driver
+doktor (dohk-TOHR) - doctor
+
+EXAMPLES:
+İyi günler memur bey. Türkçeniz çok iyi. (ee-YEE gewn-LER meh-MOOR bey.
+  tewrk-cheh-NEEZ chohk ee-YEE) - Good day, officer. Your Turkish is very
+  good.
+Milliyetiniz ne? İngiliz misiniz? (meel-lee-yeh-tee-NEEZ neh? in-gee-LEEZ
+  mee-see-NEEZ) - What's your nationality? Are you English?
+Onlar Türk. (ohn-LAHR tewrk) - They are Turkish.
+Güzelim. Güzel miyim? (gew-zeh-LEEM. gew-ZEL mee-yeem) - I am beautiful.
+  Am I beautiful?
+Ceketiniz siyah. Adınız ne? (jeh-keh-tee-NEEZ see-YAHH. ah-duh-NUHZ neh)
+  - Your jacket is black. What's your name?
+
+NOTES:
+Notice how impressed the immigration officer is in this unit's dialogue
+just because the traveller uses a few words of Turkish — that's a very
+common and genuine reaction you'll get in Turkey. Also note that siz can
+mean either "you-plural" or "you-singular-formal": if in doubt about which
+form to use with a stranger, siz is always the safe choice. Buyurun is a
+word you'll hear constantly in Turkey — it's a flexible, all-purpose
+prompt meaning roughly "here you are," "go ahead," or "what can I do for
+you?" depending on context.
+
+PRACTICE:
+1. Give the "to be" form for each: (a) o + öğrenci (student) (b) biz +
+   hazır (ready) (c) siz + açık (open).
+2. Turn Hazırız (We're ready) into a question.
+3. Translate using bu/şu/o appropriately: "This is nice" (something in
+   your hand); "That's far away" (something on the horizon).
+4. Say the number 245 and the number 1900 in Turkish.
+5. Ask "What's your name?" and then answer "My name is ___."
+
+================================================================
+LESSON 6: No More, Please! — Commands, Direct Objects, and Verb Basics
+================================================================
+
+OVERVIEW:
+This lesson takes you into a restaurant, where you'll learn how to give
+commands (both casual and formal), how to say "at/in/on," "to," and
+"from," how to mark the direct object of a sentence, how Turkish handles
+proper nouns and certain consonant changes, and how to find a verb's
+dictionary form — the foundation you'll need for every verb tense to come.
+
+GRAMMAR:
+- Turkish word order: unlike English, the verb comes at the end of a
+  Turkish sentence, and a word that describes another word comes BEFORE
+  it. soğuk bir şişe beyaz şarap literally reads "cold a bottle white
+  wine" but means "a cold bottle of white wine." When speaking casually,
+  don't stress too much about perfect word order — meaning usually comes
+  through regardless.
+- Commands (imperative): Turkish has three levels of formality.
+    Informal: just the bare verb stem. Gel! (Come!) Koy! (Put!)
+    Formal: add -in (four-way harmony) to the informal form. Gelin!
+    Very formal/official (signs, notices): add -iniz. Geliniz!
+  To make a command negative, add -me (two-way harmony) before the
+  formality ending: Gelme! (Don't come!) Gelmeyin! (formal — note the
+  buffer -y- to stop the vowels clashing) Yapmayınız! (very formal).
+- The endings -de (at/in/on), -e (to), and -den (from): these attach to
+  nouns and follow two-way vowel harmony.
+    Masada otur. - Sit at the table.
+    Bakkala git. - Go to the grocer's.
+    Bankadan bakkala git. - Go from the bank to the grocer's.
+  Note the consonant change: -de becomes -te after an unvoiced consonant
+  (ç, f, h, k, p, s, ş, t) — sokakta (in the street), not sokakda.
+- Direct objects and the accusative -i: a sentence's direct object is the
+  thing an action is done TO. If that object is a SPECIFIC, particular
+  thing (the equivalent of English "the"), add the ending -i (four-way
+  harmony; -yi if the noun ends in a vowel).
+    Kahve iç. - Have a coffee. (any coffee)
+    Kahveyi iç. - Drink the coffee. (a specific coffee)
+  If the object isn't specific, use no ending, or use bir ("a"):
+  Masadan kalem al (Take a pen from the table) vs. Masadan kalemi al
+  (Take the pen from the table).
+- Personal pronouns take these same endings, and several are irregular:
+    ben -> beni, bana, bende, benden
+    sen -> seni, sana, sende, senden
+    o -> onu, ona, onda, ondan (note the buffer -n- with o)
+    biz -> bizi, bize, bizde, bizden
+    siz -> sizi, size, sizde, sizden
+    onlar -> onları, onlara, onlarda, onlardan
+  Note ben+e becomes bana (not "bene"), and sen+e becomes sana — these
+  two are simply irregular and worth memorizing on their own.
+- Proper nouns: when adding an ending to the name of a specific place or
+  person, insert an apostrophe before the ending: Türkiye'de (in Turkey),
+  İstanbul'dan İzmir'e (from İstanbul to İzmir).
+- Consonant changes: two patterns to know.
+    d -> t: the -de/-den endings become -te/-ten after an unvoiced
+    consonant (maçta, "at the match"; sokakta, "in the street").
+    k -> ğ: a word-final k with a vowel before it changes to ğ when you
+    add a vowel-starting ending: kazak -> Kazağı giy! (Put the coat on!)
+    This does NOT happen if the letter before k isn't a vowel: park stays
+    park (Parka git! - Go to the park!).
+- The dictionary form of verbs (the infinitive): Turkish informal commands
+  use the bare stem of a verb; the dictionary form is that stem plus -mek
+  or -mak (two-way harmony). bak (look!) -> bakmak (to look); ver (give!)
+  -> vermek (to give).
+
+VOCABULARY:
+garson (gahr-SOHN) - waiter
+masa (mah-SAH) - table
+köşe (kur-SHEH) - corner
+karanlık (kah-rahn-LUHK) - dark
+mönü (mur-NEW) - menu
+meze (meh-ZEH) - starter
+buz (booz) - ice
+hemen (heh-MEN) - straight away
+getir (geh-TEER) - bring!
+daha (dah-HAH) - more
+koymayın (koy-mah-YUHN) - don't put! (formal)
+yeter (yeh-TER) - that's enough
+şerefe (sheh-reh-FEH) - cheers
+gel (gel) - come!
+koy (koy) - put!
+yap (yahp) - do!
+gül (gewl) - smile!
+otur (oh-TOOR) - sit!
+git (geet) - go!
+öp (urp) - kiss!
+al (ahl) - take, buy!
+ver (vehr) - give!
+kalem (kah-LEM) - pen
+kahve (kah-VEH) - coffee
+
+EXAMPLES:
+İki kişilik bir masa lütfen. (ee-KEE kee-shee-LEEK beer mah-SAH LEWT-fen)
+  - A table for two, please.
+Buz getir. Daha koymayın, lütfen. (booz geh-TEER. dah-HAH koy-mah-YUHN,
+  LEWT-fen) - Bring some ice. Don't put any more, please.
+Masadan kalemi al. (mah-sah-DAHN kah-leh-MEE ahl) - Take the pen from the
+  table.
+Kadını öp! Kalemi Hakan'a ver! (kah-duh-NUH urp! kah-leh-MEE hah-kah-NAH
+  vehr) - Kiss the woman! Give the pen to Hakan!
+Sokağa bak! (soh-kah-AH bahk) - Look at the street!
+
+NOTES:
+Turkish restaurant custom: waiters often bring a large tray of starters
+(meze) unprompted and start unloading dishes without being asked — the
+custom is to interrupt them, pick what you want, and send the rest back
+(daha koymayın, "don't put any more," is exactly the phrase for this).
+Also keep in mind that word order matters less for meaning in spoken
+Turkish than it does in written Turkish — as long as the endings are
+right, listeners will generally understand you even if the words come in
+an unusual order.
+
+PRACTICE:
+1. Make Yap! (Do!) formal, then very formal.
+2. Fill in -de, -e, or -den appropriately: Bankadan bakkal___ git (go
+   from the bank to the grocer's).
+3. Decide whether these need the -i ending: (a) Kahve iç (any coffee)
+   (b) Kahve___ iç (a specific coffee already mentioned).
+4. What happens to the k in kazak when you add a vowel-starting ending,
+   and why doesn't the same happen to park?
+5. Give the infinitive (dictionary form) of: gel, al, otur.
+
+================================================================
+LESSON 7: You're Joking! — The Present Continuous and Possessives
+================================================================
+
+OVERVIEW:
+This lesson introduces the tense you'll use constantly in everyday Turkish
+conversation: the -iyor present tense, used for what's happening right
+now, for habitual actions, and even for near-future plans. You'll also
+learn how to say what belongs to whom (possessives), the endings -li and
+-siz ("with" and "without"), and the essential verb istemek ("to want").
+
+GRAMMAR:
+- The -iyor present tense: this is Turkish's equivalent of the English
+  "-ing" form, though its uses are broader (see below). To build it:
+    1. Take the verb stem (e.g. iç-, "drink")
+    2. Add -iyor (always -iyor in spelling, though it harmonizes in sound:
+       -ıyor/-iyor/-uyor/-üyor depending on the stem's last vowel — four-
+       way harmony)
+    3. Add the personal ending (same family as "to be": -um, -sun, none,
+       -uz, -sunuz, -lar)
+    içiyorum - I am drinking (literally "drink-ing I-am")
+    geliyorum - I am coming
+    satıyorsun - you are selling
+    sürüyor - she is driving
+    yazıyoruz - we are writing
+    koşuyorlar - they are running
+- Negative -iyor forms: insert -mi- (which loses its vowel before -iyor,
+  becoming just -m-) after the stem: geliyorum -> gelmiyorum (I'm not
+  coming). Stress shifts onto the syllable right before -mi- in negative
+  forms — this stress shift is just as important as the ending itself for
+  being understood.
+- Questions with -iyor: split the word into the verb+iyor part and the
+  personal ending, then insert the question particle between them.
+    geliyorsunuz -> geliyor musunuz? (are you coming?)
+  Note that the "they" form is the odd one out, putting mı at the very
+  end: koşuyorlar mı? (are they running?)
+- Avoiding vowel clashes in -iyor forms: if a verb stem ends in a vowel,
+  that vowel is dropped before adding -iyor, to avoid two vowels colliding.
+    başlamak (to start) -> başlıyorum (I'm starting), not "başlayıyorum"
+    beklemek (to wait) -> bekliyorsunuz (you're waiting)
+    yemek (to eat) -> yiyor (he's eating)
+  In the negative, though, the stem stays intact, since -mi- starts with a
+  consonant sound in context: Başlamıyorum (I'm not starting).
+- Uses of the -iyor present tense: not just "right now" — also for stating
+  unchanging facts (Sigara kullanmıyorum - I don't smoke), habitual or
+  repeated actions (Sık sık plaja gidiyorum - I often go to the beach),
+  and near-future plans (Bu akşam geliyorum - I'm coming this evening).
+- Possessives — the possessor ending -in: to say something belongs to
+  someone, add -in (or -nin after a vowel) to the possessor, following
+  four-way harmony.
+    kızın - the girl's        annenin - mother's
+- Possessives — the possessed ending -i/-si: Turkish ALSO marks the thing
+  being possessed, unlike English. Add -i (or -si after a vowel).
+    doktorun evi - the doctor's house
+    kızların annesi - the girls' mother
+  Exception: su (water) takes -yu instead of -su: Ali'nin suyu (Ali's
+  water).
+- Possessive personal pronouns: benim (my), senin (your), onun (his/her),
+  bizim (our), sizin (your), onların (their) — note ben and biz are
+  slightly irregular, taking -im rather than -in. The possessed noun then
+  takes the matching ending: benim evim (my home), onun evi (his/her
+  home). Because the possessed ending already shows the owner, you can
+  usually drop the pronoun itself — except onların, which is best kept to
+  avoid confusing "his" with "their."
+- Saying what you've got: Turkish uses var/yok with a possessive rather
+  than a separate verb "to have." Kızım var. (I've got a daughter —
+  literally "my daughter exists.") Arabası yok mu? (Doesn't he have a
+  car?)
+- The endings -li and -siz ("with" and "without"): these make adjectives,
+  following four-way (-li) and two-way (-siz) harmony respectively.
+    balkonlu - with a balcony        şekersiz - without sugar
+  -li also attaches to country and town names to give a nationality or
+  demonym: Kanada -> Kanadalı (Canadian); İstanbul -> İstanbullu (a
+  person from İstanbul). Some nationalities are irregular exceptions:
+  Japonya -> Japon (not "Japonyalı"); Rusya -> Rus.
+- İstemek (to want): use it with a noun (Bir kilo domates istiyorum - I
+  want a kilo of tomatoes) or with an infinitive verb (Gitmek istiyorum -
+  I want to go).
+
+VOCABULARY:
+satıcı (sah-tuh-JUH) - salesperson
+oturmak (oh-toor-MAHK) - to sit, to live
+sigara (see-gah-RAH) - cigarette
+kullanmak (kool-lahn-MAHK) - to use
+bırakmak (buh-rahk-MAHK) - to stop, give up
+kilim (kee-LEEM) - rug
+mavi (mah-VEE) - blue
+motif (moh-TEEF) - design, pattern
+istemek (ees-teh-MEHK) - to want
+sevmek (sev-MEHK) - to like, to love
+özel (ur-ZEL) - special
+kaliteli (kah-lee-teh-LEE) - good quality
+dükkan (dewk-KAHN) - shop
+domates (doh-mah-TES) - tomato
+kızım (kuh-ZUHM) - my daughter
+araban (ah-rah-BAHN) - your car
+duş (doosh) - shower
+banyo (bahn-YOH) - bath
+
+EXAMPLES:
+İçiyor musunuz? Teşekkür ederim, sigara kullanmıyorum. (ee-CHEE-yohr
+  moo-soo-NOOZ? teh-shek-KEWR eh-deh-REEM, see-gah-RAH kool-lah-NUH-yoh-room)
+  - Do you smoke? Thank you, I don't smoke.
+Kilimlere bakmak istiyorum. (kee-leem-leh-REH bahk-MAHK ees-tee-YOH-room)
+  - I want to look at the rugs.
+Kazağı giy! Sucuğu ye! (kah-zah-UH giy! soo-joo-OO yeh!) - Put the coat
+  on! Eat the garlic sausage!
+Kızım var. Odanın banyosu var mı? (kuh-ZUHM vahr. oh-dah-nuhn bahn-yoh-SOO
+  vahr muh) - I've got a daughter. Does the room have a bath?
+Uzun ömürlü süt istiyorum. (oo-ZOON ur-mewr-LEW sewt ees-tee-YOH-room) -
+  I want long-life milk.
+
+NOTES:
+When someone offers you something in Turkey, saying teşekkür ederim
+("thank you") on its own is generally taken to mean "no thank you" — to
+accept, use lütfen instead. This can genuinely cause confusion (and very
+hungry foreigners) at a Turkish dinner table! Also note ben de and şu de
+— de/da means "also/too," which is different from the endings -de/-da
+that mean "in/at/on"; context makes clear which is meant.
+
+PRACTICE:
+1. Put these verbs into the -iyor present, "I" form: gelmek (to come),
+   yazmak (to write), yemek (to eat, watch the vowel clash).
+2. Make these negative: geliyorum, satıyorsun, yiyor.
+3. Translate using a possessive: "the firm's director" and "my mother."
+4. Say "I don't have a car" and "Do you have milk?" using var/yok.
+5. Turn Kanada and İstanbul into nationality/demonym adjectives using -li.
