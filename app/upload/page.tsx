@@ -6,6 +6,10 @@ import { Card } from "@/components/ui/Card";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
 
+// Also has no dynamic route segments — see app/page.tsx for why this needs
+// to stay off the build-time static prerender path.
+export const dynamic = "force-dynamic";
+
 // Lesson uploads are scoped to a classroom (so the unit picker + live preview
 // know what they're working with) — this page is just the "which classroom?"
 // jumping-off point into /classroom/[id]/upload.
