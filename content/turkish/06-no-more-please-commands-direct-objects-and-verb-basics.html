@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>No More, Please! — Commands, Direct Objects, and Verb Basics</title>
+<style>
+  :root{
+    --cream:#fdf9f2; --beige:#f3e7d6; --beige-dark:#d9bd97;
+    --ink:#3a2c21; --ink-muted:#8a7663;
+    --caramel:#c1483f; --caramel-dark:#a1332f; --caramel-light:#f0c8b8;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#241512; --beige:#33201b; --beige-dark:#4f2f2b;
+      --ink:#f3e0d6; --ink-muted:#c7a39a;
+      --caramel:#e08a53; --caramel-dark:#e89778; --caramel-light:#4a2e22;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--caramel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--caramel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--caramel-light);}
+  ul,ol{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-category{
+    grid-column:1 / -1; font-weight:700; text-transform:uppercase;
+    letter-spacing:.04em; font-size:.78rem; color:var(--caramel-dark);
+    margin-top:.5rem; padding-top:.5rem; border-top:1px solid var(--beige-dark);
+  }
+  .vocab-category:first-child{margin-top:0; padding-top:0; border-top:none;}
+  .vocab-word{font-weight:700;}
+  .vocab-pron{color:var(--ink-muted); font-style:italic; font-size:.9rem; white-space:nowrap;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .tr{font-weight:600; margin:0;}
+  .example .pron{color:var(--ink-muted); font-style:italic; display:block; font-size:.9rem; margin:.15rem 0;}
+  .example .en{color:var(--ink); margin:.15rem 0 0;}
+  pre{
+    background:var(--cream); border:1px solid var(--beige-dark); border-radius:.6rem;
+    padding:.85rem 1rem; overflow-x:auto; font-size:.82rem; white-space:pre; margin:0;
+  }
+</style>
+</head>
+<body>
+  <p class="kicker">Part 2 · First Encounters · Lesson 6</p>
+  <h1>No More, Please! — Commands, Direct Objects, and Verb Basics</h1>
+  <section class="overview"><p>This lesson takes you into a restaurant, where you'll learn how to give commands (both casual and formal), how to say &quot;at/in/on,&quot; &quot;to,&quot; and &quot;from,&quot; how to mark the direct object of a sentence, how Turkish handles proper nouns and certain consonant changes, and how to find a verb's dictionary form — the foundation you'll need for every verb tense to come.</p></section>
+<section><h2>Grammar</h2><ul>
+<li>Turkish word order: unlike English, the verb comes at the end of a Turkish sentence, and a word that describes another word comes BEFORE it. soğuk bir şişe beyaz şarap literally reads &quot;cold a bottle white wine&quot; but means &quot;a cold bottle of white wine.&quot; When speaking casually, don't stress too much about perfect word order — meaning usually comes through regardless.</li>
+<li>Commands (imperative): Turkish has three levels of formality.<br>Informal: just the bare verb stem. Gel! (Come!) Koy! (Put!)<br>Formal: add -in (four-way harmony) to the informal form. Gelin!<br>Very formal/official (signs, notices): add -iniz. Geliniz! To make a command negative, add -me (two-way harmony) before the formality ending: Gelme! (Don't come!) Gelmeyin! (formal — note the buffer -y- to stop the vowels clashing) Yapmayınız! (very formal).</li>
+<li>The endings -de (at/in/on), -e (to), and -den (from): these attach to nouns and follow two-way vowel harmony.<br>Masada otur. - Sit at the table.<br>Bakkala git. - Go to the grocer's.<br>Bankadan bakkala git. - Go from the bank to the grocer's. Note the consonant change: -de becomes -te after an unvoiced consonant (ç, f, h, k, p, s, ş, t) — sokakta (in the street), not sokakda.</li>
+<li>Direct objects and the accusative -i: a sentence's direct object is the thing an action is done TO. If that object is a SPECIFIC, particular thing (the equivalent of English &quot;the&quot;), add the ending -i (four-way harmony; -yi if the noun ends in a vowel).<br>Kahve iç. - Have a coffee. (any coffee)<br>Kahveyi iç. - Drink the coffee. (a specific coffee) If the object isn't specific, use no ending, or use bir (&quot;a&quot;): Masadan kalem al (Take a pen from the table) vs. Masadan kalemi al (Take the pen from the table).</li>
+<li>Personal pronouns take these same endings, and several are irregular:<br>ben -&gt; beni, bana, bende, benden<br>sen -&gt; seni, sana, sende, senden<br>o -&gt; onu, ona, onda, ondan (note the buffer -n- with o)<br>biz -&gt; bizi, bize, bizde, bizden<br>siz -&gt; sizi, size, sizde, sizden<br>onlar -&gt; onları, onlara, onlarda, onlardan Note ben+e becomes bana (not &quot;bene&quot;), and sen+e becomes sana — these two are simply irregular and worth memorizing on their own.</li>
+<li>Proper nouns: when adding an ending to the name of a specific place or person, insert an apostrophe before the ending: Türkiye'de (in Turkey), İstanbul'dan İzmir'e (from İstanbul to İzmir).</li>
+<li>Consonant changes: two patterns to know.<br>d -&gt; t: the -de/-den endings become -te/-ten after an unvoiced<br>consonant (maçta, &quot;at the match&quot;; sokakta, &quot;in the street&quot;).<br>k -&gt; ğ: a word-final k with a vowel before it changes to ğ when you<br>add a vowel-starting ending: kazak -&gt; Kazağı giy! (Put the coat on!)<br>This does NOT happen if the letter before k isn't a vowel: park stays<br>park (Parka git! - Go to the park!).</li>
+<li>The dictionary form of verbs (the infinitive): Turkish informal commands use the bare stem of a verb; the dictionary form is that stem plus -mek or -mak (two-way harmony). bak (look!) -&gt; bakmak (to look); ver (give!) -&gt; vermek (to give).</li>
+</ul>
+</section>
+
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">garson</div><div class="vocab-pron">gahr-SOHN</div><div class="vocab-meaning">waiter</div></div>
+<div class="vocab-row"><div class="vocab-word">masa</div><div class="vocab-pron">mah-SAH</div><div class="vocab-meaning">table</div></div>
+<div class="vocab-row"><div class="vocab-word">köşe</div><div class="vocab-pron">kur-SHEH</div><div class="vocab-meaning">corner</div></div>
+<div class="vocab-row"><div class="vocab-word">karanlık</div><div class="vocab-pron">kah-rahn-LUHK</div><div class="vocab-meaning">dark</div></div>
+<div class="vocab-row"><div class="vocab-word">mönü</div><div class="vocab-pron">mur-NEW</div><div class="vocab-meaning">menu</div></div>
+<div class="vocab-row"><div class="vocab-word">meze</div><div class="vocab-pron">meh-ZEH</div><div class="vocab-meaning">starter</div></div>
+<div class="vocab-row"><div class="vocab-word">buz</div><div class="vocab-pron">booz</div><div class="vocab-meaning">ice</div></div>
+<div class="vocab-row"><div class="vocab-word">hemen</div><div class="vocab-pron">heh-MEN</div><div class="vocab-meaning">straight away</div></div>
+<div class="vocab-row"><div class="vocab-word">getir</div><div class="vocab-pron">geh-TEER</div><div class="vocab-meaning">bring!</div></div>
+<div class="vocab-row"><div class="vocab-word">daha</div><div class="vocab-pron">dah-HAH</div><div class="vocab-meaning">more</div></div>
+<div class="vocab-row"><div class="vocab-word">koymayın</div><div class="vocab-pron">koy-mah-YUHN</div><div class="vocab-meaning">don't put! (formal)</div></div>
+<div class="vocab-row"><div class="vocab-word">yeter</div><div class="vocab-pron">yeh-TER</div><div class="vocab-meaning">that's enough</div></div>
+<div class="vocab-row"><div class="vocab-word">şerefe</div><div class="vocab-pron">sheh-reh-FEH</div><div class="vocab-meaning">cheers</div></div>
+<div class="vocab-row"><div class="vocab-word">gel</div><div class="vocab-pron">gel</div><div class="vocab-meaning">come!</div></div>
+<div class="vocab-row"><div class="vocab-word">koy</div><div class="vocab-pron">koy</div><div class="vocab-meaning">put!</div></div>
+<div class="vocab-row"><div class="vocab-word">yap</div><div class="vocab-pron">yahp</div><div class="vocab-meaning">do!</div></div>
+<div class="vocab-row"><div class="vocab-word">gül</div><div class="vocab-pron">gewl</div><div class="vocab-meaning">smile!</div></div>
+<div class="vocab-row"><div class="vocab-word">otur</div><div class="vocab-pron">oh-TOOR</div><div class="vocab-meaning">sit!</div></div>
+<div class="vocab-row"><div class="vocab-word">git</div><div class="vocab-pron">geet</div><div class="vocab-meaning">go!</div></div>
+<div class="vocab-row"><div class="vocab-word">öp</div><div class="vocab-pron">urp</div><div class="vocab-meaning">kiss!</div></div>
+<div class="vocab-row"><div class="vocab-word">al</div><div class="vocab-pron">ahl</div><div class="vocab-meaning">take, buy!</div></div>
+<div class="vocab-row"><div class="vocab-word">ver</div><div class="vocab-pron">vehr</div><div class="vocab-meaning">give!</div></div>
+<div class="vocab-row"><div class="vocab-word">kalem</div><div class="vocab-pron">kah-LEM</div><div class="vocab-meaning">pen</div></div>
+<div class="vocab-row"><div class="vocab-word">kahve</div><div class="vocab-pron">kah-VEH</div><div class="vocab-meaning">coffee</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="tr">İki kişilik bir masa lütfen.</p><span class="pron">ee-KEE kee-shee-LEEK beer mah-SAH LEWT-fen</span><p class="en">A table for two, please.</p></div>
+<div class="example"><p class="tr">Buz getir. Daha koymayın, lütfen.</p><span class="pron">booz geh-TEER. dah-HAH koy-mah-YUHN, LEWT-fen</span><p class="en">Bring some ice. Don't put any more, please.</p></div>
+<div class="example"><p class="tr">Masadan kalemi al.</p><span class="pron">mah-sah-DAHN kah-leh-MEE ahl</span><p class="en">Take the pen from the table.</p></div>
+<div class="example"><p class="tr">Kadını öp! Kalemi Hakan'a ver!</p><span class="pron">kah-duh-NUH urp! kah-leh-MEE hah-kah-NAH vehr</span><p class="en">Kiss the woman! Give the pen to Hakan!</p></div>
+<div class="example"><p class="tr">Sokağa bak!</p><span class="pron">soh-kah-AH bahk</span><p class="en">Look at the street!</p></div></section>
+<section><h2>Notes</h2><p>Turkish restaurant custom: waiters often bring a large tray of starters (meze) unprompted and start unloading dishes without being asked — the custom is to interrupt them, pick what you want, and send the rest back (daha koymayın, &quot;don't put any more,&quot; is exactly the phrase for this). Also keep in mind that word order matters less for meaning in spoken Turkish than it does in written Turkish — as long as the endings are right, listeners will generally understand you even if the words come in an unusual order.</p></section>
+<section class="practice"><h2>Practice</h2><ol>
+<li>Make Yap! (Do!) formal, then very formal.</li>
+<li>Fill in -de, -e, or -den appropriately: Bankadan bakkal___ git (go from the bank to the grocer's).</li>
+<li>Decide whether these need the -i ending: (a) Kahve iç (any coffee) (b) Kahve___ iç (a specific coffee already mentioned).</li>
+<li>What happens to the k in kazak when you add a vowel-starting ending, and why doesn't the same happen to park?</li>
+<li>Give the infinitive (dictionary form) of: gel, al, otur.</li>
+</ol></section>
+</body>
+</html>

@@ -1,0 +1,458 @@
+################################################################
+PART 4 — NEEDS, OBLIGATION AND CONDITIONS (Lessons 12-15)
+################################################################
+
+================================================================
+LESSON 12: What Do You Like Doing? — Infinitives as Nouns and Obligation
+================================================================
+
+OVERVIEW:
+This lesson shows you how to use a verb's infinitive as if it were a noun
+— essential for talking about likes, dislikes, and abstract activities —
+and covers the several ways Turkish expresses obligation ("must,"
+"should," "need to"). You'll also meet olmak's special idiomatic phrases
+and the noun-building ending -lik.
+
+GRAMMAR:
+- Using infinitives as nouns: Turkish infinitives (the -mek/-mak dictionary
+  form) can function as nouns, similar to English gerunds ("swimming is
+  fun"). There are two versions: the "full" infinitive and a "short"
+  version with the final -k dropped.
+    Full infinitive — used with adjectives, with istiyorum, and with için:
+      Türkçe öğrenmek kolay. - Learning Turkish is easy.
+      Konuşmak istiyorum. - I want to talk.
+      Oynamak için geldim. - I came in order to play.
+    Short infinitive — used as an ordinary noun, including as the first
+    half of a compound noun:
+      konuşmak -> konuşma - conversation
+      dondurmak -> dondurma - ice cream
+      yüzme havuzu - swimming pool
+    A subtle trap: the short infinitive can look identical to a negative
+    command, distinguished only by stress. İÇ-me suyu! (Don't drink the
+    water!) vs. iç-ME suyu (drinking water) — remember, negative verb
+    forms stress the syllable right before -me.
+- Adding endings to infinitives used as nouns:
+    -den attaches to the FULL infinitive: Uçmaktan korkuyorum. (I'm
+    afraid of flying.)
+    -i or -e attach to the SHORT infinitive: Pişirmeyi bıraktı. (He
+    stopped cooking.) Koşmaya başladı. (He began to run.)
+    Possessed endings also attach to the SHORT infinitive: Benim Türk
+    olmam iyi. (It's good that I'm Turkish — literally "my being Turkish
+    is good.") You can usually drop the personal pronoun (benim) here,
+    though including it makes the meaning clearer.
+- Expressing obligation with lazım, gerek, şart, and mecbur: combine any
+  of these words with the short infinitive (plus a possessed ending) to
+  say what you need, should, or are forced to do.
+    Saat sekizde işte olmam lazım. - I need to be at work at eight.
+    Saat sekizde işte olması gereklidir. - She needs to be at work at
+    eight.
+  Şart and mecbur are the strongest of these — closer to "absolutely
+  must." There's also a verb, gerekmek, useful for talking about
+  obligation in the future or past: Onların işte olması gerekecek. (They
+  will have to be at work.) Dün onların işte olması gerekti. (They had
+  to be at work yesterday.)
+- Expressing obligation with -meli: spot must/should/ought to by -meli
+  (two-way harmony) added to the verb stem, then the personal ending.
+    Okula gitmelisin. - You must go to school.
+    Girmemeliler. - They mustn't enter.
+  -meli is a common way to give advice or make a strong suggestion:
+  Doktora gitmelisiniz. (You must see a doctor.)
+- Olmak in idiomatic phrases: beyond "to be/become," olmak appears in
+  many fixed expressions worth learning as-is:
+    oldu - that's settled, that's fine        olur mu? - is that OK?
+    ne oluyor? - what's happening?            olamaz - it's not possible
+    olsun - let it be, forget it              olabilir - it's possible
+- The noun-building ending -lik: attach to adjectives, adverbs, or nouns
+  to create new nouns, similar to English "-ness":
+    mutlu (happy) -> mutluluk (happiness)     hasta (ill) -> hastalık
+    (illness)
+  It also creates nouns for objects/places (kimlik - identity card, from
+  kim - who) and adjectives meaning "for" (iki kişilik - for two people,
+  günlük - daily, from gün - day).
+
+VOCABULARY:
+basit (bah-SEET) - simple
+daire (dah-ee-REH) - flat, apartment
+kenar (keh-NAHR) - edge, shore
+pek (pek) - very, a lot (often with negatives: pek sevmiyorum - I don't
+  like it much)
+yani (yah-NEE) - I mean, well
+nefret etmek (nef-RET et-MEHK) - to hate
+özür dilemek (ur-ZEWR dee-leh-MEHK) - to apologize, ask forgiveness
+kusursuz (koo-soor-SOOZ) - faultless, perfect
+düşünmek (dew-shewn-MEHK) - to think
+sessiz (ses-SEEZ) - quiet
+yalnız (yahl-NUHZ) - alone, lonely
+gerekmek (geh-rek-MEHK) - to be necessary
+mecbur (mej-BOOR) - forced, compelled
+
+EXAMPLES:
+Deniz kenarında yürümeyi severim. (deh-NEEZ keh-nah-ruhn-DAH
+  yew-rew-meh-YEE seh-veh-REEM) - I like walking by the sea.
+Futbol seyretmekten nefret ediyorum. (foot-BOHL sey-ret-mek-TEN
+  nef-RET eh-dee-yoh-room) - I hate watching football.
+Saat sekizde işte olmam lazım. (sah-AHT seh-keez-DEH eesh-TEH ohl-MAHM
+  lah-ZUHM) - I need to be at work at eight.
+Doktora gitmelisiniz. (dohk-toh-RAH geet-meh-lee-see-NEEZ) - You must see
+  a doctor.
+Sigara içmeyi bırakmalısın. (see-gah-RAH eech-meh-YEE
+  buh-rahk-mah-luh-SUHN) - You must stop smoking.
+
+NOTES:
+Notice how Turkish repeats a word for emphasis rather than using an
+intensifying adverb — çok çok çalışıyorum ("I work very very much") is a
+completely normal and common way to stress a point, not childish or
+incorrect. Also, when this unit's speaker uses lazım, note that it's an
+Arabic loanword pronounced with a lengthened first vowel (LAA-zuhm) — a
+small exception to Turkish's normal short-vowel rule, flagged back in
+Lesson 2.
+
+PRACTICE:
+1. Say "learning Turkish is easy" using the full infinitive.
+2. Turn pişirmek (to cook) into a short-infinitive noun and use it in
+   "He stopped cooking."
+3. Express "I need to go to work" three different ways: with lazım, with
+   gerek, and with -meli.
+4. Build a noun meaning "happiness" from mutlu using -lik.
+5. What's the difference in meaning (and stress) between İÇ-me suyu! and
+   iç-ME suyu?
+
+================================================================
+LESSON 13: If It Doesn't Get Better... — The Present Conditional and Needs
+================================================================
+
+OVERVIEW:
+This lesson introduces the present conditional ("if" sentences about
+possible future events), the versatile word kadar ("as...as," "until"),
+how to say "since" and "for" when talking about time, how to express
+needing something, and the vocabulary for parts of the body.
+
+GRAMMAR:
+- Present tense "if" forms of "to be": spot them by -se- inserted into
+  the personal endings.
+    iyiysem - if I'm well          Türkse - if she's Turkish
+    iyiysek - if we're fine        Türkseler (or Türklerse) - if they're
+    Turkish
+  These same endings attach directly onto verbs to create the if-form of
+  the -r present tense: take the -r present form, strip off the personal
+  ending, and add the if-ending instead.
+    yaparım -> yaparsam - if I do          isterse - if she wants
+    açarlar -> açarlarsa - if they open
+  Full example: Telefon etmezsem saat ikide buluşacağız. (If I don't
+  phone, we'll meet at two.) The word eğer ("if") can optionally be
+  placed before the clause for extra clarity, but it's usually not needed
+  since the -se ending already signals "if" on its own.
+  You can also attach -se directly to var/yok: Paramız yoksa gidemeyiz.
+  (If we've got no money, we can't go.)
+- Using the -r present tense in the result clause: after an "if" clause,
+  Turkish typically follows with the -r present tense (not -ecek) for
+  what will happen: Eğer gelirse memnun olurum. (If he comes, I'll be
+  happy.) You'll also hear the -r present used alone as an implied
+  warning, with the "if" part left unspoken: Düşersin! (You'll fall! —
+  meaning "if you're not careful, you'll fall.")
+- Needing something — -e ihtiyaç var: the Turkish equivalent of "I need a
+  holiday" is literally "I have a need to a holiday."
+    Tatile ihtiyacım var. - I need a holiday.
+    Neye ihtiyacımız var? - What do we need?
+  Note ihtiyaç changes its final ç to c before a vowel-starting ending
+  (ihtiyacım, not "ihtiyaçım") — this is the same voiced/voiceless
+  consonant harmony pattern from Lesson 2.
+- Since — -den beri: for time, "since" is expressed with -den beri.
+    Ne zamandan beri? - Since when?         Dünden beri. - Since
+    yesterday.
+  Note the tense mismatch with English: Turkish says Bu sabahtan beri
+  hastayım (literally "I am ill since this morning") where English says
+  "I've BEEN ill since this morning" — don't try to translate the English
+  perfect tense directly; just use the Turkish present/simple form with
+  -den beri.
+- For (duration in the past): use -den beri or -dir if the action is
+  still ongoing; use nothing extra if the action is already finished.
+    Bir haftadan beri burada kalıyorlar. - They've been staying here for
+    a week (still ongoing).
+    İki gün yemedik. - We didn't eat for two days (finished).
+- Kadar: as "until/as far as/up to," it's used as -e kadar:
+    Beşe kadar beklerim. - I'll wait until 5.
+    Işıklara kadar gidin. - Go as far as the lights.
+  On its own, kadar also means "as...as": Senin kadar akıllı değil. (He's
+  not as clever as you.) Note that personal pronouns take a possessor
+  ending before kadar (bizim kadar - as much as us), but o, onlar, and
+  ordinary nouns do not (David kadar - as much as David).
+- Parts of the body: a practical vocabulary set, useful well beyond the
+  doctor's office — see VOCABULARY below.
+
+VOCABULARY:
+eczacı (edj-zah-JUH) - chemist, pharmacist
+arzu etmek (ahr-ZOO et-MEHK) - to want, wish
+birkaç (beer-KACH) - a few
+yanmak (yahn-MAHK) - to burn
+sırt (suhrt) - back
+baş (bahsh) - head
+ağrı (aa-RUH) - ache, pain
+ilaç (ee-LAHCH) - medicine
+gerekirse (geh-reh-keer-SEH) - if it's necessary
+merhem (mehr-HEM) - ointment
+sürmek (sewr-MEHK) - to rub, spread
+dinlensin (deen-len-SEEN) - he should rest
+inşallah (een-shahl-LAHH) - God willing, hopefully
+hissetmek (hees-set-MEHK) - to feel
+göz (gurz) - eye
+kafa (kah-FAH) - head
+ağız (aa-UHZ) - mouth
+burun (boo-ROON) - nose
+kulak (koo-LAHK) - ear
+göğüs (gur-EWS) - chest
+kol (kohl) - arm
+göbek (gur-BEK) - belly
+el (el) - hand
+sırt (suhrt) - back
+bacak (bah-JAHK) - leg
+parmak (pahr-MAHK) - finger
+
+EXAMPLES:
+Eğer gerekirse, günde dört kere alabilir. (eh-EHR geh-reh-keer-SEH,
+  gewn-DEH durt keh-REH ah-lah-bee-LEER) - If necessary, he/she can take
+  it four times a day.
+Eğer yarın geçmezse, yine gelin. (eh-EHR yah-RUHN gech-mez-SEH, yee-NEH
+  geh-LEEN) - If it isn't better tomorrow, come again.
+Tatile ihtiyacım var. (tah-tee-LEH eeh-tee-yah-JUHM vahr) - I need a
+  holiday.
+Bindokuzyüzdoksanbeşten beri burada oturuyorum. (been-doh-kooz-yewz-
+  dohk-sahn-besh-TEN beh-REE boo-rah-DAH oh-too-roo-yoh-ROOM) - I've
+  lived here since 1995.
+Senin kadar akıllı değil. (seh-NEEN kah-DAHR ah-kuhl-LUH deh-EEL) - He's
+  not as clever as you.
+
+NOTES:
+Loanwords like ishal (diarrhoea) and saat (hour) came into Turkish from
+Arabic and can behave slightly irregularly for vowel harmony, because
+vowel harmony follows how the word is actually pronounced rather than how
+it's spelled — so saatler (hours) rather than the "expected" saatlar. As
+with lazım in the previous lesson, these are best treated as memorized
+exceptions rather than rule-breakers.
+
+PRACTICE:
+1. Build the if-form of gelmek for "if I come" and "if they come."
+2. Translate: "If you want, let's go to the cinema."
+3. Say "I need a car" using -e ihtiyaç var.
+4. Say "since yesterday" and "for two days" (assume the two days are
+   already finished).
+5. Name five parts of the body in Turkish.
+
+================================================================
+LESSON 14: You Said It Was Very Quiet! — The -miş Reported Past
+================================================================
+
+OVERVIEW:
+This lesson introduces one of Turkish's most distinctive grammatical
+features: the -miş ending, used to report what someone else said, to
+signal you're not fully certain about something, to react to something
+you've just discovered, or to tell a story or joke. You'll also learn a
+cluster of endings for connecting clauses ("when," "after," "before,"
+"while").
+
+GRAMMAR:
+- The -miş ending: means "apparently," "supposedly," or "reportedly."
+  Build it by adding -miş (four-way harmony) to the stem, then the
+  personal ending.
+    Ben yapmışım. - I did it, apparently (i.e., so I'm told).
+    Bitmiş diyorlar. - They say it's finished.
+    Arabamı siz sürmüşsünüz. - Apparently it was you who drove my car.
+  You can also attach -miş to the verb "to be": İngilizmiş (he is/was
+  said to be English), şişmanmışız (they say we are/were fat) — note the
+  buffer -y- needed after a vowel-ending word.
+- Using -miş: this ending is extremely common in spoken Turkish, and its
+  common thread is distancing the speaker from the statement in some
+  way. Specific uses include:
+    reporting what someone else said: Otel güzelmiş. - They said the
+    hotel was nice.
+    checking something you're unsure of: Doğru mu yapmışım? - Have I
+    done it right?
+    reacting to something you've just noticed: Aa! Çorabım kaçmış! - Oh!
+    My stocking's laddered!
+    telling stories, jokes, or fairy tales: Bir güzel prenses varmış... -
+    There was a beautiful princess... (this is the Turkish equivalent of
+    "once upon a time")
+- -miştir/-mişlerdir: these forms carry two special meanings beyond the
+  basic -miş sense.
+    "I expect...": used when you're not sure something's happened but
+    assume it has. Şimdi oraya gelmiştir. - She must have arrived by
+    now.
+    the "journalistic" official past: used in announcements and news
+    reports as a formal-sounding equivalent of the simple past tense —
+    Ankara treni üçüncü perona gelmiştir. (The Ankara train has arrived
+    at platform three.)
+- Nouns and adjectives that simply end in -miş as part of their basic
+  form (not the grammatical ending): geçmiş (the past), dolmuş (a
+  "stuffed" shared taxi — literally "having become full"), kızarmış
+  (fried). These are worth recognizing so you don't mistake them for the
+  reported-past ending on a completely different root.
+- Clause-connecting endings: attach directly to verb stems (or, for
+  -dikten sonra and -ken, to specific tense forms) to link two actions.
+    -ince - on...-ing, when: İstanbul'a gelince otelimize gittik. - On
+    arriving in İstanbul, we went to our hotel.
+    -dikten sonra - after...-ing: Yemeğini yedikten sonra uyudu. - She
+    fell asleep after eating her meal.
+    -ken (added to the -r present "he/she" form) - whilst...-ing:
+    Temizlerken kafamı çarptım. - Whilst cleaning I banged my head.
+    -den önce (added to the short infinitive) - before...-ing: Alışveriş
+    yapmadan önce kütüphaneye gitti. - Before doing the shopping, he
+    went to the library.
+
+VOCABULARY:
+şikâyet (shee-kah-YET) - complaint
+görevli (gur-rev-LEE) - staff member, official
+rezervasyon (reh-zehr-vahs-YOHN) - reservation
+felaket (feh-lah-KET) - disaster
+özür dilerim (ur-ZEWR dee-leh-REEM) - I apologize
+gürültülü (gew-rewl-tew-LEW) - noisy
+berbat (behr-BAHT) - terrible
+tatsız (taht-SUHZ) - tasteless
+iğrenç (ee-REHNCH) - disgusting
+üzülmek (ew-zewl-MEHK) - to be sorry
+en kısa zamanda (en kuh-SAH zah-mahn-DAH) - as soon as possible
+sempatik (sem-pah-TEEK) - likeable, nice (of a person)
+tehlikeli (teh-lee-keh-LEE) - dangerous
+
+EXAMPLES:
+Sizce otelin restoranı birinci sınıfmış. (seez-JEH oh-teh-LEEN
+  loh-kahn-tah-SUH bee-reen-JEE suh-nuhf-MUHSH) - According to you, the
+  hotel's restaurant was supposed to be first class.
+Bir güzel prenses varmış... (beer gew-ZEL pren-SES vahr-MUHSH) - There
+  was a beautiful princess... (once upon a time...)
+İstanbul'a gelince otelimize gittik. (ees-tahn-boo-LAH geh-leen-JEH
+  oh-teh-lee-mee-ZEH geet-TEEK) - On arriving in İstanbul, we went to
+  our hotel.
+Yemeğini yedikten sonra uyudu. (yeh-meh-ee-NEE yeh-deek-TEN sohn-RAH
+  oo-yoo-DOO) - She fell asleep after eating her meal.
+Şimdi oraya gelmiştir. (sheem-DEE oh-rah-YAH gel-meesh-TEER) - She must
+  have arrived there by now.
+
+NOTES:
+The -miş tense is sometimes jokingly called the "gossip tense" in
+descriptions of Turkish, because it lets the speaker report something
+while quietly signaling "I wasn't there, but..." It's worth actively
+listening for in real Turkish speech and media — once you notice it,
+you'll hear it constantly, especially in storytelling and casual
+conversation about other people's business.
+
+PRACTICE:
+1. Turn yapmak into "I did it, apparently" using -miş.
+2. Explain in your own words the difference in feeling between Otel
+   güzeldi (the hotel was nice) and Otel güzelmiş (the hotel was
+   apparently nice / they said the hotel was nice).
+3. Use -dikten sonra to say "After eating, we slept."
+4. Use -ince to say "On arriving home, I called you."
+5. What does the -miştir ending suggest in Şimdi oraya gelmiştir?
+
+================================================================
+LESSON 15: Wrong Number — Participles: -en vs. -dik vs. -ecek
+================================================================
+
+OVERVIEW:
+This lesson completes the set of Turkish participles (verb-based
+adjectives), teaching you -dik adjectives for the past/present object of
+an action and -ecek adjectives for the future object, and clarifies
+exactly how they differ from the -en adjectives you met in Lesson 10.
+You'll also learn the -ip ending for chaining actions together and how to
+intensify adjectives using a special prefix pattern.
+
+GRAMMAR:
+- -dik adjectives (the "object participle"): describe the OBJECT of an
+  action — the thing being acted upon — where -en (Lesson 10) describes
+  the SUBJECT (the doer). Build with stem + -dik (four-way harmony) +
+  possessed ending.
+    (benim) sevdiğim renk - the colour which I like (or liked)
+    (onun) sürdüğü araba - the car he drives (or drove)
+  -dik adjectives are flexible about which relationship they express,
+  depending on context:
+    plain object (which/that): sevdiğim renk - the colour I like
+    location (in/at which): oturduğum ev - the house in which I live
+    destination (to which): gittiği okul - the school he goes to
+    source (from which): geldiğiniz köy - the village you come from
+    companion (with which/whom): evlendiği erkek - the man she married
+  Note that -dik adjectives can refer to either the past or present — the
+  meaning is usually clear from context.
+- The crucial distinction between -en and -dik: use -en for the SUBJECT
+  of the action (who's doing it), and -dik for the OBJECT (who/what it's
+  being done to).
+    Beni seven kadın. - The woman who loves me. (she is the subject)
+    Sevdiğim kadın. - The woman whom I love. (she is the object)
+- -dik as a noun (dropping the described noun): when it's obvious what
+  the missing noun is, you can drop it and move its ending onto the -dik
+  form itself.
+    Aldığım şeyi istiyor musun? -> Aldığımı istiyor musun? - Do you want
+    the thing I bought? -> Do you want what I bought?
+  If the missing noun was plural, carry the plural ending over too:
+  Aldığım şeyleri -> Aldıklarımı.
+- -ecek adjectives and nouns: the future counterpart of -dik, used for
+  "which/that I will..." Build with stem + -ecek (two-way harmony) +
+  possessed ending.
+    Okuyacağım kitap. - The book which I'm going to read.
+  Like -dik, -ecek forms can also stand alone as nouns: Alacaklarım
+  bunlar. (These are the ones I'm going to buy.) And like -en/-dik,
+  -ecek covers both subject and object roles depending on context: Yapan
+  bu (this is the one who did it) vs. Yapacak bu (this is the one who'll
+  do it); Yaptığı bu (this is the one he did) vs. Yapacağı bu (this is
+  the one he'll do).
+- The -ip ending: lets you chain two actions together with the same
+  subject and matching tense, dropping the repeated tense marker on the
+  first verb — similar to how English can say "I'm going to have a bath
+  and wash my hair" instead of repeating "I'm going to."
+    Bu akşam banyo yapacağım ve saçlarımı yıkayacağım. -> Bu akşam banyo
+    yapıp saçlarımı yıkayacağım.
+  You CANNOT use -ip if the verb forms differ, or if the two actions have
+  different subjects: Eve döneceğiz ve çalışacağım (We'll go home and
+  I'll work) cannot be shortened this way, because "we" and "I" are
+  different subjects.
+- Intensifying adjectives with a repeated prefix: Turkish has one case
+  where it adds a PREFIX instead of a suffix — to intensify certain
+  adjectives, repeat the adjective's first syllable-initial sound plus
+  a fixed consonant (usually p, m, or s), then attach it to the front of
+  the full word.
+    kırmızı (red) -> kıpkırmızı (bright red)
+    beyaz (white) -> bembeyaz (white as snow)
+    temiz (clean) -> tertemiz (squeaky clean)
+    boş (empty) -> bomboş (completely empty)
+  There's no single rule for which consonant to use — it's best learned
+  by encountering each intensified form as a fixed expression.
+
+VOCABULARY:
+abone (ah-boh-NEH) - subscriber
+teyp kaydı (teyp kahy-DUH) - tape recording
+aradığınız numara (ah-rah-duh-uh-NUHZ noo-mah-RAH) - the number you dialled
+yanlış (yahn-LUHSH) - wrong
+kontrol etmek (kohn-TROHL et-MEHK) - to check
+tekrar aramak (tek-RAHR ah-rah-MAHK) - to call again
+rakam (rah-KAHM) - figure, digit
+değişmek (deh-eesh-MEHK) - to change
+hat (haht) - line (telephone)
+dolu (doh-LOO) - full
+kahretsin (kah-ret-SEEN) - damn!
+karışmak (kah-ruhsh-MAHK) - to interfere
+
+EXAMPLES:
+Sevdiğim renk mavi. (sev-dee-EEM renk mah-VEE) - The colour I like is
+  blue.
+Beni seven kadın orada. Sevdiğim kadın burada. (beh-NEE seh-VEN kah-DUHN
+  oh-rah-DAH. sev-dee-EEM kah-DUHN boo-rah-DAH) - The woman who loves me
+  is there. The woman I love is here.
+Okuyacağım kitap bu. (oh-koo-yah-jah-UHM kee-TAHP boo) - This is the book
+  I'm going to read.
+Bakkala gidip bir kilo süt al! (bahk-kah-LAH gee-DEEP beer kee-LOH sewt
+  ahl) - Go to the grocer's and buy a kilo of milk!
+Bomboş bir oda. (bohm-BOHSH beer oh-DAH) - A completely empty room.
+
+NOTES:
+The -en/-dik distinction is one of the trickiest points for English
+speakers, since English "which/who" doesn't mark this subject/object
+difference at all. A reliable trick: ask yourself who or what is
+performing the action versus who or what is receiving it — the performer
+gets -en, the receiver gets -dik.
+
+PRACTICE:
+1. Build a -dik adjective from görmek (to see) meaning "the film which
+   we saw."
+2. Explain the difference between Beni seven kadın and Sevdiğim kadın.
+3. Shorten Aldığım şeyi istiyor musun? by dropping the noun şey.
+4. Combine these with -ip: Bakkala git ve bir kilo süt al!
+5. Give the intensified form of temiz (clean) and boş (empty).

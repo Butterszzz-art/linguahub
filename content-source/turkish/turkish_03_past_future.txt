@@ -1,0 +1,469 @@
+################################################################
+PART 3 — PAST AND FUTURE (Lessons 8-11)
+################################################################
+
+================================================================
+LESSON 8: Have You Been Waiting Long? — The Past Tense and Telling Time
+================================================================
+
+OVERVIEW:
+This lesson introduces the simple past tense — the tense you use for
+anything that happened and finished, including situations where English
+would use "have done." You'll also learn to tell the time on the hour and
+half-hour, build compound nouns, and recognize verbs that insist on a
+particular case ending for their object.
+
+GRAMMAR:
+- The past tense of "to be": spot it by the ending -di (two-way harmony,
+  so also -dı/-du/-dü). zenginim (I am rich) -> zengindim (I was rich).
+  If the word ends in a vowel, insert a buffer -y-: İyiydim (I was good).
+  Negate with değil plus these same endings: Mutlu değildim (I wasn't
+  happy).
+- The simple past tense of verbs: take the stem, then add the past "to
+  be" ending directly.
+    geldim - I came        güldün - you smiled       seyretti - he watched
+    gittik - we went       başladınız - you started   beklediler - they
+    waited
+  Negate by inserting -me- before the past ending: gelmedim (I didn't
+  come). Form questions by adding mı/mi/mu/mü AFTER the personal ending
+  (note this is different from the -iyor tense, where the question
+  particle splits the verb and the "to be" part): geldim mi? (did I
+  come?), gelmedim mi? (didn't I come?)
+- Using the past tense for "have done": Turkish has no direct equivalent
+  of the English "have done" tense — you simply use the simple past
+  instead.
+    Hiç rakı içtin mi? - Have you ever drunk rakı?
+    Türkiye'ye gitmedim. - I haven't been to Turkey.
+  Conversely, Turks often use the PAST tense in conversation where English
+  would use the present: Geç kaldım (literally "I was late") is used to
+  mean "I'm late"; Anladım ("I understood") means "I understand";
+  Geldim! ("I came!") means "I'm coming! I'll be right there!"
+- Telling the time (hours and half-hours):
+    Saat kaç? - What's the time?          Saat üç. - It's three o'clock.
+    Saat kaçta? - At what time?           Saat üçte. - At three o'clock.
+    Saat dört buçuk. - It's half past four.
+  One oddity: half past twelve is simply yarım, not "on iki buçuk."
+- Compound nouns: when you describe one noun with another (like "cheese
+  sandwich" in English), the second noun takes the possessed ending -i/-si
+  you learned in Lesson 7.
+    pizza evi - pizza house       yatak odası - bedroom
+    Atatürk Havalimanı - Atatürk Airport
+  Remember su (water) is irregular, taking -yu: portakal suyu (orange
+  juice), maden suyu (mineral water).
+- Verbs that need -e or -den instead of -i: not every verb's object takes
+  the direct-object -i ending. Some verbs — including bakmak (to look at),
+  aşık olmak (to fall in love with), and binmek (to get into/onto) —
+  insist their object take -e instead:
+    Melek arabaya baktı. - Melek looked at the car.
+  Others — including bıkmak (to get fed up with), inmek (to get out of),
+  and nefret etmek (to hate) — insist on -den:
+    Melek arabadan indi. - Melek got out of the car.
+  There's no rule to predict which verbs behave this way; you simply learn
+  each one's required ending as you meet it (dictionaries mark them, e.g.
+  binmek (-e)).
+- İçin ("for," "for the sake of," "because of"): when için refers to a
+  personal pronoun, give the pronoun a possessor ending first: benim için
+  (for me), Senin için aldım (I bought it for you). When it refers to a
+  plain noun, no ending is needed: Bu bira Ahmet için (This beer is for
+  Ahmet). An alternative way to say "for" is simply the -e ending: Bu
+  bira Ahmet'e (same meaning).
+- Question word combinations: you can build extra question words by
+  adding endings or için to ne (what) or kim (who): neden/niçin/niye
+  (why?), nerede (where?), neyin (of what?), kimin (whose?), kim için
+  (who for?).
+- Word order with mı and de: place mı or de (meaning "also") directly
+  after the specific word they refer to, since where you put them changes
+  the meaning: Bana bira getiriyor musun? (Are you getting me a beer?) vs.
+  Bana bira mı getiriyorsun? (Is it BEER that you're getting me?)
+
+VOCABULARY:
+tanımak (tah-nuh-MAHK) - to know someone, be acquainted with
+memnun oldum (mem-NOON ohl-DOOM) - pleased to meet you
+geç kalmak (gech kahl-MAHK) - to be late
+affedersiniz (ahf-feh-dehr-see-NEEZ) - I'm sorry, excuse me
+önemli değil (ur-nem-LEE deh-EEL) - never mind
+yolculuk (yohl-joo-LOOK) - journey
+seyretmek (sey-ret-MEHK) - to watch
+dinlemek (deen-leh-MEHK) - to listen
+uyumak (oo-yoo-MAHK) - to sleep
+uçak (oo-CHAHK) - aeroplane
+durmak (door-MAHK) - to stop
+tek (tek) - single
+duble (doo-BLEH) - large, double
+çerez (cheh-REZ) - nibbles, snacks (nuts and chickpeas)
+saat (sah-AHT) - hour, clock
+buçuk (boo-CHOOK) - half (used after a number)
+para (pah-RAH) - money
+korkmak (kohrk-MAHK) - to fear, to be afraid of
+hoşlanmak (hohsh-lahn-MAHK) - to enjoy
+geçmek (gech-MEHK) - to pass over
+
+EXAMPLES:
+Nasılsınız? Teşekkür ederim, çok iyiyim. (nah-suhl-suh-NUHZ? teh-shek-KEWR
+  eh-deh-REEM, chohk ee-YEE-yeem) - How are you? Thank you, I'm very well.
+Çok beklediniz mi? Çok beklemedik. (chohk bek-leh-dee-NEEZ mee? chohk
+  bek-leh-meh-DEEK) - Have you been waiting long? We haven't waited long.
+Saat kaç? Saat üç. (sah-AHT kach? sah-AHT ewch) - What's the time? It's
+  three o'clock.
+Yemeğinizi bitirdiniz mi? (yeh-meh-ee-nee-ZEE bee-teer-dee-NEEZ mee) -
+  Have you finished your meal?
+Örümceklerden korkuyor. (ur-rewm-jek-ler-DEN kohr-koo-YOHR) - He's afraid
+  of spiders.
+
+NOTES:
+In Turkish, the most common reply to Nasılsınız? ("How are you?") is
+simply teşekkür ederim ("thank you") — there's no need to add "fine" or
+"well" the way English does. Also note how iyiydim inserts a buffer -y-
+despite there being no actual vowel clash — this is simply a fixed feature
+of the "to be" past tense after a vowel-ending word, worth memorizing as
+an exception.
+
+PRACTICE:
+1. Put into the past tense: gel- (I), gül- (you), seyret- (he).
+2. Make a past-tense question: "Did you wait?" and "Didn't you wait?"
+3. Say "half past four" and "half past twelve" in Turkish.
+4. Build a compound noun for "orange juice."
+5. Which case ending does the object of bakmak (to look at) require —
+   -i, -e, or -den?
+
+================================================================
+LESSON 9: I'll Get Up Early Tomorrow — The Future Tense and Place Words
+================================================================
+
+OVERVIEW:
+This lesson covers the "real" future tense (as opposed to using -iyor with
+future meaning, which you already know from Lesson 7), how to make casual
+suggestions, the word ile ("with"/"and"), how to say where something is in
+relation to something else (on top of, behind, between, etc.), and how to
+tell the time more precisely than just the hour and half-hour.
+
+GRAMMAR:
+- The future tense: spot it by -ecek (two-way harmony: -ecek/-acak). Build
+  it the same way as other tenses: stem + -ecek + personal ending.
+    geleceğim - I will come      satacaksın - you will sell
+    yazacağız - we will write    bekleyecekler - they will wait
+  Negate by inserting -me- before -ecek, with a buffer -y- always required
+  between them: geleceğim -> gelmeyeceğim (I won't come). Form questions
+  by splitting the verb from its personal ending and inserting mı/mi/mu/mü
+  between them, same pattern as the past tense; the "they" form again puts
+  mı at the very end.
+  You can also use olmak (to become/be) as the future of "to be," var, or
+  yok: Mutluyum -> Mutlu olacağım (I will be happy); Su yok -> Su
+  olmayacak (There won't be any water).
+- The present continuous (-iyor) can ALSO carry future meaning, and
+  Turkish speakers switch freely between it and -ecek — often the two are
+  interchangeable, much like English "I'm coming tomorrow" vs. "I will
+  come tomorrow."
+- Informal suggestions with -sene/-senize: add this ending to a verb stem
+  to mean "why don't you...!" Gelsene! (Do come!) Baksana! (Why don't you
+  look!) Depending on tone of voice, these can be either a friendly nudge
+  or an expression of mild impatience.
+- Ile ("with," and sometimes "and"): can be shortened to the ending -le
+  (two-way harmony).
+    Kardeşimle git. - Go with my brother.
+    Arabayla gidiyorum. - I'm going by car.
+  Turkish also uses ile in some places English uses "and": Pınar ile
+  Didem geliyorlar (Pınar and Didem are coming). With personal pronouns,
+  -le attaches to the possessive form (except for "they"): Benimle gel.
+  (Come with me.) Note the difference between -le (with/and, from ile)
+  and -li (an adjective-forming ending, e.g. sütlü, "with milk," meyveli,
+  "with fruit") — they look similar but serve different jobs.
+- Prepositions of place: Turkish builds these from nouns meaning the
+  relevant body part or zone, combined with a possessive and the -de/-e/
+  -den family of endings.
+    üst (top) -> -in üstünde (on top of)
+    alt (bottom) -> -in altında (under)
+    ön (front) -> -in önünde (in front of)
+    arka (back) -> -in arkasında (behind)
+    yan (side) -> -in yanında (beside)
+    orta (middle) -> -in ortasında (in the middle of)
+    iç (interior) -> -in içinde (inside)
+    dış (exterior) -> -in dışında (outside)
+    ara (gap) -> -in arasında (between)
+    karşı (opposite) -> -in karşısında (opposite)
+  Examples: Masanın altından geldi. (The cat came from under the table.)
+  PTT'nin karşısında. (Opposite the post office.) Otel ile plajın
+  arasında. (Between the hotel and the beach.)
+- Telling the time accurately: for minutes before the hour, use -e var
+  ("there are ___ to"); for minutes after the hour, use -i geçiyor
+  ("___ is passing"). To express a specific moment ("at five to," "at
+  five past") swap var for kala and geçiyor for geçe.
+    Saat üçe on var. - It's ten to three.
+    Saat üçü on geçiyor. - It's ten past three.
+    Saat bire beş kala. - At five to one.
+    Saat biri beş geçe. - At five past one.
+
+VOCABULARY:
+akşam (ahk-SHAHM) - evening
+arkadaş (ahr-kah-DAHSH) - friend
+bilmiyorum (beel-mee-yoh-ROOM) - I don't know
+hadi (hah-DEE) - come on!
+emin (eh-MEEN) - sure
+kalkmak (kahlk-MAHK) - to get up
+buluşmak (boo-loosh-MAHK) - to meet, rendezvous
+dolmuş (dohl-MOOSH) - shared taxi
+otogar (oh-toh-GAHR) - bus station
+yakın (yah-KUHN) - near
+uzak (oo-ZAHK) - far
+danışma (dah-nuhsh-MAH) - advice, information
+görüşmek üzere (gur-rewsh-MEHK ew-zeh-REH) - see you (soon)
+bozuk (boh-ZOOK) - broken
+cadde (jahd-DEH) - street, avenue
+
+EXAMPLES:
+Bu akşam ne yapıyorsun? Bilmiyorum. (boo ahk-SHAHM neh yah-puh-yohr-SOON?
+  beel-mee-yoh-ROOM) - What are you doing this evening? I don't know.
+Yarın erken kalkacağım. (yah-RUHN ehr-KEN kahl-kah-jah-UHM) - I'll get up
+  early tomorrow.
+Kardeşimle git. Arabayla gidiyorum. (kahr-deh-sheem-LEH geet. ah-rah-bah-YLAH
+  gee-dee-yoh-ROOM) - Go with my brother. I'm going by car.
+PTT'nin karşısında. Otel ile plajın arasında. (peh-teh-teh-NEEN
+  kahr-shuh-suhn-DAH. oh-TEL ee-LEH plah-JUHN ah-rah-suhn-DAH) - It's
+  opposite the post office. Between the hotel and the beach.
+Saat dörde çeyrek var. (sah-AHT dur-deh-CHEYREK vahr) - It's a quarter to
+  four.
+
+NOTES:
+In this unit's dialogue, notice how the speakers move fluidly between
+-iyor and -ecek to talk about the same future evening — this is completely
+normal and not a mistake in either direction. Also, hadi (come on!) is a
+word you'll hear constantly in Turkey; try counting how many times you
+hear it in a single day once you're there.
+
+PRACTICE:
+1. Put geleceğim, satacaksın, and bekleyecekler into the negative.
+2. Say "I might come with you" using -sene as an informal suggestion form
+   applied to gel-.
+3. Translate: "The cat is under the table" and "in front of the grocer's."
+4. Give the time for "twenty-five to twelve" and "twenty past six."
+5. Explain the difference between -le (from ile) and -li in your own
+   words, with an example of each.
+
+================================================================
+LESSON 10: Would You Help Me? — The -r Present Tense and -en Adjectives
+================================================================
+
+OVERVIEW:
+This lesson introduces Turkish's SECOND present tense — traditionally
+called the "wide" or aorist present — which is used very differently from
+-iyor: for promises, willingness, requests, habitual truths, and
+storytelling. You'll also learn to build adjectives out of verbs (the
+equivalent of English "-ing" adjectives like "the running man"), the
+"by...-ing" ending -erek, and more verbs that require a specific case
+ending on their object.
+
+GRAMMAR:
+- The -r present tense: build it by adding -r, -ir, or -er to the verb
+  stem (plus the personal "to be" ending). Which one you use depends on
+  the stem:
+    - stems ending in a vowel: just add -r.        söylerim (I say)
+    - one-syllable stems (most): add -er.          geçerim (I pass)
+    - one-syllable stems ending in -r or -l: add -ir. kalırım (I stay)
+    - stems with more than one syllable: add -ir (four-way harmony).
+      inanırım (I believe)
+  There's no fully reliable rule for which one-syllable verbs take -er
+  vs. -ir — these are best learned by encountering each verb individually.
+- Negative -r present forms: spot them by -mez/-maz. Build by adding -me
+  to the stem, then -z (except for the "I" and "we" forms, which drop the
+  z in statements but restore it in questions).
+    almam - I don't take          bilmezsin - you don't know
+    bulmayız - we don't find      bulmaz mıyız? - don't we find?
+- Uses of the -r present tense: this tense covers a cluster of related
+  meanings quite different from -iyor:
+    making promises: Sana dondurma alırım. - I'll buy you an ice-cream.
+    willingness: Yardım ederim. - I'll help.
+    intention: Yarın gelirim. - I'll come tomorrow.
+    polite requests: Kapıyı açar mısınız? - Would you open the door?
+    offers: Çay içer misiniz? - Would you like some tea?
+    set phrases: Teşekkür ederim. - Thank you.
+    telling stories/jokes: Üç erkek bara girerler... - Three men go into
+      a bar...
+    unchanging facts: Su 0°C altında donar. - Water freezes below 0°C.
+    habitual actions: Sık sık plaja giderim. - I often go to the beach.
+    uncertainty/hope: Belki gelir. - Maybe he'll come. Umarım,
+      gitmezsiniz. - I hope you won't go.
+- -en adjectives (the "subject participle"): turn a verb into an adjective
+  describing whoever performs the action, similar to English "-ing"
+  adjectives. Add -en (two-way harmony) to the stem.
+    koşan adam - the running man, the man who's running
+    İstanbul'a giden tren - the train going to İstanbul
+  You can also use -en adjectives without a noun, in which case they act
+  like nouns meaning "the one(s) who...": Masada oturan güzeldi. (The one
+  sitting at the table was pretty.) Add -ler to make them plural.
+- -erek ("by...-ing"): attach to a verb stem to describe how something was
+  done.
+    Yürüyerek geldim. - I came on foot (by walking).
+    Gazeteye bakarak buldum. - I found it by looking at the newspaper.
+  It can also just mean "-ing": Gülerek gitti. (She left smiling.) The
+  -erek form of olmak is special and means "as": Programcı olarak
+  çalışıyorum. (I work as a programmer.)
+- More verbs needing -e, -den, or ile instead of -i: continuing from
+  Lesson 8, here are more examples to build your instinct for these:
+    -e: sormak (to ask), yardım etmek (to help), vurmak (to hit)
+    -den: hoşlanmak (to enjoy), korkmak (to fear), bahsetmek (to mention)
+    ile: evlenmek (to marry) — Bir elektrikçiyle evlenecek. (She's going
+      to marry an electrician.)
+
+VOCABULARY:
+yardım eder misiniz? (yahr-DUHM eh-dehr mee-see-NEEZ) - would you help?
+acaba (ah-jah-BAH) - I wonder
+havalimanı (hah-vah-lee-mah-NUH) - airport
+göstermek (gurs-tehr-MEHK) - to show
+şöyle (shur-LEH) - like this, this way
+sapmak (sahp-MAHK) - to turn
+bayağı (bah-yah-UH) - quite
+yürüyerek (yew-rew-yeh-REK) - on foot, by walking
+sürmek (sewr-MEHK) - to last, to take (time)
+bilmem (beel-MEM) - I don't know
+anlatmak (ahn-laht-MAHK) - to explain
+taşımak (tah-shuh-MAHK) - to carry
+sözcük (surz-JEWK) - word (general vocabulary term)
+
+EXAMPLES:
+Lütfen yardım eder misiniz? (LEWT-fen yahr-DUHM eh-dehr mee-see-NEEZ) -
+  Would you please help me?
+Yolu gösterir misiniz? (yoh-LOO gurs-teh-REER mee-see-NEEZ) - Would you
+  show me the way?
+Kapıyı açar mısınız? (kah-puh-YUH ah-CHAHR muh-suh-NUHZ) - Would you open
+  the door?
+İstanbul'a giden tren nerede? (ees-tahn-boo-LAH gee-DEN tren neh-reh-DEH)
+  - Where's the train going to İstanbul?
+Yürüyerek on dakika sürer. (yew-rew-yeh-REK ohn dah-kee-KAH sew-REHR) -
+  It takes ten minutes on foot.
+
+NOTES:
+Words like yavrum ("dear") and teyze ("auntie") in this unit's dialogue
+are common, friendly forms of address used with strangers — but only when
+there's a recognizable age gap between the speakers (an older person using
+them toward a younger one, or vice versa as a sign of respect). Acaba ("I
+wonder," "by any chance") is a small word that makes a request noticeably
+more polite — sprinkle it into requests when you want to soften them.
+
+PRACTICE:
+1. Choose -er or -ir and conjugate for "I": geçmek (one-syllable), almak
+   (one-syllable ending in a vowel + stem consonant), konuşmak
+   (multi-syllable).
+2. Make gelirim negative.
+3. Build an -en adjective from gelmek describing "the train coming from
+   Vienna."
+4. Translate using -erek: "She left smiling."
+5. Which ending does the object of korkmak (to fear) need?
+
+================================================================
+LESSON 11: Where Shall We Go? What Can We Do? — Ability, Comparatives, and "Let's"
+================================================================
+
+OVERVIEW:
+This lesson covers how to say "can/can't" and "might/might not," how to
+compare two things, the full set of "let" forms (let me, let's, let him),
+the useful adjective-forming ending -ki, and a tidy review of when to use
+each buffer consonant.
+
+GRAMMAR:
+- Can/be able to: -ebil- (four-way, e-type harmony) slots in right after
+  the verb stem, inside any tense.
+    gidebilirim - I can go        yapabilirsin - you can do
+    gidebileceğim - I'll be able to go   Oynayabildi mi? - Was he able to
+    play?
+  Form questions the normal way for whichever tense you're in:
+  gidebilir miyim? (can I go?)
+- Can't/not able: mark with -e- (note: NOT -ebil-, just -e-) right after
+  the stem, in the negative form of whichever tense you need.
+    gelemeyeceğim - I won't be able to come
+    Yapamadım. - I couldn't do it.
+    Olamaz! - It can't be!
+- Might: also uses -ebil-, with the specific meaning (can vs. might)
+  usually clear from context.
+    Biraz sonra içebilirim. - I might have a drink a little later.
+  The negative of "might" is different from the negative of "can" — for
+  "might not," simply add -me after the verb stem (not -e-):
+    Yapabilirim, yapmayabilirim. - I might do it and I might not.
+  Compare: Sinemaya gidemem (I can't go to the cinema) vs. Sinemaya
+  gitmeyebilirim (I might not go to the cinema) — these mean different
+  things, so don't mix them up.
+- Comparatives: to say "more X than Y," Turkish literally says "more X
+  FROM Y" — the compared-against item takes the -den ending, and daha
+  ("more") appears before the adjective.
+    Senden daha akıllıyım. - I'm cleverer than you (literally "from you
+    more clever am-I").
+    Türkiye, İngiltere'den daha ucuz. - Turkey is cheaper than England.
+  For superlatives ("the most / the ...-est"), use en before the
+  adjective: Türkiye'de en iyi şarkıcı Pınar. (Pınar is the best singer
+  in Turkey.)
+- The "let" forms of verbs:
+    -eyim - "let me..." (offering help, making suggestions):
+      Yardım edeyim. - Let me help. Gideyim mi? - Shall I go?
+    -elim - "let's..." (making suggestions): Gidelim. - Let's go.
+      Yapalım mı? - Shall we do it?
+    -sin - what someone ELSE should do, or a hope that something happens:
+      Eve gitsin. - He should go home. Yağmur yağmasın. - I hope it
+      doesn't rain (literally "let it not rain").
+    -sinler - the plural of -sin: Yarın gelsinler. - Tell them to come
+      tomorrow.
+  You'll recognize several fixed phrases built this way: Üstü kalsın.
+  (Keep the change.) Kolay gelsin. (I hope your work goes well.) Afiyet
+  olsun. (Bon appétit.)
+- The ending -ki: attach to a noun already carrying -de to turn it into
+  an adjective meaning "the one which is in/at/on."
+    otel + de -> oteldeki bar - the bar in the hotel
+    masa + da -> masadaki çiçekler - the flowers on the table
+  -ki never changes for vowel harmony. Used without its noun, it means
+  "the one(s) which is/are in/at/on": oteldeki (the one in the hotel).
+  You can also attach -ki to a possessor to mean "the one which is
+  mine/his/etc.": benimki (mine), onlarınki (theirs).
+- Buffer consonants, reviewed and organized: now that you've met several
+  endings, here's the full pattern for which buffer to use:
+    -s- : for possessed endings, and in compound nouns
+    -n- : for possessor endings; after a word that already has a
+      possessed ending; with bu/şu/o; with the -ki ending
+    -y- : everywhere else a vowel clash needs to be avoided
+- -ce ("according to," and to name a language): add to a nationality or
+  country name to give the related language (Türk -> Türkçe; İsveç ->
+  İsveççe). Add to a personal pronoun to mean "according to...": bence
+  (in my opinion), sizce (in your opinion). Add to an adjective to mean
+  "rather...": iyice (rather good), büyükçe (rather big).
+
+VOCABULARY:
+çıkmak (chuhk-MAHK) - to go out
+nereye gidelim? (neh-reh-YEH gee-deh-LEEM) - where shall we go?
+sinema (see-neh-MAH) - cinema
+oyun (oh-YOON) - play (theatre)
+herhalde (hehr-hahl-DEH) - certainly, probably
+bulmak (bool-MAHK) - to find
+bence (ben-JEH) - in my opinion
+farketmek (fahr-ket-MEHK) - to matter
+ödünç vermek (ur-DEWNCH vehr-MEHK) - to lend
+götürmek (gur-tewr-MEHK) - to take, transport
+akıllı (ah-kuhl-LUH) - clever
+en (en) - the most, the ...-est
+kesinlikle (keh-seen-leek-LEH) - certainly, definitely
+
+EXAMPLES:
+Sinemaya gidebiliriz. Başka ne yapabiliriz? (see-neh-mah-YAH
+  gee-deh-bee-lee-REEZ. bahsh-KAH neh yah-pah-bee-lee-REEZ) - We can go to
+  the cinema. What else can we do?
+Bu saatte bilet bulamayız. (boo sah-aht-TEH bee-LET boo-lah-mah-YUHZ) -
+  We can't find tickets at this hour.
+Yeni Zelanda, Türkiye'den daha küçük. (yeh-NEE zeh-lahn-DAH,
+  tewr-kee-yeh-DEN dah-HAH kew-CHEWK) - New Zealand is smaller than
+  Turkey.
+Gidelim mi? Evet, gidelim. (gee-deh-LEEM mee? eh-VET, gee-deh-LEEM) -
+  Shall we go? Yes, let's go.
+Taksim'deki lokanta. (tahk-seem-deh-KEE loh-kahn-TAH) - the restaurant in
+  Taksim.
+
+NOTES:
+Comparative sentences reverse English logic — instead of saying "I'm
+cleverer THAN you," Turkish says "FROM you more clever" — so make sure
+the -den ending lands on the thing being compared against, not the person
+doing the comparing. Also, exclamations like üf be! and yok canım! are
+common and hard to translate literally, but their emotional tone usually
+comes through clearly from context and delivery.
+
+PRACTICE:
+1. Say "I can come" and then "I can't come" for gelmek.
+2. Explain the difference between Sinemaya gidemem and Sinemaya
+   gitmeyebilirim.
+3. Say "Turkey is cheaper than England" using the comparative pattern.
+4. Give the "let's" form of gitmek and the "let him" form of gelmek.
+5. Build oteldeki using -ki, and explain what it means.

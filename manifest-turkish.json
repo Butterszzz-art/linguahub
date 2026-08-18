@@ -1,0 +1,133 @@
+{
+  "classroom": {
+    "language": "Turkish",
+    "level": "Beginner–Intermediate"
+  },
+  "units": [
+    {
+      "title": "Part 1: Foundations",
+      "order": 0,
+      "lessons": [
+        {
+          "order": 0,
+          "title": "Lesson 1: The Turkish Alphabet and Sounds",
+          "file": "content/turkish/01-the-turkish-alphabet-and-sounds.html"
+        },
+        {
+          "order": 1,
+          "title": "Lesson 2: Vowel Harmony and Word Stress",
+          "file": "content/turkish/02-vowel-harmony-and-word-stress.html"
+        },
+        {
+          "order": 2,
+          "title": "Lesson 3: Survival Turkish — Essential Words and Phrases",
+          "file": "content/turkish/03-survival-turkish-essential-words-and-phrases.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 2: First Encounters",
+      "order": 1,
+      "lessons": [
+        {
+          "order": 3,
+          "title": "Lesson 4: Is There Any Bread? — Greetings, Var/Yok, and Basic Questions",
+          "file": "content/turkish/04-is-there-any-bread-greetings-var-yok-and-basic-questions.html"
+        },
+        {
+          "order": 4,
+          "title": "Lesson 5: Are You English? — Personal Pronouns and the Verb \"To Be\"",
+          "file": "content/turkish/05-are-you-english-personal-pronouns-and-the-verb-to-be.html"
+        },
+        {
+          "order": 5,
+          "title": "Lesson 6: No More, Please! — Commands, Direct Objects, and Verb Basics",
+          "file": "content/turkish/06-no-more-please-commands-direct-objects-and-verb-basics.html"
+        },
+        {
+          "order": 6,
+          "title": "Lesson 7: You're Joking! — The Present Continuous and Possessives",
+          "file": "content/turkish/07-youre-joking-the-present-continuous-and-possessives.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Past and Future",
+      "order": 2,
+      "lessons": [
+        {
+          "order": 7,
+          "title": "Lesson 8: Have You Been Waiting Long? — The Past Tense and Telling Time",
+          "file": "content/turkish/08-have-you-been-waiting-long-the-past-tense-and-telling-time.html"
+        },
+        {
+          "order": 8,
+          "title": "Lesson 9: I'll Get Up Early Tomorrow — The Future Tense and Place Words",
+          "file": "content/turkish/09-ill-get-up-early-tomorrow-the-future-tense-and-place-words.html"
+        },
+        {
+          "order": 9,
+          "title": "Lesson 10: Would You Help Me? — The -r Present Tense and -en Adjectives",
+          "file": "content/turkish/10-would-you-help-me-the-r-present-tense-and-en-adjectives.html"
+        },
+        {
+          "order": 10,
+          "title": "Lesson 11: Where Shall We Go? What Can We Do? — Ability, Comparatives, and \"Let's\"",
+          "file": "content/turkish/11-where-shall-we-go-what-can-we-do-ability-comparatives-and-le.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 4: Needs, Obligation and Conditions",
+      "order": 3,
+      "lessons": [
+        {
+          "order": 11,
+          "title": "Lesson 12: What Do You Like Doing? — Infinitives as Nouns and Obligation",
+          "file": "content/turkish/12-what-do-you-like-doing-infinitives-as-nouns-and-obligation.html"
+        },
+        {
+          "order": 12,
+          "title": "Lesson 13: If It Doesn't Get Better... — The Present Conditional and Needs",
+          "file": "content/turkish/13-if-it-doesnt-get-better-the-present-conditional-and-needs.html"
+        },
+        {
+          "order": 13,
+          "title": "Lesson 14: You Said It Was Very Quiet! — The -miş Reported Past",
+          "file": "content/turkish/14-you-said-it-was-very-quiet-the-mi-reported-past.html"
+        },
+        {
+          "order": 14,
+          "title": "Lesson 15: Wrong Number — Participles: -en vs. -dik vs. -ecek",
+          "file": "content/turkish/15-wrong-number-participles-en-vs-dik-vs-ecek.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 5: Narrative and Advanced Turkish",
+      "order": 4,
+      "lessons": [
+        {
+          "order": 15,
+          "title": "Lesson 16: Could You Tell Me What Happened? — Past Continuous, Pluperfect, and Reported Speech",
+          "file": "content/turkish/16-could-you-tell-me-what-happened-past-continuous-pluperfect-a.html"
+        },
+        {
+          "order": 16,
+          "title": "Lesson 17: Don't Make Me Laugh! — The Habitual Past, Causatives, and Reciprocals",
+          "file": "content/turkish/17-dont-make-me-laugh-the-habitual-past-causatives-and-reciproc.html"
+        },
+        {
+          "order": 17,
+          "title": "Lesson 18: When Was This Place Built? — The Passive Voice and Reflexives",
+          "file": "content/turkish/18-when-was-this-place-built-the-passive-voice-and-reflexives.html"
+        },
+        {
+          "order": 18,
+          "title": "Lesson 19: If I Had Known... — Unreal Conditionals, Keşke, and Yapar Yapmaz",
+          "file": "content/turkish/19-if-i-had-known-unreal-conditionals-ke-ke-and-yapar-yapmaz.html"
+        }
+      ]
+    }
+  ]
+}

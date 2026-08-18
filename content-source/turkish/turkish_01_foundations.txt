@@ -1,0 +1,320 @@
+################################################################
+PART 1 — FOUNDATIONS (Lessons 1-3)
+################################################################
+
+================================================================
+LESSON 1: The Turkish Alphabet and Sounds
+================================================================
+
+OVERVIEW:
+Turkish spelling is almost perfectly phonetic: every letter stands for
+exactly one sound, that sound never changes, and you always pronounce every
+letter in a word. This is very good news — once you know the alphabet, you
+can correctly pronounce any Turkish word you see, even one you've never
+encountered before. The Turkish alphabet has 29 letters: it's the same as
+the English alphabet but drops Q, W and X, and adds six extra letters
+(ç, ğ, ı, ö, ş, ü) not found in English.
+
+GRAMMAR:
+- The Turkish alphabet: A a, B b, C c, Ç ç, D d, E e, F f, G g, Ğ ğ, H h,
+  I ı, İ i, J j, K k, L l, M m, N n, O o, Ö ö, P p, R r, S s, Ş ş, T t, U u,
+  Ü ü, V v, Y y, Z z.
+- Turkish vowels are always "short" — a Turkish u sounds like the u in the
+  northern English "put," never like the oo-glide in "super." English
+  speakers tend to draw Turkish vowels out too long, so aim for something
+  crisp and short.
+- The vowels English also has:
+    a - like the a in "cat" (northern English) or "cup" (southern English)
+    e - like the e in "bet"
+    i (with a dot, even capitalized: İ) - like the i in "sit"
+    o - like the o in "hot"
+    u - like the u in "put"
+- The vowels English does NOT have:
+    ı (no dot, even capitalized as I) - like the "er" in "butter," or the u
+      in "cousin" — a neutral, unstressed-sounding vowel
+    ö - like the German ö, or the "eu" in French "deux" — round your lips
+      as if to say "o" but say "e"
+    ü - like the German ü, or the French u in "tu" — round your lips as if
+      to say "u" but say "i" — a sound halfway between English "ee" and "oo"
+- Crucially: dotted İ/i and dotless I/ı are two completely different
+  letters in Turkish, not capitalization variants of each other. This trips
+  up almost every beginner, so it's worth fixing in your mind right away:
+  İstanbul is spelled with a dotted İ, and its capital I keeps the dot.
+- Consonants that sound different from English:
+    c - like the j in "John" (NOT like an English c)
+    ç - like the ch in "child"
+    j - like the s in "pleasure," or the j in French "Jacques"
+    ş - like the sh in "show"
+    v - a sound halfway between English v and w
+    ğ (yumuşak g, "soft g") - has NO sound of its own. It always follows a
+      vowel and lengthens that vowel instead — think of dağ (mountain) as
+      "daa," or öğle (noon) as a lengthened "öö-leh." No Turkish word ever
+      begins with ğ.
+- Unlike English, Turkish always pronounces every letter — there's no
+  silent h (as in English "hour") and no dropped final r (as in
+  non-rhotic English accents). Every letter earns its place.
+- Word stress: as a general rule, stress falls on the LAST syllable of a
+  word (kapı - kah-PUH, "door"). There are exceptions — mostly place names
+  and a handful of loanwords — which you'll meet as they come up.
+
+VOCABULARY:
+kapı (kah-PUH) - door
+ekmek (ek-MEK) - bread
+güzel (gew-ZEL) - nice, beautiful
+öğretmen (ur-ret-MEN) - teacher
+çocuk (choh-JOOK) - child
+şehir (sheh-HEER) - city
+üzüm (ew-ZEWM) - grape
+ığdır (uhg-DUHR) - (a place name; example of ı)
+yağmur (yah-MOOR) - rain
+gün (gewn) - day
+
+EXAMPLES:
+Kapı büyük. (kah-PUH bew-YEWK) - The door is big.
+Çocuk güzel. (choh-JOOK gew-ZEL) - The child is beautiful.
+Bugün yağmur var. (boo-GEWN yah-MOOR var) - There is rain today.
+Öğretmen nerede? (ur-ret-MEN neh-reh-DEH) - Where is the teacher?
+
+NOTES:
+Because Turkish spelling is so consistent, it's worth spending real time on
+this lesson before moving on — every other lesson in this course assumes
+you can sound out new words correctly on sight. If you're ever unsure how
+to pronounce a word later in the course, come back to this lesson's sound
+list. Keep an eye out especially for ı vs i and for ğ, since these are the
+two features English speakers most often get wrong at first.
+
+PRACTICE:
+1. Read these words aloud, then check yourself against the phonetics:
+   sokak (street), köpek (dog), balık (fish), üniversite (university),
+   yaş (age).
+2. Circle the "extra" Turkish letters (not found in English) in this
+   sentence: Öğrencinin çantası şurada.
+3. True or false: dotless ı and dotted i are just capital/lowercase forms
+   of the same letter.
+4. Explain in your own words what the letter ğ does to the vowel before it.
+5. Which syllable is normally stressed in a Turkish word: first, middle,
+   or last?
+
+================================================================
+LESSON 2: Vowel Harmony and Word Stress
+================================================================
+
+OVERVIEW:
+Vowel harmony is the single most important pattern in Turkish grammar, and
+it will come up in almost every lesson from here on. Turkish endings
+(suffixes) usually come in either two or four different versions, and which
+version you use depends on the last vowel of the word you're attaching the
+ending to. This lesson gives you the full system up front so that later
+lessons can simply say "this ending follows two-way harmony" or "this
+ending follows four-way harmony" without re-explaining it each time.
+
+GRAMMAR:
+- Turkish vowels divide into two families based on where in the mouth
+  they're produced:
+    FRONT vowels: e, i, ö, ü
+    BACK vowels:  a, ı, o, u
+- Two-way vowel harmony ("e-type" harmony): an ending has two versions,
+  one with e and one with a. You choose based on the LAST vowel of the
+  word:
+    - if the last vowel is a front vowel (e, i, ö, ü) -> use the e version
+    - if the last vowel is a back vowel (a, ı, o, u) -> use the a version
+  Example: the plural ending -ler/-lar works this way.
+    ev (house, back... wait, e is front) -> evler (houses)
+    araba (car, back vowel a) -> arabalar (cars)
+- Four-way vowel harmony ("i-type" harmony): an ending has four versions,
+  matching not just front/back but also rounded/unrounded:
+    - last vowel i (front, unrounded) -> use the i version
+    - last vowel ü (front, rounded) -> use the ü version
+    - last vowel ı (back, unrounded) -> use the ı version
+    - last vowel u (back, rounded) -> use the u version
+  Example: the question particle mı/mi/mu/mü works this way.
+    İstanbul mu? (Is it İstanbul?) - last vowel u -> mu
+    Türk mü? (Is he Turkish?) - last vowel ü -> mü
+    Paris mi? (Is it Paris?) - last vowel i -> mi
+    Roma mı? (Is it Rome?) - last vowel a (back, unrounded, closest match
+      to ı) -> mı
+- A simple way to remember the four-way pattern: the vowel of the ending
+  "rhymes" with the last vowel of the word. If the exact vowel isn't
+  available (e.g. the word ends in e, a, ö or o), pick whichever of the
+  four options sounds closest.
+- You do not need to memorize these rules by rote. As you listen to and
+  read more Turkish, harmonizing correctly becomes instinctive. And even if
+  you get it wrong as a beginner, Turks will still understand you fine —
+  vowel harmony affects how natural you sound, not whether you're understood.
+- Consonant harmony: Turkish also "harmonizes" certain consonants for ease
+  of pronunciation. You'll meet the two main patterns in later lessons:
+    - voiced/voiceless matching: the d in endings like -de or -den becomes
+      t after a word ending in an unvoiced consonant (ç, f, h, k, p, s, ş,
+      t) — e.g. sokakta (in the street), not sokakda.
+    - k -> ğ: a word-final k preceded by a vowel changes to ğ when you add
+      an ending that starts with (or is) a vowel — e.g. kazak (coat) ->
+      kazağı (its coat / the coat, object form).
+- Buffer consonants: Turkish never allows two vowels to sit next to each
+  other inside a word. When an ending that starts with a vowel is added to
+  a word that ends in a vowel, a "buffer" consonant is inserted between
+  them to keep the pronunciation clean. The most common buffers are -y-,
+  -n- and -s-; you'll learn exactly which one to use for which ending as
+  each ending is introduced.
+- Word stress recap: the default is to stress the last syllable
+  (kapı - kah-PUH). A few categories of words break this rule — including
+  most place names (this book's convention: stress marked in phonetics as
+  it comes up) and words borrowed from Arabic or Persian with a naturally
+  "long" vowel (like lazım, necessary, pronounced with a lengthened first
+  a: LAA-zuhm).
+
+VOCABULARY:
+ev (ev) - house
+araba (ah-rah-BAH) - car
+oda (oh-DAH) - room
+göz (gurz) - eye
+kulak (koo-LAHK) - ear
+sokak (soh-KAHK) - street
+kitap (kee-TAHP) - book
+kazak (kah-ZAHK) - coat, sweater
+lazım (LAA-zuhm) - necessary
+hâlâ (hah-LAH) - still (an example of the circumflex marking a lengthened
+  Arabic-origin vowel)
+
+EXAMPLES:
+Evler büyük. (ev-LER bew-YEWK) - The houses are big.
+Arabalar güzel. (ah-rah-bah-LAR gew-ZEL) - The cars are nice.
+Kitap mı? (kee-TAHP muh) - Is it a book?
+Göz mü? (gurz mew) - Is it an eye?
+Kazağı giy! (kah-zah-UH giy) - Put the coat on! (k changes to ğ)
+
+NOTES:
+Don't try to consciously calculate vowel harmony while speaking at first —
+it will slow you down and isn't necessary to be understood. Instead, notice
+the pattern passively as you go through this course: nearly every plural,
+question, and personal ending you meet will explicitly tell you whether it
+follows two-way or four-way harmony, and over time the correct forms will
+simply start to feel right.
+
+PRACTICE:
+1. Sort these words by whether their last vowel is front or back:
+   masa (table), sandalye (chair), kapı (door), gözlük (glasses).
+2. Add the plural ending (-ler or -lar, following two-way harmony) to:
+   kitap, göz, ev, sokak.
+3. Which version of mı/mi/mu/mü would follow the word süt (milk)?
+4. Explain why sokakta (in the street) uses -ta rather than -da.
+5. What is a "buffer consonant" and why does Turkish need one?
+
+================================================================
+LESSON 3: Survival Turkish — Essential Words and Phrases
+================================================================
+
+OVERVIEW:
+Before diving into full sentences and grammar, it helps enormously to have
+a stock of ready-made words and phrases you can lean on right away — the
+kind of language that gets you through a shop, a taxi, or a hotel check-in
+even before you can build your own sentences. This lesson is a practical
+phrasebook covering the situations you'll run into most often in Turkey.
+
+GRAMMAR:
+- Most of this lesson is vocabulary rather than grammar, but a few patterns
+  are worth flagging early:
+    - lütfen (please) goes at the end (or occasionally the start) of a
+      request: Bir çay, lütfen. (One tea, please.)
+    - Turkish often omits words that English needs, like "a/an" or "is" —
+      var mı? literally means "is there?" with nothing standing in for "a."
+    - Yes/no answers frequently repeat the key word rather than using a
+      simple "yes": Ekmek var mı? - Var. (Is there bread? - There is.)
+- A note on politeness: raising your eyebrows and making a single soft
+  "tut" sound is a normal, polite way to say no in Turkey — it isn't rude
+  or dismissive the way it might seem to an English speaker.
+
+VOCABULARY:
+Basics:
+evet (eh-VET) - yes
+hayır (hah-YUHR) - no
+lütfen (LEWT-fen) - please
+sağ olun (saa oh-LOON) - thank you
+merhaba (mehr-hah-BAH) - hello
+hoşça kalın (hosh-CHAH kah-LUHN) - goodbye
+nasılsınız? (nah-suhl-suh-NUHZ) - how are you?
+iyiyim (ee-YEE-yeem) - I'm fine
+pardon (pahr-DOHN) - excuse me
+
+Talking:
+anladım (ahn-lah-DUHM) - I understand
+anlamadım (ahn-lah-mah-DUHM) - I don't understand
+tekrar (tek-RAHR) - again
+yavaş (yah-VAHSH) - slowly
+ne demek? (neh deh-MEK) - what does it mean?
+İngilizce (in-gee-leez-JEH) - English (language)
+Türkçesi ne? (tewrk-cheh-SEE neh) - what is it in Turkish?
+
+Shopping:
+kaç para? (kach pah-RAH) - how much (money)?
+ucuz (oo-JOOZ) - cheap
+pahalı (pah-hah-LUH) - expensive
+var (vahr) - there is (some)
+yok (yohk) - there isn't (any)
+
+Eating:
+bakar mısınız! (bah-KAHR muh-suh-NUHZ) - waiter! excuse me! (literally
+  "would you look!")
+hesap (heh-SAHP) - the bill
+öğle yemeği (ur-LEH yeh-meh-EE) - lunch
+
+Directions:
+nerede? (neh-reh-DEH) - where?
+sol (sohl) - left
+sağ (saa) - right
+düz (dewz) - straight on
+
+Travelling:
+ne zaman? (neh zah-MAHN) - when?
+bilet (bee-LET) - ticket
+burada (boo-rah-DAH) - here
+
+Times:
+dakika (dah-kee-KAH) - minute
+saat (sah-AHT) - hour
+şimdi (SHEEM-dee) - now
+dün (dewn) - yesterday
+bugün (boo-GEWN) - today
+yarın (yah-RUHN) - tomorrow
+
+Numbers:
+az (ahz) - a little
+çok (chohk) - a lot
+bir, iki, üç, dört, beş (beer, ee-KEE, ewch, durt, besh) - one, two, three,
+  four, five
+
+Places:
+tuvalet (too-vah-LET) - toilet
+postane (pohs-tah-NEH) - post office
+eczane (edj-zah-NEH) - chemist's, pharmacy
+bakkal (bahk-KAHL) - grocer's shop
+
+Trouble:
+imdat! (eem-DAHT) - help!
+kaza (kah-ZAH) - accident
+doktor (dohk-TOHR) - doctor
+
+EXAMPLES:
+Bir çay, lütfen. (beer chai LEWT-fen) - One tea, please.
+Ekmek var mı? - Var. (ek-MEK vahr muh - vahr) - Is there bread? - There is.
+Anlamadım. Tekrar, lütfen. (ahn-lah-mah-DUHM, tek-RAHR LEWT-fen) - I don't
+  understand. Again, please.
+Tuvalet nerede? (too-vah-LET neh-reh-DEH) - Where is the toilet?
+Kaç para? (kach pah-RAH) - How much is it?
+
+NOTES:
+Don't worry about understanding the grammar behind these phrases yet — that
+comes over the next several lessons. For now, the goal is simply
+recognition and recall: if you can greet someone, ask if something's
+available, ask the price, and say you don't understand, you already have
+enough Turkish to get through a huge range of everyday situations. As you
+listen to Turkish (audio, TV, conversation), pay attention to these words
+in particular — they come up constantly.
+
+PRACTICE:
+1. How would you ask "is there any bread?" and then say "there isn't any"?
+2. Match each phrase to its meaning: (a) hoşça kalın (b) anlamadım
+   (c) kaç para? — (i) I don't understand (ii) how much? (iii) goodbye.
+3. You want to ask where the post office is. What do you say?
+4. Someone offers you tea you don't want. What is the polite non-verbal way
+   to decline, according to this lesson?
+5. Translate: "Excuse me, is there a toilet here?"

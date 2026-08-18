@@ -1,0 +1,435 @@
+################################################################
+PART 5 — NARRATIVE AND ADVANCED TURKISH (Lessons 16-19)
+################################################################
+
+================================================================
+LESSON 16: Could You Tell Me What Happened? — Past Continuous, Pluperfect, and Reported Speech
+================================================================
+
+OVERVIEW:
+This lesson equips you to tell a detailed story about the past: what was
+happening at a given moment, what had already happened before that, and
+how to report what someone said, using nominalized -dik/-ecek clauses as
+the objects of verbs like "say," "hear," or "understand." You'll also
+learn how to build nouns from verbs with -iş and a handful of special
+expressions using var/yok.
+
+GRAMMAR:
+- The past continuous tense ("what was happening"): build it from the
+  present continuous (-iyor) by removing the personal ending and adding
+  the past form of "to be" instead.
+    yapıyorsunuz -> yapıyor -> yapıyordunuz - you were doing
+    Saat sekizde ne yapıyordun? - What were you doing at eight o'clock?
+    Ders çalışıyordum. - I was studying.
+- The pluperfect ("what had happened," -mişti): NOT related in meaning to
+  the reported -miş from Lesson 14 — this is simply the equivalent of
+  English "had done."
+    Eve geldiğim zaman sen gitmiştin. - When I came home, you had gone.
+    Daha önce hiç yememiştim. - I had never eaten it before.
+- Reporting events with -dik/-ecek nouns: to say "I said that I was
+  fine," Turkish uses the -dik (or, for the future, -ecek) participle as
+  a noun functioning as the object of the reporting verb — literally
+  "fine my-being I-said."
+    Hasta olduğumu kim söyledi? - Who said that I was ill?
+    Senin bunu söyleyeceğini tahmin ettim. - I guessed you would say
+    that.
+    Onların boşanacağını sanmam. - I don't reckon they'll get divorced.
+- Combining -dik/-ecek nouns with connecting words: certain words attach
+  after these participles to build more complex connectors (shown below
+  with -diği as the placeholder form):
+    -diği gibi - just as             -diği halde - although
+    -diği için - due to, because     -diği kadar - as far as
+    -diği zaman / -diğinde - when    -diğinden başka - apart from
+    Bildiğim kadar iyiler. - As far as I know, they're fine.
+    Fakir olduğu halde hayatından memnun. - Although he's poor, he's
+    content with his life.
+- The difference between -dik/-ecek nouns and the short infinitive: use
+  -dik/-ecek nouns for a SPECIFIC event that actually happened or will
+  happen; use the short infinitive for the general CONCEPT or manner of
+  doing something.
+    Şarkı söylediğiniz doğru mu? - Is it true that you sing? (a specific
+    fact about you)
+    Şarkı söylemeniz doğru mu? - Is your singing the right thing to do?
+    (the concept/appropriateness of singing)
+- Building nouns with -iş: attach to a verb stem to create a related
+  noun, often about an action's occurrence.
+    kalkmak (to leave) -> kalkış (departure)
+    girmek (to enter) -> giriş (entry)
+    uçmak (to fly) -> uçuş (flight)
+    almak/vermek (to take/give) -> alışveriş (shopping)
+- Special expressions with var and yok:
+    Bir varmış bir yokmuş... - Once upon a time... (uses -miş, tying back
+    to Lesson 14's storytelling use)
+    Ne var? - What's up? What's the matter?
+    Ne var ne yok? - What's the news?
+    var etmek - to create, to cause to exist
+    yok etmek - to get rid of
+    var olmak - to exist
+    yok olmak - to disappear
+
+VOCABULARY:
+hırsız (huhr-SUHZ) - thief
+cüzdan (jewz-DAHN) - purse, wallet
+plaj (plahj) - beach
+yüzmek (yewz-MEHK) - to swim
+eşya (esh-YAH) - things, belongings
+yok olmak (yohk ohl-MAHK) - to disappear
+kum (koom) - sand
+izlemek (eez-leh-MEHK) - to follow (with your eyes)
+takip etmek (tah-KEEP et-MEHK) - to follow, pursue
+tarif etmek (tah-REEF et-MEHK) - to describe
+bıyık (buh-YUHK) - moustache
+karakol (kah-rah-KOHL) - police station
+farkında değilim (fahr-kuhn-DAH deh-ee-LEEM) - I didn't notice
+
+EXAMPLES:
+Ben denizde yüzüyordum. (ben deh-neez-DEH yewz-ew-yohr-DOOM) - I was
+  swimming in the sea.
+Erkek yok olmuştu. (ehr-KEK yohk ohl-moosh-TOO) - The man had disappeared.
+Hasta olduğumu kim söyledi? (hahs-TAH ohl-doo-oo-MOO keem sur-leh-DEE) -
+  Who said that I was ill?
+Fakir olduğu halde mutlu. (fah-KEER ohl-doo-OO hahl-DEH moot-LOO) -
+  Although he's poor, he's happy.
+Kalkış saat kaçta? (kahl-KUHSH sah-AHT kach-TAH) - What time is
+  departure?
+
+NOTES:
+This unit's dialogue (a tourist reporting a theft to a policeman) is a
+good model for real narrative Turkish: notice how it layers the past
+continuous ("I was swimming"), the pluperfect ("he had disappeared"), and
+reported description together in a single connected account. Practicing
+retelling a simple personal story using these three tools together is one
+of the most useful exercises at this stage.
+
+PRACTICE:
+1. Turn yapıyorsunuz into the past continuous.
+2. Say "I had never eaten it before" using -mişti.
+3. Report this statement as something someone said: "Ali went home"
+   (Ali eve gitti) -> "They said that Ali went home."
+4. Build a noun meaning "flight" from uçmak using -iş.
+5. Translate: "Although he's poor, he's content with his life," using
+   -diği halde.
+
+================================================================
+LESSON 17: Don't Make Me Laugh! — The Habitual Past, Causatives, and Reciprocals
+================================================================
+
+OVERVIEW:
+This lesson covers how to talk about things you USED to do, how to make
+someone else do something (causative verbs), the important difference
+between a verb happening to itself versus being done to something else,
+how to say "each other," and how Turkish builds adverbs.
+
+GRAMMAR:
+- The habitual past ("used to," -erdi): built the same way as the past
+  conditional pattern you'll see again in Lesson 19 — take the -r present
+  form, strip the personal ending, and add the past "to be" ending.
+    içersiniz -> içer -> içerdiniz - you used to drink
+    Araba sürerdim. - I used to drive.
+    Çok çalışırdılar (or Çok çalışırlardı). - They used to work a lot.
+  Negate normally, using the -mez/-maz negative -r present as the base:
+  Araba sürmezdim. - I didn't use to drive.
+- Causative verbs ("to make/have someone do something"): Turkish adds an
+  ending to the verb stem to show that the subject is CAUSING the action
+  rather than doing it directly. The most common causative ending is
+  -dir, but several variants exist (-t, -it, -ir, -ert, depending on the
+  verb):
+    ölmek (to die) -> öldürmek (to kill)
+    gülmek (to smile) -> güldürmek (to make someone smile)
+    hatırlamak (to remember) -> hatırlatmak (to remind)
+    korkmak (to be afraid) -> korkutmak (to scare)
+    düşmek (to fall) -> düşürmek (to drop)
+    çıkmak (to go out) -> çıkarmak (to take out, take off clothing)
+  There's no single universal rule for which variant a given verb takes —
+  though verbs with more than one syllable that end in r, l, or a vowel
+  tend to take -t. Learn each causative pairing as you meet it.
+- Transitive vs. intransitive — "stopping something" vs. "just stopping":
+  English sometimes uses the same verb both ways ("I stopped" / "I
+  stopped the car"), but Turkish generally needs two different verbs: the
+  plain form for something happening to itself (intransitive), and the
+  causative form for making it happen to something else (transitive).
+    Durdum. - I stopped. (intransitive)
+    Arabayı durdurdum. - I stopped the car. (transitive/causative)
+    Uyan! - Wake up! (intransitive)      Uyandır onu! - Wake him up!
+    (causative)
+  When deciding how to translate an English verb like "stop," "wake," or
+  "grow" into Turkish, always ask: is the subject doing this to itself,
+  or causing it to happen to someone/something else?
+- Each other — birbiri: this word means "each other" and changes form to
+  match the subject: birbirimiz (we... each other), birbiriniz (you...
+  each other), birbirleri (they... each other).
+    Birbirimizi seviyoruz. - We love each other.
+    Birbirinize yardım edin! - Help each other!
+  Birbiri is always the object (or part of the object) of its sentence,
+  never the subject.
+- The -iş ending as "each other": besides the noun-building use from
+  Lesson 16, -iş (and its variants) attached directly to a verb stem can
+  ALSO mean "each other" — this is called the reciprocal form.
+    Yarın görüşürüz. - We'll see each other tomorrow.
+- Adverbs — when, where, and how: many Turkish adjectives double as
+  adverbs with no change at all: İyi gidiyor. (It's going well.) Türkçeyi
+  güzel konuşuyorsunuz. (You speak Turkish well.) You can also build
+  adverbs with -ce (Yavaşça sür. - Drive slowly), or by simply repeating
+  a word (yavaş yavaş - slowly; zaman zaman - now and then). Adverbs
+  normally go right before the verb they describe, and when a sentence
+  has more than one adverb, "when" words usually come before "where" or
+  "how" words. A useful set of "when" adverbs: artık (now, from now on),
+  henüz (not yet), hiçbir zaman (never), bazen (sometimes), sık sık
+  (often), her zaman (always).
+
+VOCABULARY:
+şaşırmak (shah-shuhr-MAHK) - to be amazed, confused
+görünmek (gur-rewn-MEHK) - to look, appear
+görüşmek (gur-rewsh-MEHK) - to see one another
+bitirmek (bee-teer-MEHK) - to finish (something)
+zaman geçirmek (zah-MAHN geh-cheer-MEHK) - to spend time
+hatırlatmak (hah-tuhr-laht-MAHK) - to remind someone
+itiraf etmek (ee-tee-RAHF et-MEHK) - to confess
+eskiden (es-kee-DEN) - in the past, in the old days
+büyütmek (bew-yewt-MEHK) - to bring up, rear
+soğutmak (soh-oot-MAHK) - to cool, to alienate
+
+EXAMPLES:
+Okulda çok iyi arkadaştık, değil mi? (oh-kool-DAH chohk ee-YEE
+  ahr-kah-dahsh-TUHK, deh-EEL mee) - We were very good friends at school,
+  weren't we?
+Voleybol oynardım ama artık oynamıyorum. (voh-ley-BOHL oy-nahr-DUHM
+  ah-MAH ahr-TUHK oy-nah-muh-yoh-room) - I used to play volleyball but I
+  don't play anymore.
+Beni güldürme! (beh-NEE gewl-dewr-MEH) - Don't make me laugh!
+Birbirimizi yıllardır tanıyoruz. (beer-bee-ree-mee-ZEE yuhl-lahr-DUHR
+  tah-nuh-yoh-ROOZ) - We've known each other for years.
+Yavaş yavaş konuşun, lütfen. (yah-VAHSH yah-VAHSH koh-noo-SHOON,
+  LEWT-fen) - Please speak slowly.
+
+NOTES:
+The transitive/intransitive distinction (durmak vs. durdurmak) is one of
+the more subtle points in this course, but it becomes intuitive quickly
+once you start noticing it: ask "is the subject affecting only itself, or
+affecting something else?" before choosing which form of a verb to use.
+It's a genuinely different way of thinking about verbs than English uses,
+where the same word (like "stop" or "break") often covers both roles.
+
+PRACTICE:
+1. Say "I used to smoke" (sigara kullanırdım pattern) using içmek or
+   kullanmak.
+2. Build the causative of gülmek (to smile) and use it in "Don't make me
+   laugh."
+3. Choose the right verb: "I woke up" vs. "I woke him up" — uyanmak or
+   uyandırmak?
+4. Translate "We love each other" using birbiri.
+5. Build an adverb from yavaş meaning "slowly, slowly" by repetition.
+
+================================================================
+LESSON 18: When Was This Place Built? — The Passive Voice and Reflexives
+================================================================
+
+OVERVIEW:
+This lesson covers the passive voice (used far more often in Turkish than
+in English, especially on signs), how to say "by" someone, the "was going
+to happen" past future tense, and reflexive verbs and pronouns
+("myself," "yourself"). You'll finish with a set of noun/adjective-
+building endings useful for expanding your vocabulary independently.
+
+GRAMMAR:
+- The passive voice: used when you want to focus on what was done or what
+  something had done to it, rather than on who did it. Build it by adding
+  -il or -in (there are also -n and other variants for certain stem
+  shapes) after the verb stem.
+    açmak (to open) -> açılmak (to be opened)
+    çekmek (to pull) -> çekilmek (to be pulled)
+    bulmak (to find) -> bulunmak (to be found)
+  Rules for which variant to use:
+    most verbs: -il             stems ending in a vowel: -n
+    stems ending in l: -in
+  Compare an active and passive pair: Cüzdanı çaldı. (He stole the
+  purse.) -> Cüzdan çalındı. (The purse was stolen.) Note how the object
+  (cüzdan) drops its -i ending and becomes the SUBJECT of the passive
+  sentence.
+- Saying "by" in a passive sentence — tarafından: place this word after
+  the person who performed the action.
+    "Hamlet" Sekspir tarafından yazıldı. - "Hamlet" was written by
+    Shakespeare.
+  With personal pronouns, put a possessor ending on the pronoun and a
+  possessed ending in the middle of tarafından: benim tarafımdan (by
+  me). This is only used for nouns/pronouns, not attached directly to
+  ordinary nouns without tarafından. Also note: Turkish generally reserves
+  tarafından passives for inventions, discoveries, or describing a
+  process — for everyday statements, an active sentence (Bu resmi ben
+  çizdim - I drew this picture) is more natural than the passive.
+- The passive on signs: Turkish uses the passive far more than English
+  does, especially in public signage.
+    Tamir edilir. - Repairs made.        Döviz alınır. - Foreign currency
+    accepted.
+    Girilmez. - No entry.                Sigara içilmez. - Smoking
+    forbidden.
+- The past future tense ("was going to," -ecekti): build from the future
+  tense by removing the personal ending and adding the past "to be"
+  ending instead.
+    içeceğim -> içecek -> içecektim - I was going to drink
+    Sana telefon edecektim, ama numaranı kaybettim. - I was going to
+    telephone you, but I lost your number.
+- Reflexives — kendi ("self"): combine with the possessed endings -im,
+  -in, -i, -imiz, -iniz, -leri.
+    Kendim seçtim. - I chose it myself.
+    Kendine iyi bak. - Look after yourself.
+  For "by myself," double it: Kendi kendime seçtim. (I chose it all by
+  myself.) Kendi can also mean "my own/your own" etc. when combined with
+  a possessed noun: Kendi arabamızı kullandık. (We used our own car.)
+- Reflexive verbs: add -in to a verb stem to build a reflexive form.
+    yıkamak (to wash something) -> yıkanmak (to wash yourself)
+    giymek (to put clothes on) -> giyinmek (to get dressed)
+  Some reflexive forms take on their own special meaning: dinlemek (to
+  listen) -> dinlenmek (to relax, literally "to listen to yourself").
+  Watch out — for some verbs the reflexive form looks IDENTICAL to the
+  passive form (e.g. taşınmak can mean either "to move house" or "to be
+  moved"); context makes the intended meaning clear.
+- Vocabulary-building endings: Turkish builds many nouns and adjectives
+  from verb stems using a family of endings. A sample set:
+    -im: doğmak (to be born) -> doğum (birth)
+    -in: sormak (to ask) -> sorun (problem)
+    -gin/-kin: üzmek (to hurt feelings) -> üzgün (sad)
+    -gen/-ken: çalışmak (to work) -> çalışkan (hard-working)
+    -gi: bilmek (to know) -> bilgi (knowledge)
+    -i: sormak (to ask) -> soru (question)
+
+VOCABULARY:
+meyhane (mey-hah-NEH) - tavern
+inşa etmek (een-SHAH et-MEHK) - to build
+mimar (mee-MAHR) - architect
+çizmek (cheez-MEHK) - to draw
+tarafından (tah-rah-fuhn-DAHN) - by (someone)
+Beyaz Rus (beh-YAHZ roos) - Belorussian
+asker (ahs-KEHR) - soldier
+rahatsız etmek (rah-haht-SUHZ et-MEHK) - to disturb
+sayı (sah-YUH) - number, count
+artmak (ahrt-MAHK) - to increase
+kağıt (kah-UHT) - paper
+kereste (keh-res-TEH) - timber
+
+EXAMPLES:
+Bu han 1876 yılında inşa ettirilmiş. (boo hahn been seh-keez YEWZ
+  yet-meesh AHL-tuh yuh-luhn-DAH een-SHAH et-tee-reel-meesh) - This
+  building was reportedly built in 1876.
+Kapı Ahmet tarafından açıldı. (kah-PUH ahh-MET tah-rah-fuhn-DAHN
+  ah-chuhl-DUH) - The door was opened by Ahmet.
+Girilmez. Sigara içilmez. (gee-reel-MEZ. see-gah-RAH ee-cheel-MEZ) - No
+  entry. Smoking forbidden.
+Sana telefon edecektim, ama numaranı kaybettim. (sah-NAH teh-leh-FOHN
+  eh-deh-jek-TEEM, ah-MAH noo-mah-rah-NUH kahy-bet-TEEM) - I was going to
+  telephone you, but I lost your number.
+Kendine iyi bak! (ken-dee-NEH ee-YEE bahk) - Look after yourself!
+
+NOTES:
+When you're out and about in Turkey, watch specifically for passive-voice
+signage — Girilmez, Kapalıdır (closed), and similar official-sounding
+notices are everywhere, and recognizing the passive pattern will make
+public Turkish far more readable, even before you're fluent in
+conversation.
+
+PRACTICE:
+1. Make bulmak (to find) passive.
+2. Translate: "This building was built by Turks," using tarafından.
+3. Translate this sign: "No entry."
+4. Say "I was going to call you" using the past future -ecekti.
+5. Build the reflexive of giymek (to put clothes on) and explain what it
+   means.
+
+================================================================
+LESSON 19: If I Had Known... — Unreal Conditionals, Keşke, and Yapar Yapmaz
+================================================================
+
+OVERVIEW:
+This final lesson completes the Turkish conditional system with the
+"unreal" and "past" conditional (used for hypothetical or regretful
+situations), the word keşke for expressing wishes and regrets, the handy
+pattern for saying "as soon as," and a last set of vocabulary-building
+endings to round out your ability to recognize new words on your own.
+
+GRAMMAR:
+- The second and third conditional (-seydi): in Lesson 13 you learned the
+  present conditional (-se combined with the present "to be"). Now
+  combine -se- with the PAST tense of "to be" instead to get a second set
+  of "if" endings, used for hypothetical or counterfactual situations.
+    gelseydim - if I had come / if I came (hypothetically)
+    yapsaydın - if you had done / if you did
+    görseydiniz - if you had seen / if you saw
+  This single form covers two related English meanings, distinguished by
+  context:
+    "Unreal" conditional (about the future, unlikely to happen):
+      Yerinde olsaydım giderdim. - If I were you, I would go.
+    Past conditional (about something that might have happened, but
+    didn't):
+      Yerinde olsaydım giderdim. - If I had been you, I would have gone.
+  Note that in BOTH readings, the result clause uses the habitual past
+  (-erdi, from Lesson 17) — but here it should be translated as "would
+  do" or "would have done," NOT as "used to do." Compare gelirsen memnun
+  olurum (if you come, I'll be happy — a simple, real possibility) with
+  gelseydin memnun olurdum (if you came/had come, I would be/have been
+  happy — expresses doubt about whether it will or did happen).
+- Keşke ("if only... / I wish..."): pairs with the past conditional form
+  to express regret or a wish.
+    Keşke gitmeseydin. - I wish you hadn't gone.
+    Keşke daha güzel olsaydım! - If only I were prettier!
+    Keşke hiç tanışmasaydık! - I wish we had never met!
+- Yapar yapmaz ("as soon as"): place the positive and negative -r present
+  forms of the same verb back-to-back.
+    Eve gelir gelmez banyo yapacağım. - I'll have a bath the minute I get
+    home.
+    Telefon çalar çalmaz cevap ver! - Answer straight away when the
+    phone rings!
+- More vocabulary-building endings: a final set, rounding out the pattern
+  from Lesson 18, to help you recognize and eventually build new words
+  from verb stems on your own.
+    -mez: değişmek (to change) -> değişmez (unchanging, stable)
+    -ç: kazanmak (to win) -> kazanç (profit, gain)
+    -gıç: başlamak (to start) -> başlangıç (the start)
+    -ik: bozmak (to break) -> bozuk (broken)
+    -ek: uçmak (to fly) -> uçak (airplane)
+    -it: geçmek (to pass) -> geçit (mountain pass, passage)
+    -ıntı: akmak (to flow) -> akıntı (current)
+
+VOCABULARY:
+vapur (vah-POOR) - (steam) ferry
+deniz otobüsü (deh-NEEZ oh-toh-bew-SEW) - high-speed ferry (sea bus)
+iki kat (ee-KEE kaht) - twice, double
+serin (seh-REEN) - cool
+gezmek (gez-MEHK) - to tour, go around
+henüz (heh-NEWZ) - still, not yet
+bayılmak (bah-yuhl-MAHK) - to love doing something (literally to faint)
+ismarlamak (uhs-mahr-lah-MAHK) - to order (food/drink)
+şok olmak (shohk ohl-MAHK) - to be shocked
+yeterince (yeh-teh-reen-JEH) - enough, sufficiently
+ertesi (ehr-teh-SEE) - the next (day, morning)
+bile (bee-LEH) - even
+
+EXAMPLES:
+Fiyatları bilseydim orada yemezdik. (fee-yaht-lah-RUH beel-sey-DEEM
+  oh-rah-DAH yeh-mez-DEEK) - If I had known the prices, we wouldn't have
+  eaten there.
+Vapurla gitseydik iki kat uzun sürerdi. (vah-poor-LAH geet-sey-DEEK
+  ee-KEE kaht oo-ZOON sew-rer-DEE) - If we'd gone by ferry it would have
+  taken twice as long.
+Keşke gitmeseydin. (kesh-KEH geet-meh-sey-DEEN) - I wish you hadn't gone.
+Eve gelir gelmez telefon edeceğim. (eh-VEH geh-LEER gel-MEZ teh-leh-FOHN
+  eh-deh-jeh-EEM) - I'll call as soon as I get home.
+Hesabı görseydi, beni öldürürdü! (heh-sah-BUH gur-sey-DEE, beh-NEE
+  ur-lew-rewr-DEW) - If she had seen the bill, she would have killed me!
+
+NOTES:
+Congratulations on reaching the final unit — the grammar covered across
+these 19 lessons (from var/yok all the way to unreal conditionals) takes
+you to a genuine intermediate level of Turkish, roughly the Council of
+Europe's Waystage/B1 benchmark the source textbook targets. From here,
+the best next steps are heavy exposure: reading, listening to Turkish
+media, and above all speaking — the -miş, -dik, and conditional patterns
+in particular only become truly natural through repeated real use.
+
+PRACTICE:
+1. Build the -seydi form of bilmek for "if I had known."
+2. Translate using keşke: "I wish we had never met."
+3. Say "I'll call you as soon as I arrive" using yapar yapmaz-style
+   repetition of gelmek.
+4. Explain the difference between gelirsen memnun olurum and gelseydin
+   memnun olurdum.
+5. Build a noun from uçmak (to fly) meaning "airplane" using -ek.
