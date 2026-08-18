@@ -1,0 +1,117 @@
+GERMAN CURRICULUM — FULL COURSE INDEX
+Sourced from: German For Dummies (2nd ed., Christensen/Fox/Foster) and Basic German: A Grammar and Workbook (Schenke/Seago)
+
+####
+
+HOW THIS COURSE IS BUILT
+
+This curriculum blends two approaches: the topical, conversational structure of a "For Dummies" travel-and-life guide, and the systematic grammar progression of a university grammar workbook. Grammar-heavy lessons build your engine (verbs, cases, word order); topical lessons give you fuel (vocabulary and real conversations for daily situations). They're interleaved on purpose — you'll use each new grammar tool almost immediately in a real-world lesson.
+
+German rewards a slightly different learning order than French or Italian: the case system (nominative, accusative, dative, genitive) is the backbone of the language, so it appears early and gets reinforced constantly. Word order — especially verb-second and verb-final rules — is the other recurring thread.
+
+Files are delivered part by part. This index will be updated as each part is completed.
+
+####
+
+PART 1: FOUNDATIONS — Sounds, Structure, and First Words
+File: german_01_foundations.txt
+Status: COMPLETE
+
+1. The German Alphabet & Pronunciation
+2. Basic Expressions & Greetings
+3. Nouns, Gender & Articles
+4. Basic Sentence Structure & Word Order
+5. Numbers, Time & Measurements
+6. Cognates & Words You Already Know
+
+####
+
+PART 2: THE VERB ENGINE — Present Tense Mastery
+File: german_02_verbs_present.txt
+Status: COMPLETE
+
+7. Present Tense: Regular Verbs
+8. The Irregulars: haben and sein
+9. Stem-Changing Verbs
+10. Separable & Inseparable Verbs
+11. The Imperative (Giving Commands)
+12. Asking Questions (W-Questions and Yes/No)
+
+####
+
+PART 3: THE CASE SYSTEM — German's Backbone
+File: german_03_cases.txt
+Status: COMPLETE
+
+13. Introduction to the Four Cases
+14. The Nominative Case
+15. The Accusative Case
+16. The Dative Case
+17. The Genitive Case
+18. Personal Pronouns in All Cases
+19. Possessive Adjectives
+
+####
+
+PART 4: EVERYDAY GERMAN — People and Places
+File: german_04_everyday.txt
+Status: PLANNED
+
+20. Talking about Home and Family
+21. Making Small Talk & Introductions
+22. Asking for and Giving Directions
+23. Plural Nouns
+
+####
+
+PART 5: LIVING LIFE — Food, Shopping, and Nightlife
+File: german_05_living.txt
+Status: PLANNED
+
+24. Dining Out & Going to the Market
+25. Shopping Made Easy
+26. Going Out on the Town
+27. Reflexive Verbs
+28. Negation: nicht vs. kein
+
+####
+
+PART 6: THE VERB ENGINE II — Past, Future, and Modals
+File: german_06_verbs_advanced.txt
+Status: PLANNED
+
+29. Modal Verbs (können, müssen, wollen, etc.)
+30. The Present Perfect Tense (Perfekt)
+31. The Simple Past Tense (Präteritum)
+32. The Future Tense
+33. Comparison of Adjectives and Adverbs
+
+####
+
+PART 7: THE WORLD BEYOND — Business, Recreation & Travel
+File: german_07_world.txt
+Status: PLANNED
+
+34. Business and Telecommunications
+35. Recreation and the Great Outdoors
+36. Planning a Trip
+37. Making Sense of Euros and Cents
+38. Getting Around: Planes, Trains, Taxis, and Buses
+39. Finding a Place to Stay
+40. Handling Emergencies
+
+####
+
+PART 8: MASTERING THE DETAILS — Advanced Grammar & Polish
+File: german_08_mastery.txt
+Status: PLANNED
+
+41. Prepositions and the Cases They Take
+42. Adjective Endings
+43. Numbers, Dates & Formal Usage
+44. Conjunctions and Clauses
+45. Advanced Word Order
+46. Study Strategies for German
+47. Common Mistakes to Avoid
+48. Favorite German Expressions & Idioms
+49. Phrases That Make You Sound Like a Native

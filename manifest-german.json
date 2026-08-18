@@ -1,0 +1,121 @@
+{
+  "classroom": {
+    "language": "German",
+    "level": "Beginner–Intermediate"
+  },
+  "units": [
+    {
+      "title": "Part 1: Foundations — Sounds, Structure, and First Words",
+      "order": 0,
+      "lessons": [
+        {
+          "order": 0,
+          "title": "Lesson 1: The German Alphabet & Pronunciation",
+          "file": "content/german/01-the-german-alphabet-pronunciation.html"
+        },
+        {
+          "order": 1,
+          "title": "Lesson 2: Basic Expressions & Greetings",
+          "file": "content/german/02-basic-expressions-greetings.html"
+        },
+        {
+          "order": 2,
+          "title": "Lesson 3: Nouns, Gender & Articles",
+          "file": "content/german/03-nouns-gender-articles.html"
+        },
+        {
+          "order": 3,
+          "title": "Lesson 4: Basic Sentence Structure & Word Order",
+          "file": "content/german/04-basic-sentence-structure-word-order.html"
+        },
+        {
+          "order": 4,
+          "title": "Lesson 5: Numbers, Time & Measurements",
+          "file": "content/german/05-numbers-time-measurements.html"
+        },
+        {
+          "order": 5,
+          "title": "Lesson 6: Cognates & Words You Already Know",
+          "file": "content/german/06-cognates-words-you-already-know.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 2: The Verb Engine — Present Tense Mastery",
+      "order": 1,
+      "lessons": [
+        {
+          "order": 6,
+          "title": "Lesson 7: Present Tense: Regular Verbs",
+          "file": "content/german/07-present-tense-regular-verbs.html"
+        },
+        {
+          "order": 7,
+          "title": "Lesson 8: The Irregulars: haben and sein",
+          "file": "content/german/08-the-irregulars-haben-and-sein.html"
+        },
+        {
+          "order": 8,
+          "title": "Lesson 9: Stem-Changing Verbs",
+          "file": "content/german/09-stem-changing-verbs.html"
+        },
+        {
+          "order": 9,
+          "title": "Lesson 10: Separable & Inseparable Verbs",
+          "file": "content/german/10-separable-inseparable-verbs.html"
+        },
+        {
+          "order": 10,
+          "title": "Lesson 11: The Imperative (Giving Commands)",
+          "file": "content/german/11-the-imperative-giving-commands.html"
+        },
+        {
+          "order": 11,
+          "title": "Lesson 12: Asking Questions (W-Questions and Yes/No)",
+          "file": "content/german/12-asking-questions-w-questions-and-yes-no.html"
+        }
+      ]
+    },
+    {
+      "title": "Part 3: The Case System — German's Backbone",
+      "order": 2,
+      "lessons": [
+        {
+          "order": 12,
+          "title": "Lesson 13: Introduction to the Four Cases",
+          "file": "content/german/13-introduction-to-the-four-cases.html"
+        },
+        {
+          "order": 13,
+          "title": "Lesson 14: The Nominative Case",
+          "file": "content/german/14-the-nominative-case.html"
+        },
+        {
+          "order": 14,
+          "title": "Lesson 15: The Accusative Case",
+          "file": "content/german/15-the-accusative-case.html"
+        },
+        {
+          "order": 15,
+          "title": "Lesson 16: The Dative Case",
+          "file": "content/german/16-the-dative-case.html"
+        },
+        {
+          "order": 16,
+          "title": "Lesson 17: The Genitive Case",
+          "file": "content/german/17-the-genitive-case.html"
+        },
+        {
+          "order": 17,
+          "title": "Lesson 18: Personal Pronouns in All Cases",
+          "file": "content/german/18-personal-pronouns-in-all-cases.html"
+        },
+        {
+          "order": 18,
+          "title": "Lesson 19: Possessive Adjectives",
+          "file": "content/german/19-possessive-adjectives.html"
+        }
+      ]
+    }
+  ]
+}

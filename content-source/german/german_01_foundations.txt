@@ -1,0 +1,342 @@
+####
+
+PART 1: FOUNDATIONS — Sounds, Structure, and First Words
+
+====
+
+LESSON 1: The German Alphabet & Pronunciation
+
+OVERVIEW
+German spelling is far more predictable than English. Once you learn the sound each letter makes, you can read almost any German word aloud correctly — even one you've never seen. This lesson covers the alphabet, the four extra characters German adds to it, and the core vowel and consonant rules you'll lean on for the rest of the course.
+
+GRAMMAR
+The German alphabet has the same 26 letters as English, plus four special characters:
+- ä, ö, ü — the umlauts. They are not decorations; they change both the sound and the meaning of a word. Mutter (MOO-ter) means "mother," but Mütter (MUE-ter) means "mothers."
+- ß — called the "eszett" or "scharfes S" (sharp S). It's pronounced exactly like an English "s" and appears after long vowels or diphthongs, e.g. Straße (street).
+
+Vowel length is the single biggest pronunciation rule in German:
+- A vowel is long when followed by "h" (Stahl — steel), doubled (Teer — tar), or followed by a single consonant (Tag — day).
+- A vowel is short when followed by two or more consonants (Tanne — fir tree).
+
+Key consonant differences from English:
+- "w" sounds like an English "v" — Wasser (VAH-ser, water)
+- "v" sounds like an English "f" — Vater (FAH-ter, father)
+- "j" sounds like an English "y" — ja (yah, yes)
+- "z" sounds like "ts" — Zeit (tsyt, time)
+- "s" at the start of a word before a vowel sounds like an English "z" — sagen (ZAH-gen, to say)
+- "ch" has two sounds: a soft, breathy sound after e/i/ä/ö/ü (ich — iH), and a harsher, throat-clearing sound after a/o/u (ach — ahH)
+- "sch" sounds like English "sh" — schön (shern, beautiful)
+- "sp" and "st" at the start of a word are pronounced "shp" and "sht" — sprechen (SHPREH-Hen), Stadt (shtaht)
+
+CONJUGATION TABLE
+(Not applicable — this lesson covers sounds, not verbs.)
+
+VOCABULARY
+- der Buchstabe (dair BOOKH-shtah-be) — the letter (of the alphabet)
+- das Alphabet (dahs al-fah-BAYT) — the alphabet
+- die Aussprache (dee OWS-shprah-khe) — the pronunciation
+- das Wort (dahs vort) — the word
+- der Umlaut (dair OOM-lowt) — the umlaut
+- lang (lahng) — long
+- kurz (koorts) — short
+- sprechen (SHPREH-khen) — to speak
+- buchstabieren (bookh-shtah-BEE-ren) — to spell out loud
+- wiederholen (vee-der-HOH-len) — to repeat
+
+EXAMPLES
+- Wie schreibt man das? (vee shryt mahn dahs?) — How do you write that?
+- Können Sie das buchstabieren? (KERN-en zee dahs bookh-shtah-BEE-ren?) — Can you spell that out?
+- Straße (SHTRAH-se) — street (long a, so ß not ss)
+- Wasser (VAH-ser) — water (short a, note the "w" = English "v")
+- ich (iH) vs. ach (ahH) — the two "ch" sounds, front and back of the mouth
+
+NOTES
+Don't fight the umlauts — treat ä, ö, ü as their own letters from day one, not as "a, o, u with dots." If your keyboard can't produce them, the accepted substitutes are ae, oe, ue, and ss for ß (so Straße can be written Strasse). This matters for later lessons: mixing up müssen (must) and Muse would be an odd sentence indeed.
+
+PRACTICE
+1. Sound out and write the phonetic pronunciation for: Haus, Tür, groß, Mütter, schön.
+2. Explain in your own words why Tag has a long "a" but Tanne has a short one.
+3. Say aloud: ich mache (I make) and ach so (oh I see) — notice the two different "ch" sounds.
+4. Spell your own first name using German letter names as a mental exercise (you'll drill actual letter names with an instructor or app — for now, just notice which of your name's sounds would change in German).
+5. True or false: "w" in German is pronounced like the English "w" in "water." (Explain your answer.)
+
+====
+
+LESSON 2: Basic Expressions & Greetings
+
+OVERVIEW
+Every conversation starts with a greeting — and in German, your very first word choice signals whether you're being formal or casual. This lesson covers hello and goodbye, how to ask "how are you," and the crucial formal/informal divide that shapes German social interaction far more than it does in English.
+
+GRAMMAR
+German has two ways to say "you": du (informal, singular) and Sie (formal, singular and plural, always capitalized). Choosing the wrong one isn't just a grammar slip — it's a social signal.
+- Use du with family, friends, children, fellow students, and increasingly with younger colleagues.
+- Use Sie with strangers, in business settings, with anyone older than you in a formal context, and by default with anyone you're not sure about. Germans generally wait to be invited to switch to du.
+- Greetings themselves often shift with formality: Guten Tag is safe and formal-neutral; Hallo is casual; regional greetings like Servus (southern Germany/Austria) or Moin (northern Germany) are casual and local.
+
+CONJUGATION TABLE
+The verb heißen (to be called/named) — you'll need it immediately for introductions:
+| Pronoun | Form | Pronunciation |
+|---------|------|----------------|
+| ich | heiße | HY-se |
+| du | heißt | hysst |
+| er/sie/es | heißt | hysst |
+| wir | heißen | HY-sen |
+| ihr | heißt | hysst |
+| sie/Sie | heißen | HY-sen |
+
+VOCABULARY
+- Guten Morgen (GOO-ten MOR-gen) — good morning
+- Guten Tag (GOO-ten tahk) — good day / hello (the all-purpose daytime greeting)
+- Guten Abend (GOO-ten AH-bent) — good evening
+- Gute Nacht (GOO-te nahHt) — good night
+- Hallo (hah-LOH) — hi/hello (informal)
+- Auf Wiedersehen (owf VEE-der-zayn) — goodbye (formal)
+- Tschüss (chuess) — bye (informal)
+- Wie geht es Ihnen? (vee gayt es EE-nen?) — How are you? (formal)
+- Wie geht's? (vee gayts?) — How's it going? (informal)
+- danke, gut (DAHN-ke, goot) — fine, thanks
+- Wie heißen Sie? (vee HY-sen zee?) — What is your name? (formal)
+- Wie heißt du? (vee hysst doo?) — What is your name? (informal)
+- bitte (BIT-e) — please / you're welcome
+- danke (DAHN-ke) — thank you
+- Entschuldigung (ent-SHOOL-di-goong) — excuse me / sorry
+
+EXAMPLES
+- Guten Tag, ich heiße Anna. — Hello, my name is Anna. (formal setting)
+- Hallo, wie geht's dir? — Hi, how's it going? (informal, note "dir" — covered in Lesson 3 of Part 3)
+- Wie geht es Ihnen, Herr Schmidt? — How are you, Mr. Schmidt? (formal)
+- Sehr gut, danke, und Ihnen? — Very well, thanks, and you? (formal reply)
+- Tschüss, bis morgen! — Bye, see you tomorrow!
+
+NOTES
+Guten Tag works at almost any time of day and in almost any setting — when in doubt, use it. Saving Hallo and Tschüss for people you already know casually is a safe rule of thumb while you calibrate your ear for German social register.
+
+PRACTICE
+1. Write a short formal exchange: greet someone, ask their name, ask how they are, and say goodbye — all using Sie-forms.
+2. Rewrite that same exchange as an informal conversation between friends using du-forms.
+3. Conjugate heißen for du and for wir without looking at the table.
+4. When would you choose Guten Abend over Guten Tag?
+5. Translate: "Excuse me, what is your name?" (formal)
+
+====
+
+LESSON 3: Nouns, Gender & Articles
+
+OVERVIEW
+This is the single most important grammar habit to build early: every German noun has a grammatical gender — masculine, feminine, or neuter — and that gender is grammatical, not biological. Der Tisch (the table) is masculine; die Tür (the door) is feminine; das Fenster (the window) is neuter. None of that maps to anything in the real world — you simply have to learn it. The good news: you learn it once, per word, and it never changes.
+
+GRAMMAR
+Every German noun is always capitalized, no matter where it falls in the sentence — this is unique to German among major European languages and is a huge reading aid once you get used to it.
+
+The three genders and their definite articles ("the"):
+- der — masculine (der Mann, the man; der Tisch, the table)
+- die — feminine (die Frau, the woman; die Tür, the door)
+- das — neuter (das Kind, the child; das Fenster, the window)
+
+Indefinite articles ("a/an"):
+- ein — masculine and neuter (ein Mann, ein Kind)
+- eine — feminine (eine Frau)
+
+Some patterns help predict gender, though they're guidelines, not guarantees:
+- Nouns ending in -e are very often feminine (die Lampe, die Schule)
+- Nouns ending in -chen or -lein are always neuter, regardless of meaning — das Mädchen (the girl) is neuter, because -chen makes it a "diminutive," not because of the person's actual gender
+- Nouns ending in -ung, -heit, -keit, -schaft, -tion are always feminine (die Zeitung, die Freiheit)
+- Days, months, and seasons are almost always masculine (der Montag, der Januar, der Sommer)
+
+Since patterns only cover some words, the single best habit you can build is: never learn a noun without its article. Don't write "Tisch = table" in your notes — write "der Tisch = table."
+
+CONJUGATION TABLE
+(Not applicable — articles, not verbs. See the article table above.)
+
+VOCABULARY
+- der Mann (dair mahn) — the man
+- die Frau (dee frow) — the woman
+- das Kind (dahs kint) — the child
+- der Tisch (dair tish) — the table
+- die Tür (dee tuer) — the door
+- das Fenster (dahs FEN-ster) — the window
+- das Haus (dahs hows) — the house
+- die Schule (dee SHOO-le) — the school
+- der Freund (dair froynt) — the (male) friend
+- die Freundin (dee FROYN-din) — the (female) friend
+- das Mädchen (dahs MAYT-Hen) — the girl (grammatically neuter!)
+- der Junge (dair YOONG-e) — the boy
+
+EXAMPLES
+- Der Tisch ist groß. — The table is big.
+- Die Tür ist offen. — The door is open.
+- Das Kind spielt. — The child is playing.
+- Ich habe ein Buch. — I have a book. (ein — neuter, das Buch)
+- Sie hat eine Katze. — She has a cat. (eine — feminine, die Katze)
+
+NOTES
+Native speakers genuinely do not think about gender as they speak — it becomes automatic through repetition, not memorized rules. Flashcards that pair each noun with a color (blue for der, red for die, green for das) are a well-tested trick for building that automatic recall faster than rules alone.
+
+PRACTICE
+1. Assign der, die, or das to: Buch, Katze, Zeitung, Mädchen, Sommer, Schule.
+2. Explain why das Mädchen is neuter even though it means "girl."
+3. Write three sentences using der Tisch, die Tür, and das Fenster as subjects.
+4. Give the indefinite article (ein or eine) for: Haus, Frau, Freund.
+5. Which noun ending almost always signals feminine gender: -chen, -ung, or -er?
+
+====
+
+LESSON 4: Basic Sentence Structure & Word Order
+
+OVERVIEW
+German word order feels flexible at first glance — you can often move parts of a sentence around — but it is governed by one iron rule: the conjugated verb is always the second element in a normal statement. Master that single rule now, and a huge amount of "German sentences sound backwards" confusion disappears.
+
+GRAMMAR
+Verb-second (V2) word order: In a statement, the conjugated verb occupies position two — but "position two" means the second grammatical element, not necessarily the second word.
+- Ich trinke Kaffee. (I drink coffee.) — Ich is element one, trinke is element two.
+- Heute trinke ich Kaffee. (Today I drink coffee.) — Heute is element one, trinke is still element two, and ich moves after the verb.
+
+This is different from English, where you'd say "Today I drink coffee" with the verb in third position. German always snaps the verb back to second position, no matter what you put first.
+
+Yes/no questions flip the verb to the very front:
+- Trinkst du Kaffee? — Do you drink coffee?
+
+W-questions (question words) also put the verb second, right after the question word:
+- Was trinkst du? — What do you drink?
+
+Negation with nicht typically goes near the end of the sentence, after the object but before other verb parts:
+- Ich trinke keinen Kaffee. (I don't drink coffee — using kein, covered in Part 5)
+- Ich verstehe das nicht. — I don't understand that.
+
+CONJUGATION TABLE
+(Not applicable — this lesson is structural. Full present-tense conjugation begins in Part 2.)
+
+VOCABULARY
+- heute (HOY-te) — today
+- morgen (MOR-gen) — tomorrow
+- jetzt (yetst) — now
+- der Satz (dair zahts) — the sentence
+- die Frage (dee FRAH-ge) — the question
+- verstehen (fer-SHTAY-en) — to understand
+- trinken (TRIN-ken) — to drink
+- die Antwort (dee AHNT-vort) — the answer
+
+EXAMPLES
+- Ich lerne Deutsch. — I am learning German.
+- Jetzt lerne ich Deutsch. — Now I am learning German. (jetzt takes slot one, verb stays in slot two)
+- Lernst du Deutsch? — Are you learning German? (verb-first for yes/no question)
+- Was lernst du? — What are you learning? (question word, then verb)
+- Ich verstehe die Frage nicht. — I don't understand the question.
+
+NOTES
+A useful mental trick: think of the conjugated verb as a fixed anchor in position two, and everything else — subject included — as furniture you can rearrange around it depending on what you want to emphasize. What comes first is often the most emphasized information in the sentence.
+
+PRACTICE
+1. Rewrite "Ich trinke Kaffee" starting with "Heute" instead of "Ich," keeping correct word order.
+2. Turn "Du lernst Deutsch" into a yes/no question.
+3. Turn "Du lernst Deutsch" into a question starting with was.
+4. Identify the verb-second element in: "Morgen fahre ich nach Berlin."
+5. Explain, in your own words, why German verb-second order is different from English word order, using one of your own example sentences.
+
+====
+
+LESSON 5: Numbers, Time & Measurements
+
+OVERVIEW
+Numbers show up everywhere — prices, addresses, phone numbers, the time, dates. This lesson builds 0–100 plus the essential vocabulary for telling time and talking about days, so you can function in almost any transactional situation from day one.
+
+GRAMMAR
+German numbers 21–99 are built by joining the ones digit, "and" (und), and the tens digit — in that order, which is the reverse of English:
+- 21 = einundzwanzig (literally "one-and-twenty")
+- 34 = vierunddreißig ("four-and-thirty")
+- 47 = siebenundvierzig ("seven-and-forty")
+
+This "ones before tens" pattern holds all the way up to 99, and it's the reason many German learners initially write numbers backwards when taking dictation — train your ear for it deliberately.
+
+For time, Germans commonly use the 24-hour clock in formal/written contexts (train schedules, TV listings) and a 12-hour clock in casual speech. Es ist ... Uhr (It is ... o'clock) is the core pattern:
+- Es ist drei Uhr. — It's three o'clock.
+- Es ist halb vier. — It's half past three (literally "half four" — German counts toward the next hour, not from the last one, so halb vier means 3:30, not 4:30).
+
+CONJUGATION TABLE
+(Not applicable.)
+
+VOCABULARY
+- null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn (nool, ayns, tsvy, dry, feer, fuenf, zeks, ZEE-ben, ahHt, noyn, tsayn) — 0–10
+- elf, zwölf (elf, tsverlf) — 11, 12
+- zwanzig (TSVAHN-tsiH) — 20
+- dreißig (DRY-siH) — 30
+- hundert (HOON-dert) — 100
+- die Uhr (dee oor) — the clock / o'clock
+- die Stunde (dee SHTOON-de) — the hour
+- die Minute (dee mi-NOO-te) — the minute
+- heute, gestern, morgen (HOY-te, GES-tern, MOR-gen) — today, yesterday, tomorrow
+- der Montag, der Dienstag, der Mittwoch, der Donnerstag, der Freitag, der Samstag, der Sonntag — Monday through Sunday
+- die Woche (dee VOH-khe) — the week
+- der Monat (dair MOH-naht) — the month
+- das Jahr (dahs yahr) — the year
+
+EXAMPLES
+- Ich bin einundzwanzig Jahre alt. — I am twenty-one years old.
+- Der Zug fährt um vierzehn Uhr. — The train leaves at 14:00 (2:00 PM).
+- Wie viel Uhr ist es? — What time is it?
+- Es ist halb neun. — It's 8:30.
+- Heute ist Montag, morgen ist Dienstag. — Today is Monday, tomorrow is Tuesday.
+
+NOTES
+The halb (half) construction trips up almost every beginner at least once, because it points forward to the next hour rather than back to the last one, the opposite of how "half past" works in English. Drill it in isolation before mixing it with other time expressions.
+
+PRACTICE
+1. Write out the numbers 21, 34, 58, and 99 in German.
+2. What time is halb sechs in standard English time notation?
+3. Translate: "The train leaves at 15:00."
+4. List the seven days of the week in German, in order, starting with Monday.
+5. Say your own age in a full German sentence using "Ich bin ... Jahre alt."
+
+====
+
+LESSON 6: Cognates & Words You Already Know
+
+OVERVIEW
+English and German are both Germanic languages, which means you already carry a working German vocabulary in your head without realizing it. This lesson trains you to spot cognates — words that look and mean roughly the same in both languages — and to watch for a small set of "false friends" that look similar but mean something different.
+
+GRAMMAR
+True cognates fall into recognizable patterns once you know what to look for:
+- Many English words ending in -tion map to German words ending in -tion, pronounced tsee-OHN and always feminine: die Situation, die Nation, die Information.
+- English -y often becomes German -ie: die Familie (family), die Energie (energy).
+- Many basic nouns are nearly identical due to shared Germanic roots: Haus/house, Maus/mouse, Wasser/water, Winter/winter, Hand/hand, Arm/arm, Finger/finger.
+- Verbs, too: kommen/come, singen/sing, trinken/drink, beginnen/begin.
+
+False friends — words that look alike but diverge in meaning — deserve special caution:
+- das Gift does not mean "gift"; it means poison. (The German word for gift/present is das Geschenk.)
+- bekommen does not mean "become"; it means to receive/get. (The German word for become is werden.)
+- die Rente does not mean "rent"; it means pension. (Rent is die Miete.)
+- das Handy does not mean "handy" (convenient); it means cell phone.
+
+CONJUGATION TABLE
+(Not applicable.)
+
+VOCABULARY
+- die Situation (dee zi-too-ah-tsee-OHN) — the situation
+- die Information (dee in-for-mah-tsee-OHN) — the information
+- die Familie (dee fah-MEE-lee-e) — the family
+- das Haus (dahs hows) — the house
+- das Wasser (dahs VAH-ser) — the water
+- der Winter (dair VIN-ter) — the winter
+- kommen (KOM-en) — to come
+- beginnen (be-GIN-en) — to begin
+- das Geschenk (dahs ge-SHENK) — the gift/present (not das Gift!)
+- bekommen (be-KOM-en) — to receive/get (not "become")
+
+EXAMPLES
+- Die Situation ist kompliziert. — The situation is complicated.
+- Wir kommen aus Amerika. — We come from America.
+- Der Winter in Deutschland ist kalt. — Winter in Germany is cold.
+- Ich habe ein Geschenk bekommen. — I received a gift. (note: two cognate traps stacked in one sentence — Geschenk, not Gift, and bekommen means "received," not "became")
+- Das Handy ist neu. — The cell phone is new.
+
+NOTES
+Cognate-spotting is a genuinely useful reading strategy: when you hit an unfamiliar German word, sound it out and ask whether it resembles an English word before reaching for a dictionary. It will work more often than you'd expect. Just keep a mental short list of the false friends above, since those are the ones that will otherwise mislead you with confidence.
+
+PRACTICE
+1. List three German-English cognate pairs from this lesson, other than the vocabulary words already given.
+2. Translate: "I received the information." (careful with bekommen)
+3. What is wrong with this sentence, and why: "Das ist ein Gift für dich" intended to mean "This is a gift for you"?
+4. Give the correct German word for "gift" (the present, not the poison).
+5. Explain in one or two sentences why English and German share so much vocabulary.
+
+####

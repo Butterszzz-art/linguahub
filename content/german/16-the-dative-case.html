@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Dative Case</title>
+<style>
+  :root{
+    --cream:#f7f9fb; --beige:#e4eaf0; --beige-dark:#b9c6d6;
+    --ink:#22303f; --ink-muted:#5f7385;
+    --steel:#3d6f96; --steel-dark:#2c5678; --steel-light:#cfdfec;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --cream:#141c24; --beige:#1c2833; --beige-dark:#2f4356;
+      --ink:#dce6ee; --ink-muted:#93a7b8;
+      --steel:#6fa8d1; --steel-dark:#8cbde0; --steel-light:#243a4a;
+    }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.6;
+    padding:2rem clamp(1rem,4vw,3rem) 3rem;
+  }
+  .kicker{
+    color:var(--steel-dark); font-weight:700; letter-spacing:.04em;
+    text-transform:uppercase; font-size:.75rem; margin:0 0 .35rem;
+  }
+  h1{font-size:1.5rem; margin:0 0 1.5rem;}
+  section{
+    background:var(--beige); border-radius:1rem;
+    padding:1.1rem 1.4rem; margin-bottom:1.1rem;
+  }
+  section h2{
+    margin:0 0 .7rem; font-size:.85rem; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--steel-dark);
+  }
+  section.overview{background:transparent; padding:0 0 .25rem; font-size:1.05rem;}
+  section.practice{background:var(--steel-light);}
+  ul,ol{margin:.25rem 0; padding-left:1.2rem;}
+  li{margin-bottom:.6rem;}
+  p{margin:.5rem 0;}
+  .vocab-grid{display:grid; grid-template-columns:auto auto 1fr; gap:.4rem 1.1rem; align-items:baseline;}
+  .vocab-word{font-weight:700;}
+  .vocab-pron{color:var(--ink-muted); font-style:italic; font-size:.9rem; white-space:nowrap;}
+  .vocab-meaning{color:var(--ink);}
+  .example{margin-bottom:.9rem; padding-bottom:.9rem; border-bottom:1px solid var(--beige-dark);}
+  .example:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .example .de{font-weight:600; margin:0;}
+  .example .pron{color:var(--ink-muted); font-style:italic; display:block; font-size:.9rem; margin:.15rem 0;}
+  .example .en{color:var(--ink); margin:.15rem 0 0;}
+  .table-wrap{overflow-x:auto; margin:.6rem 0;}
+  table{border-collapse:collapse; width:100%; font-size:.88rem;}
+  th,td{padding:.35rem .65rem; border:1px solid var(--beige-dark); text-align:left; white-space:nowrap;}
+  thead th{background:var(--beige-dark); color:var(--ink);}
+</style>
+</head>
+<body>
+  <p class="kicker">Part 3 · The Case System — German's Backbone · Lesson 16</p>
+  <h1>The Dative Case</h1>
+  <section class="overview"><p>The dative marks the indirect object — the person or thing that something is given to, done for, or directed toward. Unlike the accusative, the dative changes the article for every gender, not just masculine, so it takes a bit more deliberate memorization. It's also required after a specific list of common verbs and prepositions, independent of whether there's a &quot;real&quot; indirect object in the English sense.</p></section>
+<section><h2>Grammar</h2><p>Use the dative case for the indirect object — the &quot;recipient&quot; of the action:</p>
+<ul>
+<li>Der Lehrer gibt der Frau ein Buch. (The teacher gives the woman a book.)</li>
+</ul>
+<p>Unlike the accusative, the dative changes the modifier across all genders, and adds an ending to plural nouns themselves:</p>
+<p>Dative endings:</p>
+<div class="table-wrap"><table><thead><tr><th>Modifier</th><th>Masculine</th><th>Feminine</th><th>Neuter</th><th>Plural</th></tr></thead><tbody>
+<tr><td>definite</td><td>dem Mann</td><td>der Frau</td><td>dem Kind</td><td>den Gästen</td></tr>
+<tr><td>indefinite</td><td>einem Mann</td><td>einer Frau</td><td>einem Kind</td><td>Gästen</td></tr>
+<tr><td>negative</td><td>keinem Mann</td><td>keiner Frau</td><td>keinem Kind</td><td>keinen Gästen</td></tr>
+<tr><td>possessive</td><td>meinem Mann</td><td>deiner Frau</td><td>seinem Kind</td><td>unseren Gästen</td></tr>
+</tbody></table></div>
+<p>The pattern to memorize: masculine and neuter both take -em; feminine takes -er; plural adds -en to the modifier and -en or -n to the noun itself (die Gäste → den Gästen).</p>
+<p>A specific set of common verbs always require a dative object, even though English would treat that object as a direct object: helfen (to help), danken (to thank), gehören (to belong to), folgen (to follow).</p>
+<ul>
+<li>Ich helfe den Gästen. (I help the guests.) — not &quot;helfe die Gäste,&quot; even though &quot;the guests&quot; reads like a direct object in English.</li>
+<li>Ich danke dem Kind. (I'm thanking the child.)</li>
+</ul>
+<p>A cluster of common prepositions also always take the dative: aus (from/out of), außer (apart from), bei (at/near), gegenüber (opposite), mit (with/by), nach (after/to), seit (since/for), von (from), zu (to).</p>
+<ul>
+<li>Ich fahre mit dem Auto. (I go by car.)</li>
+<li>Er wohnt gegenüber der Kirche. (He lives opposite the church.)</li>
+<li>Wir fahren zu meiner Freundin. (We're going to my girlfriend's.)</li>
+</ul>
+<p>As with the accusative, a sentence can contain multiple datives if both a dative verb and a dative preposition are present:</p>
+<ul>
+<li>Ich helfe dem Jungen mit seinem Mantel. (I help the boy with his coat.)</li>
+</ul></section>
+<section class="table"><h2>Reference Table</h2><p>(Not applicable.)</p></section>
+<section><h2>Vocabulary</h2><div class="vocab-grid">
+<div class="vocab-row"><div class="vocab-word">helfen</div><div class="vocab-pron">HEL-fen</div><div class="vocab-meaning">to help</div></div>
+<div class="vocab-row"><div class="vocab-word">danken</div><div class="vocab-pron">DAHN-ken</div><div class="vocab-meaning">to thank</div></div>
+<div class="vocab-row"><div class="vocab-word">gehören</div><div class="vocab-pron">ge-HER-en</div><div class="vocab-meaning">to belong to</div></div>
+<div class="vocab-row"><div class="vocab-word">folgen</div><div class="vocab-pron">FOL-gen</div><div class="vocab-meaning">to follow</div></div>
+<div class="vocab-row"><div class="vocab-word">die Kirche</div><div class="vocab-pron">dee KEER-Khe</div><div class="vocab-meaning">the church</div></div>
+<div class="vocab-row"><div class="vocab-word">der Bahnhof</div><div class="vocab-pron">dair BAHN-hohf</div><div class="vocab-meaning">the train station</div></div>
+<div class="vocab-row"><div class="vocab-word">die Firma</div><div class="vocab-pron">dee FEER-mah</div><div class="vocab-meaning">the company/firm</div></div>
+<div class="vocab-row"><div class="vocab-word">gegenüber</div><div class="vocab-pron">GAY-gen-ue-ber</div><div class="vocab-meaning">opposite</div></div>
+<div class="vocab-row"><div class="vocab-word">seit</div><div class="vocab-pron">zyt</div><div class="vocab-meaning">since/for (time)</div></div>
+<div class="vocab-row"><div class="vocab-word">der Mitarbeiter</div><div class="vocab-pron">dair MIT-ar-by-ter</div><div class="vocab-meaning">the colleague/employee</div></div>
+</div></section>
+<section><h2>Examples</h2><div class="example"><p class="de">Ich folge dem Mann.</p><p class="en">I follow the man.</p></div>
+<div class="example"><p class="de">Das Baby gleicht der Mutter.</p><p class="en">The baby resembles the mother.</p></div>
+<div class="example"><p class="de">Wie komme ich zum Bahnhof?</p><p class="en">How do I get to the train station? (zum = zu + dem, a common contraction)</p></div>
+<div class="example"><p class="de">Das gehört dem Mann.</p><p class="en">That belongs to the man.</p></div>
+<div class="example"><p class="de">Er dankt dem Mitarbeiter.</p><p class="en">He thanks the colleague.</p></div></section>
+<section><h2>Notes</h2><p>Watch for contracted forms in everyday speech: zu + dem becomes zum, zu + der becomes zur, bei + dem becomes beim, von + dem becomes vom. These contractions are extremely common in spoken and written German, so recognizing them on sight will save you from momentary confusion later.</p></section>
+<section class="practice"><h2>Practice</h2><ol>
+<li>Give the dative article for: der Mann, die Frau, das Kind, die Gäste (plural).</li>
+<li>Fill in the blank: &quot;Er fährt jeden Tag mit ___ Auto.&quot; (dem, masculine dative)</li>
+<li>Translate: &quot;I thank you (formal).&quot; using danken + dative</li>
+<li>Why does &quot;Ich helfe den Gästen&quot; use the dative, when &quot;help the guests&quot; looks like a direct object in English?</li>
+<li>Expand zum and zur into their full two-word forms.</li>
+</ol></section>
+</body>
+</html>
