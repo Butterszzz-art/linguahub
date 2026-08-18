@@ -1,0 +1,415 @@
+####
+
+PART 2: THE VERB ENGINE — Present Tense Mastery
+
+====
+
+LESSON 7: Present Tense: Regular Verbs
+
+OVERVIEW
+English present-tense verbs barely change shape — "I go, you go, he goes." German verbs change shape for every single person. That sounds like more to memorize, but the payoff is that German endings are far more consistent and predictable than English ones once you learn the pattern. This lesson builds that pattern from scratch.
+
+GRAMMAR
+Every German verb has an infinitive form ending in -en (or occasionally just -n): kommen (to come), wohnen (to live), hören (to hear). To conjugate a regular verb, strip the -en to get the stem, then add the ending that matches the subject.
+
+The stem: kommen → komm-, wohnen → wohn-, hören → hör-
+
+The full set of present-tense endings:
+- ich: -e
+- du: -st
+- er/sie/es: -t
+- wir: -en
+- ihr: -t
+- sie/Sie: -en
+
+A verb with its personal ending attached is called a finite verb — you'll see this term used throughout the course, and it's simply the opposite of the infinitive: the infinitive has no person attached to it, the finite verb does.
+
+Two spelling adjustments apply to some regular verbs:
+- If the stem ends in -d, -t, or a consonant cluster like -chn or -gn (arbeiten, reden, atmen), an extra -e is inserted before the du, er/sie/es, and ihr endings so the word stays pronounceable: du arbeitest, er arbeitet, ihr redet.
+- If the stem ends in -s, -ss, -ß, -x, or -z (heißen, reisen, tanzen), the du ending contracts to just -t instead of -st, since -sst and -ßst are awkward to say: du heißt, du reist, du tanzt.
+
+CONJUGATION TABLE
+kommen (to come) / wohnen (to live) / hören (to hear):
+| Pronoun | kommen | wohnen | hören |
+|---------|--------|--------|-------|
+| ich | komme | wohne | höre |
+| du | kommst | wohnst | hörst |
+| er/sie/es | kommt | wohnt | hört |
+| wir | kommen | wohnen | hören |
+| ihr | kommt | wohnt | hört |
+| sie/Sie | kommen | wohnen | hören |
+
+arbeiten (to work) — the -e- inserted pattern:
+| Pronoun | Form |
+|---------|------|
+| ich | arbeite |
+| du | arbeitest |
+| er/sie/es | arbeitet |
+| wir | arbeiten |
+| ihr | arbeitet |
+| sie/Sie | arbeiten |
+
+VOCABULARY
+- kommen (KOM-en) — to come
+- wohnen (VOH-nen) — to live/reside
+- hören (HER-en) — to hear/listen
+- lernen (LAIR-nen) — to learn
+- spielen (SHPEE-len) — to play
+- arbeiten (AR-by-ten) — to work
+- reisen (RY-zen) — to travel
+- machen (MAH-khen) — to make/do
+- woher (voh-HAIR) — from where
+- die Stadt (dee shtaht) — the city
+
+EXAMPLES
+- Ich wohne in Berlin. — I live in Berlin.
+- Du lernst Deutsch. — You are learning German.
+- Er arbeitet bei Siemens. — He works at Siemens.
+- Wir spielen Fußball. — We play soccer.
+- Reist du gern? — Do you like to travel?
+
+NOTES
+Notice that wir and sie/Sie always take the identical -en ending — the full infinitive form, unchanged. That means whenever you're unsure of a conjugation for "we" or formal "you," you can fall back on the dictionary form of the verb and you'll be correct.
+
+PRACTICE
+1. Conjugate lernen for all six persons (ich, du, er/sie/es, wir, ihr, sie/Sie).
+2. Why does arbeiten need an extra -e before -st and -t, but kommen does not?
+3. Conjugate reisen for du. (Careful — stem ends in -s.)
+4. Translate: "We are playing soccer today."
+5. Identify the stem and the ending in: sie spielen.
+
+====
+
+LESSON 8: The Irregulars: haben and sein
+
+OVERVIEW
+haben (to have) and sein (to be) are the two most-used verbs in German — and, just as in English, both are irregular. You'll lean on them constantly: for describing people and things, for talking about possession, and later as building blocks for the past tense. Learn these two conjugations to true automaticity before moving on.
+
+GRAMMAR
+sein (to be) is the more irregular of the two — its forms don't resemble the infinitive stem at all, much like English "am/is/are" don't resemble "be." This mirrors English, where "to be" is also wildly irregular, so lean on that parallel as a memory aid.
+
+haben (to have) is regular for ich, wir, ihr, and sie/Sie — you simply add the normal endings to the stem hab-. It's only the du and er/sie/es forms that break the pattern, dropping the b entirely: du hast, er/sie/es hat (not "habst"/"habt").
+
+CONJUGATION TABLE
+| Pronoun | haben | sein |
+|---------|-------|------|
+| ich | habe | bin |
+| du | hast | bist |
+| er/sie/es | hat | ist |
+| wir | haben | sind |
+| ihr | habt | seid |
+| sie/Sie | haben | sind |
+
+VOCABULARY
+- haben (HAH-ben) — to have
+- sein (zyn) — to be
+- viel (feel) — much/a lot
+- die Schwester (dee SHVES-ter) — the sister
+- der Bruder (dair BROO-der) — the brother
+- müde (MUE-de) — tired
+- glücklich (GLUEK-liH) — happy
+- das Wechselgeld (dahs VEK-sel-gelt) — the change (money)
+- das Auto (dahs OW-toh) — the car
+- neu (noy) — new
+
+EXAMPLES
+- Ich habe viel zu tun. — I have a lot to do.
+- Claus hat eine Schwester. — Claus has one sister.
+- Haben Sie Wechselgeld? — Do you have change? (formal)
+- Ich bin müde. — I am tired.
+- Sie sind glücklich. — They are happy. / She is happy. (formal "you" and "they" share the same form — context tells you which)
+
+NOTES
+Because sie can mean "she," "they," or, capitalized as Sie, "you" (formal), the verb form alone often can't tell you which meaning is intended — you need context or the surrounding sentence. Don't let that ambiguity worry you; native speakers rely on context here too.
+
+PRACTICE
+1. Conjugate haben for all six persons without looking at the table.
+2. Conjugate sein for all six persons without looking at the table.
+3. Translate: "Do you (formal) have a car?"
+4. Translate: "We are happy."
+5. Explain why "du habst" is incorrect German, and give the correct form.
+
+====
+
+LESSON 9: Stem-Changing Verbs
+
+OVERVIEW
+A specific group of common German verbs change their stem vowel — but only in the du and er/sie/es forms. This looks unpredictable at first, but it actually falls into three tidy patterns: a→ä, e→i, and e→ie. Learn the patterns, and a huge list of "irregular" verbs suddenly becomes learnable in groups rather than one at a time.
+
+GRAMMAR
+The rule that applies to every stem-changing verb: the change appears only in du and er/sie/es. Every other person (ich, wir, ihr, sie/Sie) uses the completely regular stem and ending.
+
+Pattern 1 — a → ä (appears in verbs whose stem vowel is "a"):
+- fahren (to drive) → du fährst, er/sie/es fährt
+- tragen (to carry/wear) → du trägst, er/sie/es trägt
+- waschen (to wash) → du wäschst, er/sie/es wäscht
+- schlafen (to sleep) → du schläfst, er/sie/es schläft
+
+Pattern 2 — e → i:
+- sprechen (to speak) → du sprichst, er/sie/es spricht
+- essen (to eat) → du isst, er/sie/es isst
+- geben (to give) → du gibst, er/sie/es gibt
+- helfen (to help) → du hilfst, er/sie/es hilft
+- nehmen (to take) is this pattern with extra spelling changes: du nimmst, er/sie/es nimmt
+
+Pattern 3 — e → ie (used when the "e" sound is long):
+- sehen (to see) → du siehst, er/sie/es sieht
+- lesen (to read) → du liest, er/sie/es liest
+- empfehlen (to recommend) → du empfiehlst, er/sie/es empfiehlt
+
+There is no shortcut to knowing which verbs belong to which pattern beyond memorization and exposure — but once you know a verb changes, the specific pattern (a→ä, e→i, or e→ie) is fully predictable.
+
+CONJUGATION TABLE
+sprechen (to speak) — full e→i pattern:
+| Pronoun | Form |
+|---------|------|
+| ich | spreche |
+| du | sprichst |
+| er/sie/es | spricht |
+| wir | sprechen |
+| ihr | sprecht |
+| sie/Sie | sprechen |
+
+fahren (to drive) — full a→ä pattern:
+| Pronoun | Form |
+|---------|------|
+| ich | fahre |
+| du | fährst |
+| er/sie/es | fährt |
+| wir | fahren |
+| ihr | fahrt |
+| sie/Sie | fahren |
+
+VOCABULARY
+- sprechen (SHPREH-khen) — to speak
+- essen (ES-en) — to eat
+- geben (GAY-ben) — to give
+- nehmen (NAY-men) — to take
+- sehen (ZAY-en) — to see
+- lesen (LAY-zen) — to read
+- fahren (FAH-ren) — to drive/go (by vehicle)
+- schlafen (SHLAH-fen) — to sleep
+- der Kaffee (dair kah-FAY) — the coffee
+- der Tee (dair tay) — the tea
+
+EXAMPLES
+- Sprichst du Deutsch? — Do you speak German?
+- Sie isst gern Pizza. — She likes eating pizza.
+- Nimmst du Kaffee oder Tee? — Are you having coffee or tea?
+- Er sieht Jutta nicht. — He doesn't see Jutta.
+- Du fährst morgen nach Hause. — You're driving home tomorrow.
+
+NOTES
+The verb nehmen is worth memorizing on its own: it follows the e→i logic but also drops an "h" and doubles the "m" — du nimmst, er/sie/es nimmt. It's common enough (used for "taking" food, transportation, medicine, and more) that it's worth drilling by itself rather than lumping it in with geben and helfen.
+
+PRACTICE
+1. Sort these verbs by pattern (a→ä, e→i, or e→ie): tragen, geben, lesen, waschen, helfen, sehen.
+2. Conjugate essen for du and er.
+3. Translate: "He carries the bag." (tragen)
+4. Why does nehmen need extra attention beyond the standard e→i rule?
+5. Write a full sentence using fahren correctly conjugated for du.
+
+====
+
+LESSON 10: Separable & Inseparable Verbs
+
+OVERVIEW
+German has a large category of two-part verbs, built from a prefix plus a base verb — similar to English phrasal verbs like "get up" or "look forward to." The twist is that in a normal statement, the prefix physically detaches from the verb and travels to the very end of the sentence or clause. This lesson shows you how to spot separable verbs and use them correctly.
+
+GRAMMAR
+A separable verb is formed from a prefix + infinitive: auf + stehen = aufstehen (to get up), an + rufen = anrufen (to call/phone), aus + gehen = ausgehen (to go out).
+
+In the present tense, when the verb is conjugated in a normal statement, the prefix splits off from the finite verb and moves to the end of the sentence:
+- aufstehen → Ich stehe um sieben Uhr auf. (I get up at seven o'clock.)
+- anrufen → Er ruft seine Frau an. (He calls his wife.)
+- fernsehen → Die Kinder sehen jeden Abend fern. (The children watch TV every evening.)
+
+In sentences with two clauses, the separated prefix goes to the end of its own clause, not necessarily to the very end of the whole sentence:
+- Ich stehe auf, und dann frühstücke ich. (I get up, and then I have breakfast.)
+
+Common separable-prefix verbs to know early: abfahren (to depart), abholen (to pick up), anfangen (to start), ankommen (to arrive), aufräumen (to tidy up), einkaufen (to shop), einladen (to invite), fernsehen (to watch TV), stattfinden (to take place).
+
+Not every prefixed verb separates. A smaller set of "inseparable" prefixes — be-, emp-, ent-, er-, ge-, ver-, zer- — always stay attached to the verb and are never stressed in pronunciation: bekommen (to receive), verstehen (to understand), erklären (to explain). You'll recognize these because, unlike separable prefixes (which are stressed and often look like standalone prepositions — auf, an, aus, ein), inseparable prefixes are unstressed and don't function as prepositions on their own.
+
+CONJUGATION TABLE
+aufstehen (to get up) — separable, shown in a sentence frame:
+| Pronoun | Finite verb (position 2) | ... | Separated prefix (end) |
+|---------|---------------------------|-----|--------------------------|
+| ich | stehe | um sieben Uhr | auf |
+| du | stehst | um sieben Uhr | auf |
+| er/sie/es | steht | um sieben Uhr | auf |
+| wir | stehen | um sieben Uhr | auf |
+
+VOCABULARY
+- aufstehen (OWF-shtay-en) — to get up
+- anrufen (AHN-roo-fen) — to call/phone
+- ankommen (AHN-kom-en) — to arrive
+- abfahren (AHP-fah-ren) — to depart
+- einkaufen (YN-kow-fen) — to shop
+- fernsehen (FAIRN-zay-en) — to watch TV
+- aufräumen (OWF-roy-men) — to tidy up
+- verstehen (fer-SHTAY-en) — to understand (inseparable)
+- bekommen (be-KOM-en) — to receive (inseparable)
+- erklären (air-KLAIR-en) — to explain (inseparable)
+
+EXAMPLES
+- Bernhard steht um fünf Uhr auf. — Bernhard gets up at five o'clock.
+- Ruft Herr Nolte seine Frau an? — Does Mr. Nolte call his wife? (question — verb moves to front, prefix stays at the end)
+- Das Meeting findet am Montag statt. — The meeting takes place on Monday.
+- Ich verstehe die Frage. — I understand the question. (inseparable — never splits)
+- Wann kommt der Zug an? — When does the train arrive?
+
+NOTES
+A fast way to test whether a prefix is separable: say the infinitive aloud and notice where the stress falls. Separable prefixes are stressed (AUF-stehen, AN-rufen); inseparable ones are not (ver-STEH-en, be-KOM-men). If you're unsure whether a new verb separates, this stress test is a reliable shortcut even before you've memorized the specific prefix list.
+
+PRACTICE
+1. Take aufräumen and write a full sentence with ich as the subject, correctly splitting the prefix.
+2. Explain why verstehen never splits, while ankommen does.
+3. Turn "Er ruft seine Frau an" into a yes/no question.
+4. Translate: "The train departs at nine o'clock." (abfahren)
+5. Identify which of these are separable and which are inseparable: einladen, bekommen, aufstehen, erklären.
+
+====
+
+LESSON 11: The Imperative (Giving Commands)
+
+OVERVIEW
+The imperative is how you give instructions, make requests, or issue commands — "Come here!", "Wait!", "Be careful!" English uses one simple form for everybody. German, true to form, has a separate imperative shape for du, ihr, and Sie, because the imperative still has to agree with who you're formally or informally addressing.
+
+GRAMMAR
+Du-imperative (one person, informal): drop the -en/-n from the infinitive and use the bare stem. No pronoun is used.
+- kommen → Komm! (Come!)
+- trinken → Trink weniger. (Drink less.)
+
+If the stem ends in -d, -t, or certain consonant clusters, add -e for pronounceability, same logic as Lesson 7:
+- warten → Warte! (Wait!)
+- atmen → Atme schneller. (Breathe faster!)
+
+If the verb has an e→i or e→ie stem change (Lesson 9), that same change carries into the du-imperative:
+- sprechen → Sprich leise. (Speak quietly.)
+- lesen → Lies die Zeitung. (Read the newspaper.)
+
+But verbs with the a→ä change do NOT carry that change into the imperative — they use the plain stem:
+- fahren → Fahr rechts! (Drive on the right!) — not "Führ"
+- tragen → Trag das rote Kleid. (Wear the red dress.)
+
+Ihr-imperative (more than one person, informal): identical to the ihr form of the present tense, simply drop the pronoun.
+- kommen → Kommt! (Come, you all!)
+- sprechen → Sprecht leise. (Speak quietly, you all.)
+
+Sie-imperative (formal, singular or plural): identical to the Sie form of the present tense, but invert word order (verb first) and keep the pronoun Sie.
+- kommen → Kommen Sie! (Come!)
+- sprechen → Sprechen Sie leise. (Speak quietly.)
+
+Separable verbs split in the imperative exactly as they do in statements — the prefix goes to the end:
+- anfangen → Fang an! (Start!)
+- mitmachen → Mach mit! (Join in!)
+
+haben and sein have their own imperative stems, worth memorizing directly:
+- haben → Hab Geduld. (Be patient.) / Haben Sie Geduld.
+- sein → Sei vorsichtig. (Be careful.) / Seien Sie vorsichtig.
+
+CONJUGATION TABLE
+The imperative of kommen (to come), sprechen (to speak), and sein (to be) across all four forms:
+| Verb | du | ihr | Sie |
+|------|----|----|-----|
+| kommen | Komm! | Kommt! | Kommen Sie! |
+| sprechen | Sprich leise. | Sprecht leise. | Sprechen Sie leise. |
+| sein | Sei vorsichtig. | Seid vorsichtig. | Seien Sie vorsichtig. |
+
+VOCABULARY
+- warten (VAR-ten) — to wait
+- vorsichtig (FOR-ziH-tiH) — careful
+- die Geduld (dee ge-DOOLT) — the patience
+- leise (LY-ze) — quietly
+- schnell (shnel) — fast
+- rechts (reHts) — right (direction)
+- links (links) — left (direction)
+- das Kleid (dahs klyt) — the dress
+- die Zeitung (dee TSY-toong) — the newspaper
+- mitmachen (MIT-mah-khen) — to join in
+
+EXAMPLES
+- Komm her! — Come here!
+- Warten Sie bitte. — Please wait. (formal)
+- Sprich leise, bitte. — Please speak quietly.
+- Seid vorsichtig! — Be careful, all of you!
+- Fang an! — Start! (separable verb, informal)
+
+NOTES
+Adding bitte (please) to any imperative softens it considerably — Komm her! can sound abrupt, while Komm bitte her! reads as a normal, friendly request. When in doubt in a real conversation, add bitte.
+
+PRACTICE
+1. Give the du-imperative of: gehen, sprechen, fahren, lesen.
+2. Give the Sie-imperative of: kommen, sein, warten.
+3. Turn the separable verb aufstehen into a du-imperative sentence.
+4. Translate: "Be patient!" using the informal du form.
+5. Explain why fahren's imperative is Fahr!, not Führ!, even though the present tense is du fährst.
+
+====
+
+LESSON 12: Asking Questions (W-Questions and Yes/No)
+
+OVERVIEW
+You already know from Part 1 that German statements follow verb-second order. Questions break that pattern in one of two clean, predictable ways — and in fact, German questions are structurally simpler than English ones, because German never needs a helper word like "do" or "does."
+
+GRAMMAR
+Yes/no questions: move the finite verb to the very front of the sentence, ahead of the subject. No "do/does" is needed at all.
+- Statement: Peter kommt aus Berlin. (Peter comes from Berlin.)
+- Question: Kommt Peter aus Berlin? (Does Peter come from Berlin?)
+- Statement: Sie wohnen im Hotel. (You live in the hotel.)
+- Question: Wohnen Sie im Hotel? (Do you live in the hotel?)
+
+W-questions (so named because most German question words start with W) put the question word first, then the finite verb immediately second — the same verb-second logic from Part 1, just with a question word occupying position one instead of a subject or time expression.
+
+The core W-question words:
+- wer (who)
+- was (what)
+- wo (where)
+- wohin (where to)
+- woher (where from)
+- wann (when)
+- warum (why)
+- wie (how)
+- wie viel / wie viele (how much / how many)
+
+- Wo wohnen Sie? (Where do you live?)
+- Was studieren Sie? (What are you studying?)
+- Wann beginnt das Konzert? (When does the concert start?)
+- Woher kommen Sie? (Where do you come from?)
+
+Note the useful distinction between wo, wohin, and woher: wo asks about a static location ("Wo bist du?" — Where are you?), wohin asks about a destination ("Wohin gehst du?" — Where are you going?), and woher asks about an origin ("Woher kommst du?" — Where are you from?).
+
+CONJUGATION TABLE
+(Not applicable — this lesson is structural, reusing verb forms already learned.)
+
+VOCABULARY
+- wer (vair) — who
+- was (vahs) — what
+- wo (voh) — where
+- wohin (voh-HIN) — where to
+- woher (voh-HAIR) — where from
+- wann (vahn) — when
+- warum (vah-ROOM) — why
+- wie (vee) — how
+- wie viel (vee feel) — how much
+- der Beruf (dair be-ROOF) — the profession/occupation
+
+EXAMPLES
+- Wie heißen Sie? — What is your name? (formal)
+- Wo wohnst du? — Where do you live? (informal)
+- Was sind Sie von Beruf? — What is your profession?
+- Wie viel kostet das? — How much does that cost?
+- Sprechen Sie Deutsch? — Do you speak German? (yes/no)
+
+NOTES
+A genuinely nice feature of German for beginners: since there's no equivalent of English "do/does" in questions, you never have to think about an extra helper verb. If you can form the statement, you can form the question just by moving one word.
+
+PRACTICE
+1. Turn the statement "Du sprichst Deutsch" into a yes/no question.
+2. Turn the statement "Sie wohnt in Hamburg" into a W-question asking where she lives.
+3. Choose the correct question word (wo, wohin, or woher) for: "___ kommst du?" (asking where someone is from)
+4. Translate: "What is your profession?" (formal)
+5. Write an original W-question using wann.
+
+####

@@ -7,6 +7,13 @@ import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 
+// This page has no dynamic route segments, so Next.js would otherwise try to
+// statically prerender it at build time — which both requires DATABASE_URL
+// to be available during the build and bakes in a stale classroom list
+// (progress, newly-seeded classrooms, etc. wouldn't show up without a full
+// rebuild). Force it to render per-request instead.
+export const dynamic = "force-dynamic";
+
 export default async function DashboardPage() {
   const classrooms = await prisma.classroom.findMany({
     orderBy: { createdAt: "asc" },

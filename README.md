@@ -128,6 +128,32 @@ The generator differs from Italian/French in two ways the source text itself dif
 ...), rendered as heading rows in the vocab grid; and PRACTICE is always a numbered list rather
 than free prose, rendered as an `<ol>`.
 
+### 4f. (Optional) Seed the German classroom
+
+A German curriculum (19 lessons across 3 units so far — sounds/gender/word order, present-tense
+verbs, and the full four-case system; further parts are outlined but not yet written, per
+[content-source/german/german_00_index.txt](content-source/german/german_00_index.txt)) lives as
+plain text in [content-source/german/](content-source/german), parsed by
+[scripts/generate-german-content.ts](scripts/generate-german-content.ts) into
+`content/german/*.html` plus [manifest-german.json](manifest-german.json), the same way as the
+others:
+
+```bash
+npx tsx scripts/generate-german-content.ts
+npx tsx prisma/seed-german.ts
+```
+
+[prisma/seed-german.ts](prisma/seed-german.ts) is the same skip-if-existing pattern as
+`seed-italian.ts`/`seed-turkish.ts`. The generator itself differs more than Turkish's did,
+because the German source's own structure differs: section labels (OVERVIEW, GRAMMAR, ...) have
+no trailing colon, text isn't hard-wrapped, and GRAMMAR/CONJUGATION TABLE sections freely mix
+prose, "- " bullets, "N. " numbered lists, and Markdown-style "\| a \| b \|" pipe tables (parsed
+into real `<table>` markup) in any order — so `generate-german-content.ts` uses one generic
+block parser, `renderRichText()`, for OVERVIEW/GRAMMAR/CONJUGATION TABLE/NOTES/PRACTICE alike,
+rather than Turkish's separate bullet/paragraph/practice renderers. VOCABULARY and EXAMPLES are
+"- " prefixed and use an em dash (" — ") as the word/translation separator, rather than Italian/
+Turkish's bare hyphen.
+
 ### 5. Run the dev server
 
 ```bash
@@ -155,16 +181,20 @@ prisma/seed-portuguese.ts                  Optional real-content seed script (se
 prisma/seed-italian.ts                     Optional real-content seed script (see below)
 prisma/seed-french.ts                      Optional real-content seed script (see below)
 prisma/seed-turkish.ts                     Optional real-content seed script (see below)
+prisma/seed-german.ts                      Optional real-content seed script (see below)
 manifest.json                              Classroom→unit→lesson map for the Portuguese seed
 manifest-italian.json                      Classroom→unit→lesson map for the Italian seed
 manifest-french.json                       Classroom→unit→lesson map for the French seed
 manifest-turkish.json                      Classroom→unit→lesson map for the Turkish seed
+manifest-german.json                       Classroom→unit→lesson map for the German seed
 content-source/italian/*.txt               Raw Italian curriculum text (parser input)
 content-source/french/*.txt                Raw French curriculum text (parser input)
 content-source/turkish/*.txt               Raw Turkish curriculum text (parser input)
+content-source/german/*.txt                Raw German curriculum text (parser input)
 scripts/generate-italian-content.ts        Parses content-source/italian into content/italian + the manifest
 scripts/generate-french-content.ts         Parses content-source/french into content/french + the manifest
 scripts/generate-turkish-content.ts        Parses content-source/turkish into content/turkish + the manifest
+scripts/generate-german-content.ts         Parses content-source/german into content/german + the manifest
 ```
 
 ## Database Schema

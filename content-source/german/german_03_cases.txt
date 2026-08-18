@@ -1,0 +1,481 @@
+####
+
+PART 3: THE CASE SYSTEM — German's Backbone
+
+====
+
+LESSON 13: Introduction to the Four Cases
+
+OVERVIEW
+This is the lesson that unlocks the rest of German grammar. In English, word order alone usually tells you who's doing what to whom — "Dog bites man" and "Man bites dog" mean very different things purely because of order. German instead marks these roles directly on the noun's article (and sometimes the noun itself) using a system called case. There are four cases: nominative, accusative, dative, and genitive. This lesson gives you the big picture before Lessons 14–17 dig into each one individually.
+
+GRAMMAR
+A case marks the grammatical role a noun plays in a sentence. German signals case primarily through the article attached to the noun, not through the noun's position, which is exactly why German word order can be so much more flexible than English — the case ending tells you who the subject is regardless of where it sits in the sentence.
+
+The four roles, in brief:
+- Nominative — the subject, the one doing the action. Der Mann liest. (The man is reading.)
+- Accusative — the direct object, the thing being directly acted upon. Der Mann liest einen Roman. (The man is reading a novel.)
+- Dative — the indirect object, the person/thing something is done to or for. Der Mann gibt der Frau einen Roman. (The man gives the woman a novel.)
+- Genitive — shows possession, one noun belonging to another. Der Hut des Mannes. (The man's hat.)
+
+Three factors determine which case a noun takes in a given sentence:
+1. Its grammatical role (subject = nominative, direct object = accusative, indirect object = dative)
+2. The specific verb — some verbs simply require a certain case regardless of the "logical" role. Most verbs take the accusative for their object, a smaller set of common verbs (helfen, danken, gehören, folgen) always require the dative.
+3. The preposition — many German prepositions force a specific case onto their object no matter what role that object would otherwise play. This is covered fully in Part 8, but you'll start noticing it immediately.
+
+The full article table across all four cases — this table is the single most useful reference in the entire course, worth memorizing solidly before moving forward:
+
+Definite article ("the"):
+| Case | Masculine | Feminine | Neuter | Plural |
+|------|-----------|----------|--------|--------|
+| Nominative | der | die | das | die |
+| Accusative | den | die | das | die |
+| Dative | dem | der | dem | den (+n on noun) |
+| Genitive | des (+s/es) | der | des (+s/es) | der |
+
+Indefinite article ("a/an"):
+| Case | Masculine | Feminine | Neuter |
+|------|-----------|----------|--------|
+| Nominative | ein | eine | ein |
+| Accusative | einen | eine | ein |
+| Dative | einem | einer | einem |
+| Genitive | eines | einer | eines |
+
+Notice the pattern: feminine and neuter nouns barely change between nominative and accusative — it's overwhelmingly the masculine article that shifts (der→den, ein→einen). That single shift is worth isolating and drilling on its own, since it's the most common case error beginners make.
+
+CONJUGATION TABLE
+(Not applicable — this lesson covers articles, not verbs.)
+
+VOCABULARY
+- der Fall (dair fahl) — the case (grammatical)
+- das Subjekt (dahs zoop-YEKT) — the subject
+- das Objekt (dahs op-YEKT) — the object
+- direkt (dee-REKT) — direct
+- indirekt (in-dee-REKT) — indirect
+- der Besitz (dair be-ZITS) — possession
+- die Rolle (dee ROL-e) — the role
+- der Roman (dair roh-MAHN) — the novel
+- der Hut (dair hoot) — the hat
+- geben (GAY-ben) — to give
+
+EXAMPLES
+- Der Mann liest. — The man is reading. (nominative — subject)
+- Der Mann liest einen Roman. — The man is reading a novel. (accusative — direct object)
+- Der Mann gibt der Frau einen Roman. — The man gives the woman a novel. (dative — indirect object; accusative — direct object, both in one sentence)
+- Der Hut des Mannes. — The man's hat. (genitive — possession)
+- Kann man das erkennen? Der Frau (dative) vs. die Frau (nominative) — spot the difference: der signals "to/for the woman," die signals "the woman [is doing something]."
+
+NOTES
+Don't try to memorize all four case tables at once. This lesson is meant purely as an orientation map — Lessons 14 through 17 will drill each case individually with its own full set of examples and practice. Come back to the master table above whenever you need a quick reference as you work through the rest of Part 3.
+
+PRACTICE
+1. Identify the case of the bolded-in-meaning noun: "The man gives THE WOMAN a book" (which German case does "the woman" need here?)
+2. Name the three factors that determine which case a noun takes.
+3. Fill in the definite article: "___ Frau liest das Buch" (nominative, feminine)
+4. Which case shows possession — "the dog's bone"?
+5. Explain, in your own words, why German can have more flexible word order than English.
+
+====
+
+LESSON 14: The Nominative Case
+
+OVERVIEW
+The nominative is the case you already know instinctively — it's simply the subject of the sentence, the "doer" of the action. It's also the form you'll find when you look a noun up in the dictionary. This lesson nails down its endings and shows you a reliable trick for spotting the subject even when German word order scrambles things.
+
+GRAMMAR
+Use the nominative case when the noun is the subject — the person or thing performing the action:
+- Der Mann hört Musik. (The man is listening to music.)
+- Die Frau liest das Buch. (The woman reads the book.)
+- Das Kind kauft einen Apfel. (The child buys an apple.)
+
+The nominative is also used after the verbs sein (to be) and werden (to become), because these verbs describe a state rather than an action performed on an object:
+- Er ist ein interessanter Mann. (He is an interesting man.)
+- Sie wird Lehrerin. (She is going to become a teacher.)
+Note that German often drops the indefinite article after sein/werden when describing a profession: Er ist Ingenieur (He is an engineer) — no "ein" needed.
+
+Nominative endings across the modifiers you'll use most:
+| Modifier | Masculine | Feminine | Neuter | Plural |
+|----------|-----------|----------|--------|--------|
+| definite | der Mann | die Frau | das Kind | die Gäste |
+| indefinite | ein Mann | eine Frau | ein Kind | Gäste |
+| negative | kein Mann | keine Frau | kein Kind | keine Gäste |
+| possessive | mein Mann | meine Frau | mein Kind | meine Gäste |
+
+Since German word order allows other elements to occupy the first position in a sentence (Lesson 4), the subject won't always be the first word. A reliable trick: ask "who or what is doing the action?" — that noun is your subject, and it takes the nominative regardless of where it sits.
+- Morgen fährt die Klasse nach Berlin. (Tomorrow the class is going to Berlin.) — Who's going? Die Klasse. That's the nominative subject, even though "morgen" comes first.
+
+CONJUGATION TABLE
+(Not applicable.)
+
+VOCABULARY
+- die Musik (dee moo-ZEEK) — the music
+- der Apfel (dair AHP-fel) — the apple
+- die Klasse (dee KLAH-se) — the class
+- interessant (in-tair-e-SAHNT) — interesting
+- der Ingenieur (dair in-zhen-YER) — the engineer
+- die Lehrerin (dee LAY-rer-in) — the (female) teacher
+- der Espresso (dair es-PRES-oh) — the espresso
+- schön (shern) — nice/beautiful
+- der Gast (dair gahst) — the guest (plural: die Gäste)
+
+EXAMPLES
+- Die Gäste wollen es nicht. — The guests don't want it.
+- Er ist ein interessanter Mann. — He is an interesting man.
+- Nach dem Essen trinkt er einen Espresso. — After the meal, he drinks an espresso. (subject "er" comes after the verb, but is still nominative)
+- Sie wird Lehrerin. — She is becoming a teacher.
+- Das ist ein Haus. — That is a house.
+
+NOTES
+Whenever you feel unsure about which noun is the true grammatical subject in a scrambled sentence, apply the "who or what" test out loud — it works every time and doesn't require you to have already identified the verb tense or other grammar in play.
+
+PRACTICE
+1. Give the correct nominative article (der/die/das) for: Computer, Auto, Zeitung, Hotel.
+2. Identify the subject in: "Morgen fahren wir nach Italien."
+3. Translate: "The newspaper is very interesting." (nominative, using sein)
+4. Why does German say "Er ist Ingenieur" rather than "Er ist ein Ingenieur"?
+5. Write your own sentence where the subject does not appear as the first word.
+
+====
+
+LESSON 15: The Accusative Case
+
+OVERVIEW
+The accusative marks the direct object — the thing directly receiving the action of the verb. This is the case most German verbs require for their object, so it's the one you'll use constantly. The good news: only the masculine article actually changes shape from the nominative. Everything else stays the same.
+
+GRAMMAR
+Use the accusative case for the direct object — the "receiver" of the action:
+- Der Mann kauft den Computer. (The man buys the computer.)
+
+The critical shift: masculine articles change in the accusative. der becomes den; ein becomes einen. Feminine, neuter, and plural articles are identical to the nominative.
+
+Accusative endings:
+| Modifier | Masculine | Feminine | Neuter | Plural |
+|----------|-----------|----------|--------|--------|
+| definite | den Mann | die Frau | das Kind | die Gäste |
+| indefinite | einen Mann | eine Frau | ein Kind | Gäste |
+| negative | keinen Mann | keine Frau | kein Kind | keine Gäste |
+| possessive | meinen Mann | meine Frau | mein Kind | meine Gäste |
+
+Beyond direct objects, two other triggers force the accusative:
+1. The verb itself. Verbs that take a direct object (called transitive verbs) take the accusative — this covers the majority of German verbs. A dictionary will mark these "vt."
+2. Certain prepositions always take the accusative, regardless of the noun's role: bis (until), durch (through), für (for), gegen (against), ohne (without), um (around/at).
+- Wir fahren durch einen Tunnel. (We're driving through a tunnel.)
+- Arbeitest du für die Firma? (Do you work for the company?)
+- Sie kommt ohne ihren Freund. (She's coming without her boyfriend.)
+
+Because both the verb and a preposition can independently trigger the accusative, a single sentence can easily contain more than one accusative noun:
+- Wir kaufen einen Tisch und einen Schrank für deinen Vater. (We're buying a table and a wardrobe for your father.)
+
+CONJUGATION TABLE
+(Not applicable.)
+
+VOCABULARY
+- der Stuhl (dair shtool) — the chair
+- der Regenschirm (dair RAY-gen-shirm) — the umbrella
+- der Hunger (dair HOONG-er) — hunger
+- durch (doorH) — through
+- für (fuer) — for
+- gegen (GAY-gen) — against
+- ohne (OH-ne) — without
+- um (oom) — around/at
+- bis (bis) — until
+- der Schrank (dair shrahnk) — the wardrobe/cabinet
+
+EXAMPLES
+- Ich habe einen Regenschirm. — I have an umbrella.
+- Ich habe keinen Hunger. — I'm not hungry. (literally: I have no hunger)
+- Sie vermisst ihren Bruder. — She misses her brother.
+- Er ist gegen das Angebot. — He is against the offer.
+- Ich sehe den Jungen ohne seinen Mantel. — I see the boy without his coat. (two accusatives — direct object den Jungen, and object of ohne, seinen Mantel)
+
+NOTES
+Because feminine, neuter, and plural nouns look identical in the nominative and accusative, the accusative rule really only demands your attention for masculine nouns. When in doubt, check: is the noun masculine? If yes, and it's a direct object or follows bis/durch/für/gegen/ohne/um, shift der→den or ein→einen. If it's feminine, neuter, or plural, you likely don't need to change anything.
+
+PRACTICE
+1. Put into the accusative: der Computer, die Lampe, das Kochbuch, ein Freund.
+2. Fill in the blank: "Das Buch ist für ___ Freund." (ein, masculine, accusative)
+3. Translate: "I'll have a coffee and a tea." (nehmen + accusative)
+4. Identify both accusative nouns in: "Ich sehe den Jungen ohne seinen Mantel."
+5. Why doesn't "die Frau" change at all between the nominative and accusative examples above?
+
+====
+
+LESSON 16: The Dative Case
+
+OVERVIEW
+The dative marks the indirect object — the person or thing that something is given to, done for, or directed toward. Unlike the accusative, the dative changes the article for every gender, not just masculine, so it takes a bit more deliberate memorization. It's also required after a specific list of common verbs and prepositions, independent of whether there's a "real" indirect object in the English sense.
+
+GRAMMAR
+Use the dative case for the indirect object — the "recipient" of the action:
+- Der Lehrer gibt der Frau ein Buch. (The teacher gives the woman a book.)
+
+Unlike the accusative, the dative changes the modifier across all genders, and adds an ending to plural nouns themselves:
+
+Dative endings:
+| Modifier | Masculine | Feminine | Neuter | Plural |
+|----------|-----------|----------|--------|--------|
+| definite | dem Mann | der Frau | dem Kind | den Gästen |
+| indefinite | einem Mann | einer Frau | einem Kind | Gästen |
+| negative | keinem Mann | keiner Frau | keinem Kind | keinen Gästen |
+| possessive | meinem Mann | deiner Frau | seinem Kind | unseren Gästen |
+
+The pattern to memorize: masculine and neuter both take -em; feminine takes -er; plural adds -en to the modifier and -en or -n to the noun itself (die Gäste → den Gästen).
+
+A specific set of common verbs always require a dative object, even though English would treat that object as a direct object: helfen (to help), danken (to thank), gehören (to belong to), folgen (to follow).
+- Ich helfe den Gästen. (I help the guests.) — not "helfe die Gäste," even though "the guests" reads like a direct object in English.
+- Ich danke dem Kind. (I'm thanking the child.)
+
+A cluster of common prepositions also always take the dative: aus (from/out of), außer (apart from), bei (at/near), gegenüber (opposite), mit (with/by), nach (after/to), seit (since/for), von (from), zu (to).
+- Ich fahre mit dem Auto. (I go by car.)
+- Er wohnt gegenüber der Kirche. (He lives opposite the church.)
+- Wir fahren zu meiner Freundin. (We're going to my girlfriend's.)
+
+As with the accusative, a sentence can contain multiple datives if both a dative verb and a dative preposition are present:
+- Ich helfe dem Jungen mit seinem Mantel. (I help the boy with his coat.)
+
+CONJUGATION TABLE
+(Not applicable.)
+
+VOCABULARY
+- helfen (HEL-fen) — to help
+- danken (DAHN-ken) — to thank
+- gehören (ge-HER-en) — to belong to
+- folgen (FOL-gen) — to follow
+- die Kirche (dee KEER-Khe) — the church
+- der Bahnhof (dair BAHN-hohf) — the train station
+- die Firma (dee FEER-mah) — the company/firm
+- gegenüber (GAY-gen-ue-ber) — opposite
+- seit (zyt) — since/for (time)
+- der Mitarbeiter (dair MIT-ar-by-ter) — the colleague/employee
+
+EXAMPLES
+- Ich folge dem Mann. — I follow the man.
+- Das Baby gleicht der Mutter. — The baby resembles the mother.
+- Wie komme ich zum Bahnhof? — How do I get to the train station? (zum = zu + dem, a common contraction)
+- Das gehört dem Mann. — That belongs to the man.
+- Er dankt dem Mitarbeiter. — He thanks the colleague.
+
+NOTES
+Watch for contracted forms in everyday speech: zu + dem becomes zum, zu + der becomes zur, bei + dem becomes beim, von + dem becomes vom. These contractions are extremely common in spoken and written German, so recognizing them on sight will save you from momentary confusion later.
+
+PRACTICE
+1. Give the dative article for: der Mann, die Frau, das Kind, die Gäste (plural).
+2. Fill in the blank: "Er fährt jeden Tag mit ___ Auto." (dem, masculine dative)
+3. Translate: "I thank you (formal)." using danken + dative
+4. Why does "Ich helfe den Gästen" use the dative, when "help the guests" looks like a direct object in English?
+5. Expand zum and zur into their full two-word forms.
+
+====
+
+LESSON 17: The Genitive Case
+
+OVERVIEW
+The genitive expresses possession — one noun belonging to another, like the English "-'s." It's the least common of the four cases in everyday spoken German, often replaced informally by a simpler construction, but you'll see and hear it regularly enough (especially in writing) that it's worth knowing properly.
+
+GRAMMAR
+Use the genitive to show that one noun belongs to or is associated with another:
+- Das ist die Tasche meines Vaters. (That is my father's bag.)
+
+Word order is the opposite of English: in English, the possessor comes first ("my father's bag"); in German, the possessor typically follows the noun it modifies (die Tasche meines Vaters — literally "the bag of my father").
+
+Genitive endings:
+| Modifier | Masculine | Feminine | Neuter | Plural |
+|----------|-----------|----------|--------|--------|
+| definite | des Mannes | der Frau | des Kindes | der Gäste |
+| indefinite | eines Mannes | einer Frau | eines Kindes | — |
+| possessive | meines Mannes | meiner Frau | meines Kindes | meiner Gäste |
+
+Masculine and neuter nouns add -es (for short, one-syllable nouns like Mann → Mannes) or just -s (for longer nouns like Computer → Computers) in addition to changing the article. Feminine and plural nouns take no ending at all on the noun itself — only the article changes.
+
+Unlike English, German never uses an apostrophe before this -s, even with proper names:
+- Das ist Peters Buch. (This is Peter's book.) — not "Peter's Buch"
+
+A small set of prepositions take the genitive: trotz (despite), während (during), wegen (because of), (an)statt (instead of).
+- Während seiner Zeit ... (During his time ...)
+- Trotz ihres hohen Alters ... (Despite her old age ...)
+
+An important practical note: in everyday spoken German, the genitive is often felt to be formal or old-fashioned, and is commonly replaced with von + dative instead:
+- Formal/written: Das ist das Auto meines Bruders.
+- Common in speech: Das ist das Auto von meinem Bruder.
+Both are correct; the genitive is more common in writing, von + dative is more common in casual conversation.
+
+CONJUGATION TABLE
+(Not applicable.)
+
+VOCABULARY
+- die Tasche (dee TAH-she) — the bag
+- die Tante (dee TAHN-te) — the aunt
+- das Spielzeug (dahs SHPEEL-tsoyk) — the toy
+- die Meinung (dee MY-noong) — the opinion
+- trotz (trots) — despite
+- während (VAY-rent) — during
+- wegen (VAY-gen) — because of
+- das Alter (dahs AHL-ter) — the age
+- die Zeit (dee tsyt) — the time
+- der Bruder (dair BROO-der) — the brother
+
+EXAMPLES
+- Das ist das Auto meiner Tante. — That is my aunt's car.
+- Das ist die Meinung der Gäste. — That is the guests' opinion.
+- Das ist Peters Buch. — This is Peter's book. (no apostrophe)
+- Wegen des Wetters bleiben wir zu Hause. — Because of the weather, we're staying home.
+- Das Auto meines Bruders → Das Auto von meinem Bruder — the same idea, formal genitive vs. everyday spoken alternative.
+
+NOTES
+At a beginner-to-intermediate level, you'll get far more mileage from recognizing the genitive when you read or hear it than from producing it fluently yourself — leaning on von + dative in your own speech is completely natural and won't mark you as incorrect.
+
+PRACTICE
+1. Add the correct genitive ending to: der Mann → des Mann___, das Kind → des Kind___.
+2. Translate using the genitive: "my aunt's car"
+3. Rewrite "Das Auto meines Bruders" using the von + dative alternative.
+4. Why is there no apostrophe in "Peters Buch"?
+5. Which two case endings does a short masculine noun like Mann typically take together in the genitive (article AND noun ending)?
+
+====
+
+LESSON 18: Personal Pronouns in All Cases
+
+OVERVIEW
+You already know the German subject pronouns (ich, du, er, sie, es, wir, ihr, sie/Sie) from earlier lessons — those are simply the nominative forms. Just like the articles you've been drilling, pronouns change shape depending on case too. This lesson gives you the accusative and dative pronoun sets, which you'll need the moment a pronoun serves as an object rather than a subject.
+
+GRAMMAR
+In English, only a few pronouns change between subject and object form (I→me, he→him, she→her, we→us, they→them); most stay identical. In German, nearly every pronoun changes, and — true to the pattern you've now seen three times — it changes differently depending on whether it's in the accusative or the dative.
+
+A pronoun's gender always matches the grammatical gender of the noun it replaces, not the "real world" gender of the thing. Der Hund (dog, masculine) becomes er even though the dog's actual sex is unknown or irrelevant; die Brille (glasses, feminine) becomes sie.
+
+Accusative pronouns:
+| Nominative | Accusative |
+|------------|------------|
+| ich | mich |
+| du | dich |
+| Sie | Sie |
+| er | ihn |
+| sie | sie |
+| es | es |
+| wir | uns |
+| ihr | euch |
+| sie/Sie | sie/Sie |
+
+Dative pronouns:
+| Nominative | Dative |
+|------------|--------|
+| ich | mir |
+| du | dir |
+| Sie | Ihnen |
+| er | ihm |
+| sie | ihr |
+| es | ihm |
+| wir | uns |
+| ihr | euch |
+| sie/Sie | ihnen/Ihnen |
+
+Note that uns and euch are identical in both the accusative and dative — one less thing to memorize separately.
+
+CONJUGATION TABLE
+(Not applicable — see pronoun tables above.)
+
+VOCABULARY
+- mich (miH) — me (accusative)
+- dich (diH) — you, informal (accusative)
+- mir (meer) — me (dative)
+- dir (deer) — you, informal (dative)
+- ihm (eem) — him/it (dative)
+- ihr (eer) — her/it (dative — note: identical spelling to "her/their" possessive, context distinguishes)
+- lieben (LEE-ben) — to love
+- besuchen (be-ZOO-khen) — to visit
+- zeigen (TSY-gen) — to show
+- Es tut mir leid. (es toot meer lyt) — I'm sorry (literally "it does to me sorrow")
+
+EXAMPLES
+- Siehst du mich? — Do you see me? (accusative)
+- Ich liebe dich. — I love you. (accusative)
+- Er besucht uns. — He is visiting us. (accusative)
+- Gib mir die Flasche Wein, bitte. — Give me the bottle of wine, please. (dative)
+- Ich danke Ihnen. — I thank you. (formal, dative)
+
+NOTES
+A fast way to check which set you need: ask whether the pronoun is a direct object (accusative — "sees whom?", "loves whom?") or an indirect object / following a dative verb or preposition (dative — "gives to whom?", "helps whom?", "thanks whom?"). This is exactly the same test you've already been applying to full nouns in Lessons 15 and 16 — pronouns just follow the identical logic in a shorter package.
+
+PRACTICE
+1. Replace "den Mann" with the correct accusative pronoun in: "Ich sehe den Mann."
+2. Replace "dem Mann" with the correct dative pronoun in: "Ich folge dem Mann."
+3. Translate: "Can you help me?" (helfen requires dative)
+4. Translate: "The flowers are for you." (für requires accusative)
+5. Explain why "sie" can mean "she," "they," or "her/them" depending on context and case.
+
+====
+
+LESSON 19: Possessive Adjectives
+
+OVERVIEW
+Possessive adjectives — my, your, his, her, our, their — work almost exactly like the indefinite article ein/eine/ein in German, which means if you've already internalized ein-endings, you're most of the way to mastering possessives too. This lesson maps out the full possessive set and shows how their endings shift across all four cases.
+
+GRAMMAR
+The base possessive adjectives, one per pronoun:
+| Pronoun | Possessive | Meaning |
+|---------|------------|---------|
+| ich | mein | my |
+| du | dein | your (informal) |
+| Sie | Ihr | your (formal) |
+| er | sein | his |
+| sie | ihr | her |
+| es | sein | its |
+| wir | unser | our |
+| ihr | euer | your (informal plural) |
+| sie/Sie | ihr/Ihr | their/your (formal) |
+
+Possessive adjectives take endings that agree with the gender, number, and case of the noun that follows them — and those endings follow the exact same pattern as the indefinite article ein, which you already know from Lessons 13–17.
+
+Nominative: no ending before masculine/neuter nouns; add -e before feminine/plural nouns.
+- Das ist mein Bruder. (This is my brother.) / Das ist meine Mutter. (This is my mother.)
+
+Accusative: add -en before masculine nouns (matching ein→einen); add -e before feminine/plural.
+- Sie trifft ihren Bruder. (She meets her brother.) / Sie trifft ihre Schwester. (She meets her sister.)
+
+Dative: add -em before masculine/neuter nouns; add -er before feminine; add -en in the plural.
+- Er spricht mit seinem Bruder. (He talks with his brother.) / Er spricht mit seiner Schwester. (He talks with his sister.)
+
+Genitive: add -es before masculine/neuter nouns; add -er before feminine/plural (rarely used in speech, per Lesson 17).
+- Das ist der Freund unseres Sohnes. (This is our son's friend.)
+
+One spelling quirk: euer (your, informal plural) drops its middle -e- before feminine or plural endings: Ist das eure Mutter? (Is that your mother?) — not "eure" with the base "euer" stem intact.
+
+CONJUGATION TABLE
+mein (my) across all four cases, masculine noun Bruder / feminine noun Mutter:
+| Case | + Masculine | + Feminine |
+|------|-------------|------------|
+| Nominative | mein Bruder | meine Mutter |
+| Accusative | meinen Bruder | meine Mutter |
+| Dative | meinem Bruder | meiner Mutter |
+| Genitive | meines Bruders | meiner Mutter |
+
+VOCABULARY
+- mein/meine (myn/MY-ne) — my
+- dein/deine (dyn/DY-ne) — your (informal)
+- sein/seine (zyn/ZY-ne) — his
+- ihr/ihre (eer/EE-re) — her
+- unser/unsere (OON-zer/OON-ze-re) — our
+- euer/eure (OY-er/OY-re) — your (informal plural)
+- die Mutter (dee MOO-ter) — the mother
+- die Schwester (dee SHVES-ter) — the sister
+- die Eltern (dee EL-tern) — the parents
+- die Geschwister (dee ge-SHVIS-ter) — the siblings
+
+EXAMPLES
+- Meine Geschwister wohnen in Berlin. — My siblings live in Berlin.
+- Sie sieht ihr Kind. — She sees her child.
+- Er spricht mit seinen Eltern. — He talks with his parents.
+- Ist das eure Mutter? — Is that your (plural informal) mother?
+- Das ist der Freund unserer Tochter. — This is our daughter's friend.
+
+NOTES
+Because possessive endings mirror the ein-endings you already learned for the indefinite article, the fastest way to master this lesson is to mentally substitute "ein" for whichever possessive you're using, apply the ein-ending rule you already know, then swap the possessive back in. If you already know ein → einen for masculine accusative, you already know mein → meinen.
+
+PRACTICE
+1. Give the correct form of "sein" (his) before: der Bruder (nominative), die Schwester (accusative), das Kind (dative).
+2. Translate: "He talks to his sister." (dative)
+3. Fill in the blank: "Ist das ___ Mutter?" using euer correctly adjusted for a feminine noun.
+4. Translate: "This is the friend of our son." (genitive)
+5. Explain the shortcut connecting possessive-adjective endings to the indefinite article ein.
+
+####
