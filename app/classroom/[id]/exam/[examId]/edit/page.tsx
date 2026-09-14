@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import { Plus } from "@phosphor-icons/react/dist/ssr";
 import { prisma } from "@/lib/prisma";
 import { PageContainer } from "@/components/PageContainer";
 import { BackLink } from "@/components/BackLink";
@@ -26,14 +27,12 @@ export default async function ExamEditPage({
     <PageContainer>
       <BackLink href={`/classroom/${id}/exam/${examId}`} label={`Back to ${exam.title}`} />
 
-      <h1 className="font-display text-2xl font-bold tracking-tight text-ink">
-        Edit: {exam.title}
-      </h1>
+      <h1 className="text-2xl font-semibold tracking-tight text-ink">Edit: {exam.title}</h1>
       <p className="mt-1 text-sm text-ink-muted">
-        Exam builder placeholder — question editing isn&apos;t wired up yet.
+        Exam builder placeholder. Question editing isn&apos;t wired up yet.
       </p>
 
-      <div className="mt-6 space-y-2.5">
+      <div className="mt-6 space-y-2">
         {exam.questions.length === 0 ? (
           <Card className="border-dashed p-8 text-center text-sm text-ink-muted">
             No questions yet.
@@ -42,14 +41,15 @@ export default async function ExamEditPage({
           exam.questions.map((question) => (
             <Card key={question.id} className="px-4 py-3.5">
               <Badge variant="neutral">{question.type.replace("_", " ")}</Badge>
-              <p className="mt-2 text-sm font-semibold text-ink">{question.prompt}</p>
+              <p className="mt-2 text-sm font-medium text-ink">{question.prompt}</p>
             </Card>
           ))
         )}
       </div>
 
       <Button disabled className="mt-6">
-        + Add Question
+        <Plus weight="bold" className="size-3.5" />
+        Add Question
       </Button>
     </PageContainer>
   );

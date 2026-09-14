@@ -1,28 +1,26 @@
-// Shared bubbly button styling — used on both <button> and <Link> elements,
-// so form submits and navigation links look identical.
+// Shared button styling — used on both <button> and <Link> elements, so
+// form submits and navigation links look identical.
 
 export type ButtonVariant = "primary" | "secondary" | "success" | "ghost";
 export type ButtonSize = "md" | "sm";
 
 const base =
-  "inline-flex items-center justify-center gap-2 rounded-full font-display font-semibold " +
-  "transition-all duration-150 ease-out focus-visible:outline-none focus-visible:ring-2 " +
-  "focus-visible:ring-caramel focus-visible:ring-offset-2 focus-visible:ring-offset-cream " +
-  "disabled:cursor-not-allowed disabled:opacity-60 disabled:shadow-none";
+  "inline-flex items-center justify-center gap-2 rounded-lg font-medium " +
+  "transition-colors duration-150 ease-out focus-visible:outline-none focus-visible:ring-2 " +
+  "focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-bg " +
+  "active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50 disabled:active:scale-100";
 
 const variants: Record<ButtonVariant, string> = {
-  primary:
-    "bg-caramel text-cream shadow-bubble hover:bg-caramel-dark hover:shadow-bubble-hover hover:-translate-y-0.5 active:translate-y-0",
+  primary: "bg-accent text-white hover:bg-accent-hover",
   secondary:
-    "bg-beige text-ink border-2 border-beige-dark hover:bg-beige-hover hover:-translate-y-0.5 active:translate-y-0",
-  success:
-    "bg-success-light text-success-dark border-2 border-success/40 shadow-none cursor-default",
-  ghost: "bg-beige/60 text-ink-muted hover:bg-beige hover:text-ink",
+    "border border-border-strong bg-surface text-ink hover:bg-surface-hover",
+  success: "border border-success/30 bg-success-soft text-success-ink cursor-default",
+  ghost: "text-ink-muted hover:bg-surface-hover hover:text-ink",
 };
 
 const sizes: Record<ButtonSize, string> = {
-  md: "px-5 py-2.5 text-sm",
-  sm: "px-4 py-1.5 text-xs",
+  md: "px-4 py-2 text-sm",
+  sm: "px-3 py-1.5 text-xs",
 };
 
 export function buttonStyles(

@@ -8,8 +8,9 @@ import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 
 const fieldStyles =
-  "mt-1.5 w-full rounded-2xl border-2 border-beige-dark/50 bg-cream px-4 py-2.5 text-sm text-ink " +
-  "placeholder:text-ink-faint disabled:cursor-not-allowed disabled:opacity-60";
+  "mt-1.5 w-full rounded-lg border border-border-strong bg-surface px-3.5 py-2.5 text-sm text-ink " +
+  "placeholder:text-ink-faint focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent " +
+  "disabled:cursor-not-allowed disabled:opacity-60";
 
 export default function NewClassroomPage() {
   const router = useRouter();
@@ -32,7 +33,7 @@ export default function NewClassroomPage() {
       });
       const body = await res.json().catch(() => null);
       if (!res.ok) {
-        setError(body?.error ?? "Couldn't create classroom — try again.");
+        setError(body?.error ?? "Couldn't create classroom. Try again.");
         return;
       }
       router.push(`/classroom/${body.id}`);
@@ -46,13 +47,13 @@ export default function NewClassroomPage() {
     <PageContainer>
       <BackLink href="/" label="Back to Dashboard" />
 
-      <h1 className="font-display text-2xl font-bold tracking-tight text-ink">New Classroom</h1>
-      <p className="mt-1.5 text-ink-muted">Add a language you want to start learning.</p>
+      <h1 className="text-2xl font-semibold tracking-tight text-ink">New Classroom</h1>
+      <p className="mt-1.5 text-sm text-ink-muted">Add a language you want to start learning.</p>
 
       <Card className="mt-8 max-w-lg p-6">
         <form onSubmit={handleSubmit} className="space-y-5">
           <div>
-            <label htmlFor="language" className="text-sm font-semibold text-ink">
+            <label htmlFor="language" className="text-sm font-medium text-ink">
               Language
             </label>
             <input
@@ -68,7 +69,7 @@ export default function NewClassroomPage() {
           </div>
 
           <div>
-            <label htmlFor="level" className="text-sm font-semibold text-ink">
+            <label htmlFor="level" className="text-sm font-medium text-ink">
               Level <span className="font-normal text-ink-faint">(optional)</span>
             </label>
             <input
@@ -83,7 +84,7 @@ export default function NewClassroomPage() {
           </div>
 
           {error && (
-            <p className="rounded-2xl bg-danger-light px-4 py-2.5 text-sm font-semibold text-danger-dark">
+            <p className="rounded-lg bg-danger-soft px-4 py-2.5 text-sm font-medium text-danger-ink">
               {error}
             </p>
           )}

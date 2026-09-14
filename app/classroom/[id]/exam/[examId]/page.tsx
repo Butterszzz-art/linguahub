@@ -27,10 +27,10 @@ export default async function ExamPage({
       <BackLink href={`/classroom/${id}`} label={`Back to ${exam.classroom.language}`} />
 
       <div className="flex items-center justify-between">
-        <h1 className="font-display text-2xl font-bold tracking-tight text-ink">{exam.title}</h1>
+        <h1 className="text-2xl font-semibold tracking-tight text-ink">{exam.title}</h1>
         <Link
           href={`/classroom/${id}/exam/${examId}/edit`}
-          className="text-sm font-semibold text-caramel hover:text-caramel-dark hover:underline"
+          className="text-sm font-medium text-accent hover:text-accent-hover"
         >
           Edit exam
         </Link>

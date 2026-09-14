@@ -1,11 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Plus } from "@phosphor-icons/react/dist/ssr";
 import { prisma } from "@/lib/prisma";
 import { languageEmoji } from "@/lib/languageEmoji";
 import { PageContainer } from "@/components/PageContainer";
 import { BackLink } from "@/components/BackLink";
 import { Card } from "@/components/ui/Card";
-import { Badge } from "@/components/ui/Badge";
+import { Badge, StreakBadge } from "@/components/ui/Badge";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 import { ClassworkTab } from "@/components/classroom/ClassworkTab";
 import { ProgressTab } from "@/components/classroom/ProgressTab";
@@ -50,22 +51,18 @@ export default async function ClassroomPage({
 
       <div className="flex flex-wrap items-center justify-between gap-4">
         <div className="flex items-center gap-3">
-          <span className="flex h-12 w-12 items-center justify-center rounded-full bg-beige font-display text-sm font-bold text-caramel-dark shadow-bubble">
+          <span className="flex size-11 items-center justify-center rounded-full bg-surface-hover text-xs font-semibold text-ink">
             {languageEmoji(classroom.language)}
           </span>
           <div>
-            <h1 className="font-display text-3xl font-bold tracking-tight text-ink">
-              {classroom.language}
-            </h1>
-            {classroom.level && <Badge variant="caramel" className="mt-1">{classroom.level}</Badge>}
+            <h1 className="text-2xl font-semibold tracking-tight text-ink">{classroom.language}</h1>
+            {classroom.level && <Badge variant="accent" className="mt-1">{classroom.level}</Badge>}
           </div>
         </div>
 
         <div className="flex flex-wrap items-center gap-4">
           {classroom.streakCount > 0 && (
-            <Badge variant="caramel">
-              🔥 {classroom.streakCount}-day streak
-            </Badge>
+            <StreakBadge count={classroom.streakCount} className="px-3 py-1.5 text-sm" />
           )}
           <div className="w-full max-w-56 sm:w-56">
             <ProgressBar value={completedCount} max={allLessons.length} label="Overall progress" size="sm" />
@@ -73,7 +70,7 @@ export default async function ClassroomPage({
         </div>
       </div>
 
-      <div className="mt-7 flex gap-1.5 border-b-2 border-beige-dark/40">
+      <div className="mt-7 flex gap-1 border-b border-border">
         {TABS.map((t) => {
           const active = tab === t.key;
           return (
@@ -82,8 +79,8 @@ export default async function ClassroomPage({
               href={`/classroom/${id}?tab=${t.key}`}
               className={
                 active
-                  ? "-mb-0.5 rounded-t-xl border-b-2 border-caramel px-4 py-2.5 font-display text-sm font-bold text-ink"
-                  : "-mb-0.5 rounded-t-xl border-b-2 border-transparent px-4 py-2.5 font-display text-sm font-bold text-ink-muted transition-colors hover:text-ink"
+                  ? "-mb-px border-b-2 border-accent px-3 py-2.5 text-sm font-semibold text-ink"
+                  : "-mb-px border-b-2 border-transparent px-3 py-2.5 text-sm font-medium text-ink-muted transition-colors hover:text-ink"
               }
             >
               {t.label}
@@ -106,26 +103,25 @@ export default async function ClassroomPage({
           {tab === "classwork" && (
             <Link
               href={`/classroom/${id}/upload`}
-              className="block rounded-2xl border-2 border-dashed border-beige-dark/50 px-4 py-3.5 text-center text-sm font-semibold text-ink-muted transition-colors hover:border-caramel hover:text-caramel-dark"
+              className="flex items-center justify-center gap-1.5 rounded-xl border border-dashed border-border-strong px-4 py-3.5 text-sm font-medium text-ink-muted transition-colors hover:border-accent hover:text-accent"
             >
-              + Upload a lesson
+              <Plus weight="bold" className="size-3.5" />
+              Upload a lesson
             </Link>
           )}
 
           <div>
-            <h2 className="font-display text-sm font-bold uppercase tracking-wide text-ink-muted">
-              Exams
-            </h2>
+            <h2 className="text-xs font-semibold uppercase tracking-wide text-ink-muted">Exams</h2>
             {classroom.exams.length === 0 ? (
               <Card className="mt-2.5 border-dashed p-6 text-center text-sm text-ink-muted">
                 No exams yet for this classroom.
               </Card>
             ) : (
-              <ul className="mt-2.5 space-y-2.5">
+              <ul className="mt-2.5 space-y-2">
                 {classroom.exams.map((exam) => (
                   <li key={exam.id}>
                     <Link href={`/classroom/${classroom.id}/exam/${exam.id}`} className="block">
-                      <Card className="px-4 py-3.5 text-sm font-semibold text-ink transition-all duration-150 ease-out hover:-translate-y-0.5 hover:shadow-bubble-hover">
+                      <Card className="px-4 py-3.5 text-sm font-medium text-ink transition-shadow duration-150 ease-out hover:shadow-sm">
                         {exam.title}
                       </Card>
                     </Link>

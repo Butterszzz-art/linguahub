@@ -1,5 +1,6 @@
 // Server component — no interactivity needed, so it renders straight from
 // the data the classroom page already fetched.
+import { Fire } from "@phosphor-icons/react/dist/ssr";
 import { Card } from "@/components/ui/Card";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 import { formatDuration } from "@/lib/formatDuration";
@@ -14,30 +15,28 @@ export function ProgressTab({ streakCount, units }: { streakCount: number; units
 
   return (
     <div className="space-y-7">
-      <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
         <Card className="p-5 text-center">
-          <p className="font-display text-3xl font-bold text-ink">
-            {streakCount > 0 ? "🔥 " : ""}
+          <p className="flex items-center justify-center gap-1.5 text-2xl font-semibold tabular-nums text-ink">
+            {streakCount > 0 && <Fire weight="fill" className="size-5 text-streak" />}
             {streakCount}
           </p>
-          <p className="mt-1 text-sm font-semibold text-ink-muted">
-            Day streak{streakCount === 1 ? "" : "s"}
-          </p>
+          <p className="mt-1 text-sm text-ink-muted">Day streak{streakCount === 1 ? "" : "s"}</p>
         </Card>
         <Card className="p-5 text-center">
-          <p className="font-display text-3xl font-bold text-ink">{completedCount}</p>
-          <p className="mt-1 text-sm font-semibold text-ink-muted">
+          <p className="text-2xl font-semibold tabular-nums text-ink">{completedCount}</p>
+          <p className="mt-1 text-sm text-ink-muted">
             Lesson{completedCount === 1 ? "" : "s"} completed
           </p>
         </Card>
         <Card className="p-5 text-center">
-          <p className="font-display text-3xl font-bold text-ink">{formatDuration(totalSeconds)}</p>
-          <p className="mt-1 text-sm font-semibold text-ink-muted">Time studied</p>
+          <p className="text-2xl font-semibold tabular-nums text-ink">{formatDuration(totalSeconds)}</p>
+          <p className="mt-1 text-sm text-ink-muted">Time studied</p>
         </Card>
       </div>
 
       <div>
-        <h2 className="font-display text-sm font-bold uppercase tracking-wide text-ink-muted">
+        <h2 className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
           Per-unit progress
         </h2>
         {units.length === 0 ? (
@@ -45,7 +44,7 @@ export function ProgressTab({ streakCount, units }: { streakCount: number; units
             No units yet.
           </Card>
         ) : (
-          <div className="mt-2.5 space-y-3">
+          <div className="mt-2.5 space-y-2.5">
             {units.map((unit) => {
               const unitCompleted = unit.lessons.filter((l) => l.status === "completed").length;
               return (

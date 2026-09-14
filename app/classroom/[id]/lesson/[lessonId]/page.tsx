@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import { Check } from "@phosphor-icons/react/dist/ssr";
 import { prisma } from "@/lib/prisma";
 import { PageContainer } from "@/components/PageContainer";
 import { BackLink } from "@/components/BackLink";
@@ -31,12 +32,10 @@ export default async function LessonPage({
       <LessonOpenTracker lessonId={lesson.id} classroomId={id} />
       <BackLink href={`/classroom/${id}`} label={`Back to ${lesson.unit.classroom.language}`} />
 
-      <p className="font-display text-xs font-bold uppercase tracking-wide text-ink-muted">
+      <p className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
         {lesson.unit.title}
       </p>
-      <h1 className="mt-1 font-display text-2xl font-bold tracking-tight text-ink">
-        {lesson.title}
-      </h1>
+      <h1 className="mt-1 text-2xl font-semibold tracking-tight text-ink">{lesson.title}</h1>
 
       {/*
         Lessons may be self-contained interactive HTML (their own <style>/<script> —
@@ -53,7 +52,8 @@ export default async function LessonPage({
         <input type="hidden" name="lessonId" value={lesson.id} />
         <input type="hidden" name="classroomId" value={id} />
         <Button type="submit" variant={isCompleted ? "success" : "primary"} disabled={isCompleted}>
-          {isCompleted ? "✓ Completed" : "Mark as complete"}
+          {isCompleted && <Check weight="bold" className="size-3.5" />}
+          {isCompleted ? "Completed" : "Mark as complete"}
         </Button>
       </form>
     </PageContainer>

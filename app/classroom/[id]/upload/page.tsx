@@ -24,10 +24,10 @@ export default async function UploadLessonPage({
     <PageContainer>
       <BackLink href={`/classroom/${id}`} label={`Back to ${classroom.language}`} />
 
-      <h1 className="font-display text-2xl font-bold tracking-tight text-ink">
-        Upload a Lesson — {classroom.language}
+      <h1 className="text-2xl font-semibold tracking-tight text-ink">
+        Upload a Lesson: {classroom.language}
       </h1>
-      <p className="mt-1.5 text-ink-muted">
+      <p className="mt-1.5 text-sm text-ink-muted">
         Pick or create a unit, paste or drop the lesson&apos;s HTML, and preview it before saving.
       </p>
 
