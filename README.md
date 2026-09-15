@@ -179,16 +179,22 @@ app/
   classroom/[id]/exam/[examId]/page.tsx    Exam page (placeholder)
   classroom/[id]/exam/[examId]/edit/page.tsx  Exam builder (placeholder)
   classroom/[id]/conversation/[conversationId]/page.tsx  Conversation practice chat
+  classroom/[id]/import/page.tsx           Import a course from a PDF URL
   upload/page.tsx                          Lesson upload form (UI only)
   api/conversations/route.ts               Start a conversation
   api/conversations/[id]/messages/route.ts  Send a message, get the AI reply
   api/lessons/[id]/enrich/route.ts         Run AI enrichment on a lesson
+  api/import/detect-units/route.ts         Fetch+extract+split a PDF, return detected units for review
+  api/import/generate-lessons/route.ts     Restructure+render selected units into real lessons
 components/                                Shared layout pieces (nav, page container, LessonFrame, etc.)
 components/conversation/                   Conversation practice UI (start button, chat)
+components/import/                         PDF-import UI (URL form, unit review/selection)
 lib/prisma.ts                              Prisma client singleton
 lib/openrouter.ts                          Shared OpenRouter (openrouter.ai) chat-completions client
 lib/conversationProvider.ts                Conversation-practice system prompt + reply
 lib/contentEnrichment.ts                   Lesson-enrichment prompt + response parsing
+lib/lessonRenderer.ts                      Structured sections -> lesson HTML (shared with PDF import)
+lib/pdfImport/                             Fetch/extract/split/restructure pipeline for PDF import
 prisma/schema.prisma                       Database schema
 prisma/seed.ts                             Sample data seed script
 prisma/seed-portuguese.ts                  Optional real-content seed script (see below)
@@ -264,6 +270,39 @@ lesson's plain-text content (its HTML stripped via `sanitize-html`) into a short
 above actually work: without it, the conversation partner would only know a lesson's *title*, not
 what it covers. Enrichment is manual/on-demand (a button, not automatic on upload) since it's an
 extra API call with its own cost/latency.
+
+## Importing a course from a PDF URL
+
+"📥 Import from URL" on a classroom page (`app/classroom/[id]/import/`) fetches a course PDF from
+a URL, extracts its text ([lib/pdfImport/extractPdfText.ts](lib/pdfImport/extractPdfText.ts) —
+text-layer PDFs only; a scanned-image PDF with no text layer raises a clear error rather than
+silently importing nothing), splits it into per-unit chunks by heading pattern
+([lib/pdfImport/splitUnits.ts](lib/pdfImport/splitUnits.ts) — tries `UNIT N`, `LESSON N`,
+`UNIDAD N`, `CHAPTER N` in turn), and shows the detected units for review **before** anything is
+saved or sent to an API — a bad automated split is meant to be obvious and cheap to fix at this
+step, not discovered after fifteen API calls.
+
+Once you confirm which detected units to import, each one's raw text is restructured by the same
+OpenRouter client as conversation practice/enrichment
+([lib/pdfImport/restructureUnit.ts](lib/pdfImport/restructureUnit.ts) — a third job against
+`lib/openrouter.ts`) into the app's standard lesson sections, then rendered through
+[lib/lessonRenderer.ts](lib/lessonRenderer.ts) — a generalized, parameterized version of the
+rendering half of `scripts/generate-italian-content.ts` (and its French/German/Turkish siblings),
+so imported lessons look identical to hand-authored ones. One unit failing to restructure doesn't
+sink the rest of the batch — each is attempted independently and reported per-unit.
+
+Fetching a user-supplied URL from the server is a classic SSRF vector (e.g. a "PDF URL" of
+`http://169.254.169.254/...` reaching into the server's own network), so
+[lib/pdfImport/fetchPdfBuffer.ts](lib/pdfImport/fetchPdfBuffer.ts) resolves the hostname and
+refuses anything that lands on a loopback/private/link-local address before fetching it, on top of
+the existing http(s)-only and file-size/signature checks.
+
+**This is built for genuinely open-license/public-domain sources** — it was scoped specifically
+around the U.S. government's FSI (Foreign Service Institute) course volumes, which are public
+domain. It is NOT a general-purpose scraper: pointing it at a copyrighted commercial course's
+website would import that site's copyrighted content just as surely as scanning a copyrighted
+textbook would, regardless of the source being a URL instead of a file. Restrict what you point
+this at accordingly.
 
 ## Lesson rendering
 

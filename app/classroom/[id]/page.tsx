@@ -112,6 +112,12 @@ export default async function ClassroomPage({
               >
                 + Upload a lesson
               </Link>
+              <Link
+                href={`/classroom/${id}/import`}
+                className="block rounded-2xl border-2 border-dashed border-beige-dark/50 px-4 py-3.5 text-center text-sm font-semibold text-ink-muted transition-colors hover:border-caramel hover:text-caramel-dark"
+              >
+                📥 Import from URL
+              </Link>
 
               <Card className="p-5">
                 <h2 className="font-display text-sm font-bold uppercase tracking-wide text-ink-muted">
