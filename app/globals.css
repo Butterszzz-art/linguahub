@@ -2,98 +2,123 @@
 @plugin "@tailwindcss/typography";
 
 /*
-  LinguaHub palette — warm & bubbly.
-  Light mode: white / beige / dark-beige neutrals, caramel accent for
-  progress + primary actions, earthy green/red for reward/fail states.
-  Dark mode redefines the same roles on a warm chocolate-brown base.
+  LinguaHub palette — neutral zinc base, one confident accent (cobalt).
+  Amber is reserved exclusively for the streak indicator; it's a semantic
+  state color like success/danger, not a second brand accent.
+
+  Shape system (kept consistent everywhere, do not mix):
+    - controls (button, input, select, textarea) -> rounded-lg  (8px)
+    - cards / panels / surfaces                  -> rounded-xl  (12px)
+    - badges / avatars / status chips             -> rounded-full
 */
 :root {
-  --color-cream: #fdf9f2;
-  --color-beige: #f3e7d6;
-  --color-beige-hover: #ecdcc4;
-  --color-beige-dark: #d9bd97;
-  --color-beige-darker: #c2a077;
+  --color-bg: #fafafa;
+  --color-surface: #ffffff;
+  --color-surface-hover: #f4f4f5;
 
-  --color-ink: #3a2c21;
-  --color-ink-muted: #8a7663;
-  --color-ink-faint: #b3a08a;
+  --color-border: #e4e4e7;
+  --color-border-strong: #d4d4d8;
 
-  --color-caramel: #c17f3f;
-  --color-caramel-dark: #a1672f;
-  --color-caramel-light: #f0d9b8;
+  --color-ink: #18181b;
+  --color-ink-muted: #71717a;
+  --color-ink-faint: #a1a1aa;
 
-  --color-success: #5f9c56;
-  --color-success-dark: #3f6b37;
-  --color-success-light: #dcebd1;
+  --color-accent: #3452eb;
+  --color-accent-hover: #2740c9;
+  --color-accent-soft: #eaedfd;
+  --color-accent-soft-ink: #2740c9;
 
-  --color-danger: #c4574b;
-  --color-danger-dark: #973d33;
-  --color-danger-light: #f5d9d3;
+  --color-success: #16a34a;
+  --color-success-soft: #eaf6ee;
+  --color-success-ink: #157f3b;
 
-  --shadow-bubble: 0 1px 2px rgba(58, 44, 33, 0.06), 0 8px 20px -6px rgba(58, 44, 33, 0.12);
-  --shadow-bubble-hover: 0 2px 4px rgba(58, 44, 33, 0.08), 0 14px 28px -8px rgba(58, 44, 33, 0.18);
+  --color-danger: #dc2626;
+  --color-danger-soft: #fceaea;
+  --color-danger-ink: #b91c1c;
+
+  --color-streak: #d97706;
+  --color-streak-soft: #fef3e2;
+  --color-streak-ink: #a15b04;
+
+  --shadow-xs: 0 1px 2px rgba(24, 24, 27, 0.04);
+  --shadow-sm: 0 1px 2px rgba(24, 24, 27, 0.04), 0 1px 6px -1px rgba(24, 24, 27, 0.06);
+  --shadow-md: 0 4px 16px -4px rgba(24, 24, 27, 0.12), 0 1px 2px rgba(24, 24, 27, 0.05);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-cream: #241a12;
-    --color-beige: #33261b;
-    --color-beige-hover: #3d2e21;
-    --color-beige-dark: #4f3c2b;
-    --color-beige-darker: #6b543c;
+    --color-bg: #0a0a0b;
+    --color-surface: #17171a;
+    --color-surface-hover: #1f1f23;
 
-    --color-ink: #f3e7d6;
-    --color-ink-muted: #c7b39a;
-    --color-ink-faint: #8a7663;
+    --color-border: #27272a;
+    --color-border-strong: #3f3f46;
 
-    --color-caramel: #d99a53;
-    --color-caramel-dark: #e8b578;
-    --color-caramel-light: #4a3722;
+    --color-ink: #fafafa;
+    --color-ink-muted: #a1a1aa;
+    --color-ink-faint: #71717a;
 
-    --color-success: #7fb86f;
-    --color-success-dark: #a3d494;
-    --color-success-light: #2b3f26;
+    --color-accent: #6c86ff;
+    --color-accent-hover: #8aa0ff;
+    --color-accent-soft: #182142;
+    --color-accent-soft-ink: #aebcff;
 
-    --color-danger: #dd7f70;
-    --color-danger-dark: #e8a297;
-    --color-danger-light: #422620;
+    --color-success: #4ade80;
+    --color-success-soft: #142418;
+    --color-success-ink: #86efac;
 
-    --shadow-bubble: 0 1px 2px rgba(0, 0, 0, 0.2), 0 8px 20px -6px rgba(0, 0, 0, 0.35);
-    --shadow-bubble-hover: 0 2px 4px rgba(0, 0, 0, 0.25), 0 14px 28px -8px rgba(0, 0, 0, 0.45);
+    --color-danger: #f87171;
+    --color-danger-soft: #2a1516;
+    --color-danger-ink: #fca5a5;
+
+    --color-streak: #fbbf24;
+    --color-streak-soft: #251d0c;
+    --color-streak-ink: #fcd34d;
+
+    --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 6px -1px rgba(0, 0, 0, 0.35);
+    --shadow-md: 0 4px 16px -4px rgba(0, 0, 0, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
   }
 }
 
 @theme inline {
-  --color-cream: var(--color-cream);
-  --color-beige: var(--color-beige);
-  --color-beige-hover: var(--color-beige-hover);
-  --color-beige-dark: var(--color-beige-dark);
-  --color-beige-darker: var(--color-beige-darker);
+  --color-bg: var(--color-bg);
+  --color-surface: var(--color-surface);
+  --color-surface-hover: var(--color-surface-hover);
+
+  --color-border: var(--color-border);
+  --color-border-strong: var(--color-border-strong);
 
   --color-ink: var(--color-ink);
   --color-ink-muted: var(--color-ink-muted);
   --color-ink-faint: var(--color-ink-faint);
 
-  --color-caramel: var(--color-caramel);
-  --color-caramel-dark: var(--color-caramel-dark);
-  --color-caramel-light: var(--color-caramel-light);
+  --color-accent: var(--color-accent);
+  --color-accent-hover: var(--color-accent-hover);
+  --color-accent-soft: var(--color-accent-soft);
+  --color-accent-soft-ink: var(--color-accent-soft-ink);
 
   --color-success: var(--color-success);
-  --color-success-dark: var(--color-success-dark);
-  --color-success-light: var(--color-success-light);
+  --color-success-soft: var(--color-success-soft);
+  --color-success-ink: var(--color-success-ink);
 
   --color-danger: var(--color-danger);
-  --color-danger-dark: var(--color-danger-dark);
-  --color-danger-light: var(--color-danger-light);
+  --color-danger-soft: var(--color-danger-soft);
+  --color-danger-ink: var(--color-danger-ink);
 
-  --shadow-bubble: var(--shadow-bubble);
-  --shadow-bubble-hover: var(--shadow-bubble-hover);
+  --color-streak: var(--color-streak);
+  --color-streak-soft: var(--color-streak-soft);
+  --color-streak-ink: var(--color-streak-ink);
 
-  --font-sans: var(--font-quicksand);
-  --font-display: var(--font-fredoka);
+  --shadow-xs: var(--shadow-xs);
+  --shadow-sm: var(--shadow-sm);
+  --shadow-md: var(--shadow-md);
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
 }
 
 ::selection {
-  background: var(--color-caramel-light);
-  color: var(--color-ink);
+  background: var(--color-accent-soft);
+  color: var(--color-accent-soft-ink);
 }

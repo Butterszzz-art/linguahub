@@ -6,6 +6,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState, useTransition, type FormEvent } from "react";
+import { CaretUp, CaretDown, ArrowRight } from "@phosphor-icons/react/dist/ssr";
 import { Card } from "@/components/ui/Card";
 import { Badge, statusBadgeProps } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
@@ -14,11 +15,12 @@ type Lesson = { id: string; title: string; order: number; status: string };
 type Unit = { id: string; title: string; order: number; lessons: Lesson[] };
 
 const reorderBtn =
-  "flex h-6 w-6 items-center justify-center rounded-full bg-beige text-xs font-bold text-ink-muted " +
-  "transition-colors hover:bg-beige-hover hover:text-ink disabled:cursor-not-allowed disabled:opacity-40";
+  "flex size-6 items-center justify-center rounded-md text-ink-faint " +
+  "transition-colors hover:bg-surface-hover hover:text-ink disabled:cursor-not-allowed disabled:opacity-40";
 
 const fieldStyles =
-  "w-full rounded-2xl border-2 border-beige-dark/50 bg-cream px-4 py-2 text-sm text-ink placeholder:text-ink-faint";
+  "w-full rounded-lg border border-border-strong bg-surface px-3.5 py-2 text-sm text-ink " +
+  "placeholder:text-ink-faint focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent";
 
 export function ClassworkTab({ classroomId, units }: { classroomId: string; units: Unit[] }) {
   const router = useRouter();
@@ -43,7 +45,7 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
       });
       if (!res.ok) {
         const body = await res.json().catch(() => null);
-        setError(body?.error ?? "Couldn't reorder — try again.");
+        setError(body?.error ?? "Couldn't reorder. Try again.");
         return;
       }
       startTransition(() => router.refresh());
@@ -67,7 +69,7 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
       });
       if (!res.ok) {
         const body = await res.json().catch(() => null);
-        setError(body?.error ?? "Couldn't create unit — try again.");
+        setError(body?.error ?? "Couldn't create unit. Try again.");
         return;
       }
       setNewUnitTitle("");
@@ -81,36 +83,39 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
   return (
     <div className="space-y-7">
       {nextLesson && (
-        <Card className="flex flex-wrap items-center justify-between gap-4 border-caramel/50 bg-caramel-light/40 p-5">
+        <Card className="flex flex-wrap items-center justify-between gap-4 border-l-2 border-l-accent p-5">
           <div>
-            <p className="text-xs font-bold uppercase tracking-wide text-caramel-dark">Continue</p>
-            <p className="mt-1 font-display text-lg font-bold text-ink">{nextLesson.title}</p>
+            <p className="text-xs font-semibold uppercase tracking-wide text-accent">Continue</p>
+            <p className="mt-1 text-base font-semibold text-ink">{nextLesson.title}</p>
             <p className="text-sm text-ink-muted">{nextLesson.unitTitle}</p>
           </div>
           <Link href={`/classroom/${classroomId}/lesson/${nextLesson.id}`}>
-            <Button>Continue →</Button>
+            <Button>
+              Continue
+              <ArrowRight weight="bold" className="size-3.5" />
+            </Button>
           </Link>
         </Card>
       )}
 
       {error && (
-        <p className="rounded-2xl bg-danger-light px-4 py-2.5 text-sm font-semibold text-danger-dark">
+        <p className="rounded-lg bg-danger-soft px-4 py-2.5 text-sm font-medium text-danger-ink">
           {error}
         </p>
       )}
 
       {units.length === 0 ? (
-        <Card className="border-dashed p-8 text-center text-ink-muted">
+        <Card className="border-dashed p-8 text-center text-sm text-ink-muted">
           No units yet for this classroom.
         </Card>
       ) : (
         units.map((unit, unitIndex) => (
           <div key={unit.id}>
             <div className="flex items-center justify-between gap-3">
-              <h2 className="font-display text-sm font-bold uppercase tracking-wide text-ink-muted">
+              <h2 className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
                 {unit.title}
               </h2>
-              <div className="flex items-center gap-1">
+              <div className="flex items-center gap-0.5">
                 <button
                   type="button"
                   disabled={pending || unitIndex === 0}
@@ -118,7 +123,7 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
                   className={reorderBtn}
                   aria-label={`Move ${unit.title} up`}
                 >
-                  ↑
+                  <CaretUp weight="bold" className="size-3.5" />
                 </button>
                 <button
                   type="button"
@@ -127,13 +132,13 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
                   className={reorderBtn}
                   aria-label={`Move ${unit.title} down`}
                 >
-                  ↓
+                  <CaretDown weight="bold" className="size-3.5" />
                 </button>
               </div>
             </div>
             <ul className="mt-2.5 space-y-2">
               {unit.lessons.length === 0 ? (
-                <li className="rounded-2xl border-2 border-dashed border-beige-dark/40 px-4 py-3 text-sm text-ink-faint">
+                <li className="rounded-lg border border-dashed border-border-strong px-4 py-3 text-sm text-ink-faint">
                   No lessons in this unit yet.
                 </li>
               ) : (
@@ -143,12 +148,12 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
                     <li key={lesson.id} className="flex items-center gap-2">
                       <Link
                         href={`/classroom/${classroomId}/lesson/${lesson.id}`}
-                        className="flex flex-1 items-center justify-between rounded-2xl border-2 border-beige-dark/40 bg-beige/60 px-4 py-3.5 text-sm font-semibold text-ink shadow-bubble transition-all duration-150 ease-out hover:-translate-y-0.5 hover:bg-beige-hover hover:shadow-bubble-hover"
+                        className="flex flex-1 items-center justify-between rounded-xl border border-border bg-surface px-4 py-3.5 text-sm font-medium text-ink shadow-xs transition-shadow duration-150 ease-out hover:shadow-sm"
                       >
                         <span>{lesson.title}</span>
                         <Badge variant={variant}>{label}</Badge>
                       </Link>
-                      <div className="flex flex-col gap-1">
+                      <div className="flex flex-col">
                         <button
                           type="button"
                           disabled={pending || lessonIndex === 0}
@@ -156,7 +161,7 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
                           className={reorderBtn}
                           aria-label={`Move ${lesson.title} up`}
                         >
-                          ↑
+                          <CaretUp weight="bold" className="size-3.5" />
                         </button>
                         <button
                           type="button"
@@ -165,7 +170,7 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
                           className={reorderBtn}
                           aria-label={`Move ${lesson.title} down`}
                         >
-                          ↓
+                          <CaretDown weight="bold" className="size-3.5" />
                         </button>
                       </div>
                     </li>
@@ -206,7 +211,7 @@ export function ClassworkTab({ classroomId, units }: { classroomId: string; unit
         <button
           type="button"
           onClick={() => setAddingUnit(true)}
-          className="text-sm font-semibold text-caramel hover:text-caramel-dark hover:underline"
+          className="text-sm font-medium text-accent hover:text-accent-hover"
         >
           + New Unit
         </button>

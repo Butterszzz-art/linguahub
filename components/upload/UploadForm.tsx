@@ -7,6 +7,7 @@
 // not from mangling the upload here.
 import { useRouter } from "next/navigation";
 import { useRef, useState, type DragEvent, type FormEvent } from "react";
+import { UploadSimple } from "@phosphor-icons/react/dist/ssr";
 import LessonFrame from "@/components/LessonFrame";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
@@ -16,8 +17,9 @@ const MAX_CONTENT_BYTES = 2 * 1024 * 1024; // keep in sync with app/api/lessons/
 type Unit = { id: string; title: string };
 
 const fieldStyles =
-  "mt-1.5 w-full rounded-2xl border-2 border-beige-dark/50 bg-cream px-4 py-2.5 text-sm text-ink " +
-  "placeholder:text-ink-faint disabled:cursor-not-allowed disabled:opacity-60";
+  "mt-1.5 w-full rounded-lg border border-border-strong bg-surface px-3.5 py-2.5 text-sm text-ink " +
+  "placeholder:text-ink-faint focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent " +
+  "disabled:cursor-not-allowed disabled:opacity-60";
 
 export function UploadForm({ classroomId, units: initialUnits }: { classroomId: string; units: Unit[] }) {
   const router = useRouter();
@@ -49,7 +51,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
       setContent(typeof reader.result === "string" ? reader.result : "");
       setFileName(file.name);
     };
-    reader.onerror = () => setError("Couldn't read that file — try pasting the HTML instead.");
+    reader.onerror = () => setError("Couldn't read that file. Try pasting the HTML instead.");
     reader.readAsText(file);
   }
 
@@ -99,7 +101,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
         });
         const unitBody = await unitRes.json().catch(() => null);
         if (!unitRes.ok) {
-          setError(unitBody?.error ?? "Couldn't create the unit — try again.");
+          setError(unitBody?.error ?? "Couldn't create the unit. Try again.");
           return;
         }
         targetUnitId = unitBody.id;
@@ -121,7 +123,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
       });
       const lessonBody = await lessonRes.json().catch(() => null);
       if (!lessonRes.ok) {
-        setError(lessonBody?.error ?? "Couldn't save the lesson — try again.");
+        setError(lessonBody?.error ?? "Couldn't save the lesson. Try again.");
         return;
       }
 
@@ -141,7 +143,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
     <form onSubmit={handleSubmit} className="space-y-7">
       <Card className="space-y-5 p-6">
         <div>
-          <label className="text-sm font-semibold text-ink">Unit</label>
+          <label className="text-sm font-medium text-ink">Unit</label>
           {creatingUnit ? (
             <div className="mt-1.5 flex flex-wrap items-center gap-2">
               <input
@@ -158,7 +160,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
                     setCreatingUnit(false);
                     setNewUnitTitle("");
                   }}
-                  className="text-sm font-semibold text-ink-muted hover:text-ink hover:underline"
+                  className="text-sm font-medium text-ink-muted hover:text-ink"
                 >
                   Choose existing unit instead
                 </button>
@@ -180,7 +182,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
               <button
                 type="button"
                 onClick={() => setCreatingUnit(true)}
-                className="text-sm font-semibold text-caramel hover:text-caramel-dark hover:underline"
+                className="text-sm font-medium text-accent hover:text-accent-hover"
               >
                 + New unit
               </button>
@@ -190,7 +192,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
 
         <div className="grid grid-cols-1 gap-5 sm:grid-cols-[1fr_auto]">
           <div>
-            <label htmlFor="lesson-title" className="text-sm font-semibold text-ink">
+            <label htmlFor="lesson-title" className="text-sm font-medium text-ink">
               Lesson Title
             </label>
             <input
@@ -202,7 +204,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
             />
           </div>
           <div>
-            <label htmlFor="lesson-order" className="text-sm font-semibold text-ink">
+            <label htmlFor="lesson-order" className="text-sm font-medium text-ink">
               Order <span className="font-normal text-ink-faint">(optional)</span>
             </label>
             <input
@@ -217,7 +219,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
         </div>
 
         <div>
-          <label className="text-sm font-semibold text-ink">Lesson Content</label>
+          <label className="text-sm font-medium text-ink">Lesson Content</label>
           <div
             onDragOver={(e) => {
               e.preventDefault();
@@ -225,17 +227,18 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
             }}
             onDragLeave={() => setDragActive(false)}
             onDrop={handleDrop}
-            className={`mt-1.5 rounded-2xl border-2 border-dashed p-4 transition-colors ${
-              dragActive ? "border-caramel bg-caramel-light/30" : "border-beige-dark/50"
+            className={`mt-1.5 rounded-xl border border-dashed p-4 transition-colors ${
+              dragActive ? "border-accent bg-accent-soft" : "border-border-strong"
             }`}
           >
             <div className="flex flex-wrap items-center justify-between gap-2">
-              <p className="text-xs text-ink-muted">
-                Drag & drop an <code className="rounded bg-beige px-1 py-0.5">.html</code> file, or paste
-                HTML below.
-                {fileName && <span className="ml-1 font-semibold text-ink">Loaded: {fileName}</span>}
+              <p className="flex items-center gap-1.5 text-xs text-ink-muted">
+                <UploadSimple weight="bold" className="size-3.5 shrink-0" />
+                Drag & drop an <code className="rounded bg-surface-hover px-1 py-0.5">.html</code> file, or
+                paste HTML below.
+                {fileName && <span className="font-medium text-ink">Loaded: {fileName}</span>}
               </p>
-              <label className="cursor-pointer rounded-full bg-beige px-3 py-1.5 text-xs font-semibold text-ink hover:bg-beige-hover">
+              <label className="cursor-pointer rounded-md border border-border-strong bg-surface px-3 py-1.5 text-xs font-medium text-ink hover:bg-surface-hover">
                 Browse…
                 <input
                   ref={fileInputRef}
@@ -258,18 +261,18 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
               placeholder="<html>…</html>"
               rows={8}
               spellCheck={false}
-              className="mt-3 w-full rounded-xl border-2 border-beige-dark/40 bg-white/60 px-3 py-2 font-mono text-xs text-ink placeholder:text-ink-faint"
+              className="mt-3 w-full rounded-lg border border-border bg-bg px-3 py-2 font-mono text-xs text-ink placeholder:text-ink-faint focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
             />
           </div>
         </div>
 
         {error && (
-          <p className="rounded-2xl bg-danger-light px-4 py-2.5 text-sm font-semibold text-danger-dark">
+          <p className="rounded-lg bg-danger-soft px-4 py-2.5 text-sm font-medium text-danger-ink">
             {error}
           </p>
         )}
         {success && (
-          <p className="rounded-2xl bg-success-light px-4 py-2.5 text-sm font-semibold text-success-dark">
+          <p className="rounded-lg bg-success-soft px-4 py-2.5 text-sm font-medium text-success-ink">
             {success}
           </p>
         )}
@@ -280,9 +283,7 @@ export function UploadForm({ classroomId, units: initialUnits }: { classroomId: 
       </Card>
 
       <div>
-        <h2 className="font-display text-sm font-bold uppercase tracking-wide text-ink-muted">
-          Live Preview
-        </h2>
+        <h2 className="text-xs font-semibold uppercase tracking-wide text-ink-muted">Live Preview</h2>
         <Card className="mt-2.5 p-3">
           {content.trim() ? (
             <LessonFrame contentHtml={content} title={title || "Lesson preview"} />

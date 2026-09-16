@@ -23,7 +23,7 @@ export default function LessonFrame({ contentHtml, title }: LessonFrameProps) {
         width: "100%",
         minHeight: "70vh",
         border: "none",
-        borderRadius: "1.25rem",
+        borderRadius: "0.625rem",
         background: "white",
         display: "block",
       }}
