@@ -16,13 +16,14 @@ datasource db {
 }
 
 model Classroom {
-  id            String    @id @default(cuid())
+  id            String         @id @default(cuid())
   language      String
   level         String?
   units         Unit[]
   exams         Exam[]
-  createdAt     DateTime  @default(now())
-  streakCount   Int       @default(0)
+  conversations Conversation[]
+  createdAt     DateTime       @default(now())
+  streakCount   Int            @default(0)
   lastStudiedAt DateTime?
 }
 
@@ -44,6 +45,16 @@ model Lesson {
   contentHtml  String   @default("")
   status       String   @default("not_started")
   timeSpentSec Int      @default(0)
+
+  /// AI-generated enrichment (see lib/contentEnrichment.ts) — a plain-language
+  /// synopsis, key vocab, and key grammar points distilled from contentHtml.
+  /// All null until "Enrich with AI" is run; regenerating overwrites them.
+  summary          String?
+  keyVocabulary    String? // JSON array of {term, translation}
+  keyGrammarPoints String? // JSON array of short strings
+  enrichedAt       DateTime?
+
+  conversations Conversation[]
 }
 
 model Exam {
@@ -73,4 +84,29 @@ model ExamAttempt {
   answers String
   score   Int?
   takenAt DateTime @default(now())
+}
+
+/// A single practice-conversation session with the AI partner, scoped to one
+/// classroom so it can be calibrated to that classroom's language/level.
+/// Optionally scoped to one lesson too — "practice this lesson" starts a
+/// conversation grounded in that lesson's specific vocab/grammar rather than
+/// the classroom's material as a whole.
+model Conversation {
+  id          String                 @id @default(cuid())
+  classroomId String
+  classroom   Classroom              @relation(fields: [classroomId], references: [id])
+  lessonId    String?
+  lesson      Lesson?                @relation(fields: [lessonId], references: [id])
+  title       String? // optional scenario label, e.g. "Ordering at a restaurant"; null = free chat
+  messages    ConversationMessage[]
+  createdAt   DateTime               @default(now())
+}
+
+model ConversationMessage {
+  id             String       @id @default(cuid())
+  conversationId String
+  conversation   Conversation @relation(fields: [conversationId], references: [id])
+  role           String // "user" | "assistant"
+  content        String
+  createdAt      DateTime     @default(now())
 }

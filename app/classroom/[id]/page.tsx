@@ -10,6 +10,7 @@ import { Badge, StreakBadge } from "@/components/ui/Badge";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 import { ClassworkTab } from "@/components/classroom/ClassworkTab";
 import { ProgressTab } from "@/components/classroom/ProgressTab";
+import { NewConversationButton } from "@/components/conversation/NewConversationButton";
 
 const TABS = [
   { key: "classwork", label: "Classwork" },
@@ -101,6 +102,32 @@ export default async function ClassroomPage({
         {/* Exams + shortcuts sidebar — shared across both tabs */}
         <div className="space-y-7">
           {tab === "classwork" && (
+            <>
+              <Link
+                href={`/classroom/${id}/upload`}
+                className="block rounded-2xl border-2 border-dashed border-beige-dark/50 px-4 py-3.5 text-center text-sm font-semibold text-ink-muted transition-colors hover:border-caramel hover:text-caramel-dark"
+              >
+                + Upload a lesson
+              </Link>
+              <Link
+                href={`/classroom/${id}/import`}
+                className="block rounded-2xl border-2 border-dashed border-beige-dark/50 px-4 py-3.5 text-center text-sm font-semibold text-ink-muted transition-colors hover:border-caramel hover:text-caramel-dark"
+              >
+                📥 Import from URL
+              </Link>
+
+              <Card className="p-5">
+                <h2 className="font-display text-sm font-bold uppercase tracking-wide text-ink-muted">
+                  Practice conversation
+                </h2>
+                <p className="mt-1.5 text-sm text-ink-muted">
+                  Chat with an AI partner grounded in everything you&apos;ve studied so far.
+                </p>
+                <div className="mt-3">
+                  <NewConversationButton classroomId={id} label="🗣️ Start a conversation" />
+                </div>
+              </Card>
+            </>
             <Link
               href={`/classroom/${id}/upload`}
               className="flex items-center justify-center gap-1.5 rounded-xl border border-dashed border-border-strong px-4 py-3.5 text-sm font-medium text-ink-muted transition-colors hover:border-accent hover:text-accent"
