@@ -2,20 +2,23 @@
 
 LinguaHub is a personal language-learning platform structured like Google Classroom. Each
 language gets its own classroom made up of units, lessons (pre-authored HTML content you
-upload manually), progress tracking, and exams. There's no AI or external API involved
-anywhere in this app — content is entirely self-authored.
+upload manually), progress tracking, and exams. Lesson content is entirely self-authored;
+the one place this app does call out to an external API is optional AI conversation
+practice and lesson enrichment (see below) — bring your own endpoint, or ignore both and
+the rest of the app works exactly as before.
 
 This is a **skeleton** build: project setup, database schema, and routing are in place with
-placeholder data so the structure is navigable and testable. Upload logic, exam logic, and
-real progress tracking are not implemented yet.
+placeholder data so the structure is navigable and testable. Upload logic and exam logic
+are not fully implemented yet.
 
 ## Tech Stack
 
 - [Next.js](https://nextjs.org) (App Router) + React + TypeScript
 - [Tailwind CSS](https://tailwindcss.com) v4
-- [Prisma](https://www.prisma.io) + SQLite
+- [Prisma](https://www.prisma.io) + PostgreSQL
 - No authentication — single-user, no login wall
-- No external APIs
+- Conversation practice and lesson enrichment call [OpenRouter](https://openrouter.ai) (see
+  below) — everything else has no external API involved
 
 ## Getting Started
 
@@ -31,8 +34,11 @@ npm install
 cp .env.example .env
 ```
 
-The default `.env` points Prisma at a local SQLite file (`prisma/dev.db`) — no changes
-needed for local development.
+Fill in `DATABASE_URL`/`DIRECT_URL` with a Postgres connection string. `CONVERSATION_API_KEY`
+(an [OpenRouter](https://openrouter.ai/keys) key) is only required if you want conversation
+practice or lesson enrichment to work — see [Conversation practice](#conversation-practice)
+below; the rest of the app runs fine without it. **Never commit a real key** — `.env` is
+gitignored for exactly this reason; only `.env.example`'s placeholders belong in git.
 
 ### 3. Run database migrations
 
@@ -172,9 +178,23 @@ app/
   classroom/[id]/lesson/[lessonId]/actions.ts  Server action: mark lesson complete
   classroom/[id]/exam/[examId]/page.tsx    Exam page (placeholder)
   classroom/[id]/exam/[examId]/edit/page.tsx  Exam builder (placeholder)
+  classroom/[id]/conversation/[conversationId]/page.tsx  Conversation practice chat
+  classroom/[id]/import/page.tsx           Import a course from a PDF URL
   upload/page.tsx                          Lesson upload form (UI only)
+  api/conversations/route.ts               Start a conversation
+  api/conversations/[id]/messages/route.ts  Send a message, get the AI reply
+  api/lessons/[id]/enrich/route.ts         Run AI enrichment on a lesson
+  api/import/detect-units/route.ts         Fetch+extract+split a PDF, return detected units for review
+  api/import/generate-lessons/route.ts     Restructure+render selected units into real lessons
 components/                                Shared layout pieces (nav, page container, LessonFrame, etc.)
+components/conversation/                   Conversation practice UI (start button, chat)
+components/import/                         PDF-import UI (URL form, unit review/selection)
 lib/prisma.ts                              Prisma client singleton
+lib/openrouter.ts                          Shared OpenRouter (openrouter.ai) chat-completions client
+lib/conversationProvider.ts                Conversation-practice system prompt + reply
+lib/contentEnrichment.ts                   Lesson-enrichment prompt + response parsing
+lib/lessonRenderer.ts                      Structured sections -> lesson HTML (shared with PDF import)
+lib/pdfImport/                             Fetch/extract/split/restructure pipeline for PDF import
 prisma/schema.prisma                       Database schema
 prisma/seed.ts                             Sample data seed script
 prisma/seed-portuguese.ts                  Optional real-content seed script (see below)
@@ -199,12 +219,90 @@ scripts/generate-german-content.ts         Parses content-source/german into con
 
 ## Database Schema
 
-- **Classroom** — one per language, has many units and exams
+- **Classroom** — one per language, has many units, exams, and conversations
 - **Unit** — ordered group of lessons within a classroom
-- **Lesson** — a single piece of content (`contentHtml`), with status and time-spent tracking
+- **Lesson** — a single piece of content (`contentHtml`), with status and time-spent tracking,
+  plus optional AI enrichment (`summary`, `keyVocabulary`, `keyGrammarPoints`, `enrichedAt`)
 - **Exam** — belongs to a classroom, has many questions and attempts
 - **Question** — belongs to an exam
 - **ExamAttempt** — a recorded attempt at an exam
+- **Conversation** — a practice-chat session, belongs to a `Classroom`, optionally scoped to
+  one `Lesson`
+- **ConversationMessage** — one turn (`role: "user" | "assistant"`, `content`) in a conversation
+
+## Conversation practice
+
+"🗣️ Start a conversation" (classroom page) and "🗣️ Practice this lesson" (lesson page) start a
+chat with an AI partner, powered by [OpenRouter](https://openrouter.ai) via the shared client in
+[lib/openrouter.ts](lib/openrouter.ts). Get a key at [openrouter.ai/keys](https://openrouter.ai/keys)
+and set `CONVERSATION_API_KEY` in `.env` — it defaults to a free-tier model
+(`meta-llama/llama-3.3-70b-instruct:free`), overridable via `CONVERSATION_API_MODEL` (e.g. to a
+paid model for better quality) and `CONVERSATION_API_URL` (e.g. to point at a different
+OpenAI-compatible provider entirely).
+
+Data model: `Conversation` (belongs to a `Classroom`, optional `title` for a scenario label, null
+= free chat, optional `lessonId` — see below) has many `ConversationMessage` rows
+(`role: "user" | "assistant"`, `content`). The send-message route
+([app/api/conversations/[id]/messages/route.ts](app/api/conversations/[id]/messages/route.ts))
+saves the learner's message *before* calling the provider, so a failed/slow API response never
+loses their turn — only the assistant's reply is missing until they retry.
+
+**Acting like a teacher, not a generic chatbot**: `buildSystemPrompt` in `conversationProvider.ts`
+grounds the AI partner in what's actually been taught. A lesson page's "🗣️ Practice this lesson"
+button starts a conversation with `lessonId` set, which narrows the persona to reinforcing that
+one lesson's vocab/grammar (see `focusLesson` below). Starting a conversation from the classroom
+level instead (no `lessonId`) grounds it in every lesson the student has completed or started so
+far (`coveredMaterial`) — so it favors material they've actually studied rather than guessing from
+the level label alone.
+
+Not yet implemented: streaming replies (the whole reply is awaited and returned as one chunk —
+fine for a non-streaming custom endpoint, but worth revisiting if yours supports SSE), and voice
+input/output.
+
+## Content enrichment
+
+"✨ Enrich with AI" on a lesson page ([components/LessonEnrichment.tsx](components/LessonEnrichment.tsx))
+calls the same OpenRouter client as conversation practice, but for a different job: distilling a
+lesson's plain-text content (its HTML stripped via `sanitize-html`) into a short `summary`, a
+`keyVocabulary` list, and `keyGrammarPoints` — stored directly on the `Lesson` row
+([app/api/lessons/[id]/enrich/route.ts](app/api/lessons/[id]/enrich/route.ts),
+[lib/contentEnrichment.ts](lib/contentEnrichment.ts)). This is what makes the "teacher" framing
+above actually work: without it, the conversation partner would only know a lesson's *title*, not
+what it covers. Enrichment is manual/on-demand (a button, not automatic on upload) since it's an
+extra API call with its own cost/latency.
+
+## Importing a course from a PDF URL
+
+"📥 Import from URL" on a classroom page (`app/classroom/[id]/import/`) fetches a course PDF from
+a URL, extracts its text ([lib/pdfImport/extractPdfText.ts](lib/pdfImport/extractPdfText.ts) —
+text-layer PDFs only; a scanned-image PDF with no text layer raises a clear error rather than
+silently importing nothing), splits it into per-unit chunks by heading pattern
+([lib/pdfImport/splitUnits.ts](lib/pdfImport/splitUnits.ts) — tries `UNIT N`, `LESSON N`,
+`UNIDAD N`, `CHAPTER N` in turn), and shows the detected units for review **before** anything is
+saved or sent to an API — a bad automated split is meant to be obvious and cheap to fix at this
+step, not discovered after fifteen API calls.
+
+Once you confirm which detected units to import, each one's raw text is restructured by the same
+OpenRouter client as conversation practice/enrichment
+([lib/pdfImport/restructureUnit.ts](lib/pdfImport/restructureUnit.ts) — a third job against
+`lib/openrouter.ts`) into the app's standard lesson sections, then rendered through
+[lib/lessonRenderer.ts](lib/lessonRenderer.ts) — a generalized, parameterized version of the
+rendering half of `scripts/generate-italian-content.ts` (and its French/German/Turkish siblings),
+so imported lessons look identical to hand-authored ones. One unit failing to restructure doesn't
+sink the rest of the batch — each is attempted independently and reported per-unit.
+
+Fetching a user-supplied URL from the server is a classic SSRF vector (e.g. a "PDF URL" of
+`http://169.254.169.254/...` reaching into the server's own network), so
+[lib/pdfImport/fetchPdfBuffer.ts](lib/pdfImport/fetchPdfBuffer.ts) resolves the hostname and
+refuses anything that lands on a loopback/private/link-local address before fetching it, on top of
+the existing http(s)-only and file-size/signature checks.
+
+**This is built for genuinely open-license/public-domain sources** — it was scoped specifically
+around the U.S. government's FSI (Foreign Service Institute) course volumes, which are public
+domain. It is NOT a general-purpose scraper: pointing it at a copyrighted commercial course's
+website would import that site's copyrighted content just as surely as scanning a copyrighted
+textbook would, regardless of the source being a URL instead of a file. Restrict what you point
+this at accordingly.
 
 ## Lesson rendering
 
@@ -224,3 +322,8 @@ working "mark lesson complete" flow. Not yet implemented: the lesson upload flow
 HTML sanitization via `sanitize-html` for user-pasted content — the sandboxed-iframe
 approach above is a separate, complementary mitigation for content that's *meant* to run
 scripts), exam-taking logic, the exam builder, and time-based progress tracking.
+
+Conversation practice and lesson enrichment (above) are wired up end-to-end against OpenRouter —
+just add `CONVERSATION_API_KEY` to `.env` to enable them. Run `npx prisma migrate dev` after
+pulling this change to apply the new `Conversation`/`ConversationMessage` tables and `Lesson`'s
+enrichment columns.
