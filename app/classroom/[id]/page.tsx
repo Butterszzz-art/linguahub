@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Plus } from "@phosphor-icons/react/dist/ssr";
 import { prisma } from "@/lib/prisma";
 import { languageEmoji } from "@/lib/languageEmoji";
 import { PageContainer } from "@/components/PageContainer";
@@ -128,13 +127,6 @@ export default async function ClassroomPage({
                 </div>
               </Card>
             </>
-            <Link
-              href={`/classroom/${id}/upload`}
-              className="flex items-center justify-center gap-1.5 rounded-xl border border-dashed border-border-strong px-4 py-3.5 text-sm font-medium text-ink-muted transition-colors hover:border-accent hover:text-accent"
-            >
-              <Plus weight="bold" className="size-3.5" />
-              Upload a lesson
-            </Link>
           )}
 
           <div>
